@@ -1,6 +1,20 @@
 # Grupo 8 
 - Semestre 2023.1
 
+## Rodando o mkdocs 
+1 - Instale o Python na sua máquina;
+2 - Instale a biblioteca mkdocs com `pip install mkdocs`
+3 - Com o mkdocs instalado, fica disponível os seguintes comandos
+```
+mkdocs serve // Inicia o live-reloading server na máquina
+mkdocs build // Faz o build da documentação
+
+
+## para windows é melhor recorrer aos seguintes comandos
+python -m mkdocs serve
+python -m mkdocs build
+```
+
 ## Regras de Colaboração
 1 - Comunique-se com sua equipe: Antes de começar a contribuir, certifique-se de que está alinhado com a equipe sobre os objetivos, tarefas e ferramentas de colaboração. Isso pode ajudar a evitar conflitos e garantir que todos estejam trabalhando na mesma direção.
 
