@@ -6,3 +6,4 @@ theme:
 
 nav:
   - Início: index.md
+  - Planejamento: ./planejamento/cronograma.md
