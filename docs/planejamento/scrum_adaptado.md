@@ -41,7 +41,7 @@ Trabalhe em uma branch separada com o nome e número da Issue: Se você tiver pe
 Faça commits com mensagens claras: Ao fazer commits no repositório, use mensagens claras e descritivas para descrever as alterações que você fez. Isso ajuda a equipe a entender o que foi alterado e por quê.
 
 #### Exemplo de Commit: 
-Indexando página de cronograma
+Indexando página de cronograma  
 Uptade pasta Planejamento
 
 ### 3.6. Revisão de Código
@@ -55,3 +55,8 @@ Documente seu trabalho: Certifique-se de documentar seu trabalho, especialmente 
 ### 3.8. Normas de Conduta
 
 Seja um bom colaborador: Certifique-se de seguir as normas de colaboração da equipe e ser respeitoso com seus colegas de equipe. A colaboração é fundamental para o sucesso de qualquer projeto em grupo, então faça sua parte para tornar o processo o mais suave possível.
+
+## 4. Histórico de versão
+|    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
+| :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
+| 14.04.2023 | 1.0    | Criação do documento, adição de introdução e adição das metologias utilizadas atualmente | Diógenes Jr  |    -     |

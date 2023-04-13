@@ -6,4 +6,7 @@ theme:
 
 nav:
   - Início: index.md
-  - Planejamento: ./planejamento/cronograma.md
+  - Planejamento: 
+    - Cronograma: ./planejamento/cronograma.md
+    - Ferramentas: ./planejamento/ferramentas.md
+    - Metodologias: ./planejamento/scrum_adaptado.md
