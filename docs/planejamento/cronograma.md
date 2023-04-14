@@ -4,6 +4,10 @@
 Este documento tem como objetivo definir um cronograma para o projeto de acordo com as entregas impostas na disciplina de Requisitos de Software, seguindo datas e artefatos exigidos com seus respectivos responsáveis e revisores.
 
 ## 2. Heatmap
+Um Heatmap é uma ferramenta de visualização de dados que usa cores para mostrar a distribuição de valores em uma matriz.
+O Heatmap foi uma ferramenta valiosa para a equipe economizar tempo e esforço ao agendar reuniões.
+
+![Heatmap](./imagens/features/heatmap.png)
 
 ## 3. Cronograma 
 O cronograma foi separado em pontos de controle afim de organizar de uma maneira mais clara das etapas. 
