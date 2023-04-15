@@ -1,10 +1,17 @@
 site_name: Grupo 8 - Twitch
+repo_url: https://github.com/Requisitos-de-Software/2023.1-Twitch
+repo_name: Requisitos-de-Software/2023.1-Twitch
 
 theme:
   name: material
   language: pt
+  logo: ./planejamento/imagens/twitch_icon.png
+  favicon: ./planejamento/imagens/twitch_icon.png
+  features:
+    - navigation.footer
+    - header.autohide
+  
   favicon: ./assets/twitch_icon.png
-  logo: ./assets/twitch_icon_black.png
   palette:
     - scheme: default
       primary: deep purple
