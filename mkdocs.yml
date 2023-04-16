@@ -33,3 +33,5 @@ nav:
     - Cronograma: ./planejamento/cronograma.md
     - Ferramentas: ./planejamento/ferramentas.md
     - Metodologias: ./planejamento/scrum_adaptado.md
+  - Pré-Rastreabilidade:
+    - Rich Picture: ./pre_rastreabilidade/rich_picture.md
