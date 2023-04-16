@@ -35,3 +35,6 @@ nav:
     - Metodologias: ./planejamento/scrum_adaptado.md
   - Pré-Rastreabilidade:
     - Rich Picture: ./pre_rastreabilidade/rich_picture.md
+
+markdown_extensions:
+  - attr_list

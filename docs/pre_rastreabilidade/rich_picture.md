@@ -14,10 +14,16 @@ A metodologia utilizada para desenvolvimento dos Rich Picture aqui presentes con
 
 ## 3. Rich Picture - Versão 1.0
 
+![Rich_picture](./assets/versions/rich_picture_1.svg)
 
+| Componente  | ícones     |
+| :-----------: | :----------: |
+|**Atores**|![criador_de_conteudo_icon](./assets/icons/criador_de_conteudo.png){width=50}![empresa_icon](./assets/icons/empresa.png){width=50}<br>![moderador_icon](./assets/icons/moderador.png){width=50}![usuario_icon](./assets/icons/usuario.png){width=50}|
+|**Operações**|![operacao_icon](./assets/icons/operacao.png){width=100}|
+|**Armazenamentos de dados**|![conteudo_icon](./assets/icons/conteudo.png){width=50}![canal_icon](./assets/icons/canal.png){width=50}<br>![anuncio_icon](./assets/icons/anuncio.png){width=50}|
+|**Setas**|![seta_icon](./assets/icons/seta.png){width=100}|
+|**Barreira do Sistema**|![barreira_icon](./assets/icons/barreira.png){width=100}|
 
-| Componentes | Comentários |
-| ----------- | ----------- |
 
 <h6 align = "center"> Tabela 1: Legenda do Rich Picture - Versão 1.0
 <br> Autor: Rafael Nobre </h6>
