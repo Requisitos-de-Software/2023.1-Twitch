@@ -24,4 +24,4 @@ A primeira reunião foi de alinhamento com relação ao planejamento do projeto.
 ## 5. Histórico de versão
 |    Data    | Versão | Descrição                                       | Autor(es)  | Revisor  |
 | :--------: | :----: | :---------------------------------------------: | :--------: | :------: |
-| 15.04.2023 | 1.0    | Criação do documento e adição da ata de reunião |   Milena   |    -     |
+| 15.04.2023 | 1.0    | Criação do documento e adição da ata de reunião |   Milena   | Rafael   |
