@@ -30,6 +30,15 @@ O ponto de controle 1 tem como foco o planejamento para a execução do projeto,
 | Gravação e Postagem | **Início**: 17.04.2023  **Término**: 17.04.2023 | - | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | - |
 
 ### 3.2 Ponto de controle 2
+O ponto de controle 2 tem como objetivo Elicitação – Técnicas e Priorização
+
+| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
+| :------: | :-------: | :-----: | :--------: | :------: |
+| Perfil dos usuários | **Início**: 18.04.2023 **Término**: 22.04.2023 | **Início**: 23.04.2023  **Término**: 23.04.2023 | Brunna e Rafael | Matheus e Diógenes |
+| Personas | **Início**: 23.04.2023 **Término**: 27.04.2023 | **Início**: 28.04.2023  **Término**: 28.04.2023 | Ana Beatriz e Diógenes | Rafael e Milena |
+| Técnicas de elecitação usadas e que serão usadas | **Início**: 18.04.2023 **Término**: 27.04.2023 | **Início**: 28.04.2023  **Término**: 28.04.2023 | Matheus | Ana Beatriz |
+| Técnicas priorização usadas e que serão usadas no projeto. | **Início**: 18.04.2023 **Término**: 27.04.2023 | **Início**: 28.04.2023  **Término**: 28.04.2023 | Milena | Brunna |
+| Gravação e Postagem | **Início**: 29.04.2023  **Término**: 29.04.2023 | **Início**: 30.05.2023  **Término**: 30.05.2023 |  Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Rafael |
 
 ### 3.3 Ponto de controle 3
 O ponto de controle 3 tem como objetivo a modelagem de Requisitos.
@@ -43,6 +52,14 @@ O ponto de controle 3 tem como objetivo a modelagem de Requisitos.
 | Gravação e Postagem | **Início**: 15.05.2023  **Término**: 15.05.2023 | **Início**: 16.05.2023  **Término**: 17.05.2023 |  Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Diógenes |
 
 ### 3.4 Ponto de controle 4
+O ponto de controle 4 refere-se à Modelagem de Requisitos - Ágil
+
+| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
+| :------: | :-------: | :-----: | :--------: | :------: |
+| Histórias de Usuário | **Início**: 18.05.2023 **Término**: 20.05.2023 | **Início**: 20.05.2023  **Término**: 20.05.2023 | Ana Beatriz e Brunna | Milena e Rafael |
+| Backlogs | **Início**: 20.05.2023 **Término**: 22.05.2023 | **Início**: 22.05.2023  **Término**: 22.05.2023 | Milena e Rafael | Diógenes e Matheus |
+| NFR Framework | **Início**: 18.05.2023 **Término**: 22.05.2023 | **Início**: 22.05.2023  **Término**: 22.04.2023 | Diógenes e Matheus | Ana Beatriz e Brunna |
+| Gravação e Postagem | **Início**: 23.05.2023  **Término**: 23.05.2023 | **Início**: 24.05.2023  **Término**: 24.05.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Rafael |
 
 ### 3.5 Ponto de controle 5
 O ponto de controle 5 foi divido em duas entregas respectivas, tendo como o foco a análise de requisitos: verficação e validação. 
@@ -62,6 +79,14 @@ O ponto de controle 5 foi divido em duas entregas respectivas, tendo como o foco
 | Gravação e Postagem | **Início**: 12.06.2023  **Término**: 12.06.2023 | **Início**: 13.06.2023  **Término**: 14.06.2023 |  Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Brunna |
 
 ### 3.6 Ponto de controle 6
+Ponto de controle 6 - Gerência de Desenvolvimento de Software orientada à baseline de Requisitos 
+
+| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
+| :------: | :-------: | :-----: | :--------: | :------: |
+| Backward From | **Início**: 15.06.2023 **Término**: 18.06.2023 | **Início**: 18.06.2023  **Término**: 18.06.2023 | Diógenes e Milena | Matheus e Brunna |
+| Forward From | **Início**: 15.06.2023 **Término**: 18.06.2023 | **Início**: 18.06.2023  **Término**: 18.06.2023 | Matheus e Brunna | Diógenes e Matheus |
+| Matriz Geral | **Início**: 15.06.2023 **Término**: 18.06.2023 | **Início**: 18.06.2023  **Término**: 18.06.2023 | Ana Beatriz e Rafael | Diógenes e Milena |
+| Gravação e Postagem | **Início**: 19.06.2023  **Término**: 19.06.2023 | **Início**: 20.06.2023  **Término**: 20.06.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Ana Beatriz |
 
 ### 3.7 Ponto de controle final
 No ponto de controle final deve ser feita uma verificação, correção e refinamento dos artefatos para ser entregue na avaliação final do projeto.
@@ -75,4 +100,5 @@ No ponto de controle final deve ser feita uma verificação, correção e refina
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 11.04.2023 | 1.0    | Criação do documento, adição de introdução e criação do template do cronograma |   Milena   |    -     |
-| 15.04.2023 | 1.1    | Adição do cronograma dos pontos de controle 1,3,5 e final |   Milena   |    -     |
+| 15.04.2023 | 1.1    | Adição do cronograma dos pontos de controle 1, 3, 5 e final |   Milena   |    -     |
+| 15.04.2023 | 1.2    | Adição do cronograma dos pontos de controle 2, 3 e 6 |   Ana Beatriz   |    -     |
