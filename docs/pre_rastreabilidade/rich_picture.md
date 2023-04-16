@@ -36,7 +36,7 @@ A metodologia utilizada para desenvolvimento dos Rich Picture aqui presentes con
 
 **Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 :---: | :---: | :---: | :---: | :---: |
- 15/04/2023 | 1.0 | Rich Picture - Versão 1.0 | Rafael Nobre | -- |
+ 15/04/2023 | 1.0 | Rich Picture - Versão 1.0 | Rafael Nobre | Matheus Phillipo |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Rafael Nobre </h6>
