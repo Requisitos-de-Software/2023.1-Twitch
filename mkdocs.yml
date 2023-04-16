@@ -39,6 +39,7 @@ nav:
     - Reunião 1: ./atas/reuniao_1.md
     - Reunião 2: ./atas/reuniao_2.md
     - Reunião 3: ./atas/reuniao_3.md
+  - Apresentações: ./apresentacoes.md
 
 markdown_extensions:
   - attr_list
