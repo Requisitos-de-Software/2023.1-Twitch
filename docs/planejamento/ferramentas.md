@@ -11,12 +11,12 @@ Ferramenta é todo software que auxilia a equipe no gerenciamento e desenvolvime
 
 | Ícone | Ferramenta | Finalidade |
 | :-----: | :----: | :-----------: |
-|![GitHub Icon](./imagens/github_icon.png){ widt } | Github  | Repositório em que são colocados os artefatos produzidos durante o projeto e controle do versionamento dos artefatos.  |
-|![WhatsApp Icon](./imagens/whatsapp_icon.png){ widt } | WhatsApp | Aplicativo para comunicação rápida e facilitada entre os membros da equipe por meio de mensagens instantâneas. |
-|![Discord Icon](./imagens/discord_icon.png){ widt } |  Discord  | Aplicativo para realizar e gravar reuniões da equipe. |
-|![Git Icon](./imagens/git_icon.png){ widt } |  Git  | Software para controle do versionamento e upload/modificação dos artefatos. |
-|![GitHub Desktop Icon](./imagens/github_desktop_icon.png){ widt } | GitHub Desktop | Software para controle do versionamento e upload/modificação dos artefatos. |
-|![VS Code Icon](./imagens/vscode_icon.png){ widt } | Visual Studio Code  | Software para produção e alteração de arquivos e códigos usados no projeto. |
+|![GitHub Icon](./imagens/github_icon.png){ width=75 } | Github  | Repositório em que são colocados os artefatos produzidos durante o projeto e controle do versionamento dos artefatos.  |
+|![WhatsApp Icon](./imagens/whatsapp_icon.png){ width=75 } | WhatsApp | Aplicativo para comunicação rápida e facilitada entre os membros da equipe por meio de mensagens instantâneas. |
+|![Discord Icon](./imagens/discord_icon.png){ width=75 } |  Discord  | Aplicativo para realizar e gravar reuniões da equipe. |
+|![Git Icon](./imagens/git_icon.png){ width=75 } |  Git  | Software para controle do versionamento e upload/modificação dos artefatos. |
+|![GitHub Desktop Icon](./imagens/github_desktop_icon.png){ width=75 } | GitHub Desktop | Software para controle do versionamento e upload/modificação dos artefatos. |
+|![VS Code Icon](./imagens/vscode_icon.png){ width=75 } | Visual Studio Code  | Software para produção e alteração de arquivos e códigos usados no projeto. |
 |![Google Sheets Icon](./imagens/google_sheets_icon.png){ width=150 }  |  Google Sheets  | Aplicativo utilizado para criar planilhas colaborativas e atualizadas em tempo real. |
 
 
