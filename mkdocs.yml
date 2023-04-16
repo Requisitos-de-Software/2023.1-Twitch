@@ -29,7 +29,11 @@ theme:
 
 nav:
   - Início: index.md
-  - Planejamento: 
+  - Planejamento:   
     - Cronograma: ./planejamento/cronograma.md
     - Ferramentas: ./planejamento/ferramentas.md
     - Metodologias: ./planejamento/scrum_adaptado.md
+  - Atas de reunião: 
+    - Reunião 1: ./atas/reuniao_1.md
+    - Reunião 2: ./atas/reuniao_2.md
+    - Reunião 3: ./atas/reuniao_3.md
