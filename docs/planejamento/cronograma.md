@@ -9,28 +9,70 @@ O Heatmap foi uma ferramenta valiosa para a equipe economizar tempo e esforço a
 
 ![Heatmap](./imagens/features/heatmap.png)
 
+<p style="font-size:13px" align='center'>Tabela 1 - Heatmap da equipe</p>
+<p style="font-size:13px" align='center'>Fonte: Autor(es)</p>
+<br>
+
 ## 3. Cronograma 
 O cronograma foi separado em pontos de controle afim de organizar de uma maneira mais clara das etapas. 
 
 ### 3.1 Ponto de controle 1
-| Artefato | Data | Autor(es)  | Revisor  |
-| :------: | :--: | :--------: | :------: |
-| nome do artefato| **Início**: xx.xx.xxxx **Término**: xx.xx.xxxx | Fulaninho | Ciclaninho |
+O ponto de controle 1 tem como foco o planejamento para a execução do projeto, como as ferramentas que serão usadas, a metodologia adotada, etc. 
 
+| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
+| :------: | :-------: | :-----: | :--------: | :------: |
+| Página Inicial (equipe) e GitHub Pages | **Início**: 07.04.2023  **Término**: 15.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Matheus e Rafael | Ana Beatriz |
+| Aplicativo Selecionado | **Início**: 07.04.2023  **Término**: 15.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Matheus | Diógenes |
+| Ferramentas do Projeto | **Início**: 07.04.2023  **Término**: 15.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Brunna | Milena |
+| Cronograma | **Início**: 07.04.2023  **Término**: 15.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Ana Beatriz e Milena | Brunna |
+| Metodologia | **Início**: 07.04.2023  **Término**: 15.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Diógenes | Rafael |
+| Rich Picture | **Início**: 07.04.2023  **Término**: 15.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Rafael | Matheus |
+| Gravação e Postagem | **Início**: 17.04.2023  **Término**: 17.04.2023 | - | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | - |
 
-### 3.1 Ponto de controle 2
+### 3.2 Ponto de controle 2
 
-### 3.1 Ponto de controle 3
+### 3.3 Ponto de controle 3
+O ponto de controle 3 tem como objetivo a modelagem de Requisitos.
 
-### 3.1 Ponto de controle 4
+| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
+| :------: | :-------: | :-----: | :--------: | :------: |
+| Cenários | **Início**: 02.05.2023  **Término**: 10.05.2023 | **Início**: 11.05.2023  **Término**: 14.05.2023 | Milena | Diógenes |
+| Léxico | **Início**: 02.05.2023  **Término**: 10.05.2023 | **Início**: 11.05.2023  **Término**: 14.05.2023  | Matheus | Ana Beatriz e Brunna |
+| Use Case | **Início**: 02.05.2023  **Término**: 10.05.2023 | **Início**: 11.05.2023  **Término**: 14.05.2023  | Brunna e Diógenes | Milena e Rafael |
+| Especificação Suplementar | **Início**: 02.05.2023  **Término**: 10.05.2023 | **Início**: 11.05.2023  **Término**: 14.05.2023  | Ana Beatriz e Rafael | Matheus |
+| Gravação e Postagem | **Início**: 15.05.2023  **Término**: 15.05.2023 | **Início**: 16.05.2023  **Término**: 17.05.2023 |  Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Diógenes |
 
-### 3.1 Ponto de controle 5
+### 3.4 Ponto de controle 4
 
-### 3.1 Ponto de controle 6
+### 3.5 Ponto de controle 5
+O ponto de controle 5 foi divido em duas entregas respectivas, tendo como o foco a análise de requisitos: verficação e validação. 
 
-### 3.1 Ponto de controle final
+#### 3.5.1 Ponto de controle 5.1
+
+| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
+| :------: | :-------: | :-----: | :--------: | :------: |
+| Verificação e Validação | **Início**: 25.05.2023  **Término**: 02.06.2023  | **Início**: 03.06.2023  **Término**: 04.06.2023  | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Rafael |
+| Gravação e Postagem | **Início**: 05.06.2023  **Término**: 05.06.2023 | **Início**: 06.06.2023  **Término**: 07.06.2023 |  Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Milena |
+
+#### 3.5.2 Ponto de controle 5.2
+
+| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
+| :------: | :-------: | :-----: | :--------: | :------: |
+| Verificação e Validação | **Início**: 08.06.2023 **Término**: 09.06.2023 | **Início**: 10.06.2023  **Término**: 11.06.2023  | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Ana Beatriz |
+| Gravação e Postagem | **Início**: 12.06.2023  **Término**: 12.06.2023 | **Início**: 13.06.2023  **Término**: 14.06.2023 |  Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Brunna |
+
+### 3.6 Ponto de controle 6
+
+### 3.7 Ponto de controle final
+No ponto de controle final deve ser feita uma verificação, correção e refinamento dos artefatos para ser entregue na avaliação final do projeto.
+
+| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
+| :------: | :-------: | :-----: | :--------: | :------: |
+| Verificação, correção e refinamento | **Início**: 22.06.2023 **Término**: 30.06.2023 | **Início**: 01.07.2023  **Término**: 02.07.2023  | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Diógenes |
+| Gravação e Postagem | **Início**: 03.07.2023  **Término**: 03.07.2023 | **Início**: 04.07.2023  **Término**: 05.07.2023 |  Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Matheus |
 
 ## 4. Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 11.04.2023 | 1.0    | Criação do documento, adição de introdução e criação do template do cronograma |   Milena   |    -     |
+| 15.04.2023 | 1.1    | Adição do cronograma dos pontos de controle 1,3,5 e final |   Milena   |    -     |
