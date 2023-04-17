@@ -10,6 +10,9 @@ theme:
   features:
     - navigation.footer
     - header.autohide
+
+  plugins:
+    - mkdocs-video
   
   favicon: ./assets/twitch_icon.png
   palette:
