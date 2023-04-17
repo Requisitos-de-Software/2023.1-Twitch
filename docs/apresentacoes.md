@@ -6,7 +6,7 @@ O projeto contém pontos de controle nos quais serão entregues artefatos espec�
 ## 2. Ponto de Controle 1
 No ponto de controle 1 o objetivo da equipe foi de realizar o planejamento para o projeto ao longo de todo o semestre, incluindo as ferramentas utilizadas, metologia, cronograma com especificações e o rich picture do aplicativo escolhido. 
 
-<iframe width="800" height="450" src="https://youtu.be/uhETEgPmmmE?start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="http://www.youtube.com/embed/uhETEgPmmmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 3. Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
@@ -14,4 +14,5 @@ No ponto de controle 1 o objetivo da equipe foi de realizar o planejamento para 
 | 16.04.2023 | 1.0    | Criação do documento, adição de introdução e criação do template do documento de Apresentações |   Brunna   |    -     |
 | 16.04.2023 | 1.1    | Adição do link "Não listado" da apresentacão no Youtube do Ponto de Controle 1 |   Diógenes   |    Rafael    |
 | 17.04.2023 | 1.2    | Adição de especificação do ponto de controle 1 e iframe| Milena | Diógenes | 
+| 17.04.2023 | 1.3    | Adição do link da apresentação no iframe | Diógenes | Brunna | 
 
