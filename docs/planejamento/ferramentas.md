@@ -56,4 +56,4 @@ A tabela 1, que está na seção 2 desse artefato, tratará das ferramentas util
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 12.04.2023 | 1.0    | Criação do documento, adição de introdução e adição das ferramentas utilizadas atualmente |   Brunna   |    Rafael     |
 | 14.04.2023 | 1.1    | Padronização do tamanho dos ícones das ferramentas utilizadas |   Brunna   |    Rafael     |
-| 20.04.2023 | 1.2    | Correções no documento após feedback da primeira entrega |   Brunna   |    -     |
+| 20.04.2023 | 1.2    | Correções no documento após feedback da primeira entrega |   Brunna   |    Diógenes     |
