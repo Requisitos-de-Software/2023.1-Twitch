@@ -45,5 +45,7 @@ nav:
   - Apresentações: ./apresentacoes.md
 
 markdown_extensions:
+  - toc:
+      permalink: true
   - attr_list
   - md_in_html
