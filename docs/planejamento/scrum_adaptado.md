@@ -56,7 +56,15 @@ Documente seu trabalho: Certifique-se de documentar seu trabalho, especialmente 
 
 Seja um bom colaborador: Certifique-se de seguir as normas de colaboração da equipe e ser respeitoso com seus colegas de equipe. A colaboração é fundamental para o sucesso de qualquer projeto em grupo, então faça sua parte para tornar o processo o mais suave possível.
 
-## 4. Histórico de versão
+## 4. Referências
+
+> SUTHERLAND, Jeff. Scrum. A Arte de Fazer o Dobro do Trabalho na Metade do Tempo
+
+## Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 14.04.2023 | 1.0    | Criação do documento, adição de introdução e adição das metologias utilizadas atualmente | Diógenes Jr  |    -     |
+| 20.04.2023 | 1.1    | Edição do documento, separação das metologias e das políticas de contribuição, adição de referências | Diógenes Jr  | Rafael |
+
+<h6 align = "center"> Tabela 1: Histórico de Versões
+<br> Autor: Diógenes Jr </h6>
