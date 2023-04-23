@@ -1,9 +1,14 @@
 # Grupo 8 - Twitch
 
+<img src="./planejamento/imagens/twitch_icon.png" alt="Twitch Icon" width="64" height="64"/> 
 
 ## 1. Descrição do aplicativo
-<img src="./planejamento/imagens/twitch_icon.png" alt="Twitch Icon" width="64" height="64"/> 
 O Twitch é uma plataforma de streaming de jogos e conteúdo ao vivo, que se tornou uma das maiores e mais populares comunidades online. O sucesso do Twitch é resultado de uma estratégia bem-sucedida de atender às necessidades de sua comunidade de usuários, que cresce constantemente.
+
+Para saber mais acesse o aplicativo [aqui](https://www.twitch.tv).
+
+## 2. Motivações e critérios de escolha
+Visando um sistema que não foi previamente trabalhado na matéria de Requisitos. Decidimos escolher algumas plataformas que fornecessem algum serviço online como streaming de Mídia ou E-Commerce. E devido ao grande crescimento da Twitch durante a pandemia e também pelas possibilidades que ela demonstrou sobre o futuro da criação de conteúdos digitais e transmissão de eventos. O exemplo disso foi durante a Copa do Mundo FIFA 2022, onde um streamer assinou com a Twitch para transmitir 22 jogos da Copa, além dos "Reacts" dos melhores momentos. Esse modelo de entretenimento tem crescido bastante, principalmente com a audiência mais jovem, que não assiste à TV.
 
 Ao escolher o Twitch como objeto de estudo, é possível examinar como uma plataforma online evoluiu para atender às necessidades de uma base de usuários tão grande e diversa. A análise dos requisitos de software do Twitch pode fornecer insights valiosos sobre como a plataforma identifica as necessidades de seus usuários e como ela se adapta a mudanças nas demandas dos usuários.
 
@@ -11,9 +16,7 @@ Além disso, o Twitch é um exemplo de um software complexo que lida com uma gra
 
 Portanto, a escolha do Twitch como objeto de estudo para uma matéria sobre requisitos de software oferece a oportunidade de aprender com um caso real de sucesso sobre como as demandas dos usuários podem ser identificadas e atendidas, e como os requisitos de software podem ser gerenciados em um ambiente de grande escala e alta complexidade.
 
-Para saber mais acesse o aplicativo [aqui](https://www.twitch.tv).
-
-## 2. Membros
+## 3. Membros
 
 | Imagem | Nome | Contato |
 | --- | --- | --- |
@@ -29,3 +32,4 @@ Para saber mais acesse o aplicativo [aqui](https://www.twitch.tv).
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 14.04.2023 | 1.0    | Criação do documento, adição de descrição e membros do grupo |   Matheus   |    -     |
+| 23.04.2023 | 1.1    | Critérios de escolha do app |   Matheus   |    -     |
