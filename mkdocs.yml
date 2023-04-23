@@ -44,6 +44,7 @@ nav:
     - Reunião 3: ./atas/reuniao_3.md
     - Reunião 4: ./atas/reuniao_4.md
   - Apresentações: ./apresentacoes.md
+  - Regras de Colaboração: ./colab.md
 
 markdown_extensions:
   - toc:
