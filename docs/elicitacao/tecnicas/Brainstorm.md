@@ -82,7 +82,7 @@ A Tabela     2 registra o histórico de versão deste documento
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
-| 25/04/2023 | 1.0 | Primeiros Requisitos Funcionais | Rafael Nobre | Matheus Phillipo |
+| 25/04/2023 | 1.0 | Primeiros Requisitos Funcionais | Rafael Nobre | Brunna Louise |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Rafael Nobre
