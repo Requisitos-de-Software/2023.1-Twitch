@@ -38,6 +38,9 @@ nav:
     - Metodologias: ./planejamento/scrum_adaptado.md
   - Pré-Rastreabilidade:
     - Rich Picture: ./pre_rastreabilidade/rich_picture.md
+  - Elicitação:
+    - Técnicas:
+      - Brainstorm: ./elicitacao/tecnicas/Brainstorm.md
   - Atas de reunião: 
     - Reunião 1: ./atas/reuniao_1.md
     - Reunião 2: ./atas/reuniao_2.md
