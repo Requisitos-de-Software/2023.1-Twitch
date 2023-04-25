@@ -88,4 +88,4 @@ Cada um deve criar o documento no gh-pages com a priorização dos requisitos pr
 ## 5. Histórico de versão
 |    Data    | Versão | Descrição                                       | Autor(es)  | Revisor  |
 | :--------: | :----: | :---------------------------------------------: | :--------: | :------: |
-| 25.04.203 | 1.0    | Criação do documento e adição da ata de reunião |   Rafael   | Milena   |
+| 25.04.203 | 1.0    | Criação do documento e adição da ata de reunião |   Rafael   |   Brunna   |
