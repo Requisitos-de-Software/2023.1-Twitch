@@ -39,6 +39,7 @@ nav:
   - Pré-Rastreabilidade:
     - Rich Picture: ./pre_rastreabilidade/rich_picture.md
   - Elicitação:
+    - Perfis de Usuário: ./elicitacao/perfis_usuario.md
     - Técnicas:
       - Brainstorm: ./elicitacao/tecnicas/Brainstorm.md
   - Atas de reunião: 
