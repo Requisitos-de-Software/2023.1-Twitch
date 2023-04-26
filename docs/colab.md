@@ -41,3 +41,6 @@ Seja um bom colaborador: Certifique-se de seguir as normas de colaboração da e
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 23.04.2023 | 1.0    | Criação do documento de Colaboração |   Matheus   | Diógenes  
 | 25.04.2023 | 1.1    | Edição do documento, adição do título Normas de Conduta |   Diógenes   | Matheus
+
+<h6 align = "center"> Tabela 1: Histórico de Versões
+<br> Autor: Diógenes </h6>

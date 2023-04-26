@@ -30,4 +30,4 @@ O Scrum utilizado pelo grupo será de maneira adaptada as necessidades do membro
 | 25.04.2023 | 1.2    | Edição do documento, retira regras de colaboração, pois foram colocadas em um arquivo separado | Diógenes  | Rafael |
 
 <h6 align = "center"> Tabela 1: Histórico de Versões
-<br> Autor: Diógenes Jr </h6>
+<br> Autor: Diógenes </h6>
