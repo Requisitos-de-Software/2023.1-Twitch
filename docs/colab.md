@@ -33,9 +33,14 @@ Exemplo:
 ## Revisão de Código
 Revise o código de outros membros da equipe: Seja um revisor ativo do código de outros membros da equipe. Isso pode ajudar a identificar problemas de lógica ou erros de sintaxe, bem como melhorar a qualidade geral do código e documentação.
 
+## Normas de Conduta
 Seja um bom colaborador: Certifique-se de seguir as normas de colaboração da equipe e ser respeitoso com seus colegas de equipe. A colaboração é fundamental para o sucesso de qualquer projeto em grupo, então faça sua parte para tornar o processo o mais suave possível.
 
 ## Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 23.04.2023 | 1.0    | Criação do documento de Colaboração |   Matheus   | Diógenes  
+| 25.04.2023 | 1.1    | Edição do documento, adição do título Normas de Conduta |   Diógenes   | Matheus
+
+<h6 align = "center"> Tabela 1: Histórico de Versões
+<br> Autor: Diógenes </h6>
