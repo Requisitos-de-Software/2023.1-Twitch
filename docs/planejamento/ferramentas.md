@@ -27,6 +27,7 @@ A tabela 1, que está na seção 2 desse artefato, tratará das ferramentas util
 |![YouTube Icon](./imagens/youtube_icon.png){ width=75 } | YouTube | Site utilizado para hospedar os vídeos das apresentações da equipe. |
 |![Voice Memos Icon](./imagens/apple_voice_recorder_icon.png){ width=75 } | Voice Memos | Aplicativo da Apple para gravar o áudio de reuniões realizadas da equipe presencialmente. |
 |![Draw.io Icon](./imagens/drawio_icon.png){ width=75 } | Draw.io | Software utilizado para a produção do Rich Picture. |
+|![Microsoft Forms Icon](./imagens/microsoft_forms_icon.png){ width=75 } | Microsoft Forms | Software utilizado para a criação e a aplicação de questionários. |
 <h6 align = "center"> Tabela 1: Ferramentas utilizadas </h6>
 <h6 align = "center"> Fonte: Grupo 08 </h6>
 
@@ -46,6 +47,7 @@ A tabela 1, que está na seção 2 desse artefato, tratará das ferramentas util
 [12] Ferramenta YouTube. Para acessá-la, clique [aqui](https://www.youtube.com). <br/>
 [13] Ferramenta Voice Memos, da Apple, disponível para ios. Para acessá-la, clique [aqui](https://apps.apple.com/us/app/voice-memos/id1069512134). <br/>
 [14] Ferramenta Draw.io. Para acessá-la, clique [aqui](https://app.diagrams.net). <br/>
+[15] Ferramenta Microsoft Forms. Para acessá-la, clique [aqui](https://www.microsoft.com/pt-br/microsoft-365/online-surveys-polls-quizzes). <br/>
 
 
 
@@ -57,3 +59,4 @@ A tabela 1, que está na seção 2 desse artefato, tratará das ferramentas util
 | 12.04.2023 | 1.0    | Criação do documento, adição de introdução e adição das ferramentas utilizadas atualmente |   Brunna   |    Rafael     |
 | 14.04.2023 | 1.1    | Padronização do tamanho dos ícones das ferramentas utilizadas |   Brunna   |    Rafael     |
 | 20.04.2023 | 1.2    | Correções no documento após feedback da primeira entrega |   Brunna   |    Diógenes     |
+| 26.04.2023 | 1.3    | Adicionando Microsoft Forms |   Brunna   |    -     |
