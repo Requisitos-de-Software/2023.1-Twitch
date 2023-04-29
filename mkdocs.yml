@@ -41,6 +41,7 @@ nav:
     - Rich Picture: ./pre_rastreabilidade/rich_picture.md
   - Elicitação:
     - Perfis de Usuário: ./elicitacao/perfis_usuario.md
+    - Personas: ./elicitacao/personas.md
     - Técnicas:
       - Brainstorm: ./elicitacao/tecnicas/Brainstorm.md
       - Observação: ./elicitacao/tecnicas/observacao.md
