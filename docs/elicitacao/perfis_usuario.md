@@ -27,11 +27,30 @@ O questionário criado pela equipe pode ser acessado nesse [link](https://forms.
 
 ## 3. Aplicação do Questionário
 
+Para a aplicação do questionário, fizemos disparos de mensagens pelo whatsapp e telegram, buscando manter os grupos e os nichos de pessoas para as quais estávamos enviando o mais diverso possível. Buscamos enviar para diferentes idades, como adolescentes e pessoas mais velhas, a fim de captar dados de diversas naturezas.
+
 ## 4. Resultados da Aplicação do Questionário
+
+<iframe title="BI" width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiZjE0NDU4YTctZGM0OC00NGE4LWIwODUtNWIyY2ZkZWRmMmFmIiwidCI6ImVjMzU5YmExLTYzMGItNGQyYi1iODMzLWM4ZTZkNDhmODA1OSJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+<h6 align = "center"> Dashboard 1: Dashboard do perfil de usuário
+<br> Autor: Rafael Nobre
+<br>Fonte: Autor(es)</h6>
 
 ## 5. Análise dos Resultados 
 
+De acordo com o Dashboard 1, podemos abstrair algumas informações relevantes:
+
+1. O público atingido pelo aplicativo Twitch é majoritariamente masculino, com idade entre 18 e 24 anos
+2. O conteúdo mais acessado é o de jogos, informação que se confirma por observações dos _trending topics_ da plataforma
+3. Grande parte acessa pelo computador/notebook
+4. A média de consumo semanal oscila entre 2 a 5 horas semanais
+5. As sugestões dos usuários são majoritariamente reclamações de propagandas, e alegações de que a interface é muito poluída.
+
+
 ## 6. Conclusão
+
+Dessa maneira, conclui-se que o perfil do usuário mais comum da plataforma, dada a amostragem captada pela presente pesquisa, se identifica com o gênero masculino, possui de 18 a 24 anos, e seu maior interesse dentro da plataforma é por jogos. 
 
 ## 7. Referências
 
@@ -43,7 +62,8 @@ A Tabela 1 registra o histórico de versão desse documento.
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
-| 25/04/2023 | 1.0 | Primeira Versão do artefato de perfis de usuário | Brunna Louise | - |
+| 25/04/2023 | 1.0 | Primeira Versão do artefato de perfis de usuário | Brunna Louise | Rafael Nobre |
+| 28/04/2023 | 2.0 | Inserção do Dashboard e análise dos resultados | Rafael Nobre | Brunna Louise |
 
 <h6 align = "center"> Tabela 1: Histórico de Versões
 <br> Autor: Brunna Louise
