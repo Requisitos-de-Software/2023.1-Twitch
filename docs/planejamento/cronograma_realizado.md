@@ -1,13 +1,16 @@
 # Cronograma Realizado
 
 ## 1. Introdução
+
 Este documento tem como objetivo mostrar o cronograma que foi realizado ao longo do projeto com datas e artefatos confeccionados com seus respectivos responsáveis e revisores.
 
-## 3. Cronograma Realizado
+## 2. Cronograma Realizado
+
 O cronograma foi separado em pontos de controle afim de organizar de uma maneira mais clara das etapas. 
 
-### 3.1 Ponto de controle 1
-O ponto de controle 1 teve como foco o planejamento para a execução do projeto, junto a isso alguns artefatos contruídos. 
+### 2.1 Ponto de controle 1
+
+O ponto de controle 1 teve como foco o planejamento para a execução do projeto, junto a isso alguns artefatos contruídos.
 
 | Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
 | :------: | :-------: | :-----: | :--------: | :------: |
@@ -21,7 +24,7 @@ O ponto de controle 1 teve como foco o planejamento para a execução do projeto
 <h6 align = "center"> Tabela 1: Cronograma realizado do ponto de controle 1 </h6>
 <h6 align = "center"> Fonte: Autor(es) </h6>
 
-### 3.2 Ponto de controle 2
+### 2.2 Ponto de controle 2
 O ponto de controle 2 teve como objetivo Elicitação – Técnicas e Priorização.
 
 | Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
@@ -35,7 +38,7 @@ O ponto de controle 2 teve como objetivo Elicitação – Técnicas e Priorizaç
 <h6 align = "center"> Tabela 2: Cronograma realizado do ponto de controle 2 </h6>
 <h6 align = "center"> Fonte: Autor(es) </h6>
 
-### 3.3 Ponto de controle 3
+### 2.3 Ponto de controle 3
 O ponto de controle 3 teve como objetivo a modelagem de Requisitos.
 
 | Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
@@ -49,7 +52,7 @@ O ponto de controle 3 teve como objetivo a modelagem de Requisitos.
 <h6 align = "center"> Tabela 3: Cronograma realizado do ponto de controle 3 </h6>
 <h6 align = "center"> Fonte: Autor(es) </h6>
 
-### 3.4 Ponto de controle 4
+### 2.4 Ponto de controle 4
 O ponto de controle 4 refere-se à Modelagem de Requisitos - Ágil
 
 | Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
@@ -62,10 +65,11 @@ O ponto de controle 4 refere-se à Modelagem de Requisitos - Ágil
 <h6 align = "center"> Tabela 4: Cronograma realizado do ponto de controle 4 </h6>
 <h6 align = "center"> Fonte: Autor(es) </h6>
 
-### 3.5 Ponto de controle 5
+### 2.5 Ponto de controle 5
+
 O ponto de controle 5 foi divido em duas entregas respectivas, tendo como o foco a análise de requisitos: verficação e validação. 
 
-#### 3.5.1 Ponto de controle 5.1
+#### 2.5.1 Ponto de controle 5.1
 
 | Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
 | :------: | :-------: | :-----: | :--------: | :------: |
@@ -75,7 +79,7 @@ O ponto de controle 5 foi divido em duas entregas respectivas, tendo como o foco
 <h6 align = "center"> Tabela 5: Cronograma realizado do ponto de controle 5.1 </h6>
 <h6 align = "center"> Fonte: Autor(es) </h6>
 
-#### 3.5.2 Ponto de controle 5.2
+#### 2.5.2 Ponto de controle 5.2
 
 | Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
 | :------: | :-------: | :-----: | :--------: | :------: |
@@ -85,7 +89,7 @@ O ponto de controle 5 foi divido em duas entregas respectivas, tendo como o foco
 <h6 align = "center"> Tabela 6: Cronograma realizado do ponto de controle 5.2 </h6>
 <h6 align = "center"> Fonte: Autor(es) </h6>
 
-### 3.6 Ponto de controle 6
+### 2.6 Ponto de controle 6
 Ponto de controle 6 - Gerência de Desenvolvimento de Software orientada à baseline de Requisitos 
 
 | Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
@@ -98,7 +102,7 @@ Ponto de controle 6 - Gerência de Desenvolvimento de Software orientada à base
 <h6 align = "center"> Tabela 7: Cronograma realizado do ponto de controle 6 </h6>
 <h6 align = "center"> Fonte: Autor(es) </h6>
 
-### 3.7 Ponto de controle final
+### 2.7 Ponto de controle final
 No ponto de controle final deve ser feita uma verificação, correção e refinamento dos artefatos para ser entregue na avaliação final do projeto.
 
 | Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
@@ -109,7 +113,8 @@ No ponto de controle final deve ser feita uma verificação, correção e refina
 <h6 align = "center"> Tabela 8: Cronograma realizado do ponto de controle final </h6>
 <h6 align = "center"> Fonte: Autor(es) </h6>
 
-## 4. Histórico de versão
+## 3. Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 29.04.2023 | 1.0    | Criação do documento, adição de introdução, adição do cronograma realizado do ponto de controle 1 e tabelas para os próximos pontos de controle |   Milena   | - |
+| 29.04.2023 | 1.1    | Criação do documento, adição de introdução, adição do cronograma realizado do ponto de controle 1 e tabelas para os próximos pontos de controle |   Milena   | Matheus |
