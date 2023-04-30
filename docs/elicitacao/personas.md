@@ -89,7 +89,7 @@ Depois de analisar os dados coletados por meio de formulários, foi possível id
 |Objetivos:| Deseja viver o suficiente para ir ao casamento dos netos |
 |Tarefas:| Limpar e organizar a casa, fazer as compras e cozinhar|
 |Relacionamentos:| Família, amigas da igreja e vizinhos |
-|Expectativas:| Maria não tem nenhuma expectativa em relação a Twitch pois sequer sabe que ela existe|
+|Expectativas:| Maria não tem nenhuma expectativa em relação a Twitch pois sequer sabe que ela existe                  |
 
 <h6 align = "center"> Tabela 4: Persona: Maria das Graças
 <br> Autor: Ana Beatriz
