@@ -1,0 +1,115 @@
+# Cronograma Realizado
+
+## 1. Introdução
+Este documento tem como objetivo mostrar o cronograma que foi realizado ao longo do projeto com datas e artefatos confeccionados com seus respectivos responsáveis e revisores.
+
+## 3. Cronograma Realizado
+O cronograma foi separado em pontos de controle afim de organizar de uma maneira mais clara das etapas. 
+
+### 3.1 Ponto de controle 1
+O ponto de controle 1 teve como foco o planejamento para a execução do projeto, junto a isso alguns artefatos contruídos. 
+
+| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
+| :------: | :-------: | :-----: | :--------: | :------: |
+| Página Inicial (equipe) e GitHub Pages | **Início**: 07.04.2023  **Término**: 14.04.2023 | **Início**: -  **Término**: - | Matheus | - |
+| Ferramentas do Projeto | **Início**: 07.04.2023  **Término**: 14.04.2023 | **Início**: 16.04.2023  **Término**: 20.04.2023 | Brunna | Rafael |
+| Cronograma | **Início**: 07.04.2023  **Término**: 15.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Ana Beatriz e Milena | Brunna |
+| Metodologia | **Início**: 07.04.2023  **Término**: 14.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Diógenes | - |
+| Rich Picture | **Início**: 07.04.2023  **Término**: 15.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Rafael | Matheus |
+| Gravação e Postagem | **Início**: 16.04.2023  **Término**: 16.04.2023 | **Início**: 17.04.2023 **Término**: 17.04.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Milena |
+
+<h6 align = "center"> Tabela 1: Cronograma realizado do ponto de controle 1 </h6>
+<h6 align = "center"> Fonte: Autor(es) </h6>
+
+### 3.2 Ponto de controle 2
+O ponto de controle 2 teve como objetivo Elicitação – Técnicas e Priorização.
+
+| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
+| :------: | :-------: | :-----: | :--------: | :------: |
+| Perfil dos usuários | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Personas | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Técnicas de elecitação usadas e que serão usadas | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Técnicas priorização usadas e que serão usadas no projeto. | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Gravação e Postagem | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+
+<h6 align = "center"> Tabela 2: Cronograma realizado do ponto de controle 2 </h6>
+<h6 align = "center"> Fonte: Autor(es) </h6>
+
+### 3.3 Ponto de controle 3
+O ponto de controle 3 teve como objetivo a modelagem de Requisitos.
+
+| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
+| :------: | :-------: | :-----: | :--------: | :------: |
+| Cenários | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Léxico | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Use Case | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Especificação Suplementar | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Gravação e Postagem | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+
+<h6 align = "center"> Tabela 3: Cronograma realizado do ponto de controle 3 </h6>
+<h6 align = "center"> Fonte: Autor(es) </h6>
+
+### 3.4 Ponto de controle 4
+O ponto de controle 4 refere-se à Modelagem de Requisitos - Ágil
+
+| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
+| :------: | :-------: | :-----: | :--------: | :------: |
+| Histórias de Usuário | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Backlogs | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| NFR Framework | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Gravação e Postagem | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+
+<h6 align = "center"> Tabela 4: Cronograma realizado do ponto de controle 4 </h6>
+<h6 align = "center"> Fonte: Autor(es) </h6>
+
+### 3.5 Ponto de controle 5
+O ponto de controle 5 foi divido em duas entregas respectivas, tendo como o foco a análise de requisitos: verficação e validação. 
+
+#### 3.5.1 Ponto de controle 5.1
+
+| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
+| :------: | :-------: | :-----: | :--------: | :------: |
+| Verificação e Validação | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Gravação e Postagem | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+
+<h6 align = "center"> Tabela 5: Cronograma realizado do ponto de controle 5.1 </h6>
+<h6 align = "center"> Fonte: Autor(es) </h6>
+
+#### 3.5.2 Ponto de controle 5.2
+
+| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
+| :------: | :-------: | :-----: | :--------: | :------: |
+| Verificação e Validação | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Gravação e Postagem | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+
+<h6 align = "center"> Tabela 6: Cronograma realizado do ponto de controle 5.2 </h6>
+<h6 align = "center"> Fonte: Autor(es) </h6>
+
+### 3.6 Ponto de controle 6
+Ponto de controle 6 - Gerência de Desenvolvimento de Software orientada à baseline de Requisitos 
+
+| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
+| :------: | :-------: | :-----: | :--------: | :------: |
+| Backward From | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Forward From | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Matriz Geral | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Gravação e Postagem | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+
+<h6 align = "center"> Tabela 7: Cronograma realizado do ponto de controle 6 </h6>
+<h6 align = "center"> Fonte: Autor(es) </h6>
+
+### 3.7 Ponto de controle final
+No ponto de controle final deve ser feita uma verificação, correção e refinamento dos artefatos para ser entregue na avaliação final do projeto.
+
+| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
+| :------: | :-------: | :-----: | :--------: | :------: |
+| Verificação, correção e refinamento | **Início**: - **Término**: - | **Início**: -  **Término**: -  | - | - |
+| Gravação e Postagem | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+
+<h6 align = "center"> Tabela 8: Cronograma realizado do ponto de controle final </h6>
+<h6 align = "center"> Fonte: Autor(es) </h6>
+
+## 4. Histórico de versão
+|    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
+| :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
+| 29.04.2023 | 1.0    | Criação do documento, adição de introdução, adição do cronograma realizado do ponto de controle 1 e tabelas para os próximos pontos de controle |   Milena   | - |
