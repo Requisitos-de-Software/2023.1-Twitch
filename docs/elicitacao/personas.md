@@ -12,9 +12,9 @@ Depois de analisar os dados coletados por meio de formulários, foi possível id
 | :------: | 
 |:--:|:--:|
 |Foto:|
-|Nome:||
-|Idade:||
-|Status:||
+|Nome:|Roberto Son|
+|Idade:|24 anos|
+|Status:|Persona Primária|
 |Dados Demográficos:| |
 |Profissão:||
 |Escolaridade:||
