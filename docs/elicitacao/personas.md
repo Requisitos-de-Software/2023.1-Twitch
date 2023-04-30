@@ -54,6 +54,49 @@ Depois de analisar os dados coletados por meio de formulários, foi possível id
 
 ---
 
+| Persona | |
+|:--:|:--:|
+|Foto:| ![](./imagens/1270583580_21.png) <p>Figura 3: Persona</p><small>Fonte: <a href='https://thispersondoesnotexist.com/'>Thispersondoesnotexist</a> </small>|
+|Nome:| Larissa da Silva|
+|Idade:| 21 anos |
+|Status:| Persona Primaria |
+|Dados Demográficos:| Solteira, Sexo Feminino, Mora com os pais e 1 irmão em um apartamento|
+|Profissão:| Estudante de Ciência da Computação|
+|Escolaridade:| Cursando o ensino superior|
+|Habilidades:| Alta habilidade em matemática, informática avançada, front-end|
+|Objetivos:| Conseguir um estágio de desenvolvedor web |
+|Tarefas:| Estudar para as materias da faculdade|
+|Relacionamentos:| Amigos da época de escola, amigos da faculdade, família|
+|Requisitos:| Larissa acredita ser necessário que a Twitch coloque uma opção pra não ver recomendações ou canais que outros usuários assistem|
+|Expectativas:| Encontrar lives de estudo e assistir gameplays com poucas interrupções de anúncios|
+
+<h6 align = "center"> Tabela 3: Persona: Larissa da Silva
+<br> Autor: Ana Beatriz
+<br>Fonte: Autor(es)</h6>
+
+---
+
+| Persona | |
+|:--:|:--:|
+|Foto:| ![](./imagens/3420537452_50.png)<p>Figura 4: Antipersona</p><small>Fonte: <a href='https://thispersondoesnotexist.com/'>Thispersondoesnotexist</a> </small>||
+|Nome:| Maria das Graças |
+|Idade:| 55 anos |
+|Status:| Antipersona |
+|Dados Demográficos:| Casada, Sexo Feminino, Mora com o marido em uma casa|
+|Profissão:| Dona de casa |
+|Escolaridade:| Ensino médio completo |
+|Habilidades:| Alta habilidade culinaria, técnicas de limpeza|
+|Objetivos:| Deseja viver o suficiente para ir ao casamento dos netos |
+|Tarefas:| Limpar e organizar a casa, fazer as compras e cozinhar|
+|Relacionamentos:| Família, amigas da igreja e vizinhos |
+|Expectativas:| Maria não tem nenhuma expectativa em relação a Twitch pois sequer sabe que ela existe|
+
+<h6 align = "center"> Tabela 4: Persona: Maria das Graças
+<br> Autor: Ana Beatriz
+<br>Fonte: Autor(es)</h6>
+
+---
+
 ## 4. Conclusão
 
 ## 5. Referências
@@ -68,6 +111,7 @@ A Tabela 1 registra o histórico de versão deste documento
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
 | 29/04/2023 | 1.0 | Criação do documento, adição de introdução, metologias e tabela de personas | Diógenes | Ana Beatriz |
+| 29/04/2023 | 1.1 | Adiconando tabela de persona e antipersona | Ana Beatriz | Diógenes |
 
 
 <h6 align = "center"> Tabela 5: Histórico de Versões
