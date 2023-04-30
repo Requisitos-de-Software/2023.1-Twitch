@@ -43,6 +43,7 @@ nav:
     - Perfis de Usuário: ./elicitacao/perfis_usuario.md
     - Técnicas:
       - Brainstorm: ./elicitacao/tecnicas/Brainstorm.md
+      - Observação: ./elicitacao/tecnicas/observacao.md
   - Atas de reunião: 
     - Reunião 1: ./atas/reuniao_1.md
     - Reunião 2: ./atas/reuniao_2.md
