@@ -54,7 +54,7 @@ Dessa maneira, conclui-se que o perfil do usuário mais comum da plataforma, dad
 
 ## 7. Referências
 
-Slides da E-Disciplina da USP de Interação Humano-Computador. Acesse os slides nesse [link](https://edisciplinas.usp.br/pluginfile.php/4531121/mod_resource/content/1/IHC%20Usuario_Personas_Pesquisas.pdf). Acesso em 25 de abril de 2023.
+> Slides da E-Disciplina da USP de Interação Humano-Computador. Acesse os slides nesse [link](https://edisciplinas.usp.br/pluginfile.php/4531121/mod_resource/content/1/IHC%20Usuario_Personas_Pesquisas.pdf). Acesso em 25 de abril de 2023.
 
 ## Histórico de Versões
 
@@ -64,6 +64,7 @@ A Tabela 1 registra o histórico de versão desse documento.
 |:---: | :---: | :---: | :---: | :---: |
 | 25/04/2023 | 1.0 | Primeira Versão do artefato de perfis de usuário | Brunna Louise | Rafael Nobre |
 | 28/04/2023 | 2.0 | Inserção do Dashboard e análise dos resultados | Rafael Nobre | Brunna Louise |
+| 01/05/2023 | 2.1 | Padronização das referências | Brunna Louise | Rafael Nobre |
 
 <h6 align = "center"> Tabela 1: Histórico de Versões
 <br> Autor: Brunna Louise
