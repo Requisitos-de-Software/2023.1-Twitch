@@ -103,93 +103,103 @@ valor % / custo % * Peso custo + riscos % * Peso Risco
 
 Para priorização dos requisitos foi montado uma tabela com os requisitos elicitados anteriormente no projeto e sua devida priorização.
 
-|Peso Relativo|2|1| | | | | | | |
-|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+Link da Tabela Abaixo no Google Sheets: [link](https://docs.google.com/spreadsheets/d/1bW9HxL3BySiPyHXx8yDZQT6_XalB9dEB-SWXOdULGdQ/edit?usp=sharing).
+
+|Peso Relativo|2|1| | |1| |0,5| | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| | | | | | | | | | |
 |**Requisitos**|**Benefício Relativo**|**Penalidade Relativa**|**Valor Total**|**Valor (%)**|**Custo Relativo**|**Custo (%)**|**Risco Relativo**|**Risco (%)**|**Prioridade**|
 |Requisitos Funcionais (BrainStorm)| | | | | | | | | |
-|RFB01 - O usuário deve ser capaz de assistir a uma live|9|9|27| |9| |9| | |
-|RFB02 - O usuário deve ser capaz de assistir a um VOD (Video on Demand)|9|9|27| |9| |9| | |
-|RFB03 - O usuário deve ser capaz de interagir em uma live|9|7|25| |8| |8| | |
-|RFB04 - O usuário deve ser capaz comentar na live|9|8|26| |8| |8| | |
-|RFB05 - O usuário deve ser capaz de clipar um trecho de uma live|9|6|24| |8| |7| | |
-|RFB06 - O usuário deve ser capaz de seguir um streamer|8|8|24| |7| |7| | |
-|RFB07 - O usuário deve ser capaz de compartilhar o link de uma live|8|8|24| |7| |8| | |
-|RFB08 - O usuário deve ser capaz de se inscrever em um canal utilizando o Amazon Prime|7|6|20| |8| |8| | |
-|RFB09 - O usuário deve ser capaz de se inscrever em um canal pagando diretamente|7|7|21| |8| |8| | |
-|RFB10 - O usuário deve ser capaz de presentar uma inscrição para outro usuário|7|6|20| |8| |8| | |
-|RFB11 - O usuário deve ser capaz de reagir durante a transmissão|7|9|23| |7| |8| | |
-|RFB12 - O usuário deve ser capaz de comprar bits|7|7|21| |6| |7| | |
-|RFB13 - O usuário deve ser capaz de utilizar os bits para mandar mensagens ao streamer|6|7|19| |7| |7| | |
-|RFB14 - O usuário deve ser capaz denunciar uma transmissão ao vivo|9|9|27| |8| |8| | |
-|RFB15 - O usuário deve ser capaz de denunciar mensagens de outro usuário|9|9|27| |7| |8| | |
-|RFB16 - O usuário deve ser capaz de buscar canais/lives|9|9|27| |8| |7| | |
-|RFB17 - O usuário deve ser capaz de consultar seu saldo de bits (Twitch Wallet)|7|8|22| |7| |6| | |
-|RFB18 - O usuário deve ser capaz de consultar seu histórico de pagamentos|8|8|24| |7| |6| | |
-|RFB19 - O usuário deve ser capaz de consultar seu histórico de bits|7|8|22| |7| |7| | |
-|RFB20 - O usuário deve ser capaz de adicionar/editar/excluir métodos de pagamentos|9|9|27| |9| |9| | |
-|RFB21 - O usuário deve ser capaz de receber Drops e Recompensas, apoiando criadores da Twitch|7|7|21| |6| |8| | |
-|RFB22 - O usuário deve ser capaz de resgatar Loots do Prime Gaming|6|6|18| |7| |7| | |
-|RFB23 - O usuário deve ser capaz de consultar seus Drops e Recompensas|7|8|22| |7| |7| | |
-|RFB24 - O usuário deve ser capaz de consultar suas inscrições|9|8|26| |8| |8| | |
-|RFB25 - O usuário deve ser capaz de configurar o seu perfil|9|9|27| |8| |8| | |
-|RFB26 - O usuário deve ser capaz de configurar sua Imagem do perfil|9|8|26| |6| |8| | |
-|RFB27 - O usuário deve ser capaz de configurar seu Banner do perfil|8|7|23| |7| |9| | |
-|RFB28 - O usuário deve ser capaz de configurar seu Nome de usuário|9|9|27| |6| |7| | |
-|RFB29 - O usuário deve ser capaz de configurar seu Nome de Exibição|9|9|27| |6| |7| | |
-|RFB30 - O usuário deve ser capaz de configurar sua Biografia|9|8|26| |7| |9| | |
-|RFB31 - O usuário deve ser capaz de desabilitar sua conta da Twitch|9|9|27| |7| |9| | |
-|RFB32 - O usuário deve ser capaz de alterar a cor do chat|7|6|20| |6| |6| | |
-|RFB33 - O usuário deve ser capaz de escolher o conjunto de emojis que ele utilizará|7|6|20| |6| |6| | |
-|RFB34 - O usuário deve ser capaz de gerenciar as notificações de sua conta|8|8|24| |7| |6| | |
-|RFB35 - O usuário deve ser capaz de vincular sua  conta da Twitch a outras plataformas(Twitter, Amazon, Steam, Discord, Youtube)|8|8|24| |9| |9| | |
-|RFB36 - O usuário deve ser capaz de realizar ajustes nos conteúdos sugeridos|9|8|26| |8| |8| | |
-|RFB37 - O usuário deve ser capaz de alterar o idioma da plataforma|8|9|25| |8| |8| | |
-|RFB38 - O usuário deve ser capaz de alterar o tema (claro/escuro) da plataforma|7|7|21| |7| |6| | |
-|RFB39 - O usuário deve ser capaz de realizar o login na plataforma|9|9|27| |8| |7| | |
-|RFB40 - O usuário deve ser capaz de realizar o logoff da plataforma|9|9|27| |8| |7| | |
-|RFB41 - O usuário deve ser capaz de desabilitar a sua conta da Twitch|9|9|27| |7| |8| | |
-|RFB42 - O usuário deve ser capaz de trocar sussurros com outros usuários|6|7|19| |7| |6| | |
-|RFB43 - O usuário deve ser capaz de personalizar o seu canal|9|9|27| |7| |7| | |
-|RFB44 - O usuário deve ser capaz de iniciar sua transmissão|9|9|27| |9| |9| | |
+|RFB01 - O usuário deve ser capaz de assistir a uma live|9|9|27|1,74|9|1,84|9|1,82|0,66|
+|RFB02 - O usuário deve ser capaz de assistir a um VOD (Video on Demand)|9|9|27|1,74|9|1,84|9|1,82|0,66|
+|RFB03 - O usuário deve ser capaz de interagir em uma live|9|7|25|1,61|8|1,64|8|1,62|0,66|
+|RFB04 - O usuário deve ser capaz comentar na live|9|8|26|1,68|8|1,64|8|1,62|0,66|
+|RFB05 - O usuário deve ser capaz de clipar um trecho de uma live|9|6|24|1,55|8|1,64|7|1,42|0,60|
+|RFB06 - O usuário deve ser capaz de seguir um streamer|8|8|24|1,55|7|1,43|7|1,42|0,66|
+|RFB07 - O usuário deve ser capaz de compartilhar o link de uma live|8|8|24|1,55|7|1,43|8|1,62|0,72|
+|RFB08 - O usuário deve ser capaz de se inscrever em um canal utilizando o Amazon Prime|7|6|20|1,29|8|1,64|8|1,62|0,66|
+|RFB09 - O usuário deve ser capaz de se inscrever em um canal pagando diretamente|7|7|21|1,36|8|1,64|8|1,62|0,66|
+|RFB10 - O usuário deve ser capaz de presentar uma inscrição para outro usuário|7|6|20|1,29|8|1,64|8|1,62|0,66|
+|RFB11 - O usuário deve ser capaz de reagir durante a transmissão|7|9|23|1,48|7|1,43|8|1,62|0,72|
+|RFB12 - O usuário deve ser capaz de comprar bits|7|7|21|1,36|6|1,23|7|1,42|0,73|
+|RFB13 - O usuário deve ser capaz de utilizar os bits para mandar mensagens ao streamer|6|7|19|1,23|7|1,43|7|1,42|0,66|
+|RFB14 - O usuário deve ser capaz denunciar uma transmissão ao vivo|9|9|27|1,74|8|1,64|8|1,62|0,66|
+|RFB15 - O usuário deve ser capaz de denunciar mensagens de outro usuário|9|9|27|1,74|7|1,43|8|1,62|0,72|
+|RFB16 - O usuário deve ser capaz de buscar canais/lives|9|9|27|1,74|8|1,64|7|1,42|0,60|
+|RFB17 - O usuário deve ser capaz de consultar seu saldo de bits (Twitch Wallet)|7|8|22|1,42|7|1,43|6|1,21|0,59|
+|RFB18 - O usuário deve ser capaz de consultar seu histórico de pagamentos|8|8|24|1,55|7|1,43|6|1,21|0,59|
+|RFB19 - O usuário deve ser capaz de consultar seu histórico de bits|7|8|22|1,42|7|1,43|7|1,42|0,66|
+|RFB20 - O usuário deve ser capaz de adicionar/editar/excluir métodos de pagamentos|9|9|27|1,74|9|1,84|9|1,82|0,66|
+|RFB21 - O usuário deve ser capaz de receber Drops e Recompensas, apoiando criadores da Twitch|7|7|21|1,36|6|1,23|8|1,62|0,79|
+|RFB22 - O usuário deve ser capaz de resgatar Loots do Prime Gaming|6|6|18|1,16|7|1,43|7|1,42|0,66|
+|RFB23 - O usuário deve ser capaz de consultar seus Drops e Recompensas|7|8|22|1,42|7|1,43|7|1,42|0,66|
+|RFB24 - O usuário deve ser capaz de consultar suas inscrições|9|8|26|1,68|8|1,64|8|1,62|0,66|
+|RFB25 - O usuário deve ser capaz de configurar o seu perfil|9|9|27|1,74|8|1,64|8|1,62|0,66|
+|RFB26 - O usuário deve ser capaz de configurar sua Imagem do perfil|9|8|26|1,68|6|1,23|8|1,62|0,79|
+|RFB27 - O usuário deve ser capaz de configurar seu Banner do perfil|8|7|23|1,48|7|1,43|9|1,82|0,78|
+|RFB28 - O usuário deve ser capaz de configurar seu Nome de usuário|9|9|27|1,74|6|1,23|7|1,42|0,73|
+|RFB29 - O usuário deve ser capaz de configurar seu Nome de Exibição|9|9|27|1,74|6|1,23|7|1,42|0,73|
+|RFB30 - O usuário deve ser capaz de configurar sua Biografia|9|8|26|1,68|7|1,43|9|1,82|0,78|
+|RFB31 - O usuário deve ser capaz de desabilitar sua conta da Twitch|9|9|27|1,74|7|1,43|9|1,82|0,78|
+|RFB32 - O usuário deve ser capaz de alterar a cor do chat|7|6|20|1,29|6|1,23|6|1,21|0,66|
+|RFB33 - O usuário deve ser capaz de escolher o conjunto de emojis que ele utilizará|7|6|20|1,29|6|1,23|6|1,21|0,66|
+|RFB34 - O usuário deve ser capaz de gerenciar as notificações de sua conta|8|8|24|1,55|7|1,43|6|1,21|0,59|
+|RFB35 - O usuário deve ser capaz de vincular sua  conta da Twitch a outras plataformas(Twitter, Amazon, Steam, Discord, Youtube)|8|8|24|1,55|9|1,84|9|1,82|0,66|
+|RFB36 - O usuário deve ser capaz de realizar ajustes nos conteúdos sugeridos|9|8|26|1,68|8|1,64|8|1,62|0,66|
+|RFB37 - O usuário deve ser capaz de alterar o idioma da plataforma|8|9|25|1,61|8|1,64|8|1,62|0,66|
+|RFB38 - O usuário deve ser capaz de alterar o tema (claro/escuro) da plataforma|7|7|21|1,36|7|1,43|6|1,21|0,59|
+|RFB39 - O usuário deve ser capaz de realizar o login na plataforma|9|9|27|1,74|8|1,64|7|1,42|0,60|
+|RFB40 - O usuário deve ser capaz de realizar o logoff da plataforma|9|9|27|1,74|8|1,64|7|1,42|0,60|
+|RFB41 - O usuário deve ser capaz de desabilitar a sua conta da Twitch|9|9|27|1,74|7|1,43|8|1,62|0,72|
+|RFB42 - O usuário deve ser capaz de trocar sussurros com outros usuários|6|7|19|1,23|7|1,43|6|1,21|0,59|
+|RFB43 - O usuário deve ser capaz de personalizar o seu canal|9|9|27|1,74|7|1,43|7|1,42|0,66|
+|RFB44 - O usuário deve ser capaz de iniciar sua transmissão|9|9|27|1,74|9|1,84|9|1,82|0,66|
 | | | | | | | | | | |
 |Requisitos Não-Funcionais (BrainStorm)| | | | | | | | | |
-|RNFB01 - Internacionalização: o sistema é capaz de apresentar diferentes idiomas|9|9|27| |8| |8| | |
-|RNFB02 - Segurança: o sistema deve garantir proteção contra acesso não autorizado|9|9|27| |9| |9| | |
-|RNFB03 - Portabilidade: o sistema deve ser disponível em diferentes plataformas(PCs, Smartphones, SmarTVs)|9|8|26| |8| |9| | |
-|RNFB04 - Conformidade: o sistema deve cumprir todas as leis e regulamentos aplicáveis:cumpre as leis do país em operaçao|9|9|27| |7| |7| | |
-|RNFB05 - Escabilidade: sistema é capaz de ter um bom desempenho sob uma carga de trabalhoaumentada ou crescente: Suporta um alto número de usuários ativos ao mesmo tempo|9|9|27| |9| |9| | |
-|RNFB06 - Disponibilidade:o sistema deve estar disponível quando necessário, com um bomfuncionamento durante 24 horas|9|9|27| |9| |9| | |
+|RNFB01 - Internacionalização: o sistema é capaz de apresentar diferentes idiomas|9|9|27|1,74|8|1,64|8|1,62|0,66|
+|RNFB02 - Segurança: o sistema deve garantir proteção contra acesso não autorizado|9|9|27|1,74|9|1,84|9|1,82|0,66|
+|RNFB03 - Portabilidade: o sistema deve ser disponível em diferentes plataformas(PCs, Smartphones, SmarTVs)|9|8|26|1,68|8|1,64|9|1,82|0,71|
+|RNFB04 - Conformidade: o sistema deve cumprir todas as leis e regulamentos aplicáveis:cumpre as leis do país em operaçao|9|9|27|1,74|7|1,43|7|1,42|0,66|
+|RNFB05 - Escabilidade: sistema é capaz de ter um bom desempenho sob uma carga de trabalhoaumentada ou crescente: Suporta um alto número de usuários ativos ao mesmo tempo|9|9|27|1,74|9|1,84|9|1,82|0,66|
+|RNFB06 - Disponibilidade:o sistema deve estar disponível quando necessário, com um bomfuncionamento durante 24 horas|9|9|27|1,74|9|1,84|9|1,82|0,66|
 | | | | | | | | | | |
 |Requisitos Funcionais (Observação)| | | | | | | | | |
-|RFO01 - O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo|9|9|27| |9| |9| | |
-|RFO02 - O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo através de um provedor deemail como Gmail, Outlook|9|8|26| |8| |8| | |
-|RFO03- Ao sair de uma live e voltar para a página de início, o vídeo da live em formato de Thumbnaildeve estar pausada ou não existir|8|7|23| |8| |8| | |
-|RFO04 - Ao sair de uma live e voltar para a página de início, o vídeo da live em formato de Thumbnail deve estarpausada ou não existir|7| |14| |7| |7| | |
-|RFO05 - Para um novo usuário, o sistema de recomendação de Categorias deve mostrar os tipos de conteúdosque estão em alta na plataforma|7|7|21| |8| |7| | |
-|RFO06 - Ao acessar "Ajuste de Conteúdo", o usuário deve ter a opção de selecionar se deseja receber sugestõesde conteúdos categorizados para adultos|8|8|24| |9| |8| | |
-|RFO07 - A plataforma deve colocar um efeito Blur nos Thumbnails para cada conteúdo categorizado como adulto ou 18+|9|9|27| |8| |8| | |
-|RFO08 - A plataforma deve colocar uma etapa de confirmação, perguntado se o usuário deseja visualizar o conteúdocategorizado como adulto ou 18+|9|9|27| |8| |8| | |
+|OBS02 - O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo|9|9|27|1,74|9|1,84|9|1,82|0,66|
+|OBS03 - O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo através de um provedor de
+email como Gmail, Outlook|9|8|26|1,68|8|1,64|8|1,62|0,66|
+|OBS05 - Ao sair de uma live e voltar para a página de início, o vídeo da live em formato de Thumbnaildeve estar pausada ou não existir|8|7|23|1,48|8|1,64|8|1,62|0,66|
+|OBS08 - Ao acessar "Ajuste de Conteúdo", após o usuário selecionar as categorias que lhe interessa. O sistema deve sugeriros tipos de conteúdos voltados a sua escolha na maioria da interface
+pausada ou não existir|7| |14|0,90|7|1,43|7|1,42|0,66|
+|OBS06 - Para um novo usuário, o sistema de recomendação de Categorias deve mostrar os tipos de conteúdos que estãoem alta na plataforma|7|7|21|1,36|8|1,64|7|1,42|0,60|
+|0BS09 - Ao acessar "Ajuste de Conteúdo", o usuário deve ter a opção de selecionar se deseja receber sugestõesde conteúdos categorizados para adultos|8|8|24|1,55|9|1,84|8|1,62|0,61|
+|OBS10 - A plataforma deve colocar um efeito Blur nos Thumbnails para cada conteúdo categorizado como adulto ou 18+|9|9|27|1,74|8|1,64|8|1,62|0,66|
+|OBS11 - A plataforma deve colocar uma etapa de confirmação, perguntado se o usuário deseja visualizar o conteúdocategorizado como adulto ou 18+|9|9|27|1,74|8|1,64|8|1,62|0,66|
 | | | | | | | | | | |
 |Requisitos Não Funcionais (Observação)| | | | | | | | | |
-|RNFO01 - O usuário deve ser capaz de consumir conteúdos sem se registrar na plataforma|8|8|24| |9| |8| | |
-|RNFO02 - O usuário deve estar cadastrado e logado para acessar as funcionalidades do sistema, com exceção o
-acesso aos vídeos|9|8|26| |9| |8| | |
-|RNFO03 - Ao acessar "Ajuste de Conteúdo", no catálogo disponibilizado deverá ter somente a imagem do conteúdo semum ícone de coração|8|7|23| |8| |9| | |
-|RNFO04 - A barra de navegação de tipos de conteúdos deve aparecer na tela de início, mesmo estando logado|7|7|21| |8| |8| | |
-|RNFO05 - Na Barra de navegação de tipos de conteúdos deve ser adicionado o tipo Artes e Ciência|7|6|20| |7| |7| | |
-|RNFO05 - A experiência do usuário na questão de sugestões de conteúdo e o tipo de disponibilidade delas deve ser melhorlogado na plataforma|8|8|24| |7| |7| | |
+|OBS01 - O usuário deve ser capaz de consumir conteúdos sem se registrar na plataforma|8|8|24|1,55|9|1,84|8|1,62|0,61|
+|OBS04 - O usuário deve estar cadastrado e logado para acessar as funcionalidades do sistema, com exceção o
+acesso aos vídeos|9|8|26|1,68|9|1,84|8|1,62|0,61|
+|OBS07 - Ao acessar "Ajuste de Conteúdo", no catálogo disponibilizado deverá ter somente a imagem do conteúdo semum ícone de coração|8|7|23|1,48|8|1,64|9|1,82|0,71|
+|OBS012 - A barra de navegação de tipos de conteúdos deve aparecer na tela de início, mesmo estando logado|7|7|21|1,36|8|1,64|8|1,62|0,66|
+|OBS13 - Na Barra de navegação de tipos de conteúdos deve ser adicionado o tipo Artes e Ciência|7|6|20|1,29|7|1,43|7|1,42|0,66|
+|OBS14 - A experiência do usuário na questão de sugestões de conteúdo e o tipo de disponibilidade delas deve ser melhorlogado na plataforma|8|8|24|1,55|7|1,43|7|1,42|0,66|
 | | | | | | | | | | |
 | | | | | | | | | | |
-|TOTAIS|523|503|1549| |488| |494| | |
+|TOTAIS|523|503|1549|100,00|488|100,00|494|100,00| | |
 
+<h6 align = "center"> Tabela 2: Priorização utilizando First Things First
+<br>Fonte: Autor(es)</h6>
 
 ## 3. Bibliografia
 
 > rfc2119 -- Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels," RFC 2119, March 1997
 > Método MosCoW. Voitto - BR, 01 ago. 2021. Disponível em https://www.voitto.com.br/blog/artigo/metodo-moscow
 
+> Slides: Requisitos - Aula 07. Professores: Milene Serrano e Maurício Serrano.
+
 ## 4. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
 | 1.0 | 30/04/2023 | Criação e adição de priorização MoSCoW | Milena | Diógenes |
 | 1.1 | 30/04/2023 | Adição de priorização First Things First| Diógenes | Milena |
+| 1.2 | 01/05/2023 | Finalização de priorização First Things First| Diógenes | Milena |
