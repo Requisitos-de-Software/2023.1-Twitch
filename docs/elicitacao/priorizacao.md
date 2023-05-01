@@ -8,6 +8,7 @@ Para fazer a priorização, o grupo em acordo escolheu duas técnicas: MoSCoW e 
 
 ### 2.1 MoSCoW
 Essa é uma técnica siples onde basicamente para cada requisito, você deve atribuir uma letra onde cada uma tem um significado específico:
+
 - Must-Have: São os requisitos Prioritários/ Críticos e são considerados indispensáveis para a realização do projeto,os mais urgentes e os primeiros a serem implementados.
 - Should- Have: São requisitos importantes para o projeto porém não são considerados essencias como o anterior.
 - Could-Have: São requisitos que agregam valor ao projeto porém não são importantes para a conclusão.
@@ -86,6 +87,101 @@ Para priorização dos requisitos foi montado uma tabela com os requisitos elici
 <br>Fonte: Autor(es)</h6>
 
 ### 2.2 First Things First
+First Things First é uma técnica de priorização que utiliza uma abordagem que enfatiza a importância de identificar e priorizar os requisitos mais críticos e fundamentais para o sucesso do projeto. Essa técnica é representada por meio de um tabela desenvolvida em 8 passos, facilitando a visualização da prioridade do requisitos do sistema.
+
+Metodologia:
+
+- Passo 1. Faca uma lista de todos os requisitos em uma planilha.
+- Passo 2. Estime o benefício relativo que cada recurso fornece ao cliente ou ao negócio em uma escala de 1 a 9, onde 1 é o menos significativo e 9 o máximo.
+- Passo 3. Estime a penalidade que o negócio sofreria, se o recurso não for incluído. Usar escala de 1 a 9, onde 1 significa nenhuma penalidade e 9 indica uma grande desvantagem.
+- Passo 4. A coluna Valor Total é a soma do (Benefício Relativo * Peso Relativo) e da (Penalidade Relativa * Peso Relativo).
+- Passo 5. Estime o custo relativo de implementação de cada característica, em uma escala que varia de um mínimo de 1 a um máximo de 9.
+- Passo 6. Estime o grau relativo de risco a cada requisito em uma escala de 1 a 9.
+- Passo 7. Calcule a prioridade para cada requisito usando Prioridade igual a: 
+valor % / custo % * Peso custo + riscos % * Peso Risco
+- Passo 8. Ordene a lista em ordem decrescente de prioridade. As coracterísticas no topo da lista têm o melhor equilíbrio entre valor, custo e risco. e, portanto, devem ser priorizadas.
+
+Para priorização dos requisitos foi montado uma tabela com os requisitos elicitados anteriormente no projeto e sua devida priorização.
+
+|Peso Relativo|2|1| | | | | | | |
+|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+|**Requisitos**|**Benefício Relativo**|**Penalidade Relativa**|**Valor Total**|**Valor (%)**|**Custo Relativo**|**Custo (%)**|**Risco Relativo**|**Risco (%)**|**Prioridade**|
+|Requisitos Funcionais (BrainStorm)| | | | | | | | | |
+|RFB01 - O usuário deve ser capaz de assistir a uma live|9|9|27| |9| |9| | |
+|RFB02 - O usuário deve ser capaz de assistir a um VOD (Video on Demand)|9|9|27| |9| |9| | |
+|RFB03 - O usuário deve ser capaz de interagir em uma live|9|7|25| |8| |8| | |
+|RFB04 - O usuário deve ser capaz comentar na live|9|8|26| |8| |8| | |
+|RFB05 - O usuário deve ser capaz de clipar um trecho de uma live|9|6|24| |8| |7| | |
+|RFB06 - O usuário deve ser capaz de seguir um streamer|8|8|24| |7| |7| | |
+|RFB07 - O usuário deve ser capaz de compartilhar o link de uma live|8|8|24| |7| |8| | |
+|RFB08 - O usuário deve ser capaz de se inscrever em um canal utilizando o Amazon Prime|7|6|20| |8| |8| | |
+|RFB09 - O usuário deve ser capaz de se inscrever em um canal pagando diretamente|7|7|21| |8| |8| | |
+|RFB10 - O usuário deve ser capaz de presentar uma inscrição para outro usuário|7|6|20| |8| |8| | |
+|RFB11 - O usuário deve ser capaz de reagir durante a transmissão|7|9|23| |7| |8| | |
+|RFB12 - O usuário deve ser capaz de comprar bits|7|7|21| |6| |7| | |
+|RFB13 - O usuário deve ser capaz de utilizar os bits para mandar mensagens ao streamer|6|7|19| |7| |7| | |
+|RFB14 - O usuário deve ser capaz denunciar uma transmissão ao vivo|9|9|27| |8| |8| | |
+|RFB15 - O usuário deve ser capaz de denunciar mensagens de outro usuário|9|9|27| |7| |8| | |
+|RFB16 - O usuário deve ser capaz de buscar canais/lives|9|9|27| |8| |7| | |
+|RFB17 - O usuário deve ser capaz de consultar seu saldo de bits (Twitch Wallet)|7|8|22| |7| |6| | |
+|RFB18 - O usuário deve ser capaz de consultar seu histórico de pagamentos|8|8|24| |7| |6| | |
+|RFB19 - O usuário deve ser capaz de consultar seu histórico de bits|7|8|22| |7| |7| | |
+|RFB20 - O usuário deve ser capaz de adicionar/editar/excluir métodos de pagamentos|9|9|27| |9| |9| | |
+|RFB21 - O usuário deve ser capaz de receber Drops e Recompensas, apoiando criadores da Twitch|7|7|21| |6| |8| | |
+|RFB22 - O usuário deve ser capaz de resgatar Loots do Prime Gaming|6|6|18| |7| |7| | |
+|RFB23 - O usuário deve ser capaz de consultar seus Drops e Recompensas|7|8|22| |7| |7| | |
+|RFB24 - O usuário deve ser capaz de consultar suas inscrições|9|8|26| |8| |8| | |
+|RFB25 - O usuário deve ser capaz de configurar o seu perfil|9|9|27| |8| |8| | |
+|RFB26 - O usuário deve ser capaz de configurar sua Imagem do perfil|9|8|26| |6| |8| | |
+|RFB27 - O usuário deve ser capaz de configurar seu Banner do perfil|8|7|23| |7| |9| | |
+|RFB28 - O usuário deve ser capaz de configurar seu Nome de usuário|9|9|27| |6| |7| | |
+|RFB29 - O usuário deve ser capaz de configurar seu Nome de Exibição|9|9|27| |6| |7| | |
+|RFB30 - O usuário deve ser capaz de configurar sua Biografia|9|8|26| |7| |9| | |
+|RFB31 - O usuário deve ser capaz de desabilitar sua conta da Twitch|9|9|27| |7| |9| | |
+|RFB32 - O usuário deve ser capaz de alterar a cor do chat|7|6|20| |6| |6| | |
+|RFB33 - O usuário deve ser capaz de escolher o conjunto de emojis que ele utilizará|7|6|20| |6| |6| | |
+|RFB34 - O usuário deve ser capaz de gerenciar as notificações de sua conta|8|8|24| |7| |6| | |
+|RFB35 - O usuário deve ser capaz de vincular sua  conta da Twitch a outras plataformas(Twitter, Amazon, Steam, Discord, Youtube)|8|8|24| |9| |9| | |
+|RFB36 - O usuário deve ser capaz de realizar ajustes nos conteúdos sugeridos|9|8|26| |8| |8| | |
+|RFB37 - O usuário deve ser capaz de alterar o idioma da plataforma|8|9|25| |8| |8| | |
+|RFB38 - O usuário deve ser capaz de alterar o tema (claro/escuro) da plataforma|7|7|21| |7| |6| | |
+|RFB39 - O usuário deve ser capaz de realizar o login na plataforma|9|9|27| |8| |7| | |
+|RFB40 - O usuário deve ser capaz de realizar o logoff da plataforma|9|9|27| |8| |7| | |
+|RFB41 - O usuário deve ser capaz de desabilitar a sua conta da Twitch|9|9|27| |7| |8| | |
+|RFB42 - O usuário deve ser capaz de trocar sussurros com outros usuários|6|7|19| |7| |6| | |
+|RFB43 - O usuário deve ser capaz de personalizar o seu canal|9|9|27| |7| |7| | |
+|RFB44 - O usuário deve ser capaz de iniciar sua transmissão|9|9|27| |9| |9| | |
+| | | | | | | | | | |
+|Requisitos Não-Funcionais (BrainStorm)| | | | | | | | | |
+|RNFB01 - Internacionalização: o sistema é capaz de apresentar diferentes idiomas|9|9|27| |8| |8| | |
+|RNFB02 - Segurança: o sistema deve garantir proteção contra acesso não autorizado|9|9|27| |9| |9| | |
+|RNFB03 - Portabilidade: o sistema deve ser disponível em diferentes plataformas(PCs, Smartphones, SmarTVs)|9|8|26| |8| |9| | |
+|RNFB04 - Conformidade: o sistema deve cumprir todas as leis e regulamentos aplicáveis:cumpre as leis do país em operaçao|9|9|27| |7| |7| | |
+|RNFB05 - Escabilidade: sistema é capaz de ter um bom desempenho sob uma carga de trabalhoaumentada ou crescente: Suporta um alto número de usuários ativos ao mesmo tempo|9|9|27| |9| |9| | |
+|RNFB06 - Disponibilidade:o sistema deve estar disponível quando necessário, com um bomfuncionamento durante 24 horas|9|9|27| |9| |9| | |
+| | | | | | | | | | |
+|Requisitos Funcionais (Observação)| | | | | | | | | |
+|RFO01 - O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo|9|9|27| |9| |9| | |
+|RFO02 - O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo através de um provedor deemail como Gmail, Outlook|9|8|26| |8| |8| | |
+|RFO03- Ao sair de uma live e voltar para a página de início, o vídeo da live em formato de Thumbnaildeve estar pausada ou não existir|8|7|23| |8| |8| | |
+|RFO04 - Ao sair de uma live e voltar para a página de início, o vídeo da live em formato de Thumbnail deve estarpausada ou não existir|7| |14| |7| |7| | |
+|RFO05 - Para um novo usuário, o sistema de recomendação de Categorias deve mostrar os tipos de conteúdosque estão em alta na plataforma|7|7|21| |8| |7| | |
+|RFO06 - Ao acessar "Ajuste de Conteúdo", o usuário deve ter a opção de selecionar se deseja receber sugestõesde conteúdos categorizados para adultos|8|8|24| |9| |8| | |
+|RFO07 - A plataforma deve colocar um efeito Blur nos Thumbnails para cada conteúdo categorizado como adulto ou 18+|9|9|27| |8| |8| | |
+|RFO08 - A plataforma deve colocar uma etapa de confirmação, perguntado se o usuário deseja visualizar o conteúdocategorizado como adulto ou 18+|9|9|27| |8| |8| | |
+| | | | | | | | | | |
+|Requisitos Não Funcionais (Observação)| | | | | | | | | |
+|RNFO01 - O usuário deve ser capaz de consumir conteúdos sem se registrar na plataforma|8|8|24| |9| |8| | |
+|RNFO02 - O usuário deve estar cadastrado e logado para acessar as funcionalidades do sistema, com exceção o
+acesso aos vídeos|9|8|26| |9| |8| | |
+|RNFO03 - Ao acessar "Ajuste de Conteúdo", no catálogo disponibilizado deverá ter somente a imagem do conteúdo semum ícone de coração|8|7|23| |8| |9| | |
+|RNFO04 - A barra de navegação de tipos de conteúdos deve aparecer na tela de início, mesmo estando logado|7|7|21| |8| |8| | |
+|RNFO05 - Na Barra de navegação de tipos de conteúdos deve ser adicionado o tipo Artes e Ciência|7|6|20| |7| |7| | |
+|RNFO05 - A experiência do usuário na questão de sugestões de conteúdo e o tipo de disponibilidade delas deve ser melhorlogado na plataforma|8|8|24| |7| |7| | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+|TOTAIS|523|503|1549| |488| |494| | |
+
 
 ## 3. Bibliografia
 
@@ -96,3 +192,4 @@ Para priorização dos requisitos foi montado uma tabela com os requisitos elici
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
 | 1.0 | 30/04/2023 | Criação e adição de priorização MoSCoW | Milena | Diógenes |
+| 1.1 | 30/04/2023 | Adição de priorização First Things First| Diógenes | Milena |
