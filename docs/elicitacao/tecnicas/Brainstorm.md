@@ -20,7 +20,6 @@ A reunião ocorreu na data 25/04/2023 das 10:20h às 11:50
 - Ana
 
 ## Conclusões
-
 ## Requisitos Funcionais
 
 A Tabela 1 indica os requisitos funcionais elicitados por meio
@@ -93,15 +92,20 @@ A Tabela 2 indica os requisitos não funcionais elicitados por meio
 <br> Autor: Diógenes
 <br>Fonte: Autor(es)</h6>
 
+### Legendas
+
+- RFB: Requisito Funcional Brainstorm
+- RNFB: Requisito Não Funcional Brainstorm
 ## Histórico de Versões
 
-A Tabela     2 registra o histórico de versão deste documento
+A Tabela 3 registra o histórico de versão deste documento
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
 | 25/04/2023 | 1.0 | Primeiros Requisitos Funcionais | Rafael Nobre | Brunna Louise |
 | 25/04/2023 | 1.1 | Primeiros Requisitos Não Funcionais | Diogenes | Rafael Nobre |
+| 01/05/2023 | 1.2 | Correções de numeração de tabela | Matheus | Diógenes |
 
-<h6 align = "center"> Tabela 2: Histórico de Versões
+<h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor: Rafael Nobre
 <br>Fonte: Autor(es)</h6>

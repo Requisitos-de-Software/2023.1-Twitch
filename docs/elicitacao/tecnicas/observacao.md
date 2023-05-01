@@ -59,3 +59,7 @@ Decidimos colocar um usuário que não tinha familiaridade com a Twitch, porém 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
 | 1.0 | 30/04/2023 | Criação e desenvolvimento do artefato | Matheus Phillipo | Rafael Nobre |
+
+<h6 align = "center"> Tabela 2: Histórico de Versões
+<br>Autor(es): Matheus
+<br>Fonte: Autor(es)</h6>

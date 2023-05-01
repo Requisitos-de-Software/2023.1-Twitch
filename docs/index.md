@@ -22,6 +22,7 @@ Além disso, o Twitch é um exemplo de um software complexo que lida com uma gra
 Portanto, a escolha do Twitch como objeto de estudo para uma matéria sobre requisitos de software oferece a oportunidade de aprender com um caso real de sucesso sobre como as demandas dos usuários podem ser identificadas e atendidas, e como os requisitos de software podem ser gerenciados em um ambiente de grande escala e alta complexidade.
 
 ## 2. Membros
+<center>
 
 | Imagem | Nome | Contato |
 | --- | --- | --- |
@@ -30,8 +31,11 @@ Portanto, a escolha do Twitch como objeto de estudo para uma matéria sobre requ
 | <img src="https://avatars.githubusercontent.com/u/40612642?v=4" alt="Imagem 3" width="100" height="100"/> | Diogenes Dantas | [GitHub](https://github.com/diogjunior100) |
 | <img src="https://avatars.githubusercontent.com/u/18178688?v=4" alt="Imagem 4" width="100" height="100"/> | Matheus Phillipo | [GitHub](https://github.com/MattSilverio) |
 | <img src="https://avatars.githubusercontent.com/u/97989639?v=4" alt="Imagem 5" width="100" height="100"/> | Milena Beatriz | [GitHub](https://github.com/milenaaires) |
-| <img src="https://avatars.githubusercontent.com/u/71106783?v=4" alt="Imagem 6" width="100" height="100"/> | Rafael Nobre | [GitHub](https://github.com/RafaelN0bre) |
+| <img src="https://avatars.githubusercontent.com/u/71106783?v=4" alt="Imagem 6" width="100" height="100"/> | Rafael Nobre | [GitHub](https://github.com/RafaelN0bre) 
 
+</center>
+
+<h6 align = "center">Tabela 1: Membros</h6>
 
 ## 3. Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
@@ -39,3 +43,5 @@ Portanto, a escolha do Twitch como objeto de estudo para uma matéria sobre requ
 | 14.04.2023 | 1.0    | Criação do documento, adição de descrição e membros do grupo |   Matheus   |    -     |
 | 23.04.2023 | 1.1    | Critérios de escolha do app |   Matheus   |    -     |
 | 23.04.2023 | 1.2    | Termos de uso |   Matheus   |    -     |
+| 01.05.2023 | 1.2    | Formatação e legenda de tabela |   Matheus   |    -     |
+

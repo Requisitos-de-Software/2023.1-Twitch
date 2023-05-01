@@ -1,13 +1,16 @@
 # Priorização
 
 ## 1. Introdução
+
 O documento de priorização tem como objetivo definir uma prioridade para cada função ou funcionalidade utilizando técnicas de priorização. Tendo assim como objetivo auxiliar na essencialidade de cada funcionalidade do software desenvolvido, essa técnica é recomendada para projetos com curto prazo e limitação de recursos.
 
 ## 2. Técnicas de Priorização
-Para fazer a priorização, o grupo em acordo escolheu duas técnicas: MoSCoW e First Things First. Essas técnicas foram escolhidas pela familiaridade dos membros e com isso uma opção mais adequada. 
+
+Para fazer a priorização, o grupo em acordo escolheu duas técnicas: MoSCoW e First Things First. Essas técnicas foram escolhidas pela familiaridade dos membros e com isso uma opção mais adequada.
 
 ### 2.1 MoSCoW
-Essa é uma técnica siples onde basicamente para cada requisito, você deve atribuir uma letra onde cada uma tem um significado específico:
+
+Essa é uma técnica simples onde basicamente para cada requisito, você deve atribuir uma letra onde cada uma tem um significado específico:
 
 - Must-Have: São os requisitos Prioritários/ Críticos e são considerados indispensáveis para a realização do projeto,os mais urgentes e os primeiros a serem implementados.
 - Should- Have: São requisitos importantes para o projeto porém não são considerados essencias como o anterior.
@@ -76,7 +79,7 @@ Para priorização dos requisitos foi montado uma tabela com os requisitos elici
 | OBS06 | Para um novo usuário, o sistema de recomendação de Categorias deve mostrar os tipos de conteúdos que estão em alta na plataforma | Must |
 | OBS07 | Ao acessar "Ajuste de Conteúdo", no catálogo disponibilizado deverá ter somente a imagem do conteúdo sem um ícone de coração | Should |
 | OBS08 | Ao acessar "Ajuste de Conteúdo", após o usuário selecionar as categorias que lhe interessa. O sistema deve sugerir os tipos de conteúdos voltados a sua escolha na maioria da interface | Must |
-| OBS09 | Ao acessar "Ajuste de Conteúdo", o usuário deve ter a opção de selecionar se deseja receber sugestões de conteúdos categorizados para adultos | RF
+| OBS09 | Ao acessar "Ajuste de Conteúdo", o usuário deve ter a opção de selecionar se deseja receber sugestões de conteúdos categorizados para adultos | Must
 | OBS10 | A plataforma deve colocar um efeito Blur nos Thumbnails para cada conteúdo categorizado como adulto ou 18+ | Must |
 | OBS11 | A plataforma deve colocar uma etapa de confirmação, perguntado se o usuário deseja visualizar o conteúdo categorizado como adulto ou 18+| Must |
 | OBS12 | A barra de navegação de tipos de conteúdos deve aparecer na tela de início, mesmo estando logado  | Must |
@@ -87,11 +90,12 @@ Para priorização dos requisitos foi montado uma tabela com os requisitos elici
 <br>Fonte: Autor(es)</h6>
 
 ### 2.2 First Things First
+
 First Things First é uma técnica de priorização que utiliza uma abordagem que enfatiza a importância de identificar e priorizar os requisitos mais críticos e fundamentais para o sucesso do projeto. Essa técnica é representada por meio de um tabela desenvolvida em 8 passos, facilitando a visualização da prioridade do requisitos do sistema.
 
 Metodologia:
 
-- Passo 1. Faca uma lista de todos os requisitos em uma planilha.
+- Passo 1. Faça uma lista de todos os requisitos em uma planilha.
 - Passo 2. Estime o benefício relativo que cada recurso fornece ao cliente ou ao negócio em uma escala de 1 a 9, onde 1 é o menos significativo e 9 o máximo.
 - Passo 3. Estime a penalidade que o negócio sofreria, se o recurso não for incluído. Usar escala de 1 a 9, onde 1 significa nenhuma penalidade e 9 indica uma grande desvantagem.
 - Passo 4. A coluna Valor Total é a soma do (Benefício Relativo * Peso Relativo) e da (Penalidade Relativa * Peso Relativo).
@@ -203,3 +207,7 @@ acesso aos vídeos|9|8|26|1,68|9|1,84|8|1,62|0,61|
 | 1.0 | 30/04/2023 | Criação e adição de priorização MoSCoW | Milena | Diógenes |
 | 1.1 | 30/04/2023 | Adição de priorização First Things First| Diógenes | Milena |
 | 1.2 | 01/05/2023 | Finalização de priorização First Things First| Diógenes | Milena |
+
+<h6 align = "center"> Tabela 3: Histórico de Versões
+<br>Autor(es): Diógenes e Milena
+<br>Fonte: Autor(es)</h6>
