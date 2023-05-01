@@ -127,7 +127,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-A Tabela 1 registra o histórico de versão deste documento
+A Tabela 6 registra o histórico de versão deste documento
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
