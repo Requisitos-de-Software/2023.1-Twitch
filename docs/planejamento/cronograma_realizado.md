@@ -29,11 +29,11 @@ O ponto de controle 2 teve como objetivo Elicitação – Técnicas e Priorizaç
 
 | Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
 | :------: | :-------: | :-----: | :--------: | :------: |
-| Perfil dos usuários | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
-| Personas | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
-| Técnicas de elecitação usadas e que serão usadas | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
-| Técnicas priorização usadas e que serão usadas no projeto. | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
-| Gravação e Postagem | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Perfil dos usuários | **Início**: 18.04.2023 -  **Término**: 24.04.2023 | **Início**: 25.04.2023 -  **Término**: 30.04.2023 | Rafael e Brunna | Brunna |
+| Personas | **Início**: 18.04.2023 -  **Término**: 24.04.2023 | **Início**: 25.04.2023 -  **Término**: 30.04.2023 | Diógenes e Ana | Ana |
+| Técnicas de elecitação usadas e que serão usadas | **Início**: 18.04.2023 -  **Término**: 24.04.2023 | **Início**: 25.04.2023 -  **Término**: 30.04.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Matheus |
+| Técnicas priorização usadas e que serão usadas no projeto. | **Início**: 18.04.2023 -  **Término**: 24.04.2023 | **Início**: 25.04.2023 -  **Término**: 30.04.2023 | Diógenes e Milena | Milena |
+| Gravação e Postagem | **Início**: 30.04.2023 -  **Término**: 01.05.2023 | **Início**: 30.04.2023 -  **Término**: 01.05.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Diógenes |
 
 <h6 align = "center"> Tabela 2: Cronograma realizado do ponto de controle 2 </h6>
 <h6 align = "center"> Fonte: Autor(es) </h6>
