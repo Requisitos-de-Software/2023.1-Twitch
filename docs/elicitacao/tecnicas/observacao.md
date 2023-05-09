@@ -8,15 +8,15 @@ O intuito dessa técnica é que por meio da observação sejam elicitados requis
 
 ## 2. Metodologia
 
-Para a realização da técnica de elicitação de requisitos por meio da observação, foi feita uma gravação de tela afim de captar o corpotamento do usuário com o aplicativo em funcionamento para observar e verificar as funcionalidades utilizadas pelo usuário no aplicativo, e verificar possíveis necessidades.
+Para a realização da técnica de elicitação de requisitos por meio da observação, foi feita uma gravação de tela no dia 30/04/2023, afim de captar o comportamento de um usuário com o aplicativo em funcionamento para observar e verificar as funcionalidades utilizadas pelo usuário no aplicativo, e verificar possíveis necessidades. O procedimento foi realizado de forma remota, com a gravação de tela e aúdio entregue para nós, primeiramente o instruímos das nossas necessidades para elicitar os requisitos através desse método e nos mostramos de prontidão para qualquer dúvida que surgisse durante a etapa de gravação via Whatsapp, pois não queríamos interferir no mapa de calor do usuário e nem os comentários que ele fornece durante o vídeo.
+
+Por questões de sigilo profissional, mantivemos a identidade do usuário em anônimo. E para a escolha dele, decidimos optar por alguém que tinha mais familiaridade com outras plataformas de Streaming.
 
 A tela e áudio do usuário foram captadas e estão disponíveis abaixo.
 
 ## 3. Resultados
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/9Rzo69gGBTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Decidimos colocar um usuário que não tinha familiaridade com a Twitch, porém é usuário frequente de outras plataformas de Streaming. Como resultado da técnica de observação, foram elicitados os seguintes requisitos:
 
 ### Legendas
 
