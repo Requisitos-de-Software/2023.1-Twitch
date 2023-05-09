@@ -45,6 +45,7 @@ nav:
     - Técnicas:
       - Brainstorm: ./elicitacao/tecnicas/Brainstorm.md
       - Observação: ./elicitacao/tecnicas/observacao.md
+      - Análise Documental: ./elicitacao/tecnicas/AnaliseDeDocumento.md
     - Priorização: ./elicitacao/priorizacao.md
   - Atas de reunião: 
     - Reunião 1: ./atas/reuniao_1.md
