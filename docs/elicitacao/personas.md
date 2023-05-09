@@ -41,8 +41,8 @@ Depois de analisar os dados coletados por meio de formulários, foi possível id
 |Profissão:| Estudante de Ciência da Computação|
 |Escolaridade:| Cursando o ensino superior|
 |Habilidades:| Alta habilidade em matemática, informática avançada, front-end|
-|Objetivos:| Conseguir um estágio de desenvolvedor web |
-|Tarefas:| Estudar para as materias da faculdade|
+|Objetivos:| Larissa utiliza o Twitch para acompanhar streams de profissionais de sua área de interesse, buscando aprender sobre técnicas, ferramentas e melhores práticas para se destacar em processos seletivos de estágio. Além disso, ela utiliza o chat do Twitch para tirar dúvidas e interagir com outros estudantes. |
+|Tarefas:| Larissa assiste a streams de profissionais em sua área de interesse pelo menos 3 vezes por semana, por cerca de 2 horas cada vez. Ela interage com o chat, faz perguntas e participa de discussões com outros estudantes. Além disso, ela também anota ideias e insights importantes para utilizar em seus estudos futuros.|
 |Relacionamentos:| Amigos da época de escola, amigos da faculdade, família|
 |Requisitos:| Larissa acredita ser necessário que a Twitch coloque uma opção pra não ver recomendações ou canais que outros usuários assistem|
 |Expectativas:| Encontrar lives de estudo e assistir gameplays com poucas interrupções de anúncios|
@@ -108,9 +108,9 @@ Depois de analisar os dados coletados por meio de formulários, foi possível id
 |Escolaridade:| Ensino médio completo |
 |Habilidades:| Alta habilidade culinaria, técnicas de limpeza|
 |Objetivos:| Deseja viver o suficiente para ir ao casamento dos netos |
-|Tarefas:| Limpar e organizar a casa, fazer as compras e cozinhar|
+|Tarefas:| Maria não utiliza o Twitch, então ele não realiza nenhuma tarefa na plataforma.|
 |Relacionamentos:| Família, amigas da igreja e vizinhos |
-|Expectativas:| Maria não tem nenhuma expectativa em relação a Twitch pois sequer sabe que ela existe                  |
+|Expectativas:| Maria não tem nenhuma expectativa em relação a Twitch pois sequer sabe que ela existe |
 
 <h6 align = "center"> Tabela 5: Persona: Maria das Graças
 <br> Autor: Ana Beatriz
@@ -118,7 +118,19 @@ Depois de analisar os dados coletados por meio de formulários, foi possível id
 
 ---
 
-## 4. Referências
+## 4. Requisitos das Personas
+| Personas | Requisitos |
+|:--:|:--:|
+| Enzo Oliveira | Filtro na Twitch para encontrar gameplays em diferentes línguas.|
+| Enzo Oliveira | Não ser interrompido por anúncios excessivos durante a visualização.|
+| Larissa da Silva| Opção para não ver recomendações ou canais que outros usuários assistem.
+| João Carvalho| Lives com boa qualidade de imagem e som nas gameplays de jogos de corrida, consumindo menos dados móveis de internet.|
+| João Carvalho| Opção para salvar vídeos da lives para assistir posteriomente sem conexão online e que possa editá-los.|
+| Roberto Silva| Oferecer uma opção para assistir a uma partida específica sem interrupções de anúncios e propagandas, pagando um valor inferior ao de uma inscrição regular e que seja cobrado por cada partida, não apenas por uma assinatura mensal.
+| Maria das Graças| N/A|
+
+
+## 5. Referências
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acessado em 29 de Abril de 2023
@@ -127,15 +139,16 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-A Tabela 6 registra o histórico de versão deste documento
+A Tabela 7 registra o histórico de versão deste documento
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
 | 29/04/2023 | 1.0 | Criação do documento, adição de introdução, metologias e tabela de personas | Diógenes | Ana Beatriz |
 | 29/04/2023 | 1.1 | Adiconando tabela de persona e antipersona | Ana Beatriz | Diógenes |
 | 30/04/2023 | 1.2 | Adiconando duas personas primárias e uma secundária | Diógenes | Ana Beatriz |
+| 09/05/2023 | 2.0 | Realizando alterações sugeridas pelo monitor | Ana Beatriz | Diógenes |
 
 
-<h6 align = "center"> Tabela 6: Histórico de Versões
+<h6 align = "center"> Tabela 7: Histórico de Versões
 <br> Autor: Diógenes 
 <br>Fonte: Autor(es)</h6>
