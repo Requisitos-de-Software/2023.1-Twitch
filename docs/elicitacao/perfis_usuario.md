@@ -27,6 +27,8 @@ O questionário criado pela equipe pode ser acessado nesse [link](https://forms.
 
 ## 3. Aplicação do Questionário
 
+A aplicação do questionário ocorreu durante 4 dias, entre os dias 25/04/2023 e 28/04/2023, dia em que o grupo fez o download da planilha mais atualizada que continha as respostas às perguntas do questionário.
+
 Para a aplicação do questionário, fizemos disparos de mensagens pelo whatsapp e telegram, buscando manter os grupos e os nichos de pessoas para as quais estávamos enviando o mais diverso possível. Buscamos enviar para diferentes idades, como adolescentes e pessoas mais velhas, a fim de captar dados de diversas naturezas.
 
 ## 4. Resultados da Aplicação do Questionário
@@ -65,6 +67,7 @@ A Tabela 1 registra o histórico de versão desse documento.
 | 25/04/2023 | 1.0 | Primeira Versão do artefato de perfis de usuário | Brunna Louise | Rafael Nobre |
 | 28/04/2023 | 2.0 | Inserção do Dashboard e análise dos resultados | Rafael Nobre | Brunna Louise |
 | 01/05/2023 | 2.1 | Padronização das referências | Brunna Louise | Rafael Nobre |
+| 09/05/2023 | 2.1 | Adicionando informação relativa à duração do questionário | Brunna Louise | Rafael Nobre |
 
 <h6 align = "center"> Tabela 1: Histórico de Versões
 <br> Autor: Brunna Louise
