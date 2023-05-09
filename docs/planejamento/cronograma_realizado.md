@@ -31,8 +31,11 @@ O ponto de controle 2 teve como objetivo Elicitação – Técnicas e Priorizaç
 | :------: | :-------: | :-----: | :--------: | :------: |
 | Perfil dos usuários | **Início**: 18.04.2023 -  **Término**: 24.04.2023 | **Início**: 25.04.2023 -  **Término**: 30.04.2023 | Rafael e Brunna | Brunna |
 | Personas | **Início**: 18.04.2023 -  **Término**: 24.04.2023 | **Início**: 25.04.2023 -  **Término**: 30.04.2023 | Diógenes e Ana | Ana |
-| Técnicas de elecitação usadas e que serão usadas | **Início**: 18.04.2023 -  **Término**: 24.04.2023 | **Início**: 25.04.2023 -  **Término**: 30.04.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Matheus |
+| Técnicas de elicitação usadas e que serão usadas | **Início**: 18.04.2023 -  **Término**: 24.04.2023 | **Início**: 25.04.2023 -  **Término**: 30.04.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Matheus |
+| Brainstorm | **Início**: 18.04.2023 -  **Término**: 24.04.2023 | **Início**: 25.04.2023 -  **Término**: 25.04.2023 |  Brunna, Diógenes e Rafael | Matheus |
+| Técnica de Observação | **Início**: 18.04.2023 -  **Término**: 24.04.2023 | **Início**: 25.04.2023 -  **Término**: 30.04.2023 | Matheus | Rafael |
 | Técnicas priorização usadas e que serão usadas no projeto. | **Início**: 18.04.2023 -  **Término**: 24.04.2023 | **Início**: 25.04.2023 -  **Término**: 30.04.2023 | Diógenes e Milena | Milena |
+| Moscow e First Thing First | **Início**: 18.04.2023 -  **Término**: 24.04.2023 | **Início**: 25.04.2023 -  **Término**: 30.04.2023 | Diógenes e Milena | Milena |
 | Gravação e Postagem | **Início**: 30.04.2023 -  **Término**: 01.05.2023 | **Início**: 30.04.2023 -  **Término**: 01.05.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Diógenes |
 
 <h6 align = "center"> Tabela 2: Cronograma realizado do ponto de controle 2 </h6>
