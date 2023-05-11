@@ -47,6 +47,11 @@ nav:
       - Observação: ./elicitacao/tecnicas/observacao.md
       - Análise Documental: ./elicitacao/tecnicas/AnaliseDeDocumento.md
     - Priorização: ./elicitacao/priorizacao.md
+  - Modelagem: 
+    # - Especificação Suplementar:
+    # - Use Case:
+    - Léxico: ./modelagem/lexico.md
+    # - Cenários:
   - Atas de reunião: 
     - Reunião 1: ./atas/reuniao_1.md
     - Reunião 2: ./atas/reuniao_2.md
