@@ -45,6 +45,7 @@ A Tabela 2 registra o histórico de versão desse documento.
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
 | 11/05/2023 | 1.0 | Primeira Versão do artefato de Use Case (Caso de Uso) | Brunna Louise, Diógenes Dantas | Milena Beatriz, Rafael Nobre |
+| 14/05/2023 | 1.1 | Adição de metologia e algumas legendas do Diagrama de Caso de Uso | Brunna Louise, Diógenes Dantas | Milena Beatriz |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor(es): Brunna Louise, Diógenes Dantas
