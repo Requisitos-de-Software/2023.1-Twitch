@@ -34,7 +34,7 @@ A Tabela 1 a seguir descreve os elementos visuais utilizados no diagrama de caso
 
 ## 4. Diagrama de Caso de Uso
 
-![Diagrama de Casos de Uso](./imagens/diagrama.png){: id="Diagrama de Casos de Uso"}
+![Diagrama de Casos de Uso](./imagens/casosdeusod.png){: id="Diagrama de Casos de Uso"}
 <h6 align = "center">Figura 1: Diagrama de Casos de Uso
 <br>Autor: Diógenes e Brunna
 <br>Fonte: Autor(es)</h6>
