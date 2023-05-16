@@ -49,7 +49,7 @@ nav:
     - Priorização: ./elicitacao/priorizacao.md
   - Modelagem: 
     # - Especificação Suplementar:
-    # - Use Case:
+    - Use Case: ./modelagem/usecase.md
     - Léxico: ./modelagem/lexico.md
     - Cenários: ./modelagem/cenarios.md
   - Atas de reunião: 
