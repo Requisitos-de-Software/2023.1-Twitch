@@ -34,12 +34,103 @@ A Tabela 1 a seguir descreve os elementos visuais utilizados no diagrama de caso
 
 ## 4. Diagrama de Caso de Uso
 
+O diagrama de Caso de Uso da Twitch está na figura 1 a seguir.
+
 ![Diagrama de Casos de Uso](./imagens/casosdeusod.png){: id="Diagrama de Casos de Uso"}
 <h6 align = "center">Figura 1: Diagrama de Casos de Uso
-<br>Autor: Diógenes e Brunna
+<br>Autor(es): Diógenes e Brunna
 <br>Fonte: Autor(es)</h6>
 
 ## 5. Especificações de Caso de Uso
+
+As especificações de cada Caso de Uso no diagrama mostrado na seção 4 serão descritas nas tabelas de 2 a X a seguir.
+#### 5.1 Caso de Uso: Fazer Login
+
+| Caso de Uso | Informações |
+| ---- | ----------- | 
+| Descrição | O usuário deve ser capaz de realizar login em sua conta para acessar as funcionalidades da Twitch. |
+| Pré-Condições | - Possuir acesso à internet; <br> - Haver efetuado cadastro anteriormente. |
+| Atores | Espectador, Criador, Moderador |
+| Fluxo | 1. O usuário acessa a página web ou aplicativo da Twitch; <br> 2. O usuário digita seu *username* e senha definidos no cadastro; <br> 3. O usuário clica em *Login*.
+| Pós-Condições  | O usuário terá acesso às principais funcionalidades oferecidas pela Twitch.
+<h6 align = "center"> Tabela 2: Especificação de casos de uso - Fazer Login </h6>
+
+#### 5.2 Caso de Uso: Buscar Conteúdo
+
+| Caso de Uso | Informações |
+| ---- | ----------- | 
+| Descrição | O usuário acessa inicialmente uma página inicial que contém recomendações de lives, canais e categorias. Além disso, ele pode realizar uma busca caso queira encontrar algo em específico. |
+| Pré-Condições | - Possuir acesso à internet.  |
+| Atores | Espectador, Criador |
+| Fluxo | 1. Caso o usuário não tenha encontrado o conteúdo que gostaria de visualizar na página inicial, ele precisará fazer uma busca; <br> 2. O usuário clica na barra de busca no topo da página e digita o conteúdo que quer procurar; <br> 3. O usuário encontra lives e canais atrelados às palavras-chave usadas no mecanismo de pesquisa.
+| Pós-Condições  | Encontrar o conteúdo que estava procurando, ou não.
+<h6 align = "center"> Tabela 3: Especificação de casos de uso - Buscar Conteúdo </h6>
+
+#### 5.3 Caso de Uso: Consumir Conteúdo
+
+| Caso de Uso | Informações |
+| ---- | ----------- | 
+| Descrição | O usuário deve ser capaz de assistir lives na plataforma da Twitch. |
+| Pré-Condições | - Possuir acesso à internet. |
+| Atores | Espectador |
+| Fluxo | 1. O usuário clica na live que quer assistir; <br> 2. O usuário tem acesso à live.
+| Pós-Condições  | O usuário é capaz de assistir à live.
+<h6 align = "center"> Tabela 4: Especificação de casos de uso - Consumir Conteúdo </h6>
+
+#### 5.4 Caso de Uso: Criar Conteúdo
+
+| Caso de Uso | Informações |
+| ---- | ----------- | 
+| Descrição | Um usuário deve ser capaz de criar um canal para produzir conteúdo. No caso da Twitch, o conteúdo produzido é uma transmissão ao vivo. |
+| Pré-Condições | - Possuir acesso à internet; <br> - Haver efetuado cadastro; <br> - Estar logado em sua conta. |
+| Atores | Criador |
+| Fluxo | 1.  |
+| Pós-Condições  |  |
+<h6 align = "center"> Tabela 5: Especificação de casos de uso - Criar Conteúdo </h6>
+
+#### 5.5 Caso de Uso: Acessar notificações
+
+| Caso de Uso | Informações |
+| ---- | ----------- | 
+| Descrição | O usuário deve ser capaz de ter acesso a notificações de canais que segue e de outros usuários que interagiram com seu canal. |
+| Pré-Condições | - Possuir acesso à internet; <br> - Haver efetuado cadastro; <br> - Estar logado em sua conta. |
+| Atores | Espectador, Criador |
+| Fluxo | 1. O usuário clica no ícone de notificações; <br> 2. O usuário pode alternar entre notificações relacionadas a quem interagiu com seu canal ou notificações relacionadas aos canais que segue.  |
+| Pós-Condições | O usuário é capaz de visualizar quem interagiu com seu canal e que outros canais que ele segue produziram conteúdo enquanto estava ausente. |
+<h6 align = "center"> Tabela 6: Especificação de casos de uso - Acessar Notificações </h6>
+
+#### 5.6 Caso de Uso: Interagir em Lives
+
+| Caso de Uso | Informações |
+| ---- | ----------- | 
+| Descrição | O usuário deve ser capaz de comentar nas lives as quais está assistindo, interagindo com outros usuários e com o criador de conteúdo. |
+| Pré-Condições | - Possuir acesso à internet; <br> - Haver efetuado cadastro; <br> - Estar logado em sua conta; <br> - Estar consumindo conteúdo (assistindo a uma live). |
+| Atores | Espectador, Criador |
+| Fluxo | 1. O usuário clica na aba de comentários da live; <br> 2. O usuário digita sua mensagem; <br> 3. A mensagem pode ou não passar por moderação para ser enviada. |
+| Pós-Condições  | A mensagem desejada é enviada (ou não, caso não seja aprovada), possibilitando o usuário a interagir com outros usuários e com o criador de conteúdo. |
+<h6 align = "center"> Tabela 7: Especificação de casos de uso - Interagir em Lives </h6>
+
+#### 5.7 Caso de Uso: Moderar Conteúdo
+
+| Caso de Uso | Informações |
+| ---- | ----------- | 
+| Descrição |  |
+| Pré-Condições | - Possuir acesso à internet; <br> - Haver efetuado cadastro; <br> - Estar logado em sua conta; |
+| Atores | Moderador |
+| Fluxo | 1.  |
+| Pós-Condições  | |
+<h6 align = "center"> Tabela 8: Especificação de casos de uso - Moderar Conteúdo </h6>
+
+#### 5.8 Caso de Uso: Apoiar Conteúdo
+
+| Caso de Uso | Informações |
+| ---- | ----------- | 
+| Descrição | - Possuir acesso à internet; <br> - Haver efetuado cadastro; <br> - Estar logado em sua conta. |
+| Pré-Condições |  |
+| Atores | Espectador |
+| Fluxo | 1.  |
+| Pós-Condições  | |
+<h6 align = "center"> Tabela 9: Especificação de casos de uso - Apoiar Conteúdo </h6>
 
 ## 6. Referências
 
@@ -51,7 +142,7 @@ A Tabela 1 a seguir descreve os elementos visuais utilizados no diagrama de caso
 
 ## Histórico de Versões
 
-A Tabela 2 registra o histórico de versão desse documento.
+A Tabela 10 registra o histórico de versão desse documento.
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
@@ -59,7 +150,8 @@ A Tabela 2 registra o histórico de versão desse documento.
 | 14/05/2023 | 1.1 | Adição de metodologia e algumas legendas do Diagrama de Caso de Uso | Brunna Louise, Diógenes Dantas | Milena Beatriz |
 | 15/05/2023 | 1.2 | Adição do Diagrama de Casos de Uso e novas imagens da Legenda do Diagrama de Caso de Uso | Diógenes Dantas | Brunna Louise |
 | 16/05/2023 | 1.3 | Adição de passos seguidos para criação de diagrama de caso de uso | Brunna Louise | Diógenes Dantas |
+| 16/05/2023 | 1.4 | Adição de primeira versão de Especificações de Casos de Uso | Brunna Louise | Diógenes Dantas |
 
-<h6 align = "center"> Tabela 2: Histórico de Versões
+<h6 align = "center"> Tabela 10: Histórico de Versões
 <br> Autor(es): Brunna Louise, Diógenes Dantas
 <br>Fonte: Autor(es)</h6>
