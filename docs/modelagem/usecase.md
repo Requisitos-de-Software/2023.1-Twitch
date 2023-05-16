@@ -84,8 +84,8 @@ As especificações de cada Caso de Uso no diagrama mostrado na seção 4 serão
 | Descrição | Um usuário deve ser capaz de criar um canal para produzir conteúdo. No caso da Twitch, o conteúdo produzido é uma transmissão ao vivo. |
 | Pré-Condições | - Possuir acesso à internet; <br> - Haver efetuado cadastro; <br> - Estar logado em sua conta. |
 | Atores | Criador |
-| Fluxo | 1.  |
-| Pós-Condições  |  |
+| Fluxo | 1. O usuário clicar em Criar Conteúdo; <br> 2. O usuário começa a transmitir ao vivo seu conteúdo|
+| Pós-Condições  | O usuário é capaz de transmitir o conteúdo que deseja ao vivo na plataforma |
 <h6 align = "center"> Tabela 5: Especificação de casos de uso - Criar Conteúdo </h6>
 
 #### 5.5 Caso de Uso: Acessar notificações
@@ -114,23 +114,34 @@ As especificações de cada Caso de Uso no diagrama mostrado na seção 4 serão
 
 | Caso de Uso | Informações |
 | ---- | ----------- | 
-| Descrição |  |
+| Descrição | O usuário deve ser capaz de monitorar os comentários em tempo real, procurando por mensagens que violem as regras do canal ou as diretrizes da Twitch e têm autoridade para remover ou ocultar tais mensagens. |
 | Pré-Condições | - Possuir acesso à internet; <br> - Haver efetuado cadastro; <br> - Estar logado em sua conta; |
 | Atores | Moderador |
-| Fluxo | 1.  |
-| Pós-Condições  | |
+| Fluxo | 1. O usuário entra em uma live; <br> 2. O criador de conteúdo libera o acesso aos comentários; <br> 3. O usuário monitora os comentários em tempo real|
+| Pós-Condições  | O moderador tem acesso aos comentários e pode remover e ocultar mensagens que violam as regras do canal do criador ou as diretrizes da plataforma |
 <h6 align = "center"> Tabela 8: Especificação de casos de uso - Moderar Conteúdo </h6>
 
 #### 5.8 Caso de Uso: Apoiar Conteúdo
 
 | Caso de Uso | Informações |
 | ---- | ----------- | 
-| Descrição | - Possuir acesso à internet; <br> - Haver efetuado cadastro; <br> - Estar logado em sua conta. |
-| Pré-Condições |  |
-| Atores | Espectador |
-| Fluxo | 1.  |
-| Pós-Condições  | |
+| Descrição | O usuário é capaz de oferecer suporte ativo à sua transmissão, demonstrando interesse e ajudando a fortalecer sua comunidade, utilizando a ferramenta de "seguir" ou pagando com o "inscrever" |
+| Pré-Condições |  - Possuir acesso à internet; <br> - Haver efetuado cadastro; <br> - Estar logado em sua conta. |
+| Atores | Espectador, Criador |
+| Fluxo | 1. O usuário entra em uma live; <br> 2. O usuário clica em seguir ou inscrever; <br> 3. Caso clique em inscrever, o usuário acessa a aba de pagamento e finaliza a inscrição |
+| Pós-Condições  | O usuário é capaz de apoiar algum criador de conteúdo, seguindo ou se inscrevendo no seu canal de transmissão de lives |
 <h6 align = "center"> Tabela 9: Especificação de casos de uso - Apoiar Conteúdo </h6>
+
+#### 5.9 Acessar Sussurro
+
+| Caso de Uso | Informações |
+| ---- | ----------- | 
+| Descrição | O usuário é capaz de acessar o chat privato da plataforma (sussurro) e mandar mensagens para outros usuários. |
+| Pré-Condições |  - Possuir acesso à internet; <br> - Haver efetuado cadastro; <br> - Estar logado em sua conta. |
+| Atores | Espectador, Criador |
+| Fluxo | 1. O usuário clica no ícone de sussurros; <br> 2. O usuário pode alternar mandar mensagens para outros usuários |
+| Pós-Condições  | O usuário é capaz de enviar mensagens privadas com outros usuários e se comunicar com outros membros da plataforma. |
+<h6 align = "center"> Tabela 10: Especificação de casos de uso - Acessar Sussuro </h6>
 
 ## 6. Referências
 
@@ -151,6 +162,7 @@ A Tabela 10 registra o histórico de versão desse documento.
 | 15/05/2023 | 1.2 | Adição do Diagrama de Casos de Uso e novas imagens da Legenda do Diagrama de Caso de Uso | Diógenes Dantas | Brunna Louise |
 | 16/05/2023 | 1.3 | Adição de passos seguidos para criação de diagrama de caso de uso | Brunna Louise | Diógenes Dantas |
 | 16/05/2023 | 1.4 | Adição de primeira versão de Especificações de Casos de Uso | Brunna Louise | Diógenes Dantas |
+| 16/05/2023 | 1.5 | Adição de novas Especificações de Casos de Uso | Diógenes Dantas | Brunna Louise |
 
 <h6 align = "center"> Tabela 10: Histórico de Versões
 <br> Autor(es): Brunna Louise, Diógenes Dantas
