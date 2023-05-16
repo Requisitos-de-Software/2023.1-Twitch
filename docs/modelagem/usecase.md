@@ -23,7 +23,7 @@ A Tabela 1 a seguir descreve os elementos visuais utilizados no diagrama de caso
 | ------ | ----------- | -----------  |
 | Caso de Uso | ![Caso de Uso](./imagens/casosdeuso.png) | Cada caso de uso representa uma ação que realiza uma tarefa dentro do sistema. |
 | Ator(es) | ![Ator](./imagens/Ator.png) |  Representam as pessoas que utilizam os casos de uso, sejam elas atores primários (inicia a utilização do sistema, posicionados à esquerda) ou atores secundários (reagem à utilização do sistema, posicionados à direita).  |
-| Associações | ![Associações](./imagens/associacoes.png) | Descrevem os relacionamentos simples entre atores e casos de uso. Os atores se comunicam com os casos de uso ou interagem com os casos de uso. |
+| Associações | ![Associações](./imagens/associacao.png) | Descrevem os relacionamentos simples entre atores e casos de uso. Os atores se comunicam com os casos de uso ou interagem com os casos de uso. |
 | Inclusões | ![Inclusão](./imagens/incluir.png) | Descreve o relacionamento entre um caso de uso base e um caso de uso incluído. O caso de uso base depende de um caso de uso incluído para estar completo, mas não é o ator que desempenha essa tarefa. A seta tracejada tem origem no caso de uso base e aponta para o caso de uso incluído. |
 | Extensões | ![Extensão](./imagens/estender.png) | Descreve o relacionamento entre um caso de uso base e um caso de uso estendido. O caso de uso base, ao ser inicializado pelo ator, pode ou não resultar na ocorrência do caso de uso estentido; ou seja, o caso de uso estendido acontece apenas se certos critérios forem cumpridos na realização do caso de uso base. A seta tracejada tem origem no caso de uso estendido e aponta para o caso de uso base. |
 | Generalização ou Herança | ![Herança](./imagens/heranca.png) | Descreve o relacionamento entre atores distintos ou entre casos de uso distintos. Um caso de uso especializado herda todas as características de um caso de uso geral, isto é, um caso de uso secundário herda as características de um caso de uso primário. A mesma dinâmica ocorre entre atores especializados, que herdam todas as características de um ator geral. |
@@ -38,7 +38,7 @@ O diagrama de Caso de Uso da Twitch está na figura 1 a seguir.
 
 ![Diagrama de Casos de Uso](./imagens/casosdeusod.png){: id="Diagrama de Casos de Uso"}
 <h6 align = "center">Figura 1: Diagrama de Casos de Uso
-<br>Autor(es): Diógenes e Brunna
+<br>Autor(es): Brunna Louise e Diógenes Dantas
 <br>Fonte: Autor(es)</h6>
 
 ## 5. Especificações de Caso de Uso
@@ -162,7 +162,7 @@ A Tabela 10 registra o histórico de versão desse documento.
 | 15/05/2023 | 1.2 | Adição do Diagrama de Casos de Uso e novas imagens da Legenda do Diagrama de Caso de Uso | Diógenes Dantas | Brunna Louise |
 | 16/05/2023 | 1.3 | Adição de passos seguidos para criação de diagrama de caso de uso | Brunna Louise | Diógenes Dantas |
 | 16/05/2023 | 1.4 | Adição de primeira versão de Especificações de Casos de Uso | Brunna Louise | Diógenes Dantas |
-| 16/05/2023 | 1.5 | Adição de novas Especificações de Casos de Uso | Diógenes Dantas | Brunna Louise |
+| 16/05/2023 | 1.5 | Adição de novas Especificações de Casos de Uso e alteração da imagem de associações| Diógenes Dantas | Brunna Louise |
 
 <h6 align = "center"> Tabela 10: Histórico de Versões
 <br> Autor(es): Brunna Louise, Diógenes Dantas
