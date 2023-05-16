@@ -29,6 +29,7 @@ A tabela 1, que está na seção 2 desse artefato, tratará das ferramentas util
 |![Draw.io Icon](./imagens/drawio_icon.png){ width=75 } | Draw.io | Software utilizado para a produção do Rich Picture. |
 |![Microsoft Forms Icon](./imagens/microsoft_forms_icon.png){ width=75 } | Microsoft Forms | Software utilizado para a criação e a aplicação de questionários. |
 |![Stability AI Icon](./imagens/stability_ai_icon.png){ width=75 } | This Person Does Not Exist | Software da Stability.AI para conseguir imagens de pessoas que não existem a fim de estabelecê-las como personas. |
+|![Lucidchart Icon](./imagens/lucidchart_icon.png){ width=75 } | Lucidchart | Software utilizado para criação de diagramas UML. |
 <h6 align = "center"> Tabela 1: Ferramentas utilizadas </h6>
 <h6 align = "center"> Fonte: Grupo 08 </h6>
 
@@ -50,6 +51,7 @@ A tabela 1, que está na seção 2 desse artefato, tratará das ferramentas util
 [14] Ferramenta Draw.io. Para acessá-la, clique [aqui](https://app.diagrams.net). <br/>
 [15] Ferramenta Microsoft Forms. Para acessá-la, clique [aqui](https://www.microsoft.com/pt-br/microsoft-365/online-surveys-polls-quizzes). <br/>
 [16] Ferramenta This Person Does Not Exist, da Stability.AI. Para acessá-la, clique [aqui](https://thispersondoesnotexist.com/). <br/>
+[17] Ferramenta Lucidchart. Para acessá-la, clique [aqui](https://lucid.app/documents). <br/>
 
 
 
@@ -63,3 +65,4 @@ A tabela 1, que está na seção 2 desse artefato, tratará das ferramentas util
 | 20.04.2023 | 1.2    | Correções no documento após feedback da primeira entrega |   Brunna   |    Diógenes     |
 | 26.04.2023 | 1.3    | Adicionando Microsoft Forms |   Brunna   |    -     |
 | 02.05.2023 | 1.4   | Adicionando This Person Does Not Exist |   Brunna   |    -     |
+| 16.05.2023 | 1.5   | Adicionando Lucidchart |   Brunna   |    -     |
