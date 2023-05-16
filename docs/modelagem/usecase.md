@@ -5,7 +5,15 @@ Dada a simplicidade desse modelo, sua utilização e sua funcionalidade está de
 
 ## 2. Metodologia
 
-Para elaborar esse artefato, o grupo decidiu representar os casos de uso por meio de um diagrama UML, seguindo os passos dos materiais e fontes fornecidos em sala de aula. A software empregado para construir o diagrama foi o LucidChart.
+Para elaborar esse artefato, o grupo decidiu representar os casos de uso por meio de um diagrama UML. Os passos seguidos para a produção do diagrama UML de Caso de Uso estão contidos a seguir:
+
+1. Inserção da forma retangular de sistema no diagrama;
+2. Adição de atores primários (inicia a utilização do sistema) e secundários (reage);
+3. Inserção de casos de uso na ordem em que acontecem para representar as tarefas realizadas dentro do sistema;
+4. Escolha de nomes intuitivos e simples para os casos de usos usando verbos e descrições simples para reforçar a ideia de que uma ação acontece, sem dar margens a dúvidas;
+5. Criação de relacionamentos ao conectar atores e casos de uso.
+
+O software empregado para construir o diagrama foi o LucidChart.
 
 ## 3. Legenda do Diagrama de Caso de Uso
 
@@ -35,7 +43,7 @@ A Tabela 1 a seguir descreve os elementos visuais utilizados no diagrama de caso
 
 ## 6. Referências
 
-> Diagrama de caso de uso UML: O que é, como fazer e exemplos, pela equipe do Lucidchart. Acesse o site com o tutorial nesse [link](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em 25 de abril de 2023.
+> Diagrama de caso de uso UML: O que é, como fazer e exemplos, pela equipe do Lucidchart. Acesse o site com o tutorial nesse [link](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em 11 de maio de 2023.
 
 > O que é UML e Diagramas de Caso de Uso: Introdução Prática à UML. Acesse o site com o tutorial nesse [link](https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408). Acesso em 13 de maio de 2023.
 
@@ -48,8 +56,9 @@ A Tabela 2 registra o histórico de versão desse documento.
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
 | 11/05/2023 | 1.0 | Primeira Versão do artefato de Use Case (Caso de Uso) | Brunna Louise, Diógenes Dantas | Milena Beatriz, Rafael Nobre |
-| 14/05/2023 | 1.1 | Adição de metologia e algumas legendas do Diagrama de Caso de Uso | Brunna Louise, Diógenes Dantas | Milena Beatriz |
+| 14/05/2023 | 1.1 | Adição de metodologia e algumas legendas do Diagrama de Caso de Uso | Brunna Louise, Diógenes Dantas | Milena Beatriz |
 | 15/05/2023 | 1.2 | Adição do Diagrama de Casos de Uso e novas imagens da Legenda do Diagrama de Caso de Uso | Diógenes Dantas | Brunna Louise |
+| 16/05/2023 | 1.3 | Adição de passos seguidos para criação de diagrama de caso de uso | Brunna Louise | Diógenes Dantas |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor(es): Brunna Louise, Diógenes Dantas
