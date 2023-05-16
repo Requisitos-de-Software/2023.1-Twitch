@@ -178,4 +178,4 @@ Este cenário visa demonstrar a restrição de acesso aos conteúdos adultos den
 | Versão | Data       | Descrição            | Autor(es)     | Revisor(es)   |
 | :----: | ---------- | -------------------- | ------------- | ------------- |
 | 1.0    | 12.05.2023 | Criação do documento e adição dos cenários | Milena Aires | - |
-| 1.1    | 16.05.2023 | Finalização do documento de cenários | Milena Aires | - |
+| 1.1    | 16.05.2023 | Finalização do documento de cenários | Milena Aires | Matheus |
