@@ -12,6 +12,32 @@ O FURPS+ é um modelo de engenharia de requisitos que abrange várias áreas-cha
 
 ## 3. Especificação Suplementar
 
+### 3.1 Funcionalidade (Functionality)
+
+A categoria de Funcionalidade representa todos os aspectos funcionais do software, ou seja, seus requisitos. Esses requisitos já foram elicitados em três técnicas diferentes: [Brainstorm](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/Brainstorm/), [Observação](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao/) e [Análise Documental](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/AnaliseDeDocumento/).
+
+### 3.2 Usabilidade (Usability)
+
+|**Id**|**Descrição**| **Requisito relacionado**|
+|:----:|:-----------:|:------------------------:|
+|U01| O usuário deve ser capaz de consumir conteúdos sem se registrar na plataforma |OBS01|
+|U02| O usuário deve estar cadastrado e logado para acessar as funcionalidades do sistema, com exceção o acesso aos vídeos |OBS04|
+|U03| Ao acessar "Ajuste de Conteúdo", no catálogo disponibilizado deverá ter somente a imagem do conteúdo sem um ícone de coração |OBS07|
+|U04| A barra de navegação de tipos de conteúdos deve aparecer na tela de início, mesmo estando logado |OBS12|
+|U05| Na Barra de navegação de tipos de conteúdos deve ser adicionado o tipo Artes e Ciência |OBS13|
+|U06| A experiência do usuário na questão de sugestões de conteúdo e o tipo de disponibilidade delas deve ser melhor logado na plataforma |OBS14|
+|U07| Possibilidade de fazer uma transmissão ao vivo seja de um PC, Mac, Xbox, Playstation ou Celular |DOC08|
+
+### 3.3 Confiabilidade (Reliability)
+
+|**Id**|**Descrição**| **Requisito relacionado**|
+|:----:|:-----------:|:------------------------:|
+|C01|A plataforma deve estar disponível para acesso e utilização pelos usuários durante a maior parte do tempo, minimizando períodos de inatividade não programada.| DOC21
+|C02|Caso ocorram falhas, a plataforma deve ser capaz de se recuperar de forma rápida e automática, garantindo que os usuários possam retomar suas atividades sem interrupções significativas.| DOC22
+|C03|A plataforma deve garantir a proteção dos dados dos usuários, prevenindo acessos não autorizados, ataques cibernéticos e vazamentos de informações confidenciais.| DOC23
+|C04|A plataforma deve ser capaz de lidar com um aumento na demanda e no número de usuários, garantindo um desempenho estável mesmo em períodos de pico de tráfego.| DOC24
+|C05|Todas as transações financeiras realizadas na plataforma devem ser protegidas e garantidas contra falhas ou corrupção de dados.| DOC25
+
 ### 3.4 Desempenho (Performance)
 
 |**Id**|**Descrição**| **Requisito relacionado**|
@@ -25,6 +51,8 @@ O FURPS+ é um modelo de engenharia de requisitos que abrange várias áreas-cha
 
 ### 3.5 Suportabilidade
 
+|**Id**|**Descrição**| **Requisito relacionado**|
+|:----:|:-----------:|:------------------------:|
 |S01|A plataforma deve ser compatível com uma ampla variedade de navegadores e dispositivos, incluindo navegadores populares como Google Chrome, Mozilla Firefox, Safari e Microsoft Edge, além de dispositivos desktop, laptops, smartphones e tablets.|DOC16|
 |S02|A plataforma deve funcionar em diferentes sistemas operacionais, como Windows, macOS e Linux, garantindo uma experiência consistente para os usuários, independentemente do sistema operacional que estão utilizando.|DOC17|
 |S03|Integração com Plataformas Externas: A Twitch deve fornecer APIs e recursos que permitam a integração fácil com outras plataformas e serviços externos, como sistemas de gerenciamento de conteúdo, ferramentas de streaming, serviços de pagamento e redes sociais.|DOC18|
@@ -43,3 +71,4 @@ O FURPS+ é um modelo de engenharia de requisitos que abrange várias áreas-cha
 |:---: | :---: | :---: | :---: | :---: |
 | 15/05/2023 | 1.0 | Criação do documento, adição de introdução e metologia | Ana Beatriz | Rafael |
 | 16/05/2023 | 1.1 | Adição das especificações | Rafael | Ana Beatriz |
+| 16/05/2023 | 1.2 | Adição das especificações | Ana Beatriz | Rafael |
