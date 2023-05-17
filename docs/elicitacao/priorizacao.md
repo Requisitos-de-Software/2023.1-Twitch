@@ -194,6 +194,88 @@ acesso aos vídeos|9|8|26|1,68|9|1,84|8|1,62|0,61|
 <h6 align = "center"> Tabela 2: Priorização utilizando First Things First
 <br>Fonte: Autor(es)</h6>
 
+### 2.3 Escala de Três Níveis 
+
+É uma priorização que agrupa os requisitos em três níveis: alta prioridade, média prioridade e baixa prioridade. É uma priorização subjetiva. Uma forma prática é dimensionar as prioridades com base em importância e urgência. Importância se refere sobre o quanto o requisito em análise é essencial para um objetivo de negócio da empresa. Urgência é relativa a necessidade que certo requisito precisa ser implementado.
+
+Com isso temos:
+- Alta prioridade: Alta importância e alta urgência.
+- Média prioridade: Alta importância e baixa prioridade.
+- Baixa prioridade: Baixa importância e baixa prioridade.
+- Requisitos podem aparecer como urgente para certos stakeholders porém não tem uma praticidade em atingir objetivos de negócio. Esses requisitos não devem ser executados.
+
+A seguir a tabela de priorização foi construída com sua devida prioridade e justificativa.
+
+|**Identificador**|**Requisito**|**Priorização**|**Justificativa**|
+|:---------------:|:-----------:|:-------------:|:---------------:|
+|RFB01|O usuário deve ser capaz de assistir a uma live| Alta prioridade | O aplicativo tem como objetivo principal a trasnmissão de lives |
+|RFB02|O usuário deve ser capaz de assistir a um VOD (Video on Demand)| Alta prioridade | Torna o aplicativo mais flexível para os usuários |
+|RFB03|O usuário deve ser capaz de interagir em uma live| Alta prioridade | Essencial para a interação do produtor de conteúdo e o usuário |
+|RFB04|O usuário deve ser capaz de comentar uma live | Alta prioridade | Importar para feedback do conteúdo que está sendo consumido |
+|RFB05|O usuário deve ser capaz de clipar um trecho de uma live| Média prioridade | Importante para replay |
+|RFB06|O usuário deve ser capaz de seguir um streamer| Alta prioridade | Essencial para o aplicativo entender o tipo de conteúdo o usuário gosta |
+|RFB07|O usuário deve ser capaz de compartilhar o link de uma live| Média prioridade | Interressante para o usuário compartilhar um conteúdo com outros possíveis usuários |
+|RFB08|O usuário deve ser capaz de se inscrever em um canal utilizando o Amazon Prime| Baixa prioridade | Não é essencial tendo em vista que o aplicativo tem outras opções de inscrição |
+|RFB09|O usuário deve ser capaz de se inscrever em um canal pagando diretamente| Alta prioridade | Importante para evitar demora do processo para o usuário |
+|RFB10|O usuário deve ser capaz de presentar uma inscrição para outro usuário| Baixa prioridade | Não é necessário para o objetivo do aplicativo |
+|RFB11|O usuário deve ser capaz de reagir durante a transmissão| Baixa prioridade | Tendo em vista que é uma segunda opção de interação, não é de grande importância |
+|RFB12|O usuário deve ser capaz de comprar bits| Média prioridade | É interessante para interação |
+|RFB13|O usuário deve ser capaz de utilizar os bits para mandar mensagens ao streamer| Média prioridade | É interessante para uma priorização de mensagens ao streamer |
+|RFB14|O usuário deve ser capaz denunciar uma transmissão ao vivo| Alta prioridade | É muito importante para identificar conteúdos proibidos e que ferem as diretrizes do aplicativo |
+|RFB15|O usuário deve ser capaz de denunciar mensagens de outro usuário| Alta prioridade | É muito importante para identificação de usuários com má índole |
+|RFB16|O usuário deve ser capaz de buscar canais/lives| Alta prioridade | Essencial pois segue o principal objetivo do aplicativo |
+|RFB17|O usuário deve ser capaz de consultar seu saldo de bits (Twitch Wallet)| Alta prioridade | Importante para conhecimento do próprio usuário sobre seus bits |
+|RFB18|O usuário deve ser capaz de consultar seu histórico de pagamentos| Alta prioridade | Importante para caso aconteça erro de pagamentos |
+|RFB19|O usuário deve ser capaz de consultar seu histórico de bits| Alta prioridade | Importante para conhecimento do próprio usuário sobre seu histórico de bits |
+|RFB20|O usuário deve ser capaz de adicionar/editar/excluir métodos de pagamentos| Alta prioridade | Importante para a própria segurança e controle do usuário |
+|RFB21|O usuário deve ser capaz de receber Drops e Recompensas, apoiando criadores da Twitch| Baixa prioridade | Relevante porém não urgente |
+|RFB22|O usuário deve ser capaz de resgatar Loots do Prime Gaming| Baixa prioridade | Relevante porém não urgente  |
+|RFB23|O usuário deve ser capaz de consultar seus Drops e Recompensas| Baixa prioridade | Relevante porém não urgente |
+|RFB24|O usuário deve ser capaz de consultar suas inscrições| Média prioridade | Importante para o usuário saber o que está consumindo |
+|RFB25|O usuário deve ser capaz de configurar o seu perfil| Alta prioridade | Essencial para o controle do usuário sobre sua conta no aplicativo |
+|RFB26|O usuário deve ser capaz de configurar sua Imagem do perfil| Alta prioridade | Essencial para edição do usuário dentro do aplicativo |
+|RFB27|O usuário deve ser capaz de configurar seu Banner do perfil| Alta prioridade | Essencial para edição do usuário dentro do aplicativo |
+|RFB28|O usuário deve ser capaz de configurar seu Nome de usuário| Alta prioridade | Essencial para edição do usuário dentro do aplicativo |
+|RFB29|O usuário deve ser capaz de configurar seu Nome de Exibição| Alta prioridade | Essencial para edição do usuário dentro do aplicativo |
+|RFB30|O usuário deve ser capaz de configurar sua Biografia| Alta prioridade | Essencial para edição do usuário dentro do aplicativo |
+|RFB31|O usuário deve ser capaz de desabilitar sua conta da Twitch| Alta prioridade | Importante para o usuário ter controle sobre sua conta |
+|RFB32|O usuário deve ser capaz de altear a cor do chat| Baixa prioridade | Irrelevante para o funcionamento do aplicativo |
+|RFB33|O usuário deve ser capaz de escolher o conjunto de emojis que ele utilizará| Baixa prioridade| Relevante porém não urgente |
+|RFB34|O usuário deve ser capaz de gerenciar as notificações de sua conta| Média prioridade | Importante para o usuário controlar suas notificações |
+|RFB35|O usuário deve ser capaz de vincular sua conta da Twitch a outras plataformas (Twitter, Amazon, Steam, Discord, Youtube)| Baixa prioridade | Interessante porém irrelevante |
+|RFB36|O usuário deve ser capaz de realizar ajustes nos conteúdos sugeridos| Média prioridade | Importante para o consumo do usuário sobre os conteúdos que ele gosta |
+|RFB37|O usuário deve ser capaz de alterar o idioma da plataforma| Alta prioridade | Essencial para inclusão do usuário |
+|RFB38|O usuário deve ser capaz de alterar o tema (claro/escuro) da plataforma| Baixa prioridade | Interessante porém não relevante |
+|RFB39|O usuário deve ser capaz de realizar o login na plataforma| Alta prioridade | Essencial para os usuários cadastrados terem acesso ao aplicativo |
+|RFB40|O usuário deve ser capaz de realizar o logoff da plataforma| Alta prioridade | Essencial para os usuários cadastrados encerrarem o acesso ao aplicativo |
+|RFB41|O usuário deve ser capaz de desabilitar a sua conta da Twitch| Alta prioridade | Essencial para os usuários cadastrados apagarem sua conta dentro do aplicativo |
+|RFB42|O usuário deve ser capaz de trocar sussurros com outros usuários| Baixa prioridade | Interesssante porém não urgente pois não é o objetivo do aplicativo |
+|RFB43|O usuário deve ser capaz de personalizar o seu canal| Alta prioridade | Essencial para criadores de conteúdo movimentarem a plataforma |
+|RFB44|O usuário deve ser capaz de iniciar sua transmissão| Alta prioridade | Essencial para o aplicativo que tem as lives como objetivo principal |
+|RNFB01|Internacionalização: o sistema é capaz de apresentar diferentes idiomas| Alta prioridade | Importante para inclusão de diversos usuários |
+|RNFB02|Segurança: o sistema deve garantir proteção contra acesso não autorizado| Alta prioridade | Essencial para conforto e segurança do usuário |
+|RNFB03|Portabilidade: o sistema deve ser disponível em diferentes plataformas (PCs, Smartphones, SmarTVs)| Média prioridade | Importante para maior variedade e portabilidade dos usuários |
+|RNFB04|Conformidade: o sistema deve cumprir todas as leis e regulamentos aplicáveis: cumpre as leis do país em operaçao| Alta prioridade | Essencial para funcionamento do aplicativo no país em operção |
+|RNFB05|Escabilidade: sistema é capaz de ter um bom desempenho sob uma carga de trabalho aumentada ou crescente: Suporta um alto número de usuários ativos ao mesmo tempo| Alta prioridade | Essencial para prevenção de quedas e erros dentro do aplicativo |
+|RNFB06|Disponibilidade:o sistema deve estar disponível quando necessário, com um bom funcionamento durante 24 horas| Alta prioridade | Essencial para uma boa avaliação e funcionamento do aplicativo |
+| OBS01 | O usuário deve ser capaz de consumir conteúdos sem se registrar na plataforma | Alta prioridade | Essencial para usuários que ainda não realizaram o cadastro |
+| OBS02 | O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo | Alta prioridade | Essencial para interação dentro do aplicativo |
+| OBS03 | O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo através de um provedor de email como Gmail, Outlook | Alta prioridade | Importante para um cadastro mais rápido no aplicativo |
+| OBS04 | O usuário deve estar cadastrado e logado para acessar as funcionalidades do sistema, com exceção o acesso aos vídeos  | Alta prioridade | Essencial para obteção de dados e preferência do usuário |
+| OBS05 | Ao sair de uma live e voltar para a página de início, o vídeo da live em formato de Thumbnail deve estar pausada ou não existir | Média prioridade | Importante para evitar insatisfação do usuário pela live continuar passando |
+| OBS06 | Para um novo usuário, o sistema de recomendação de Categorias deve mostrar os tipos de conteúdos que estão em alta na plataforma | Alta prioridade | Importante para o usuário ter ciência do conteúdo em alta |
+| OBS07 | Ao acessar "Ajuste de Conteúdo", no catálogo disponibilizado deverá ter somente a imagem do conteúdo sem um ícone de coração | Média prioridade | Para evitar incômodo ao usuário de curtir um conteúdo que não gostou |
+| OBS08 | Ao acessar "Ajuste de Conteúdo", após o usuário selecionar as categorias que lhe interessa. O sistema deve sugerir os tipos de conteúdos voltados a sua escolha na maioria da interface | Alta prioridade | Importante para melhor experiência e satisfação do usuário |
+| OBS09 | Ao acessar "Ajuste de Conteúdo", o usuário deve ter a opção de selecionar se deseja receber sugestões de conteúdos categorizados para adultos | Alta prioridade | Essencial para filtrar conteúdos para menores de 18 anos |
+| OBS10 | A plataforma deve colocar um efeito Blur nos Thumbnails para cada conteúdo categorizado como adulto ou 18+ | Alta prioridade | Importante para evitar menores de 18 anos assistindo conteúdos inadequados |
+| OBS11 | A plataforma deve colocar uma etapa de confirmação, perguntado se o usuário deseja visualizar o conteúdo categorizado como adulto ou 18+| Alta prioridade | Importante para evitar menores de 18 anos acessando conteúdos inadequados |
+| OBS12 | A barra de navegação de tipos de conteúdos deve aparecer na tela de início, mesmo estando logado  | Alta prioridade | Essencial para uma melhor experiência de um possível usuário |
+| OBS13 | Na Barra de navegação de tipos de conteúdos deve ser adicionado o tipo Artes e Ciência | Média prioridade | Essencial para um maior interesse dos usuários sobre esse assunto |
+| OBS14 | A experiência do usuário na questão de sugestões de conteúdo e o tipo de disponibilidade delas deve ser melhor logado na plataforma | Média prioridade | Importante para uma melhora de interação |
+
+<h6 align = "center"> Tabela 3: Priorização utilizando Escala de Três Níveis
+<br>Fonte: Autor(es)</h6>
+
 ## 3. Bibliografia
 
 > rfc2119 -- Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels," RFC 2119, March 1997
@@ -207,6 +289,7 @@ acesso aos vídeos|9|8|26|1,68|9|1,84|8|1,62|0,61|
 | 1.0 | 30/04/2023 | Criação e adição de priorização MoSCoW | Milena | Diógenes |
 | 1.1 | 30/04/2023 | Adição de priorização First Things First| Diógenes | Milena |
 | 1.2 | 01/05/2023 | Finalização de priorização First Things First| Diógenes | Milena |
+| 1.3 | 17/05/2023 | Adição de priorização Escala de Três Níveis | Milena | Diógenes |
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
 <br>Autor(es): Diógenes e Milena
