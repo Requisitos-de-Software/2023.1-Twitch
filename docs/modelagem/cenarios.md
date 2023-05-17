@@ -8,6 +8,7 @@ Diante disso, os cenários são utilizados para descrever as situações de uso 
 ## 2. Metodologia
 
 É possível descrever cenários de 5 maneiras, sendo elas:
+
 - Texto narrativo;
 - Texto estruturado;
 - Diagramas;
