@@ -28,6 +28,10 @@ A categoria de Funcionalidade representa todos os aspectos funcionais do softwar
 |U06| A experiência do usuário na questão de sugestões de conteúdo e o tipo de disponibilidade delas deve ser melhor logado na plataforma |OBS14|
 |U07| Possibilidade de fazer uma transmissão ao vivo seja de um PC, Mac, Xbox, Playstation ou Celular |DOC08|
 
+<h6 align = "center"> Tabela 1: Requisitos não funcionais de Usabilidade
+<br> Autor: Ana Beatriz
+<br>Fonte: Autor(es)
+
 ### 3.3 Confiabilidade (Reliability)
 
 |**Id**|**Descrição**| **Requisito relacionado**|
@@ -37,6 +41,10 @@ A categoria de Funcionalidade representa todos os aspectos funcionais do softwar
 |C03|A plataforma deve garantir a proteção dos dados dos usuários, prevenindo acessos não autorizados, ataques cibernéticos e vazamentos de informações confidenciais.| DOC23
 |C04|A plataforma deve ser capaz de lidar com um aumento na demanda e no número de usuários, garantindo um desempenho estável mesmo em períodos de pico de tráfego.| DOC24
 |C05|Todas as transações financeiras realizadas na plataforma devem ser protegidas e garantidas contra falhas ou corrupção de dados.| DOC25
+  
+<h6 align = "center"> Tabela 2: Requisitos não funcionais de Confiabilidade
+<br> Autor: Ana Beatriz
+<br>Fonte: Autor(es)
 
 ### 3.4 Desempenho (Performance)
 
@@ -48,6 +56,10 @@ A categoria de Funcionalidade representa todos os aspectos funcionais do softwar
 |D04|O sistema deve ser capaz de lidar com picos de acesso, como grandes eventos ou lançamentos, sem degradação significante|DOC13|
 |D05|A plataforma deve suportar vídeos em alta resolução, permitindo ao streamer realizar trasmissões acima de 4K, enquanto provê aos usuários a opção de adaptar a resolução de acordo com a conexão|DOC14|
 |D06|A plataforma deve permitir o playback de vídeos, sem bufferização ou interrupções, mesmo em alta demanda|DOC15|
+  
+<h6 align = "center"> Tabela 3: Requisitos não funcionais de Desempenho
+<br> Autor: Rafael
+<br>Fonte: Autor(es)
 
 ### 3.5 Suportabilidade
 
@@ -60,6 +72,9 @@ A categoria de Funcionalidade representa todos os aspectos funcionais do softwar
 |S05|A plataforma deve ser adaptável a diferentes regiões geográficas, suportando múltiplos idiomas, formatos de data/hora e preferências culturais específicas de cada região.|DOC20|
 |S06|Possibilidade de fazer uma transmissão ao vivo seja de um PC, Mac, Xbox, Playstation ou Celular|DOC01|
 
+<h6 align = "center"> Tabela 4: Requisitos não funcionais de Suportabilidade
+<br> Autor: Rafael
+<br>Fonte: Autor(es)
 
 ## Bibliografia
 > SERRANO, Milene; SERRANO, Maurício; Requisitos - Aula 13. Disponível em: Aprender3. Acesso em: 15 de maio de 2023.
