@@ -48,7 +48,7 @@ nav:
       - Análise Documental: ./elicitacao/tecnicas/AnaliseDeDocumento.md
     - Priorização: ./elicitacao/priorizacao.md
   - Modelagem: 
-    - Especificação Suplementar: ./modelagem/esp_suplementar.md
+    # - Especificação Suplementar:
     - Use Case: ./modelagem/usecase.md
     - Léxico: ./modelagem/lexico.md
     - Cenários: ./modelagem/cenarios.md
