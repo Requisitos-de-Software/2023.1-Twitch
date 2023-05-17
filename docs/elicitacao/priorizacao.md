@@ -199,6 +199,7 @@ acesso aos vídeos|9|8|26|1,68|9|1,84|8|1,62|0,61|
 É uma priorização que agrupa os requisitos em três níveis: alta prioridade, média prioridade e baixa prioridade. É uma priorização subjetiva. Uma forma prática é dimensionar as prioridades com base em importância e urgência. Importância se refere sobre o quanto o requisito em análise é essencial para um objetivo de negócio da empresa. Urgência é relativa a necessidade que certo requisito precisa ser implementado.
 
 Com isso temos:
+
 - Alta prioridade: Alta importância e alta urgência.
 - Média prioridade: Alta importância e baixa prioridade.
 - Baixa prioridade: Baixa importância e baixa prioridade.

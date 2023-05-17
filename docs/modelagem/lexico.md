@@ -14,7 +14,7 @@
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | :--------------: | :--------: | :-------: | :-------------------: | :-------------------: |
-| Nome do Léxico | Sinônimo | Símbolo | Descrição do efeito | Sujeito/Verbo/Objeto/Estado |
+| Nome do Léxico | Sinônimo | Símbolo | Descrição do efeito | Sujeito/Ação/Objeto/Estado |
 
 <h6 align = "center"> Tabela 1: Modelo dos léxicos
 <br>Autor(es): Matheus

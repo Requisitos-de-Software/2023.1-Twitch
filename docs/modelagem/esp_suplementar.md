@@ -30,7 +30,7 @@ A categoria de Funcionalidade representa todos os aspectos funcionais do softwar
 
 <h6 align = "center"> Tabela 1: Requisitos não funcionais de Usabilidade
 <br> Autor: Ana Beatriz
-<br>Fonte: Autor(es)
+<br>Fonte: Autor(es)</h6>
 
 ### 3.3 Confiabilidade (Reliability)
 
@@ -44,7 +44,7 @@ A categoria de Funcionalidade representa todos os aspectos funcionais do softwar
   
 <h6 align = "center"> Tabela 2: Requisitos não funcionais de Confiabilidade
 <br> Autor: Ana Beatriz
-<br>Fonte: Autor(es)
+<br>Fonte: Autor(es)</h6>
 
 ### 3.4 Desempenho (Performance)
 
@@ -59,7 +59,7 @@ A categoria de Funcionalidade representa todos os aspectos funcionais do softwar
   
 <h6 align = "center"> Tabela 3: Requisitos não funcionais de Desempenho
 <br> Autor: Rafael
-<br>Fonte: Autor(es)
+<br>Fonte: Autor(es)</h6>
 
 ### 3.5 Suportabilidade
 
@@ -74,7 +74,7 @@ A categoria de Funcionalidade representa todos os aspectos funcionais do softwar
 
 <h6 align = "center"> Tabela 4: Requisitos não funcionais de Suportabilidade
 <br> Autor: Rafael
-<br>Fonte: Autor(es)
+<br>Fonte: Autor(es)</h6>
 
 ## Bibliografia
 > SERRANO, Milene; SERRANO, Maurício; Requisitos - Aula 13. Disponível em: Aprender3. Acesso em: 15 de maio de 2023.
