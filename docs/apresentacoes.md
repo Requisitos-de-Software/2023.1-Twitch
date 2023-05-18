@@ -13,6 +13,11 @@ No ponto de controle 2, o objetivo da equipe foi realizar estudos a respeito da 
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/9xYXPc8BilM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
+## 3. Ponto de Controle 3
+No ponto de controle 2, o objetivo da equipe foi realizar estudos a respeito da elicitação de requisitos da plataforma Twitch. Foi incluso os perfis de usuário, personas e técnicas de priorização.
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/3-OyAad5F80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+
 
 ## 3. Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
@@ -23,6 +28,7 @@ No ponto de controle 2, o objetivo da equipe foi realizar estudos a respeito da 
 | 17.04.2023 | 1.3    | Adição do link da apresentação no iframe | Diógenes | Brunna | 
 | 17.04.2023 | 1.3    | Correção de bugs no iFrame | Brunna | - | 
 | 01.05.2023 | 1.4    | Adição do link da apresentação 2 no iframe e Ponto de Controle 2 | Diógenes | Matheus | 
+| 17.05.2023 | 1.5    | Adição do link da apresentação 3 no iframe e Ponto de Controle 3 | Diógenes | Matheus |
 
 <h6 align = "center"> Tabela 1: Histórico de Versões
 <br>Autor(es): Diógenes
