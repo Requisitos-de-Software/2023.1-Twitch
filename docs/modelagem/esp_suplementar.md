@@ -14,7 +14,7 @@ O FURPS+ é um modelo de engenharia de requisitos que abrange várias áreas-cha
 
 ### 3.1 Funcionalidade (Functionality)
 
-A categoria de Funcionalidade representa todos os aspectos funcionais do software, ou seja, seus requisitos. Esses requisitos já foram elicitados em três técnicas diferentes: [Brainstorm](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/Brainstorm/), [Observação](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao/) e [Análise Documental](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/AnaliseDeDocumento/).
+A categoria de Funcionalidade representa todos os aspectos funcionais do software, ou seja, seus requisitos. Esses requisitos já foram elicitados anteriormente e descritos no [Caso de Uso](https://requisitos-de-software.github.io/2023.1-Twitch/modelagem/usecase/).
 
 ### 3.2 Usabilidade (Usability)
 
