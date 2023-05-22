@@ -6,11 +6,11 @@ Histórias de usuário são as menores unidades de trabalho em uma estrutura ág
 
 ## 2. Metodologia
 
-A partir dos requisitos funcionais previamente elicitados (disponíveis em [Técnicas de Elicitação - Brainstorm](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/Brainstorm/)) pela equipe de desenvolvimento em uma reunião de Brainstorm, membros Ana Beatriz e Brunna Louise foram capazes de extrair histórias de usuário dos requsitos funcionas, seguindo a estrutura:
+A partir dos requisitos funcionais previamente elicitados (disponíveis em [Técnicas de Elicitação - Brainstorm](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/Brainstorm/)) pela equipe de desenvolvimento em uma reunião de Brainstorm, membros Ana Beatriz e Brunna Louise foram capazes de extrair histórias de usuário dos requsitos funcionais, seguindo a estrutura:
 
 |**Id do Requisito**|**Usuário** | **Desejo** | **Descrição de recurso** | **Critério de aceitação**|
 | :---: |:---: | :---: | :---: | :---:|
-|RFBxx|Como usuário, | quero | xxxxxxx. |  |
+|RFBxx|Como usuário, | quero | xxxxxxx. | Critério a ser cumprido. |
 
 O Id do Requisito é o mesmo Id utilizado no documento [Técnicas de Elicitação - Brainstorm](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/Brainstorm/), que foi essencial para a extração de histórias de usuário.
 
@@ -18,7 +18,7 @@ O usuário pode ser um **espectador**, ou seja, o tipo mais comum de usuário, c
 
 A descrição do recurso é uma breve descrição de uma funcionalidade que confere valor ao cliente.
 
-O critério de aceitação para a história de usuário descreve parâmetros que devem ser cumpridos a fim de que o desejo do usuário contido na história de usuário seja satisfeito.
+O critério de aceitação da história de usuário descreve parâmetros que devem ser cumpridos a fim de que o desejo do usuário contido na história de usuário seja satisfeito.
 
 ## 3. Histórias de Usuário
 
