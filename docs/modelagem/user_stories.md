@@ -8,11 +8,17 @@ Histórias de usuário são as menores unidades de trabalho em uma estrutura ág
 
 A partir dos requisitos funcionais previamente elicitados (disponíveis em [Técnicas de Elicitação - Brainstorm](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/Brainstorm/)) pela equipe de desenvolvimento em uma reunião de Brainstorm, membros Ana Beatriz e Brunna Louise foram capazes de extrair histórias de usuário dos requsitos funcionas, seguindo a estrutura:
 
-|**Id do Requisito**|**Usuário** | **Desejo** | **Descrição de recurso** |
-| :---: |:---: | :---: | :---: |
-|RFBxx|Como usuário, | quero | xxxxxxx. |
+|**Id do Requisito**|**Usuário** | **Desejo** | **Descrição de recurso** | **Critério de aceitação**|
+| :---: |:---: | :---: | :---: | :---:|
+|RFBxx|Como usuário, | quero | xxxxxxx. |  |
 
-Em que o usuário pode ser um **espectador**, ou seja, o tipo mais comum de usuário, cujo principal objetivo é assistir a e interagir com transmissões ao vivo; ou um **criador de conteúdo**, cujo principal objetivo é transmitir lives em seu canal. Um criador de conteúdo possui todas as características de um espectador, com o diferencial de produzir conteúdo para a plataforma.
+O Id do Requisito é o mesmo Id utilizado no documento [Técnicas de Elicitação - Brainstorm](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/Brainstorm/), que foi essencial para a extração de histórias de usuário.
+
+O usuário pode ser um **espectador**, ou seja, o tipo mais comum de usuário, cujo principal objetivo é assistir a e interagir com transmissões ao vivo; ou um **criador de conteúdo**, cujo principal objetivo é transmitir lives em seu canal. Um criador de conteúdo possui todas as características de um espectador, com o diferencial de produzir conteúdo para a plataforma.
+
+A descrição do recurso é uma breve descrição de uma funcionalidade que confere valor ao cliente.
+
+O critério de aceitação para a história de usuário descreve parâmetros que devem ser cumpridos a fim de que o desejo do usuário contido na história de usuário seja satisfeito.
 
 ## 3. Histórias de Usuário
 
@@ -20,8 +26,8 @@ Serão descritas abaixo as histórias de usuário extraídas de requisitos funci
 
 ### 3.1. Histórias de usuário relacionadas à visualização e interação com conteúdo:
 
-|**Id do Requisito**|**Usuário** | **Desejo** | **Descrição de recurso** |
-|:---: | :---: | :---: | :---: |
+|**Id do Requisito**|**Usuário** | **Desejo** | **Descrição de recurso** | **Critérios de Aceitação** |
+|:---: | :---: | :---: | :---: | :---: |
 | RFB01 |Como usuário, | quero | poder assistir a uma live. |
 | RFB02 |Como usuário, | quero | quero poder assistir a um VOD (Video on Demand). |
 | RFB03 |Como usuário, | quero | quero poder interagir em uma live. |
@@ -43,8 +49,8 @@ Serão descritas abaixo as histórias de usuário extraídas de requisitos funci
 
 ### 3.2. Histórias de usuário relacionadas a inscrições e pagamentos:
 
-|**Id do Requisito**|**Usuário** | **Desejo** | **Descrição de recurso** |
-|:---: | :---: | :---: | :---: |
+|**Id do Requisito**|**Usuário** | **Desejo** | **Descrição de recurso** | **Critérios de Aceitação** |
+|:---: | :---: | :---: | :---: | :---: |
 | RFB06 |Como usuário, | quero | poder seguir um streamer. |
 | RFB08 |Como usuário, | quero | poder me inscrever em um canal utilizando o Amazon Prime. |
 | RFB09 |Como usuário, | quero | poder me inscrever em um canal pagando diretamente. |
@@ -66,8 +72,8 @@ Serão descritas abaixo as histórias de usuário extraídas de requisitos funci
 
 ### 3.3. Histórias de usuário relacionadas à plataforma e configurações:
 
-|**Id do Requisito**|**Usuário** | **Desejo** | **Descrição de recurso** |
-|:---: | :---: | :---: | :---: |
+|**Id do Requisito**|**Usuário** | **Desejo** | **Descrição de recurso** | **Critérios de Aceitação** |
+|:---: | :---: | :---: | :---: | :---: |
 | RFB36 |Como usuário, | quero | poder realizar ajustes nos conteúdos sugeridos. |
 | RFB37 |Como usuário, | quero | poder alterar o idioma da plataforma. |
 | RFB38 |Como usuário, | quero | poder alterar o tema (claro/escuro) da plataforma. |
