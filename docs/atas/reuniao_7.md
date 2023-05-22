@@ -6,7 +6,7 @@ Realizada com o propósito de preparar ajustes a serem feitos após a segunda ap
 ## 2. Dados da reunião
 | Membros presentes | Data | Duração | Local |
 | :---------------: | :--: | :-----: | :---: | 
-| Ana Beatriz, Brunna, Diógenes, Rafael, Matheus | 22.05.2023 | 7 minutos minutos | Online - via Google Meets |
+| Ana Beatriz, Brunna, Diógenes, Rafael, Matheus | 22.05.2023 | 7 minutos | Online - via Google Meets |
 
 ## 3. Objetivos
 - Acompanhar cronograma para entrega do PC4
