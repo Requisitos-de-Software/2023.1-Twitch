@@ -54,6 +54,7 @@ nav:
     - Especificação Suplementar: ./modelagem/esp_suplementar.md
     
     - NFR Framework: ./modelagem/nfr.md
+    - User Stories: ./modelagem/user_stories.md
   - Atas de reunião: 
     - Reunião 1: ./atas/reuniao_1.md
     - Reunião 2: ./atas/reuniao_2.md
