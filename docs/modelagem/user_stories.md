@@ -6,7 +6,7 @@ Histórias de usuário são as menores unidades de trabalho em uma estrutura ág
 
 ## 2. Metodologia
 
-A partir dos requisitos funcionais previamente elicitados (disponíveis em [Técnicas de Elicitação - Brainstorm](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/Brainstorm/)) pela equipe de desenvolvimento em uma reunião de Brainstorm, membros Ana Beatriz e Brunna Louise foram capazes de extrair histórias de usuário dos requsitos funcionais, seguindo a estrutura:
+A partir dos requisitos funcionais previamente elicitados (disponíveis em [Técnicas de Elicitação - Brainstorm](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/Brainstorm/)) pela equipe de desenvolvimento em uma reunião de Brainstorm, membros Ana Beatriz e Brunna Louise, em uma reunião, foram capazes de extrair histórias de usuário dos requsitos funcionais. Nessa reunião, Ana Beatriz assumiu papel de cliente (Product Owner) e Brunna Louise assumiu papel de integrante da equipe de desenvolvimento. As histórias de usuário extraídas apresentam a seguinte a estrutura:
 
 |**Id da User Story**|**Usuário** | **Desejo** | **Descrição de recurso** | **Critério de aceitação**|**Id do Requisito**|
 | :---: |:---: | :---: | :---: | :---:| :---: |
@@ -18,7 +18,7 @@ O usuário pode ser um **espectador**, ou seja, o tipo mais comum de usuário, c
 
 A descrição do recurso é uma breve descrição de uma funcionalidade que confere valor ao cliente.
 
-O critério de aceitação da história de usuário descreve parâmetros que devem ser cumpridos a fim de que o desejo do usuário contido na história de usuário seja satisfeito.
+O critério de aceitação da história de usuário descreve parâmetros que devem ser cumpridos a fim de que o desejo do usuário contido na história de usuário seja satisfeito. Foi de extrema importância a participação de um cliente para estabelecer esses critérios.
 
 É importante deixar documentado que: as histórias de usuário foram escritas de forma simples e não ambígua de forma suficiente a torná-las auto-explicativas; nós, como equipe de desenvolvimento, somos também usuários e, consequentemente, clientes da plataforma Twitch e, portanto, como clientes, validamos essas histórias de usuário aqui descritas; durante a elicitação dos requisitos em uma reunião de Brainstorm, documentada no arquivo citado acima, nós, como equipe de desenvolvimento e como usuários da Twitch e, portanto, clientes da plataforma, fomos capazes de validar tanto os requisitos funcionais quanto os requisitos não funcionais elicitados; e, por fim, todas as histórias de usuário aqui descritas podem ser testadas.
 
@@ -98,15 +98,27 @@ Serão descritas abaixo as histórias de usuário extraídas de requisitos funci
 
 > REHKOPF, Max. *Histórias de usuários com exemplos e um template*. Atlassian. Disponível no [link](https://www.atlassian.com/br/agile/project-management/user-stories). Acesso em 22 de maio de 2023.
 
+## 5. Participantes
+
+A tabela 4 a seguir registra os membros do grupo que contribuíram com esse documento:
+
+| **Participante** | **Papel** |
+| :----: | :----: |
+| Ana Beatriz | Cliente/Usuário/Product Owner |
+| Brunna Louise | Membro da Equipe de Desenvolvimento Ágil |
+<h6 align = "center"> Tabela 4: Participantes e seus papéis na produção do artefato
+<br> Autor(es): Ana Beatriz, Brunna Louise
+<br>Fonte: Autor(es)</h6>
+
 ## Histórico de Versões
 
-A Tabela 4 registra o histórico de versão desse documento.
+A Tabela 5 registra o histórico de versão desse documento.
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
 | 22/05/2023 | 1.0 | Primeira Versão do artefato de User Stories (Histórias de Usuário) | Ana Beatriz, Brunna Louise | - |
 | 23/05/2023 | 1.1 | Estabelecendo padrões de codificação e adicionando documentação adicional | Brunna Louise | Ana Beatriz |
 
-<h6 align = "center"> Tabela 4: Histórico de Versões
+<h6 align = "center"> Tabela 5: Histórico de Versões
 <br> Autor(es): Ana Beatriz, Brunna Louise
 <br>Fonte: Autor(es)</h6>
