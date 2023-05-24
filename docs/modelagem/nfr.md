@@ -172,6 +172,8 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de Elici
 
 > Aula2-Parte2-NFR Framework.pdf - CIn UFPE. [link](https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf). Acessado em 24 de maio de 2023
 
+> CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J. Non-functional requirements in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5.
+
 
 ## Histórico de Versões
 
