@@ -13,18 +13,49 @@ O funcionamento do NFR framework pode ser visualizado em termos da construção,
 
 Para construir o SIG, o grupo decidiu usar a metodologia de construção descrita na dissertação do Reinaldo Antonio. Na dissertação, é abordado três tipos de softgoals:
 
-- Softgoals NFR: representam os Requisitos Não- Funcionais e podem estar interrelacionados, organizados em catálogos e apresentados de forma hierárquica no desenvolvimento do projeto
-- Softgoals de Operacionalização: representam soluções de implementação para satisfazer softgoals NFR ou outros softgoals de operacionalização. Essas soluções incluem operações, processos, representações de dados, estruturações e restrições no sistema alvo para atender às necessidades indicadas pelos softgoals NFR e de operacionalização
-- Softgoals de Afirmação:permitem que as características do domínio (como prioridades e carga de trabalho) sejam consideradas e devidamente refletidas no processo de tomada de decisão. Eles servem como justificativa para apoiar ou negar a forma como os softgoals são priorizados, refinados e os componentes são selecionados
+- **Softgoals NFR**: representam os Requisitos Não- Funcionais e podem estar interrelacionados, organizados em catálogos e apresentados de forma hierárquica no desenvolvimento do projeto
+- **Softgoals de Operacionalização**: representam soluções de implementação para satisfazer softgoals NFR ou outros softgoals de operacionalização. Essas soluções incluem operações, processos, representações de dados, estruturações e restrições no sistema alvo para atender às necessidades indicadas pelos softgoals NFR e de operacionalização
+- **Softgoals de Afirmação**:permitem que as características do domínio (como prioridades e carga de trabalho) sejam consideradas e devidamente refletidas no processo de tomada de decisão. Eles servem como justificativa para apoiar ou negar a forma como os softgoals são priorizados, refinados e os componentes são selecionados
 
 <center>
 
 ![SoftGoals_tipos](./imagens/softgoal_tipos.png){ width=300 }
 
+<h6 align = "center">Figura 1: Tipos de Softgoal.
+<br>Fonte(es): (SILVA, 2019, p. 31).
+</h6>
 </center>
 
-<h6 align = "center">Figura 1: Tipos de Softgoal.
-<br>Autor(es): Diógenes Dantas
-<br>Fonte: Autor(es)</h6>
+- **Interdependências**: as relações entre os softgoals podem ser divididas em 4 tipos diferentes de decomposição, conforme a figura 2
+
+<center>
+
+![interdependencia_tipos](./imagens/interdependencia_tipos.png){ width=500 }
+
+<h6 align = "center">Figura 2: Tipos de Interdependência.
+<br>Fonte(es): (SILVA, 2019, p. 31).
+</h6>
+</center>
+
+- **Contribuições**: A fim de descrever a satisfação de um softgoal descendente em relação a um ascendente, podem ser usadas algumas contribuições. No projeto serão usadas duas:
+    
+    **AND**: Os softgoals ascendentes só são satisfeitos se os descendentes também forem.
+    
+    **OR**: Se algum softgoal descendente for satisfeito, o ascendente também já será satisfeito.
+    
+    **MAKE(++)**: Ao usar a contribuição suficientemente positiva (MAKE), se o softgoal descendente for satisfeito, o softgoal ascendente também será satisfeito.
+    
+    **HELP(+)**: Ao usar a contribuição parcialmente positiva (HELP), se o softgoal descendente for parcialmente satisfeito, o softgoal ascendente também será parcialmente satisfeito.
+
+- **Procedimento de avaliação**: para determinar o grau de satisfação de um requisito não-funcional, algumas legendas podem ser usadas. A figura 3 ilustra o significado de cada:
+
+<center>
+
+![procedimento_avaliacao](./imagens/procedimento_avaliacao.png){ width=500 }
+
+<h6 align = "center">Figura 3: Tipos de Procedimento de Avaliação.
+<br>Fonte(es): (SILVA, 2019, p. 38).
+</h6>
+</center>
 
 ## 3. NFR Framework
