@@ -50,11 +50,28 @@ De acordo com o Dashboard 1, podemos abstrair algumas informações relevantes:
 5. As sugestões dos usuários são majoritariamente reclamações de propagandas, e alegações de que a interface é muito poluída.
 
 
-## 6. Conclusão
+## 6. Requisitos Elicitados
+
+- QUE: Questionário
+- RF: Requisito Funcional
+- RNF: Requisito Não Funcional  
+
+| Identificador | Requisitos | Tipo |
+| --------------| ---------- | ---- |
+| QUE01 | Redução de anúncios seguidos | RNF |
+| QUE02 | Opção para ocultar as recomendações ou canais que outros usuários assistem | RF |
+| QUE03 | Recomendação de vídeos publicados que estão em ascensão na plataforma (semelhante ao "Em Alta" no Youtube) | RF |
+| QUE04 | Integração nativa com servidor do Discord | RF |
+| QUE05 | Recomendação de conteúdos que condizem com o tipo de conteúdo consumido pelo usuário | RNF |
+| QUE06 | Filtragem de direitos autorais, combatendo a pirataria | RF |
+| QUE07 | Telas Múltiplas | RF |
+| QUE08 | Modo Rascunho para Salvar e Editar vídeos, após sair da sessão.| RNF |
+
+## 7. Conclusão
 
 Dessa maneira, conclui-se que o perfil do usuário mais comum da plataforma, dada a amostragem captada pela presente pesquisa, se identifica com o gênero masculino, possui de 18 a 24 anos, e seu maior interesse dentro da plataforma é por jogos. 
 
-## 7. Referências
+## 8. Referências
 
 > Slides da E-Disciplina da USP de Interação Humano-Computador. Acesse os slides nesse [link](https://edisciplinas.usp.br/pluginfile.php/4531121/mod_resource/content/1/IHC%20Usuario_Personas_Pesquisas.pdf). Acesso em 25 de abril de 2023.
 

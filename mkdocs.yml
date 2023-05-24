@@ -52,6 +52,7 @@ nav:
     - Léxico: ./modelagem/lexico.md
     - Use Case: ./modelagem/usecase.md
     - Especificação Suplementar: ./modelagem/esp_suplementar.md
+    - NFR Framework: ./modelagem/nfr.md
     - Backlog do produto: ./modelagem/backlog.md
     - User Stories: ./modelagem/user_stories.md
   - Atas de reunião: 

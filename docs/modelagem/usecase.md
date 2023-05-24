@@ -36,7 +36,7 @@ A Tabela 1 a seguir descreve os elementos visuais utilizados no diagrama de caso
 
 O diagrama de Caso de Uso da Twitch está na figura 1 a seguir.
 
-![Diagrama de Casos de Uso](./imagens/casosdeusod.png){: id="Diagrama de Casos de Uso"}
+![Diagrama de Casos de Uso](./imagens/CasodeUsoUML.png){: id="Diagrama de Casos de Uso"}
 <h6 align = "center">Figura 1: Diagrama de Casos de Uso
 <br>Autor(es): Brunna Louise e Diógenes Dantas
 <br>Fonte: Autor(es)</h6>
@@ -143,7 +143,11 @@ As especificações de cada Caso de Uso no diagrama mostrado na seção 4 serão
 | Pós-Condições  | O usuário é capaz de enviar mensagens privadas para outros usuários e se comunicar com outros membros da plataforma. |
 <h6 align = "center"> Tabela 10: Especificação de casos de uso - Acessar Sussuro </h6>
 
-## 6. Referências
+## 6. Validação do Diagrama dos Casos de Uso
+
+
+
+## 7. Referências
 
 > Diagrama de caso de uso UML: O que é, como fazer e exemplos, pela equipe do Lucidchart. Acesse o site com o tutorial nesse [link](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em 11 de maio de 2023.
 
@@ -163,6 +167,7 @@ A Tabela 11 registra o histórico de versão desse documento.
 | 16/05/2023 | 1.3 | Adição de passos seguidos para criação de diagrama de caso de uso | Brunna Louise | Diógenes Dantas |
 | 16/05/2023 | 1.4 | Adição de primeira versão de Especificações de Casos de Uso | Brunna Louise | Diógenes Dantas |
 | 16/05/2023 | 1.5 | Adição de novas Especificações de Casos de Uso e alteração da imagem de associações| Diógenes Dantas | Brunna Louise |
+| 24/05/2023 | 1.6 | Adição de Correções ligadas ao diagrama de Casos de Uso| Diógenes Dantas | Brunna Louise |
 
 <h6 align = "center"> Tabela 11: Histórico de Versões
 <br> Autor(es): Brunna Louise, Diógenes Dantas
