@@ -79,7 +79,7 @@ A Tabela 1 indica os requisitos funcionais elicitados por meio
 
 A Tabela 2 indica os requisitos não funcionais elicitados por meio
 
-|**ID**|**Requisito Funcional**|
+|**ID**|**Requisito Não Funcional**|
 |------|-----------------------|
 |RNFB01|Internacionalização: o sistema é capaz de apresentar diferentes idiomas|
 |RNFB02|Segurança: o sistema deve garantir proteção contra acesso não autorizado|
