@@ -121,7 +121,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de Elici
 </h6>
 </center>
 
-### 3.3 NFR de Desempenho
+### 3.3 NFR de Performance
 
 <center>
 
@@ -132,7 +132,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de Elici
 </h6>
 </center>
 
-### 3.3.1 NFR de Desempenho com Propagação
+### 3.3.1 NFR de Performance com Propagação
 
 <center>
 
@@ -143,11 +143,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de Elici
 </h6>
 </center>
 
-### 3.4 NFR de Suportabilidade
-
-### 3.4.1 NFR de Suportabilidade com Propagação
-
-### 3.5 Segurança
+### 3.4 Segurança
 
 <center>
 
@@ -158,7 +154,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de Elici
 </h6>
 </center>
 
-### 3.5.1 Segurança com Propagação
+### 3.4.1 Segurança com Propagação
 
 <center>
 
@@ -187,6 +183,7 @@ A Tabela 1 registra o histórico de versão desse documento.
 | 23/05/2023 | 1.1 | Adicão de Introdução e parte da Metodologia | Diógenes | Matheus |
 | 23/05/2023 | 1.2 | Adicão do final da metodologia e imagens | Matheus | Diógenes |
 | 23/05/2023 | 1.3 | Adicão de títulos do NFR Framework (Confiabilidade, Usabilidade etc) | Diógenes | Matheus |
+| 23/05/2023 | 1.4 | Adicão de imagens do NFR Framework | Diógenes, Matheus | Matheus |
 
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
