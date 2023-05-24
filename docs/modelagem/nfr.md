@@ -79,23 +79,103 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de Elici
 
 ### 3.1 NFR de Usabilidade
 
+<center>
+
+![usabilidade](./imagens/usabilidade.jpeg){ width=700 }
+
+<h6 align = "center">Figura 4: NFR Framework de Usabilidade.
+<br>Fonte(es): Autor(es).
+</h6>
+</center>
+
 ### 3.1.1 NFR de Usabilidade com Propagação
+
+<center>
+
+![usabilidadepro](./imagens/usabilidadepro.jpeg){ width=700 }
+
+<h6 align = "center">Figura 5: NFR Framework de Usabilidade com Propagação.
+<br>Fonte(es): Autor(es).
+</h6>
+</center>
 
 ### 3.2 NFR de Confiabilidade
 
+<center>
+
+![confiabilidade](./imagens/confiabilidade.jpeg){ width=700 }
+
+<h6 align = "center">Figura 6: NFR Framework de Confiabilidade.
+<br>Fonte(es): Autor(es).
+</h6>
+</center>
+
 ### 3.2.1 NFR de Confiabilidade com Propagação
+
+<center>
+
+![confiabilidadepro](./imagens/confiabilidadepro.jpeg){ width=700 }
+
+<h6 align = "center">Figura 4: NFR Framework de Confiablidade com Propagação.
+<br>Fonte(es): Autor(es).
+</h6>
+</center>
 
 ### 3.3 NFR de Desempenho
 
+<center>
+
+![confiabilidadepro](./imagens/desempenho.jpeg){ width=700 }
+
+<h6 align = "center">Figura 4: NFR Framework de Confiablidade com Propagação.
+<br>Fonte(es): Autor(es).
+</h6>
+</center>
+
 ### 3.3.1 NFR de Desempenho com Propagação
+
+<center>
+
+![confiabilidadepro](./imagens/desempenhopro.jpeg){ width=700 }
+
+<h6 align = "center">Figura 4: NFR Framework de Confiablidade com Propagação.
+<br>Fonte(es): Autor(es).
+</h6>
+</center>
 
 ### 3.4 NFR de Suportabilidade
 
 ### 3.4.1 NFR de Suportabilidade com Propagação
 
+### 3.5 Segurança
+
+<center>
+
+![confiabilidadepro](./imagens/seguranca.jpeg){ width=700 }
+
+<h6 align = "center">Figura 4: NFR Framework de Confiablidade com Propagação.
+<br>Fonte(es): Autor(es).
+</h6>
+</center>
+
+### 3.5.1 Segurança com Propagação
+
+<center>
+
+![confiabilidadepro](./imagens/segurancapro.jpeg){ width=700 }
+
+<h6 align = "center">Figura 4: NFR Framework de Confiablidade com Propagação.
+<br>Fonte(es): Autor(es).
+</h6>
+</center>
+
+
 ## 4. Referências
 
 > SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019.
+
+> Aula2-Parte2-NFR Framework.pdf - CIn UFPE. [link](https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf). Acessado em 24 de maio de 2023
+
 
 ## Histórico de Versões
 
@@ -107,7 +187,6 @@ A Tabela 1 registra o histórico de versão desse documento.
 | 23/05/2023 | 1.1 | Adicão de Introdução e parte da Metodologia | Diógenes | Matheus |
 | 23/05/2023 | 1.2 | Adicão do final da metodologia e imagens | Matheus | Diógenes |
 | 23/05/2023 | 1.3 | Adicão de títulos do NFR Framework (Confiabilidade, Usabilidade etc) | Diógenes | Matheus |
-
 
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
