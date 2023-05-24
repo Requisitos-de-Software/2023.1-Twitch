@@ -77,6 +77,22 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de Elici
 
 ## 3. NFR Framework
 
+### 3.1 NFR de Usabilidade
+
+### 3.1.1 NFR de Usabilidade com Propagação
+
+### 3.2 NFR de Confiabilidade
+
+### 3.2.1 NFR de Confiabilidade com Propagação
+
+### 3.3 NFR de Desempenho
+
+### 3.3.1 NFR de Desempenho com Propagação
+
+### 3.4 NFR de Suportabilidade
+
+### 3.4.1 NFR de Suportabilidade com Propagação
+
 ## 4. Referências
 
 > SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019.
@@ -89,7 +105,9 @@ A Tabela 1 registra o histórico de versão desse documento.
 |:---: | :---: | :---: | :---: | :---: |
 | 23/05/2023 | 1.0 | Primeira Versão do artefato NFR Framework | Diógenes | Matheus |
 | 23/05/2023 | 1.1 | Adicão de Introdução e parte da Metodologia | Diógenes | Matheus |
-| 23/05/2023 | 1.2 | Adicão do final da metodologia e imagens | Matheus | Diogenes |
+| 23/05/2023 | 1.2 | Adicão do final da metodologia e imagens | Matheus | Diógenes |
+| 23/05/2023 | 1.3 | Adicão de títulos do NFR Framework (Confiabilidade, Usabilidade etc) | Diógenes | Matheus |
+
 
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
