@@ -28,8 +28,8 @@ Para apresentação dos cenários neste projeto foi escolhido o texto estruturad
 | Restrições | Imposição que restrinja um episódio de um cenário                                            |
 | Exceção    | Tratamento para uma situação excepcional ou de erro                                          |
 
-<h6 align = "center"> Tabela 1: Cronograma planejado do ponto de controle 1 </h6>
-<h6 align = "center"> Fonte: [1], 2023 </h6>
+<h6 align = "center"> Tabela 1: Modelo de cenário
+<h6 align = "center"> Fonte: Autor </h6>
 
 ## 3. Cenários identificados
 
@@ -70,7 +70,7 @@ O cenário refere-se ao login de um usuário já cadastrado no aplicativo.
 <h6 align = "center"> Tabela 3: Cenário de login no aplicativo Twitch </h6>
 <h6 align = "center"> Fonte: Autor </h6>
 
-#### C03: Esquecer senha 
+#### C03: Lembrar senha 
 O cenário a seguir demonstra a redefinição de senha de um usuário ja cadastrado no aplicativo da twitch.
 
 | Elemento   | Descrição |
