@@ -71,5 +71,27 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de Elici
 | QUE05 | Recomendação de conteúdos que condizem com o tipo de conteúdo consumido pelo usuário |
 | QUE08 | Modo Rascunho para Salvar e Editar vídeos, após sair da sessão.|
 
+<h6 align = "center"> Tabela 1: Requisitos não funcionais  
+<br> Autor(es): Matheus
+<br>Fonte: Autor(es)</h6>
 
 ## 3. NFR Framework
+
+## 4. Referências
+
+> SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019.
+
+## Histórico de Versões
+
+A Tabela 1 registra o histórico de versão desse documento.
+
+|**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
+|:---: | :---: | :---: | :---: | :---: |
+| 23/05/2023 | 1.0 | Primeira Versão do artefato NFR Framework | Diógenes | Matheus |
+| 23/05/2023 | 1.1 | Adicão de Introdução e parte da Metodologia | Diógenes | Matheus |
+| 23/05/2023 | 1.2 | Adicão do final da metodologia e imagens | Matheus | Diogenes |
+
+
+<h6 align = "center"> Tabela 2: Histórico de Versões
+<br> Autor(es): Diógenes Dantas, Matheus 
+<br>Fonte: Autor(es)</h6>
