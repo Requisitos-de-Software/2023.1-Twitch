@@ -116,7 +116,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de Elici
 
 ![confiabilidadepro](./imagens/confiabilidadepro.jpeg){ width=700 }
 
-<h6 align = "center">Figura 4: NFR Framework de Confiablidade com Propagação.
+<h6 align = "center">Figura 7: NFR Framework de Confiablidade com Propagação.
 <br>Fonte(es): Autor(es).
 </h6>
 </center>
@@ -127,7 +127,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de Elici
 
 ![confiabilidadepro](./imagens/desempenho.jpeg){ width=700 }
 
-<h6 align = "center">Figura 4: NFR Framework de Confiablidade com Propagação.
+<h6 align = "center">Figura 8: NFR Framework de Performance.
 <br>Fonte(es): Autor(es).
 </h6>
 </center>
@@ -138,7 +138,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de Elici
 
 ![confiabilidadepro](./imagens/desempenhopro.jpeg){ width=700 }
 
-<h6 align = "center">Figura 4: NFR Framework de Confiablidade com Propagação.
+<h6 align = "center">Figura 9: NFR Framework de Performance com Propagação.
 <br>Fonte(es): Autor(es).
 </h6>
 </center>
@@ -149,7 +149,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de Elici
 
 ![confiabilidadepro](./imagens/seguranca.jpeg){ width=700 }
 
-<h6 align = "center">Figura 4: NFR Framework de Confiablidade com Propagação.
+<h6 align = "center">Figura 10: NFR Framework de Segurança.
 <br>Fonte(es): Autor(es).
 </h6>
 </center>
@@ -160,7 +160,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de Elici
 
 ![confiabilidadepro](./imagens/segurancapro.jpeg){ width=700 }
 
-<h6 align = "center">Figura 4: NFR Framework de Confiablidade com Propagação.
+<h6 align = "center">Figura 11: NFR Framework de Segurança com Propagação.
 <br>Fonte(es): Autor(es).
 </h6>
 </center>
@@ -177,7 +177,7 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de Elici
 
 ## Histórico de Versões
 
-A Tabela 1 registra o histórico de versão desse documento.
+A Tabela 2 registra o histórico de versão desse documento.
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
