@@ -58,4 +58,18 @@ Para construir o SIG, o grupo decidiu usar a metodologia de construção descrit
 </h6>
 </center>
 
+Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de Elicitação, dando prioridade aos requisitos não implementados, foram criados os diagramas para o NFR Framework.
+
+| Identificador | Requisitos não funcionais |
+| --------------| ---------- |
+| OBS10 | A plataforma deve colocar um efeito Blur nos Thumbnails para cada conteúdo categorizado como adulto ou 18+ |
+| OBS12 | A barra de navegação de tipos de conteúdos deve aparecer na tela de início, mesmo estando logado  |
+| OBS13 | Na Barra de navegação de tipos de conteúdos deve ser adicionado o tipo Artes e Ciência | 
+| OBS14 | A experiência do usuário na questão de sugestões de conteúdo e o tipo de disponibilidade delas deve ser melhor logado na plataforma |
+| RNFB02 | Segurança: o sistema deve garantir proteção contra acesso não autorizado |
+| QUE01 | Redução de anúncios seguidos |
+| QUE05 | Recomendação de conteúdos que condizem com o tipo de conteúdo consumido pelo usuário |
+| QUE08 | Modo Rascunho para Salvar e Editar vídeos, após sair da sessão.|
+
+
 ## 3. NFR Framework
