@@ -59,13 +59,13 @@ De acordo com o Dashboard 1, podemos abstrair algumas informações relevantes:
 | Identificador | Requisitos | Tipo |
 | --------------| ---------- | ---- |
 | QUE01 | Redução de anúncios seguidos | RNF |
-| QUE02 | Opção para ocultar as recomendações ou canais que outros usuários assistem | RNF |
-| QUE03 | Recomendação de vídeos publicados que estão em ascensão na plataforma (semelhante ao "Em Alta" no Youtube) | RNF |
+| QUE02 | Opção para ocultar as recomendações ou canais que outros usuários assistem | RF |
+| QUE03 | Recomendação de vídeos publicados que estão em ascensão na plataforma (semelhante ao "Em Alta" no Youtube) | RF |
 | QUE04 | Integração nativa com servidor do Discord | RF |
 | QUE05 | Recomendação de conteúdos que condizem com o tipo de conteúdo consumido pelo usuário | RNF |
-| QUE06 | Filtragem de direitos autorais, combatendo a pirataria | RNF |
-| QUE07 | Telas Múltiplas | RNF |
-| QUE08 | Modo Rascunho para Salvar e Editar vídeos, após sair da sessão.| RF |
+| QUE06 | Filtragem de direitos autorais, combatendo a pirataria | RF |
+| QUE07 | Telas Múltiplas | RF |
+| QUE08 | Modo Rascunho para Salvar e Editar vídeos, após sair da sessão.| RNF |
 
 ## 7. Conclusão
 
