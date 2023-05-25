@@ -14,9 +14,14 @@ No ponto de controle 2, o objetivo da equipe foi realizar estudos a respeito da 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/9xYXPc8BilM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 ## 3. Ponto de Controle 3
-No ponto de controle 2, o objetivo da equipe foi realizar estudos a respeito da elicitação de requisitos da plataforma Twitch. Foi incluso os perfis de usuário, personas e técnicas de priorização.
+No ponto de controle 3, o objetivo da equipe foi realizar estudos a respeito da modelagem de requisitos da plataforma Twitch. Foi incluso Cenários, Léxicos, Use Case e Especificação Suplementar.
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/3-OyAad5F80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+
+## 3. Ponto de Controle 4
+No ponto de controle 4, o objetivo da equipe foi realizar estudos a respeito da modelagem (Parte 2) de requisitos da plataforma Twitch. Foi incluso User Stories, NFR Network e Backlog do produto.
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/m4sJ6Enkxco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 
 ## 3. Histórico de versão
@@ -29,6 +34,7 @@ No ponto de controle 2, o objetivo da equipe foi realizar estudos a respeito da 
 | 17.04.2023 | 1.3    | Correção de bugs no iFrame | Brunna | - | 
 | 01.05.2023 | 1.4    | Adição do link da apresentação 2 no iframe e Ponto de Controle 2 | Diógenes | Matheus | 
 | 17.05.2023 | 1.5    | Adição do link da apresentação 3 no iframe e Ponto de Controle 3 | Diógenes | Matheus |
+| 24.05.2023 | 1.5    | Adição do link da apresentação 4 no iframe e Ponto de Controle 4 | Diógenes | Matheus |
 
 <h6 align = "center"> Tabela 1: Histórico de Versões
 <br>Autor(es): Diógenes
