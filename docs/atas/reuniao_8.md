@@ -1,6 +1,6 @@
 # Ata de reunião 
 
-## 1. Reunião 7
+## 1. Reunião 8
 Realizada com o propósito de preparar ajustes a serem feitos após o ponto de entrega 4.
 
 ## 2. Dados da reunião
