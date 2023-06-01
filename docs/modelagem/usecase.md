@@ -145,7 +145,17 @@ As especificações de cada Caso de Uso no diagrama mostrado na seção 4 serão
 
 ## 6. Validação do Diagrama dos Casos de Uso
 
+A tabela 11 a seguir registra os membros do grupo que contribuíram com esse documento:
 
+| **Participante** | **Papel** |
+| ---- | ----------- | 
+|  | Cliente/Usuário/Product Owner |
+| Brunna Louise | Membro da Equipe de Desenvolvimento Ágil |
+| Diógenes | Membro da Equipe de Modelagem |
+
+<h6 align = "center"> Tabela 11: Participantes e seus papéis na produção do artefato
+<br> Autor(es): Diógenes, Brunna Louise
+<br>Fonte: Autor(es)</h6>
 
 ## 7. Referências
 
@@ -157,7 +167,7 @@ As especificações de cada Caso de Uso no diagrama mostrado na seção 4 serão
 
 ## Histórico de Versões
 
-A Tabela 11 registra o histórico de versão desse documento.
+A Tabela 12 registra o histórico de versão desse documento.
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
@@ -168,6 +178,7 @@ A Tabela 11 registra o histórico de versão desse documento.
 | 16/05/2023 | 1.4 | Adição de primeira versão de Especificações de Casos de Uso | Brunna Louise | Diógenes Dantas |
 | 16/05/2023 | 1.5 | Adição de novas Especificações de Casos de Uso e alteração da imagem de associações| Diógenes Dantas | Brunna Louise |
 | 24/05/2023 | 1.6 | Adição de Correções ligadas ao diagrama de Casos de Uso| Diógenes Dantas | Brunna Louise |
+| 01/06/2023 | 1.7 | Adição da Tabela de Validação do Diagrama dos Casos de Uso| Diógenes Dantas | Brunna Louise |
 
 <h6 align = "center"> Tabela 11: Histórico de Versões
 <br> Autor(es): Brunna Louise, Diógenes Dantas
