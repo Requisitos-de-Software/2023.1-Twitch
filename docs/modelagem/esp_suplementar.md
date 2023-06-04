@@ -10,11 +10,27 @@ A metodologia escolhida para o desenvolvimento do projeto é o FURPS+.
 
 O FURPS+ é um modelo de engenharia de requisitos que abrange várias áreas-chave, incluindo Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suporte e outros aspectos relevantes do sistema. Essa metodologia permite uma abordagem abrangente e estruturada para a definição e gerenciamento dos requisitos do projeto, garantindo que todas as dimensões críticas sejam consideradas. 
 
+Grande parte dos requisitos elicitados, nos sentidos mais técnicos, foram extraídos do blog [Twitch Engineering blog](https://blog.twitch.tv/en/tags/engineering/).
+
 ## 3. Especificação Suplementar
 
 ### 3.1 Funcionalidade (Functionality)
 
-A categoria de Funcionalidade representa todos os aspectos funcionais do software, ou seja, seus requisitos. Esses requisitos já foram elicitados em três técnicas diferentes: [Brainstorm](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/Brainstorm/), [Observação](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao/) e [Análise Documental](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/AnaliseDeDocumento/).
+A categoria de Funcionalidade representa todos os aspectos funcionais do software, ou seja, seus requisitos funcionais. Esses requisitos já foram elicitados em três técnicas diferentes: [Brainstorm](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/Brainstorm/), [Observação](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao/) e [Análise Documental](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/AnaliseDeDocumento/).
+Abaixo estão algunas destes requisitos:
+
+|**Id**|**Descrição**| **Requisito relacionado**|
+|:----:|:-----------:|:------------------------:|
+|F01| O usuário deve ser capaz de assistir a uma live |RFB01|
+|F02| O usuário deve ser capaz de assistir a um VOD (Video on Demand) |RFB02|
+|F03| O usuário deve ser capaz de consumir conteúdos sem se registrar na plataforma |OBS01|
+|F04| O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo |OBS02|
+|F05| Possibilidade de fazer uma transmissão ao vivo seja de um PC, Mac, Xbox, Playstation ou Celular |DOC01|
+|F06| Acesso a funcionalidades como chat e análise no Painel de Controle |DOC02|
+
+<h6 align = "center"> Tabela 1: Requisitos não funcionais de Funcionalidade
+<br> Autor: Rafael Nobre
+<br>Fonte: Autor(es)</h6>
 
 ### 3.2 Usabilidade (Usability)
 
@@ -28,7 +44,7 @@ A categoria de Funcionalidade representa todos os aspectos funcionais do softwar
 |U06| A experiência do usuário na questão de sugestões de conteúdo e o tipo de disponibilidade delas deve ser melhor logado na plataforma |OBS14|
 |U07| Possibilidade de fazer uma transmissão ao vivo seja de um PC, Mac, Xbox, Playstation ou Celular |DOC08|
 
-<h6 align = "center"> Tabela 1: Requisitos não funcionais de Usabilidade
+<h6 align = "center"> Tabela 2: Requisitos não funcionais de Usabilidade
 <br> Autor: Ana Beatriz
 <br>Fonte: Autor(es)</h6>
 
@@ -42,7 +58,7 @@ A categoria de Funcionalidade representa todos os aspectos funcionais do softwar
 |C04|A plataforma deve ser capaz de lidar com um aumento na demanda e no número de usuários, garantindo um desempenho estável mesmo em períodos de pico de tráfego.| DOC24
 |C05|Todas as transações financeiras realizadas na plataforma devem ser protegidas e garantidas contra falhas ou corrupção de dados.| DOC25
   
-<h6 align = "center"> Tabela 2: Requisitos não funcionais de Confiabilidade
+<h6 align = "center"> Tabela 3: Requisitos não funcionais de Confiabilidade
 <br> Autor: Ana Beatriz
 <br>Fonte: Autor(es)</h6>
 
@@ -57,7 +73,7 @@ A categoria de Funcionalidade representa todos os aspectos funcionais do softwar
 |D05|A plataforma deve suportar vídeos em alta resolução, permitindo ao streamer realizar trasmissões acima de 4K, enquanto provê aos usuários a opção de adaptar a resolução de acordo com a conexão|DOC14|
 |D06|A plataforma deve permitir o playback de vídeos, sem bufferização ou interrupções, mesmo em alta demanda|DOC15|
   
-<h6 align = "center"> Tabela 3: Requisitos não funcionais de Desempenho
+<h6 align = "center"> Tabela 4: Requisitos não funcionais de Desempenho
 <br> Autor: Rafael
 <br>Fonte: Autor(es)</h6>
 
@@ -72,7 +88,7 @@ A categoria de Funcionalidade representa todos os aspectos funcionais do softwar
 |S05|A plataforma deve ser adaptável a diferentes regiões geográficas, suportando múltiplos idiomas, formatos de data/hora e preferências culturais específicas de cada região.|DOC20|
 |S06|Possibilidade de fazer uma transmissão ao vivo seja de um PC, Mac, Xbox, Playstation ou Celular|DOC01|
 
-<h6 align = "center"> Tabela 4: Requisitos não funcionais de Suportabilidade
+<h6 align = "center"> Tabela 5: Requisitos não funcionais de Suportabilidade
 <br> Autor: Rafael
 <br>Fonte: Autor(es)</h6>
 
@@ -87,3 +103,4 @@ A categoria de Funcionalidade representa todos os aspectos funcionais do softwar
 | 15/05/2023 | 1.0 | Criação do documento, adição de introdução e metologia | Ana Beatriz | Rafael |
 | 16/05/2023 | 1.1 | Adição das especificações | Rafael | Ana Beatriz |
 | 16/05/2023 | 1.2 | Adição das especificações | Ana Beatriz | Rafael |
+| 04/06/2023 | 1.3 | Correção de acordo com sugestões do Monitor e do professor | Rafael | Ana Beatriz |
