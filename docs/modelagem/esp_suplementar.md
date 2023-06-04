@@ -21,7 +21,7 @@ A categoria de Funcionalidade representa todos os aspectos funcionais do softwar
 |**Id**|**Descrição**| **Requisito relacionado**|
 |:----:|:-----------:|:------------------------:|
 |U01| O usuário deve ser capaz de consumir conteúdos sem se registrar na plataforma |OBS01|
-|U02| O usuário deve estar cadastrado e logado para acessar as funcionalidades do sistema, com exceção o acesso aos vídeos |OBS04|
+|U02|A plataforma deve ser acessível para usuários com necessidades especiais, incluindo suporte para tecnologias assistivas, como leitores de tela, recursos de alto contraste e legendas para pessoas com deficiência auditiva.|DOC19|
 |U03| Ao acessar "Ajuste de Conteúdo", no catálogo disponibilizado deverá ter somente a imagem do conteúdo sem um ícone de coração |OBS07|
 |U04| A barra de navegação de tipos de conteúdos deve aparecer na tela de início, mesmo estando logado |OBS12|
 |U05| Na Barra de navegação de tipos de conteúdos deve ser adicionado o tipo Artes e Ciência |OBS13|
@@ -68,7 +68,7 @@ A categoria de Funcionalidade representa todos os aspectos funcionais do softwar
 |S01|A plataforma deve ser compatível com uma ampla variedade de navegadores e dispositivos, incluindo navegadores populares como Google Chrome, Mozilla Firefox, Safari e Microsoft Edge, além de dispositivos desktop, laptops, smartphones e tablets.|DOC16|
 |S02|A plataforma deve funcionar em diferentes sistemas operacionais, como Windows, macOS e Linux, garantindo uma experiência consistente para os usuários, independentemente do sistema operacional que estão utilizando.|DOC17|
 |S03|Integração com Plataformas Externas: A Twitch deve fornecer APIs e recursos que permitam a integração fácil com outras plataformas e serviços externos, como sistemas de gerenciamento de conteúdo, ferramentas de streaming, serviços de pagamento e redes sociais.|DOC18|
-|S04|A plataforma deve ser acessível para usuários com necessidades especiais, incluindo suporte para tecnologias assistivas, como leitores de tela, recursos de alto contraste e legendas para pessoas com deficiência auditiva.|DOC19|
+|S04| O usuário deve estar cadastrado e logado para acessar as funcionalidades do sistema, com exceção o acesso aos vídeos |OBS04|
 |S05|A plataforma deve ser adaptável a diferentes regiões geográficas, suportando múltiplos idiomas, formatos de data/hora e preferências culturais específicas de cada região.|DOC20|
 |S06|Possibilidade de fazer uma transmissão ao vivo seja de um PC, Mac, Xbox, Playstation ou Celular|DOC01|
 
