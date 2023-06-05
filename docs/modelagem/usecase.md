@@ -53,6 +53,9 @@ As especificações de cada Caso de Uso no diagrama mostrado na seção 4 serão
 | Atores | Espectador, Criador, Moderador |
 | Fluxo | 1. O usuário acessa a página web ou aplicativo da Twitch; <br> 2. O usuário digita seu *username* e senha definidos no cadastro; <br> 3. O usuário clica em *Login*.
 | Pós-Condições  | O usuário terá acesso às principais funcionalidades oferecidas pela Twitch.
+| Fluxo Alternativo | Caso o usuário tenha problemas para fazer login em sua conta (por exemplo, caso tenha esquecido sua senha), ele pode clicar em um hiperlink "Trouble logging in?", que redirecionará o usuário para recuperar sua conta por meio de um email ou um número de celular.
+| Fluxo de Exceção 1 | O usuário digitou corretamente seu nome de usuário, mas errou sua senha. Caso isso aconteça, aparecerá uma mensagem de erro dizendo que a senha está incorreta e será possível ao usuário tentar digitá-la novamente.
+| Fluxo de Exceção 2 | O usuário digitou um nome de usuário que não existe. Caso isso aconteça, aparecerá uma mensagem de erro dizendo que esse nome de usuário não existe e perguntando se o usuário deseja criar uma nova conta.
 <h6 align = "center"> Tabela 2: Especificação de casos de uso - Fazer Login </h6>
 
 #### 5.2 Caso de Uso: Buscar Conteúdo
@@ -64,6 +67,7 @@ As especificações de cada Caso de Uso no diagrama mostrado na seção 4 serão
 | Atores | Espectador, Criador |
 | Fluxo | 1. Caso o usuário não tenha encontrado o conteúdo que gostaria de visualizar na página inicial, ele precisará fazer uma busca; <br> 2. O usuário clica na barra de busca no topo da página e digita o conteúdo que quer procurar; <br> 3. O usuário encontra lives e canais atrelados às palavras-chave usadas no mecanismo de pesquisa.
 | Pós-Condições  | Encontrar o conteúdo que estava procurando, ou não.
+| Fluxo de Exceção 1 | O usuário buscou por um conteúdo inexistente ou digitou errado o que estava procurando. Caso isso aconteça, aparecerá uma mensagem de erro dizendo que não foram encontrados resultados para essa palavra-chave e que o usuário se certifique de que digitou corretamente o que buscava (conferir se há erros de digitação).
 <h6 align = "center"> Tabela 3: Especificação de casos de uso - Buscar Conteúdo </h6>
 
 #### 5.3 Caso de Uso: Consumir Conteúdo
@@ -75,6 +79,7 @@ As especificações de cada Caso de Uso no diagrama mostrado na seção 4 serão
 | Atores | Espectador |
 | Fluxo | 1. O usuário clica na live que quer assistir; <br> 2. O usuário tem acesso à live.
 | Pós-Condições  | O usuário é capaz de assistir à live.
+| Fluxo Alternativo  | O usuário clicou na live, porém o criador de conteúdo dono desse canal indicou que seu canal é direcionado a público adulto. Caso queira proceder, o usuário clica no botão "Start Watching" e pode, por fim, assistir à live.
 <h6 align = "center"> Tabela 4: Especificação de casos de uso - Consumir Conteúdo </h6>
 
 #### 5.4 Caso de Uso: Criar Conteúdo
@@ -108,6 +113,7 @@ As especificações de cada Caso de Uso no diagrama mostrado na seção 4 serão
 | Atores | Espectador, Criador |
 | Fluxo | 1. O usuário clica na aba de comentários da live; <br> 2. O usuário digita sua mensagem; <br> 3. A mensagem pode ou não passar por moderação para ser enviada. |
 | Pós-Condições  | A mensagem desejada é enviada (ou não, caso não seja aprovada), possibilitando o usuário a interagir com outros usuários e com o criador de conteúdo. |
+| Fluxo Alternativo | O usuário tenta interagir em uma live, porém, o criador de conteúdo permite interação somente a usuários que o sigam. Caso o usuário queria interagir nessa live em específico, ela deve começar a seguir o criador de conteúdo. |
 <h6 align = "center"> Tabela 7: Especificação de casos de uso - Interagir em Lives </h6>
 
 #### 5.7 Caso de Uso: Moderar Conteúdo
@@ -119,17 +125,19 @@ As especificações de cada Caso de Uso no diagrama mostrado na seção 4 serão
 | Atores | Moderador |
 | Fluxo | 1. O usuário entra em uma live; <br> 2. O criador de conteúdo libera o acesso aos comentários; <br> 3. O usuário designado pelo criador de conteúdo monitora os comentários em tempo real. |
 | Pós-Condições  | O moderador tem acesso aos comentários e pode remover e ocultar mensagens que violam as regras do canal do criador ou as diretrizes da plataforma. |
+| Fluxo Alternativo | Caso o criador de conteúdo não tenha habilitado essa opção em seu canal, não será possível que usuários designados por ele moderem o chat de sua live.
 <h6 align = "center"> Tabela 8: Especificação de casos de uso - Moderar Conteúdo </h6>
 
 #### 5.8 Caso de Uso: Apoiar Conteúdo
 
 | Caso de Uso | Informações |
 | ---- | ----------- | 
-| Descrição | O usuário é capaz de oferecer suporte ativo à sua transmissão, demonstrando interesse e ajudando a fortalecer sua comunidade, utilizando a ferramenta de "seguir" ou pagando com o "inscrever" |
+| Descrição | O usuário é capaz de oferecer suporte ativo à sua transmissão, demonstrando interesse e ajudando a fortalecer sua comunidade, utilizando a ferramenta de "seguir" ou pagando com o "inscrever". |
 | Pré-Condições |  - Possuir acesso à internet; <br> - Haver efetuado cadastro; <br> - Estar logado em sua conta. |
 | Atores | Espectador, Criador |
-| Fluxo | 1. O usuário entra em uma live; <br> 2. O usuário clica em seguir ou inscrever; <br> 3. Caso clique em inscrever, o usuário acessa a aba de pagamento e finaliza a inscrição |
-| Pós-Condições  | O usuário é capaz de apoiar algum criador de conteúdo, seguindo ou se inscrevendo no seu canal de transmissão de lives |
+| Fluxo | 1. O usuário entra em uma live; <br> 2. O usuário clica em seguir, botão ao lado do canal que está transmitindo esse conteúdo. |
+| Pós-Condições  | O usuário é capaz de acompanhar o conteúdo de um criador de conteúdo e receber notificações quando há conteúdo novo. |
+| Fluxo ALternativo | Além de apenas seguir um canal, um usuário pode se inscrever. Com isso, ele apoia financeiramente um canal por meio de uma assinatura, o que confere ao usuário benefícios estabelecidos pelo criador de conteúdo. |
 <h6 align = "center"> Tabela 9: Especificação de casos de uso - Apoiar Conteúdo </h6>
 
 #### 5.9 Acessar Sussurro
@@ -141,23 +149,27 @@ As especificações de cada Caso de Uso no diagrama mostrado na seção 4 serão
 | Atores | Espectador, Criador |
 | Fluxo | 1. O usuário clica no ícone de sussurros; <br> 2. O usuário pode mandar mensagens para outros usuários. |
 | Pós-Condições  | O usuário é capaz de enviar mensagens privadas para outros usuários e se comunicar com outros membros da plataforma. |
+| Fluxo de Exceção | Há usuários que não permitem que outros usuários lhes envie sussurros. Dessa forma, não será possível enviar uma mensagem privada para esse usuário. |
 <h6 align = "center"> Tabela 10: Especificação de casos de uso - Acessar Sussuro </h6>
 
-## 6. Validação do Diagrama dos Casos de Uso
+
+## 6. Validação dos Casos de Uso
+Utilizando-se da técnica de revisão de requisitos, os membros da equipe de modelagem Brunna e Diógenes fizeram uma reunião com o usuário xxxx a fim de analisar os casos de uso documentados de forma estruturada e detalhada e identificar possíveis problemas.
+## 7. Participantes
 
 A tabela 11 a seguir registra os membros do grupo que contribuíram com esse documento:
 
 | **Participante** | **Papel** |
 | ---- | ----------- | 
 |  | Cliente/Usuário/Product Owner |
-| Brunna Louise | Membro da Equipe de Desenvolvimento Ágil |
+| Brunna Louise | Membro da Equipe de Modelagem |
 | Diógenes | Membro da Equipe de Modelagem |
 
 <h6 align = "center"> Tabela 11: Participantes e seus papéis na produção do artefato
 <br> Autor(es): Diógenes, Brunna Louise
 <br>Fonte: Autor(es)</h6>
 
-## 7. Referências
+## 8. Referências
 
 > Diagrama de caso de uso UML: O que é, como fazer e exemplos, pela equipe do Lucidchart. Acesse o site com o tutorial nesse [link](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em 11 de maio de 2023.
 
@@ -179,7 +191,7 @@ A Tabela 12 registra o histórico de versão desse documento.
 | 16/05/2023 | 1.5 | Adição de novas Especificações de Casos de Uso e alteração da imagem de associações| Diógenes Dantas | Brunna Louise |
 | 24/05/2023 | 1.6 | Adição de Correções ligadas ao diagrama de Casos de Uso| Diógenes Dantas | Brunna Louise |
 | 01/06/2023 | 1.7 | Adição da Tabela de Validação do Diagrama dos Casos de Uso| Diógenes Dantas | Brunna Louise |
-
+| 05/06/2023 | 1.8 | Adição de Fluxos Alternativos e Fluxos de Exceção (caso se aplique) | Brunna Louise | Diógenes Dantas |
 <h6 align = "center"> Tabela 11: Histórico de Versões
 <br> Autor(es): Brunna Louise, Diógenes Dantas
 <br>Fonte: Autor(es)</h6>
