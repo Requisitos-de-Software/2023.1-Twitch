@@ -46,11 +46,11 @@ O ponto de controle 3 teve como objetivo a modelagem de Requisitos.
 
 | Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
 | :------: | :-------: | :-----: | :--------: | :------: |
-| Cenários | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
-| Léxico | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
-| Use Case | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
-| Especificação Suplementar | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
-| Gravação e Postagem | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Cenários | **Início**: 12.05.2023  **Término**: 16.05.2023 | **Início**: 16.05.2023  **Término**: 16.05.2023 | Milena Aires | Matheus |
+| Léxico | **Início**: 10.05.2023  **Término**: 10.05.2023 | **Início**: -  **Término**: - | Matheus | - |
+| Use Case | **Início**: 11.05.2023  **Término**: 16.05.2023 | **Início**: 24.05.2023  **Término**: 24.05.2023 | Brunna e Diógenes | Brunna, Diógenes, Milena e Rafael |
+| Especificação Suplementar | **Início**: 15.05.2023  **Término**: 16.05.2023 | **Início**: 04.06.2023  **Término**: 04.06.2023 | Ana Beatriz e Rafael | Ana Beatriz e Rafael |
+| Gravação e Postagem | **Início**: 17.05.2023  **Término**: 17.05.2023 | **Início**: 17.05.2023  **Término**: 17.05.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Matheus |
 
 <h6 align = "center"> Tabela 3: Cronograma realizado do ponto de controle 3 </h6>
 <h6 align = "center"> Fonte: Autor(es) </h6>
@@ -60,10 +60,10 @@ O ponto de controle 4 refere-se à Modelagem de Requisitos - Ágil
 
 | Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
 | :------: | :-------: | :-----: | :--------: | :------: |
-| Histórias de Usuário | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
-| Backlogs | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
-| NFR Framework | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
-| Gravação e Postagem | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Histórias de Usuário | **Início**: 22.05.2023  **Término**: 23.05.2023 | **Início**: 23.05.2023  **Término**: 23.05.2023 | Ana Beatriz e Brunna Louise | Ana Beatriz e Brunna Louise |
+| Backlogs | **Início**: 23.05.2023  **Término**: 24.05.2023 | **Início**: 24.05.2023  **Término**: 24.05.2023 | Rafael Nobre e Milena | Brunna, Matheus e Rafael |
+| NFR Framework | **Início**: 23.05.2023  **Término**: 23.05.2023 | **Início**: 23.05.2023  **Término**: 23.05.2023 | Diógenes e Matheus | Diógenes e Matheus |
+| Gravação e Postagem | **Início**: 24.05.2023  **Término**: 24.05.2023 | **Início**: 24.05.2023  **Término**: 24.05.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Matheus |
 
 <h6 align = "center"> Tabela 4: Cronograma realizado do ponto de controle 4 </h6>
 <h6 align = "center"> Fonte: Autor(es) </h6>
@@ -119,5 +119,5 @@ No ponto de controle final deve ser feita uma verificação, correção e refina
 ## 3. Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
-| 29.04.2023 | 1.0    | Criação do documento, adição de introdução, adição do cronograma realizado do ponto de controle 1 e tabelas para os próximos pontos de controle |   Milena   | - |
-| 29.04.2023 | 1.1    | Criação do documento, adição de introdução, adição do cronograma realizado do ponto de controle 1 e tabelas para os próximos pontos de controle |   Milena   | Matheus |
+| 29.04.2023 | 1.0    | Criação do documento, adição de introdução, adição do cronograma realizado do ponto de controle 1 e tabelas para os próximos pontos de controle |   Milena   | Matheus |
+| 06.06.2023 | 1.1    | Adição do cronograma realizado do ponto de controle 3 e 4 |   Milena   | - |
