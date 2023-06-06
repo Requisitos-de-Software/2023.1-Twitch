@@ -192,3 +192,4 @@ Na construção dos cenários foi utilizado a observação, onde um usuário an�
 | :----: | ---------- | -------------------- | ------------- | ------------- |
 | 1.0    | 12.05.2023 | Criação do documento e adição dos cenários | Milena Aires | - |
 | 1.1    | 16.05.2023 | Finalização do documento de cenários | Milena Aires | Matheus |
+| 1.2    | 06.06.2023 | Adição de participantes | Milena Aires | - |
