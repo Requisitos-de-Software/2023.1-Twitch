@@ -15,7 +15,7 @@ Diante disso, os cenários são utilizados para descrever as situações de uso 
 - Imagens;
 - Animações/ Simulações. 
 
-Para apresentação dos cenários neste projeto foi escolhido o texto estruturado, onde é válido a utilização de linguagem natural semi-estruturada para uma compreensão mais clara de cada cenário. Podemos visualizar o modelo abaixo:
+Para apresentação dos cenários neste projeto foi escolhido o texto estruturado, onde é válido a utilização de linguagem natural semi-estruturada para uma compreensão mais clara de cada cenário. O modelo criado foi baseado em  "CENÁRIOS: Rastreamento de Cenários" (p. 4) [1], podemos visualizar o modelo abaixo:
 
 
 | Elemento   | Descrição                                                                                    |
@@ -169,14 +169,27 @@ Este cenário visa demonstrar a restrição de acesso aos conteúdos adultos den
 <h6 align = "center"> Tabela 9: Cenário de restrição de conteúdo 18+ no aplicativo Twitch </h6>
 <h6 align = "center"> Fonte: Autor </h6>
 
-
-## Bibliografia
+## 4. Participantes 
+  
+Na construção dos cenários foi utilizado a observação, onde um usuário anônimo da plataforma executou os cenários acima conforme ele esperava da plataforma. Com exceção dos cenários não implementados, que foi utilizado encenação utilizando [Personas](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/personas/). Com o usuário anônimo foi feito presencialmente no Campus da UnB-Darcy Ribeiro, no dia 13.05.2023. E a encenação foi realizada no dia seguinte 14.05.2023 no mesmo local.  
+  
+| Participante | Papel |
+|--------------|-------|
+| Milena Aires | Membro da Equipe de Desenvolvimento Ágil |
+| Usuário anônimo | Cliente/Usuário |
+| Enzo Oliveira (Persona) | Cliente/Usuário |
+  
+<h6 align = "center"> Tabela 10: Participantes na construção dos cenários</h6>
+<h6 align = "center"> Fonte: Autor </h6>
+    
+## 5. Bibliografia
 
 [1] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. Acesso em: 12 de maio 2023.
 
-## Histórico de Versão
+## 6. Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es)     | Revisor(es)   |
 | :----: | ---------- | -------------------- | ------------- | ------------- |
 | 1.0    | 12.05.2023 | Criação do documento e adição dos cenários | Milena Aires | - |
 | 1.1    | 16.05.2023 | Finalização do documento de cenários | Milena Aires | Matheus |
+| 1.2    | 06.06.2023 | Adição de participantes | Milena Aires | Matheus |
