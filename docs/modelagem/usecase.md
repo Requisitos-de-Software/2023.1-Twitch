@@ -155,6 +155,7 @@ As especificações de cada Caso de Uso no diagrama mostrado na seção 4 serão
 
 ## 6. Validação dos Casos de Uso
 Utilizando-se da técnica de revisão de requisitos, os membros da equipe de modelagem Brunna e Diógenes fizeram uma reunião com o usuário xxxx a fim de analisar os casos de uso documentados de forma estruturada e detalhada e identificar possíveis problemas.
+
 ## 7. Participantes
 
 A tabela 11 a seguir registra os membros do grupo que contribuíram com esse documento:
