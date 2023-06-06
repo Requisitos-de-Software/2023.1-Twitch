@@ -120,4 +120,4 @@ No ponto de controle final deve ser feita uma verificação, correção e refina
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 29.04.2023 | 1.0    | Criação do documento, adição de introdução, adição do cronograma realizado do ponto de controle 1 e tabelas para os próximos pontos de controle |   Milena   | Matheus |
-| 06.06.2023 | 1.1    | Adição do cronograma realizado do ponto de controle 3 e 4 |   Milena   | - |
+| 06.06.2023 | 1.1    | Adição do cronograma realizado do ponto de controle 3 e 4 |   Milena   | Matheus |
