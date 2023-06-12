@@ -154,14 +154,14 @@ As especificações de cada Caso de Uso no diagrama mostrado na seção 4 serão
 
 
 ## 6. Validação dos Casos de Uso
-Utilizando-se da técnica de revisão de requisitos, os membros da equipe de modelagem Brunna e Diógenes fizeram uma reunião com o usuário xxxx a fim de analisar os casos de uso documentados de forma estruturada e detalhada e identificar possíveis problemas.
+Utilizando-se da técnica de revisão de requisitos, os membros da equipe de modelagem Brunna e Diógenes fizeram uma reunião em que, utilizando-se de personas criadas anteriormente como usuários ativos/clientes dos serviços da Twitch, fez-se possível validar os casos de uso apresentados.
+As personas capazes de validar o documento apresentado são: Enzo Oliveira, Larissa da Silva e João Carvalho, todas personas primárias utilizadas na etapa de elicitação de requisitos. É possível conferir mais características a respeito dessas personas no documento de [Personas](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/personas/).
 ## 7. Participantes
 
 A tabela 11 a seguir registra os membros do grupo que contribuíram com esse documento:
 
 | **Participante** | **Papel** |
 | ---- | ----------- | 
-|  | Cliente/Usuário/Product Owner |
 | Brunna Louise | Membro da Equipe de Modelagem |
 | Diógenes | Membro da Equipe de Modelagem |
 
@@ -192,6 +192,7 @@ A Tabela 12 registra o histórico de versão desse documento.
 | 24/05/2023 | 1.6 | Adição de Correções ligadas ao diagrama de Casos de Uso| Diógenes Dantas | Brunna Louise |
 | 01/06/2023 | 1.7 | Adição da Tabela de Validação do Diagrama dos Casos de Uso| Diógenes Dantas | Brunna Louise |
 | 05/06/2023 | 1.8 | Adição de Fluxos Alternativos e Fluxos de Exceção (caso se aplique) | Brunna Louise | Diógenes Dantas |
+| 12/06/2023 | 1.9 | Adição de Validação por meio de Personas | Brunna Louise | Diógenes Dantas |
 <h6 align = "center"> Tabela 11: Histórico de Versões
 <br> Autor(es): Brunna Louise, Diógenes Dantas
 <br>Fonte: Autor(es)</h6>
