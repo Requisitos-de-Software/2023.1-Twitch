@@ -1,12 +1,13 @@
 ## 1. Introdução
 Esse artefato visa realizar a verificação do artefato de Personas produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/personas/).
+É importante lembrar que a versão do artefato que foi verificada é a versão 1.5.
 
 ## 2. Metodologia
 Você pode conferir a metodologia utilizada para a verificação do Grupo 01 [nesse link]().
 
 ## 3. Verificação
 
-A tabela 1 a seguir apresenta o checklist que orientou a verificação do Grupo 01 - Bilheteria Digital, da disciplina de Requisitos de Software no semestre 2023.01.
+A tabela 1 a seguir apresenta o checklist que orientou a verificação do artefato de Personas do Grupo 01 - Bilheteria Digital, da disciplina de Requisitos de Software no semestre 2023.01.
 
 | ID |Questão| Resultado da Verificação |
 | :---: | --- | :---: |
@@ -21,7 +22,7 @@ A tabela 1 a seguir apresenta o checklist que orientou a verificação do Grupo 
 | 09 |  As personas possuem objetivos e necessidades bem definidos. | Completo |
 | 10 |  Dentre as metodologias utilizadas para criação de personas, foi levado em consideração o perfil de usuário para elaboração do elenco de personas. | Completo |
 | 11 | Tabelas e figuras utilizadas apresentam legendas e fontes.  | Incompleto, tabelas e Refiguras não apresentam legenda, apenas fonte. |
-<h6 align = "center"> Tabela 1: Checklist para Verificação
+<h6 align = "center"> Tabela 1: Checklist para Verificação do artefato de Personas
 <br> Autor(es): Brunna Louise
 <br>Fonte: Autor(es)</h6>
 
@@ -29,7 +30,7 @@ A tabela 1 a seguir apresenta o checklist que orientou a verificação do Grupo 
 A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 11 questões utilizadas para verificação do artefato de personas:
 
 ![Resultados Personas](./imagens_verifica01/result_personas.png)
-<h6 align = "center"> Imagem 1: Resultados da Verificação das Personas
+<h6 align = "center"> Imagem 1: Resultados da Verificação do Artefato de Personas
 <br> Autor(es): Brunna Louise
 <br>Fonte: Autor(es)</h6>
 
