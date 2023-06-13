@@ -8,7 +8,7 @@
 
 A tabela 1 a seguir apresenta o checklist que orientou a verificação do Grupo 01 - Bilheteria Digital, da disciplina de Requisitos de Software no semestre 2023.01.
 
-| ID |Questão| Inspeção |
+| ID |Questão| Resultado da Verificação |
 | :---: | --- | :---: |
 |  |   |  |
 <h6 align = "center"> Tabela 1: Checklist para Verificação
