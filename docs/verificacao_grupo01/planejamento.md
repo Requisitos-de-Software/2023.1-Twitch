@@ -3,7 +3,7 @@ A Entrega 5.1 da Disciplina de Requisitos de Software aborda a etapa de verifica
 
 ## 2. Metodologia
 
-O critério para decidir que grupo seria verificado por nós é: Número do Grupo + 1; como o número de nosso grupo é 8 e não há um grupo 9, ficamos responsáveis por verificar o [Grupo 01 - Bilheteria Digital](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital).
+O critério para decidir que grupo seria verificado por nós é: Número do Grupo + 1; como o número de nosso grupo é 8 e não há um grupo 9, ficamos responsáveis por verificar o [Grupo 01 - Bilheteria Digital](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/).
 
 A metodologia escolhida consiste na utilização de checklists para nortear a verificação do Grupo 01, como exemplificado a seguir na Tabela 1:
 
@@ -13,6 +13,8 @@ A metodologia escolhida consiste na utilização de checklists para nortear a ve
 <h6 align = "center"> Tabela 1: Checklist para Verificação
 <br> Autor(es): Brunna Louise
 <br>Fonte: Autor(es)</h6>
+
+As questões utilizadas em cada checklist foram escolhidas com base em checklists fornecidas pelo professor em seu plano de ensino; com base em checklists e perguntas-chave para verificação contidas no material fornecido para disciplina; e com base no que os membros acharam pertinente adicionar visando ajudar o Grupo 01 na detecção de erros em seus artefatos.
 
 A fim de manter os artefatos de verificação do Grupo 01 concisos, a etapa de metodologia será omitida dos documentos e apenas citada para que se possa conferir a metodologia caso o leitor assim deseje.
 ## 3. Participantes
