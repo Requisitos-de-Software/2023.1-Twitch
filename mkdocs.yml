@@ -55,6 +55,11 @@ nav:
     - User Stories: ./modelagem/user_stories.md
     - NFR Framework: ./modelagem/nfr.md
     - Backlog do produto: ./modelagem/backlog.md
+  - Verificação Grupo 01:
+    - Planejamento da Verificação: ./verificacao_grupo01/planejamento.md
+    - Especificação Suplementar: ./verificacao_grupo01/verifica01_espsuplementar.md
+    - Personas: ./verificacao_grupo01/verifica01_personas.md
+    - Técnica de Priorização $100: ./verificacao_grupo01/verifica01_$100.md
   - Atas de reunião: 
     - Reunião 1: ./atas/reuniao_1.md
     - Reunião 2: ./atas/reuniao_2.md
