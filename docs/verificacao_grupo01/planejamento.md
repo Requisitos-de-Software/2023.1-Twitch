@@ -9,7 +9,7 @@ A metodologia escolhida consiste na utilização de checklists para nortear a ve
 
 | ID |Questão| Resultado da Verificação |
 | :---: | --- | :---: |
-| Identificação da questão, válida apenas dentro do próprio arquivo | O que está sendo verificado. Pode estar em formato de pergunta ou afirmação.  | Após a verificação, é possível dizer que o grupo cumpriu com a questão ou não? |
+| Identificação da questão, válida apenas dentro do próprio arquivo | O que está sendo verificado. Pode estar em formato de pergunta ou afirmação.  | Após a verificação, é possível dizer que o grupo cumpriu com a questão ou não? O resultado pode ser Completo, Incompleto, ou Não foi realizado.|
 <h6 align = "center"> Tabela 1: Checklist para Verificação
 <br> Autor(es): Brunna Louise
 <br>Fonte: Autor(es)</h6>
@@ -43,3 +43,9 @@ A Tabela 3 registra o histórico de versão desse documento.
 <h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor(es): Brunna Louise
 <br>Fonte: Autor(es)</h6>
+
+## Referências
+
+>SALES, André. Tabela utilizada para análise dos grupos. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 13 de junho de 2023.
+
+>SERRANO, Maurício; SERRANO, Milene. Material em Slides produzido para a disciplina de Requisitos de Software.

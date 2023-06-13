@@ -46,3 +46,9 @@ A Tabela 2 registra o histórico de versão desse documento.
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor(es): Brunna Louise
 <br>Fonte: Autor(es)</h6>
+
+## Referências
+
+>SALES, André. Tabela utilizada para análise dos grupos. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 13 de junho de 2023.
+
+>SERRANO, Maurício; SERRANO, Milene. Material em Slides produzido para a disciplina de Requisitos de Software.
