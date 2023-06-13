@@ -1,3 +1,4 @@
+# Verificação Grupo 01: Personas
 ## 1. Introdução
 Esse artefato visa realizar a verificação do artefato de Personas produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/personas/).
 É importante lembrar que a versão do artefato que foi verificada é a versão 1.5.

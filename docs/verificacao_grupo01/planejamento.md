@@ -9,7 +9,7 @@ A metodologia escolhida consiste na utilização de checklists para nortear a ve
 
 | ID |Questão| Resultado da Verificação |
 | :---: | --- | :---: |
-| Identificação da questão, válida apenas dentro do próprio arquivo | O que está sendo verificado. Pode estar em formato de pergunta ou afirmação.  | Após a verificação, é possível dizer que o grupo cumpriu com a questão ou não? O resultado pode ser Completo, Incompleto, ou Não foi realizado.|
+| Identificação da questão, válida apenas dentro do próprio arquivo | O que está sendo verificado. Pode estar em formato de pergunta ou afirmação.  | Após a verificação, é possível dizer que o grupo cumpriu com a questão ou não? O resultado pode ser Completo, Incompleto, ou Não Realizado.|
 <h6 align = "center"> Tabela 1: Checklist para Verificação
 <br> Autor(es): Brunna Louise
 <br>Fonte: Autor(es)</h6>
