@@ -14,7 +14,7 @@ A metodologia escolhida consiste na utilização de checklists para nortear a ve
 <br> Autor(es): Brunna Louise
 <br>Fonte: Autor(es)</h6>
 
-A fim de manter os artefatos de verificação do Grupo 01 concisos, a etapa de metodologia será omitida dos documentos e apenas citadas para que se possa conferir a metodologia caso o leitor queira.
+A fim de manter os artefatos de verificação do Grupo 01 concisos, a etapa de metodologia será omitida dos documentos e apenas citada para que se possa conferir a metodologia caso o leitor assim deseje.
 ## 3. Participantes
 
 A tabela 2 a seguir registra que membros foram responsáveis por verificar cada artefato criado pelo Grupo 01:
