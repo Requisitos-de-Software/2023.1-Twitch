@@ -77,7 +77,8 @@ nav:
       - Especificação Suplementar: ./verificacao_grupo01/verifica01_espsuplementar.md
       - Cenários: ./verificacao_grupo01/verifica01_cenarios.md
       - Léxicos: ./verificacao_grupo01/verificacao01_lexicos.md
-    - Entrega 4 - Modelagem de Requisitos:
+      - Casos de uso: ./verificacao_grupo01/verifica01_casos_uso.md
+    - Entrega 4 - Modelagem de Requisitos (Ágil):
       - NFR Framework: ./verificacao_grupo01/verificacao01_nfr.md
       - Histórias de Usuário: ./verificacao_grupo01/userstory_v.md
       - Backlog: ./verificacao_grupo01/verifica01_backlog.md
