@@ -56,14 +56,32 @@ nav:
     - NFR Framework: ./modelagem/nfr.md
     - Backlog do produto: ./modelagem/backlog.md
   - Verificação Grupo 01:
-    - Cronograma: ./verificacao_grupo01/verifica01_cronograma.md
-    - Observação: ./verificacao_grupo01/verifica01_observacao.md
-    - Aplicativo Escolhido: ./verificacao_grupo01/verifica01_aplicativo_escolhido.md
+    - Template: ./verificacao_grupo01/template.md
     - Planejamento da Verificação: ./verificacao_grupo01/planejamento.md
-    - Especificação Suplementar: ./verificacao_grupo01/verifica01_espsuplementar.md
-    - Personas: ./verificacao_grupo01/verifica01_personas.md
-    - Técnica de Priorização $100: ./verificacao_grupo01/verifica01_$100.md
-    - Casos de uso: ./verificacao_grupo01/verifica01_casos_uso.md
+    - Entrega 1:
+      - Aplicativo Escolhido: ./verificacao_grupo01/verifica01_aplicativo_escolhido.md
+      - Cronograma: ./verificacao_grupo01/verifica01_cronograma.md
+      - Rich Picture: ./verificacao_grupo01/verificacao01_richpicture.md
+    - Entrega 2 - Elicitação:
+      - Perfil de Usuário: ./verificacao_grupo01/verifica01_perfilusuariov.md
+      - Personas: ./verificacao_grupo01/verifica01_personas.md
+      - Técnicas:
+        - Introspecção: ./verificacao_grupo01/verifica01_introspeccao.md
+        - Brainstorming: ./verificacao_grupo01/brainstorm_v.md
+        - Questionário: ./verificacao_grupo01/verificacao01_questionario.md
+        - Observação: ./verificacao_grupo01/verifica01_observacao.md
+      - Priorização:
+        - Técnica de Priorização $100: ./verificacao_grupo01/verifica01_$100.md
+        - Técnica de Priorização First Thing First: ./verificacao_grupo01/first_v.md
+        - Técnica de Priorização Three Level Scale: ./verificacao_grupo01/verifica01_threelevelscale.md
+    - Entrega 3 - Modelagem de Requisitos:
+      - Especificação Suplementar: ./verificacao_grupo01/verifica01_espsuplementar.md
+      - Cenários: ./verificacao_grupo01/verifica01_cenarios.md
+      - Léxicos: ./verificacao_grupo01/verificacao01_lexicos.md
+    - Entrega 4 - Modelagem de Requisitos:
+      - NFR Framework: ./verificacao_grupo01/verificacao01_nfr.md
+      - Histórias de Usuário: ./verificacao_grupo01/userstory_v.md
+      - Backlog: ./verificacao_grupo01/verifica01_backlog.md
   - Atas de reunião: 
     - Reunião 1: ./atas/reuniao_1.md
     - Reunião 2: ./atas/reuniao_2.md
