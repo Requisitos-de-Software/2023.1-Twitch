@@ -58,6 +58,8 @@ nav:
   - Verificação Grupo 01:
     - Planejamento da Verificação: ./verificacao_grupo01/planejamento.md
     - Entrega 1:
+      - Aplicativo Escolhido: ./verificacao_grupo01/verifica01_aplicativo_escolhido.md
+      - Cronograma: ./verificacao_grupo01/verifica01_cronograma.md
       - Rich Picture: ./verificacao_grupo01/verificacao01_richpicture.md
     - Entrega 2 - Elicitação:
       - Perfil de Usuário: ./verificacao_grupo01/verifica01_perfilusuariov.md
@@ -66,6 +68,7 @@ nav:
         - Introspecção: ./verificacao_grupo01/verifica01_introspeccao.md
         - Brainstorming: ./verificacao_grupo01/brainstorm_v.md
         - Questionário: ./verificacao_grupo01/verificacao01_questionario.md
+        - Observação: ./verificacao_grupo01/verifica01_observacao.md
       - Priorização:
         - Técnica de Priorização $100: ./verificacao_grupo01/verifica01_$100.md
         - Técnica de Priorização First Thing First: ./verificacao_grupo01/first_v.md
