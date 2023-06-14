@@ -33,7 +33,7 @@ A tabela a seguir apresenta o checklist que orientou a verificação do Rich Pic
 
 
 <h6 align = "center"> Tabela 1: Checklist Rich Picture
-<br> Autor(es): 
+<br> Autor(es): Milena Aires
 <br>Fonte: Autor(es)</h6>
 
 
@@ -58,5 +58,5 @@ A Tabela seguinte registra o histórico de versão desse documento.
 |14.06.2023| 1.0 | Primeiro versão do checklist sobre o Rich Picture produzido pelo grupo 01| Milena Aires | - |
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
-<br> Autor(es): 
+<br> Autor(es): Milena Aires
 <br>Fonte: Autor(es)</h6>
