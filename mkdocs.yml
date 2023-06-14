@@ -56,10 +56,13 @@ nav:
     - NFR Framework: ./modelagem/nfr.md
     - Backlog do produto: ./modelagem/backlog.md
   - Verificação Grupo 01:
+    - Template: ./verificacao_grupo01/template.md
     - Planejamento da Verificação: ./verificacao_grupo01/planejamento.md
     - Especificação Suplementar: ./verificacao_grupo01/verifica01_espsuplementar.md
     - Personas: ./verificacao_grupo01/verifica01_personas.md
     - Técnica de Priorização $100: ./verificacao_grupo01/verifica01_$100.md
+    - Perfil de Usuário: ./verificacao_grupo01/verifica01_perfilusuariov.md
+    - Técnica de Priorização Three Level Scale: ./verificacao_grupo01/verifica01_threelevelscale.md
   - Atas de reunião: 
     - Reunião 1: ./atas/reuniao_1.md
     - Reunião 2: ./atas/reuniao_2.md
