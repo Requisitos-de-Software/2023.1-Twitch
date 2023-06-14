@@ -41,6 +41,8 @@ A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 
 <br> Autor(es): Ana Beatriz
 <br>Fonte: Autor(es)</h6>
 
+Embora o documento forneça algumas informações relacionadas à priorização dos requisitos, algumas partes do checklist não foram totalmente atendidas. Seria útil fornecer uma explicação detalhada da justificativa por trás da priorização de cada requisito, bem como estabelecer um processo para revisar e atualizar as prioridades ao longo do tempo.
+
 ## Histórico de Versões
 
 A Tabela 3 registra o histórico de versão desse documento.
