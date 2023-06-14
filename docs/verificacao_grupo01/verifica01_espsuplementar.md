@@ -5,7 +5,7 @@ Esse artefato visa realizar a verificação do artefato de Especificação Suple
 É importante lembrar que a versão do artefato que foi verificada é a versão 1.2.
 
 ## 2. Metodologia
-Você pode conferir a metodologia utilizada para a verificação do Grupo 01 [nesse link]().
+Você pode conferir a metodologia utilizada para a verificação do Grupo 01 [nesse link](../planejamento/#2-metodologia).
 
 ## 3. Verificação
 
