@@ -39,7 +39,7 @@ O artefato está bem completo e foi muito bem desenvolvido. Contudo, na introdu�
 
 >SALES, André. Tabela utilizada para análise dos grupos. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 13 de junho de 2023.
 
->SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Aceso em: 14 de junho de 2023
+>SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. Aceso em: 14 de junho de 2023
 
 
 ## Histórico de Versões
@@ -49,8 +49,8 @@ A Tabela 2 registra o histórico de versão desse documento.
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 13.06.2023 | 1.0    | Criação do documento de verificação da técnica de elicitação Instrospecção(Bilheteria Digital) |   Diógenes  |  -  |
-| 14.06.2023 | 1.1    | Adição de Checklist de verificação da técnica de elicitação Instrospecção (Bilheteria Digital) e o gráfico com os resultados |   Diógenes  |  -  |
-| 14.06.2023 | 1.2    | Adição de Referências no Documento | Diógenes  |  -  |
+| 14.06.2023 | 1.1    | Adição de Checklist de verificação da técnica de elicitação Instrospecção (Bilheteria Digital) e o gráfico com os resultados |   Diógenes  |  Rafael  |
+| 14.06.2023 | 1.2    | Adição de Referências no Documento | Diógenes  |  Rafael  |
 
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
