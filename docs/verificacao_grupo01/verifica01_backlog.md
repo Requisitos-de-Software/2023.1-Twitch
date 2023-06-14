@@ -54,6 +54,6 @@ A Tabela 3 registra o histórico de versão desse documento.
 | 14.06.2023 | 1.1    | Adição de Checklist de verificação do Backlog (Bilheteria Digital) e do gráfico de pizza com os resultados |   Diógenes   |  Brunna  |
 
 
-<h6 align = "center"> Tabela 3: Histórico de Versões
+<h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor(es): Diógenes Dantas
 <br>Fonte: Autor(es)</h6>

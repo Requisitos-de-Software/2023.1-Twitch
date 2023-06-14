@@ -54,6 +54,6 @@ A Tabela 3 registra o histórico de versão desse documento.
 | 13.06.2023 | 1.2    | Adição do gráfico de pizza explicando os resultados do checklist |   Diógenes   |    Rafael   |
 
 
-<h6 align = "center"> Tabela 3: Histórico de Versões
+<h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor(es): Diógenes Dantas
 <br>Fonte: Autor(es)</h6>
