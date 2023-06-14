@@ -50,7 +50,7 @@ A Tabela 2 registra o histórico de versão desse documento.
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 13.06.2023 | 1.0    | Criação do documento de verificação do método de priorização Three Leval Scale(Bilheteria Digital) |   Diógenes  |  Brunna  |
-| 13.06.2023 | 1.1   | Adicão de Checklist do método de priorização Three Leval Scale(Bilheteria Digital) |  Diógenes |  Brunna  |
+| 13.06.2023 | 1.1   | Adicão de Checklist do método de priorização Three Leval Scale(Bilheteria Digital) |  Diógenes |  Milena  |
 
 
 
