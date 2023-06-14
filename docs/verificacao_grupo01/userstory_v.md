@@ -49,11 +49,15 @@ A Tabela 3 registra o histórico de versão desse documento.
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
 | 13/06/2023| 1.0 | Criação do documento | Ana Beatriz | - |
-| 14/06/2023| 1.0 | Adição da introdução e ajuste na metodologia | Ana Beatriz | - |
+| 14/06/2023| 1.1 | Adição da introdução e ajuste na metodologia | Ana Beatriz | - |
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor(es): 
 <br>Fonte: Autor(es)</h6>
 
 ## Referências
-> FIRST things first: Setting requirement priorities. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.
+> PRESSMAN, Roger S.; 1-MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
+
+>SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2523115/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 20/05/2023.
+
+>Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: http://www.computer.org/web/swebok/v3. p. 38.
