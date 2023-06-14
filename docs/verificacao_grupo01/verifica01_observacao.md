@@ -1,7 +1,7 @@
 # Observação
 
 ## 1. Introdução
-Esse artefato visa realizar a verificação do Observação,  produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/tecnicas/observacao/).
+Esse artefato visa realizar a verificação do artefato de Observação, produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/tecnicas/observacao/).
 É importante lembrar que a versão do artefato que foi verificada é a versão 1.2.
 
 ## 2. Metodologia
@@ -20,6 +20,7 @@ Você pode conferir a metodologia utilizada para a verificação do Grupo 01 [ne
 |7|Os Requisitos elicitados são todos verificáveis?|Completo|
 |8|Todas as tabelas e imagens possuem legendas e chamadas no corpo do texto?|Completo|
 |9|Todos os requisitos possuem códigos de identificação únicos?|Completo|
+|10|Todos os requisitos são testáveis?|Completo|
 
 <h6 align = "center"> Tabela 1: Checklist para Verificação do Artefato de Observação
 <br> Autor(es): Rafael Nobre
