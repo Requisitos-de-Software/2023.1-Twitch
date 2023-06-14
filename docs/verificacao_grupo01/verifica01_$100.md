@@ -4,7 +4,7 @@ Esse artefato visa realizar a verificação do artefato de Técnica de Prioriza�
 É importante lembrar que a versão do artefato que foi verificada é a versão 1.1.
 
 ## 2. Metodologia
-Você pode conferir a metodologia utilizada para a verificação do Grupo 01 [nesse link]().
+Você pode conferir a metodologia utilizada para a verificação do Grupo 01 [nesse link](https://requisitos-de-software.github.io/2023.1-Twitch/verificacao_grupo01/planejamento/).
 
 ## 3. Verificação
 
@@ -41,7 +41,7 @@ A Tabela 2 registra o histórico de versão desse documento.
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
-|13/06/2023 | 1.0 | Primeira versão da verificação do artefato Técnicas de Priorização: $100 (Grupo 01) | Brunna Louise | - |
+|13/06/2023 | 1.0 | Primeira versão da verificação do artefato Técnicas de Priorização: $100 (Grupo 01) | Brunna Louise | Diógenes Dantas |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor(es): Brunna Louise

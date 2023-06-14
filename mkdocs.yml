@@ -56,7 +56,6 @@ nav:
     - NFR Framework: ./modelagem/nfr.md
     - Backlog do produto: ./modelagem/backlog.md
   - Verificação Grupo 01:
-    - Template: ./verificacao_grupo01/template.md
     - Planejamento da Verificação: ./verificacao_grupo01/planejamento.md
     - Entrega 1:
       - Rich Picture: ./verificacao_grupo01/verificacao01_richpicture.md

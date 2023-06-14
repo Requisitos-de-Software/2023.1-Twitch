@@ -40,7 +40,7 @@ A Tabela 3 registra o histórico de versão desse documento.
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
-| 13/06/2023 | 1.0 | Criação de template para artefato de planejamento da verificação | Brunna Louise | - |
+| 13/06/2023 | 1.0 | Criação de template para artefato de planejamento da verificação | Brunna Louise | Diógenes Dantas |
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor(es): Brunna Louise

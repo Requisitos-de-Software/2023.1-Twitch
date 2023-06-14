@@ -5,7 +5,7 @@ Esse artefato visa realizar a verificação do artefato de Especificação Suple
 É importante lembrar que a versão do artefato que foi verificada é a versão 1.2.
 
 ## 2. Metodologia
-Você pode conferir a metodologia utilizada para a verificação do Grupo 01 [nesse link]().
+Você pode conferir a metodologia utilizada para a verificação do Grupo 01 [nesse link](https://requisitos-de-software.github.io/2023.1-Twitch/verificacao_grupo01/planejamento/).
 
 ## 3. Verificação
 
@@ -48,7 +48,7 @@ A Tabela 2 registra o histórico de versão desse documento.
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
-|13/06/2023 | 1.0 | Primeira versão da verificação do artefato Especificação Suplementar (Grupo 01) | Brunna Louise | - |
+|13/06/2023 | 1.0 | Primeira versão da verificação do artefato Especificação Suplementar (Grupo 01) | Brunna Louise | Diógenes Dantas |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor(es): Brunna Louise
