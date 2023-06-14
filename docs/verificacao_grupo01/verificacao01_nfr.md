@@ -3,6 +3,7 @@
 ## 1. Introdução
 
 Esse artefato visa realizar a verificação do artefato NFR Framework na versão 1.9 produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/).
+É importante lembrar que a versão do artefato que foi verificada é a versão 1.9.
 
 ## 2. Metodologia
 
@@ -14,30 +15,35 @@ A tabela a seguir apresenta o checklist que orientou a verificação do NFR Fram
 
 | ID |Questão| Resultado da Verificação |
 | :---: | --- | :---: |
-| 01 | O artefato possui uma introdução | Sim |
-| 02 | O artefato possui a metodologia  | Sim |
-| 03 | O artefato possui uma tabela com histórico de versões, com data, descrição, autor(es) e revisor(es)  | Sim |
-| 04 | O artefato possui referências bibliográficas  | Sim |
-| 05 | As tabelas e imagens do artefato possuem fontes, legendas e chamadas no texto | Incompleto, algumas tabelas não possuem chamada no texto e a forma em que a legenda foi colocada não está de acordo com a ABNT |
-| 06 | Os NFRs relevantes para o sistema foram identificados? | Sim |
-| 07 | Os NFRs abrangem diferentes aspectos, como desempenho, segurança, usabilidade, confiabilidade, etc.? | Sim |
-| 08 | Os NFRs foram agrupados em categorias ou classes? | Sim |
-| 09 | Cada NFR possui uma definição clara e fácil de entender? | Sim |
-| 10 | Os NFRs possuem classificação, descrição, etc.? | Sim |
-| 11 | Os NFRs estão rastreáveis aos requisitos funcionais correspondentes? | Sim |
-| 12 | Os requisitos associados aos NFRs foram identificados e documentados? | Sim |
-| 13 | O NFR framework possui uma estrutura clara e organizada? | Sim |
-| 14 | As categorias e subcategorias do NFR framework são adequadas e coerentes? | Sim |
-| 15 | Os NFRs são relevantes e adequados para o contexto aplicado? | Sim |
-| 16 | O NFR framework atende às necessidades específicas do projeto? | Sim |
+| 01 | O artefato possui uma introdução | Completo |
+| 02 | O artefato possui a metodologia  | Completo |
+| 03 | O artefato possui uma tabela com histórico de versões, com data, descrição, autor(es) e revisor(es)  | Completo |
+| 04 | O artefato possui referências bibliográficas  | Completo |
+| 05 | As tabelas e imagens do artefato possuem fontes, legendas e chamadas no texto | Incompleto |
+| 06 | Os NFRs relevantes para o sistema foram identificados? | Completo |
+| 07 | Os NFRs abrangem diferentes aspectos, como desempenho, segurança, usabilidade, confiabilidade, etc.? | Completo |
+| 08 | Os NFRs foram agrupados em categorias ou classes? | Completo |
+| 09 | Cada NFR possui uma definição clara e fácil de entender? | Completo |
+| 10 | Os NFRs possuem classificação, descrição, etc.? | Completo |
+| 11 | Os NFRs estão rastreáveis aos requisitos funcionais correspondentes? | Completo |
+| 12 | Os requisitos associados aos NFRs foram identificados e documentados? | Completo |
+| 13 | O NFR framework possui uma estrutura clara e organizada? | Completo |
+| 14 | As categorias e subcategorias do NFR framework são adequadas e coerentes? | Completo |
+| 15 | Os NFRs são relevantes e adequados para o contexto aplicado? | Completo |
+| 16 | O NFR framework atende às necessidades específicas do projeto? | Completo |
 
 
 <h6 align = "center"> Tabela 1: Checklist NFR Framework
 <br> Autor(es): Milena Aires
 <br>Fonte: Autor(es)</h6>
 
+## 4. Observações
 
-## 4. Resultados
+#### ID - 5
+
+Algumas tabelas não possuem chamada no texto e a forma em que a legenda foi colocada não está de acordo com a ABNT 
+
+## 5. Resultados
 O documento verificado está bem estruturado e rico de informações. O resultado foi muito bom como pode ser visto abaixo:
 
 ![Resultados NFR](./imagens_verifica01/verificacao_nfr.png)

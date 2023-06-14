@@ -16,7 +16,7 @@ A tabela 1 a seguir apresenta o checklist que orientou a verificação do artefa
 | 01 | O artefato possui introdução.  | Completo |
 | 02 | O artefato possui histórico de versionamento completo (datas, descrição, autores, versão).  | Completo |
 | 03 |  O artefato apresenta as referências utilizadas na sua produção.  | Completo |
-| 04 | Tabelas e figuras utilizadas apresentam legendas e fontes.  | Incompleto, apesar de apresentarem fontes, não há legenda. |
+| 04 | Tabelas e figuras utilizadas apresentam legendas e fontes.  | Incompleto |
 | 05 |  O artefato segue o modelo FURPS+. | Completo |
 | 06 | O artefato referencia corretamente os requisitos funcionais já elicitados.  | Completo |
 | 07 |  O artefato aborda eficiência. | Completo |
@@ -32,7 +32,13 @@ A tabela 1 a seguir apresenta o checklist que orientou a verificação do artefa
 <br> Autor(es): Brunna Louise
 <br>Fonte: Autor(es)</h6>
 
-## 4. Resultados
+## 4. Observações
+
+#### ID - 4
+
+Apesar de apresentarem fontes, não há legenda.
+
+## 5. Resultados
 A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 14 questões utilizadas para verificação do artefato de especificação suplementar:
 
 ![Resultados Esp Suplementar](./imagens_verifica01/result_espsuplementar.png)

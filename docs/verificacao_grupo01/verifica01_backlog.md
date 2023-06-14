@@ -1,5 +1,5 @@
 ## 1. Introdução
-Esse artefato visa realizar a verificação do artefato de Personas produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/).
+Esse artefato visa realizar a verificação do artefato de Personas produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/). É importante lembrar que a versão do artefato que foi verificada é a versão 2.1.
 
 ## 2. Metodologia
 Você pode conferir a metodologia utilizada para a verificação do Grupo 01 [nesse link](https://requisitos-de-software.github.io/2023.1-Twitch/verificacao_grupo01/planejamento/).
@@ -14,7 +14,7 @@ A tabela 1 a seguir apresenta o checklist que orientou a verificação do Grupo 
 | 02 | O artefato possui a metodologia  | Completo |
 | 03 | O artefato possui uma tabela com histórico de versões, com data, descrição, autor(es) e revisor(es)  | Completo |
 | 04 | O artefato possui referências bibliográficas  | Completo |
-| 05 | As tabelas, imagens ou vídeos do artefato possuem fontes e legendas | Incompleto, o vídeo possui apenas fonte e a tabela do histórico de versões não possui fonte, nem legenda | Completo |
+| 05 | As tabelas, imagens ou vídeos do artefato possuem fontes e legendas | Incompleto | Completo |
 | 06 | O documento possui os participantes do desenvolvimento do artefato | Completo |
 | 07 | O documento possui as funções de cada participante no desenvolvimento do artefato | Completo |
 | 08 | O documento possui uma entrevista gravada com o Product Owner | Completo |
@@ -26,7 +26,12 @@ A tabela 1 a seguir apresenta o checklist que orientou a verificação do Grupo 
 <br> Autor(es): Diógenes Dantas
 <br>Fonte: Autor(es)</h6>
 
-## 4. Resultados
+## 4. Observações
+
+#### ID - 5
+O vídeo possui apenas fonte e a tabela do histórico de versões não possui fonte, nem legenda
+
+## 5. Resultados
 A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 11 questões utilizadas para verificação do artefato Backlog:
 
 ![Resultados Backlog](./imagens_verifica01/backlog.png)

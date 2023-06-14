@@ -31,8 +31,17 @@ A tabela 1 a seguir apresenta o checklist que orientou a verificação do Grupo 
 <br> Autor(es): Ana Beatriz
 <br>Fonte: Autor(es)</h6>
 
+## 4. Observações
 
-## 4. Resultados
+#### ID - 11
+
+Seria útil fornecer uma explicação detalhada da justificativa por trás da priorização de cada requisito, como foi feito na hora de explicar o valor total.
+
+#### ID - 12
+
+Faltou estabelecer um processo para revisar e atualizar as prioridades ao longo do tempo.
+
+## 5. Resultados
 A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 12 questões utilizadas para verificação do artefato First Things First:
 
 ![Resultados First Things First](./imagens_verifica01/first.png)
@@ -40,8 +49,6 @@ A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 
 <h6 align = "center"> Imagem 1: Resultados da Verificação First Things First
 <br> Autor(es): Ana Beatriz
 <br>Fonte: Autor(es)</h6>
-
-Embora o documento forneça algumas informações relacionadas à priorização dos requisitos, algumas partes do checklist não foram totalmente atendidas. Seria útil fornecer uma explicação detalhada da justificativa por trás da priorização de cada requisito, bem como estabelecer um processo para revisar e atualizar as prioridades ao longo do tempo.
 
 ## Histórico de Versões
 
