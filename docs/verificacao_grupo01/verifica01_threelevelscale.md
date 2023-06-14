@@ -21,7 +21,7 @@ A tabela 1 a seguir apresenta o checklist que orientou a verificação do Grupo 
 | 09 | O documento explica as categorias de priorização do Three Level Scale (alta, média, baixa) e mostra a relação das categorias com "Importante" e "Não muito importante" | Incompleto, faltou a relação das categorias com "Importante" e "não muito importante", como apresentado no Software Requirements. 3. ed.|
 | 10 | O documento possui as técnicas de elicitação dos requisitos priorizados utilizados no Three Level Scale | Completo |
 
-<h6 align = "center"> Tabela 1: Checklist para Verificação
+<h6 align = "center"> Tabela 1: Checklist para Verificação do Three Level Scale
 <br> Autor(es): Diógenes Dantas
 <br>Fonte: Autor(es)</h6>
 
