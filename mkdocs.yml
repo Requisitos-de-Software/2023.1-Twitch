@@ -65,6 +65,10 @@ nav:
     - Técnica de Priorização Three Level Scale: ./verificacao_grupo01/verifica01_threelevelscale.md
     - Introspecção: ./verificacao_grupo01/verifica01_introspeccao.md
     - Backlog: ./verificacao_grupo01/verifica01_backlog.md
+    - NFR Framework: ./verificacao_grupo01/verificacao01_nfr.md
+    - Léxicos: ./verificacao_grupo01/verificacao01_lexicos.md
+    - Rich Picture: ./verificacao_grupo01/verificacao01_richpicture.md
+    - Questionário: ./verificacao_grupo01/verificacao01_questionario.md
   - Atas de reunião: 
     - Reunião 1: ./atas/reuniao_1.md
     - Reunião 2: ./atas/reuniao_2.md
