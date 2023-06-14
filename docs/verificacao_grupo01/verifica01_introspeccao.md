@@ -50,7 +50,7 @@ A Tabela 2 registra o histórico de versão desse documento.
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 13.06.2023 | 1.0    | Criação do documento de verificação da técnica de elicitação Instrospecção(Bilheteria Digital) |   Diógenes  |  -  |
 | 14.06.2023 | 1.1    | Adição de Checklist de verificação da técnica de elicitação Instrospecção (Bilheteria Digital) e o gráfico com os resultados |   Diógenes  |  Rafael  |
-| 14.06.2023 | 1.2    | Adição de Referências no Documento | Diógenes  |  Rafael  |
+| 14.06.2023 | 1.2    | Adição de Referências no Documento | Diógenes  |  Milena  |
 
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
