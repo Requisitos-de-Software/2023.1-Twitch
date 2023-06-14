@@ -33,11 +33,11 @@ A tabela 1 a seguir apresenta o checklist que orientou a verificação do Grupo 
 
 
 ## 4. Resultados
-A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 8 questões utilizadas para verificação do artefato First Things First:
+A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 12 questões utilizadas para verificação do artefato First Things First:
 
 ![Resultados First Things First](./imagens_verifica01/first.png)
 
-<h6 align = "center"> Imagem 1: Resultados da Verificação do Brainstorm
+<h6 align = "center"> Imagem 1: Resultados da Verificação First Things First
 <br> Autor(es): Ana Beatriz
 <br>Fonte: Autor(es)</h6>
 
