@@ -1,4 +1,4 @@
-# Verificação Questionário
+# Questionário
 
 ## 1. Introdução
 
@@ -14,28 +14,48 @@ A tabela a seguir apresenta o checklist que orientou a verificação do Question
 
 | ID |Questão| Resultado da Verificação |
 | :---: | --- | :---: |
-| 01 | O artefato possui uma introdução | Sim |
-| 02 | O artefato possui a metodologia  | Incompleto. Pois não está explícito no título |
-| 03 | O artefato possui uma tabela com histórico de versões, com data, descrição, autor(es) e revisor(es)  | Sim |
-| 04 | O artefato possui referências bibliográficas  | Sim |
-| 05 | As tabelas e imagens do artefato possuem fontes, legendas e chamadas no texto | Incompleto. Algunas imagens e tabelas não possuem chamada no texto e a forma em que a legenda foi colocada não está de acordo com a ABNT |
-| 06 | A preparação do questionário está documentada? Tal como: público-alvo, instruções | Não. É possível visualizar alguns apscetos como o termo de consentimento e a separação de pessoas que já utilizaram ou não o aplicativo, porém a preparação não foi documentada. |
-| 07 | O questionário possui um análise dos resultados? | Incompleto. O artefato mostra os gráficos de acordo com as respostas e objetivo de cada perguntas mas não analisa os resultados obtidos e já pula para a elicitação |
-| 08 | As perguntas foram elaboradas de forma clara? | Sim |
-| 09 | As perguntas foram elaboradas sendo relevantes para a elicitação de requisitos? | Sim |
-| 10 | As perguntas se referem a diferentes aspectos dos requisitos, como funcionalidades, interfaces etc.? | Sim |
-| 11 | As perguntas foram elaboradas de forma lógica e ordenada que não houve influência nas respostas? | Sim |
-| 12 | As perguntas permitem respostas detalhadas e abrangentes? | Incompleto. As perguntas foram todas fechadas não permitindo que o usuário fornecesse mais detalhes, e no questionário há perguntas onde poderiam ser com respostas livres |
-| 13 | O questionário teve um teste piloto para garantir sua eficácia e possíveis erros? | Não |
-| 14 | O tempo estimado foi informado para os usuários? | Sim |
-| 15 | Foram realizadas medidas para garantir a privacidade e o anonimato das respostas dos participantes?| Sim |
+| 01 | O artefato possui uma introdução | Completo |
+| 02 | O artefato possui a metodologia  | Incompleto |
+| 03 | O artefato possui uma tabela com histórico de versões, com data, descrição, autor(es) e revisor(es)  | Completo |
+| 04 | O artefato possui referências bibliográficas  | Completo |
+| 05 | As tabelas e imagens do artefato possuem fontes, legendas e chamadas no texto | Incompleto |
+| 06 | A preparação do questionário está documentada? Tal como: público-alvo, instruções | Não Realizado|
+| 07 | O questionário possui um análise dos resultados? | Incompleto|
+| 08 | As perguntas foram elaboradas de forma clara? | Completo |
+| 09 | As perguntas foram elaboradas sendo relevantes para a elicitação de requisitos? | Completo |
+| 10 | As perguntas se referem a diferentes aspectos dos requisitos, como funcionalidades, interfaces etc.? | Completo |
+| 11 | As perguntas foram elaboradas de forma lógica e ordenada que não houve influência nas respostas? | Completo |
+| 12 | As perguntas permitem respostas detalhadas e abrangentes? | Incompleto |
+| 13 | O questionário teve um teste piloto para garantir sua eficácia e possíveis erros? | Não Realizado |
+| 14 | O tempo estimado foi informado para os usuários? | Completo |
+| 15 | Foram realizadas medidas para garantir a privacidade e o anonimato das respostas dos participantes?| Completo |
 
 <h6 align = "center"> Tabela 1: Checklist Questionário
 <br> Autor(es): Milena Aires
 <br>Fonte: Autor(es)</h6>
 
+## 4. Observações
 
-## 4. Resultados
+#### ID - 2
+No artefato não possui a metodologia de uma forma explicida.
+
+#### ID - 5
+
+Algunas imagens e tabelas não possuem chamada no texto e a forma em que a legenda foi colocada não está de acordo com a ABNT.
+
+#### ID - 6
+
+É possível visualizar alguns apscetos como o termo de consentimento e a separação de pessoas que já utilizaram ou não o aplicativo, porém a preparação não foi documentada.
+
+#### ID - 7
+
+O artefato mostra os gráficos de acordo com as respostas e objetivo de cada perguntas mas não analisa os resultados obtidos e já pula para a elicitação.
+
+#### ID - 12
+
+As perguntas foram todas fechadas não permitindo que o usuário fornecesse mais detalhes, e no questionário há perguntas onde poderiam ser com respostas livres.
+
+## 5. Resultados
 
 O questionário aplicado foi feito de forma coerente, porém houve pontos que podem ser melhorados de acordo com o checklist feito acima. Com isso obtemos um gráfico dos resultados. 
 

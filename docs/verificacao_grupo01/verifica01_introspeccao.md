@@ -1,5 +1,7 @@
+# Introspecção
 ## 1. Introdução
-Esse artefato visa realizar a verificação do artefato de Personas produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/tecnicas/introspeccao/).
+Esse artefato visa realizar a verificação do artefato de Introspecção produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/tecnicas/introspeccao/).
+É importante lembrar que a versão do artefato que foi verificada é a versão 1.4.
 
 ## 2. Metodologia
 Você pode conferir a metodologia utilizada para a verificação do Grupo 01 [nesse link](https://requisitos-de-software.github.io/2023.1-Twitch/verificacao_grupo01/planejamento/).
@@ -10,11 +12,11 @@ A tabela 1 a seguir apresenta o checklist que orientou a verificação do Grupo 
 
 | ID |Questão| Resultado da Verificação |
 | :---: | --- | :---: |
-| 01 | O artefato possui uma introdução | Incompleto, necessário destacar que a introspecção pode não ser apropriada para refletir de maneira precisa a experiência ou desempenho real dos envolvidos, uma vez que sua utilização requer a presença de um especialista. |
+| 01 | O artefato possui uma introdução | Incompleto|
 | 02 | O artefato possui a metodologia  | Completo |
 | 03 | O artefato possui uma tabela com histórico de versões, com data, descrição, autor(es) e revisor(es)  | Completo |
 | 04 | O artefato possui referências bibliográficas  | Completo |
-| 05 | As tabelas e imagens do artefato possuem fontes e legendas | Incompleto, as tabelas de requisitos priorizados possuem apenas fonte e a tabela do histórico de versões não possui fonte, nem legenda  |
+| 05 | As tabelas e imagens do artefato possuem fontes e legendas | Incompleto  |
 | 06 | O documento possui requisitos funcionais e não funcionais | Completo |
 | 07 | O documento possui requisitos tanto implementados quanto não implementados. | Completo |
 | 08 | O documento possui requisitos que são prioridades para o sucesso do sistema analisado | Completo |
@@ -25,7 +27,17 @@ A tabela 1 a seguir apresenta o checklist que orientou a verificação do Grupo 
 <br> Autor(es): Diógenes Dantas
 <br>Fonte: Autor(es)</h6>
 
-## 4. Resultados
+## 4. Observações
+
+#### ID - 1
+
+Necessário destacar que a introspecção pode não ser apropriada para refletir de maneira precisa a experiência ou desempenho real dos envolvidos, uma vez que sua utilização requer a presença de um especialista. 
+
+#### ID - 5
+
+As tabelas de requisitos priorizados possuem apenas fonte e a tabela do histórico de versões não possui fonte, nem legenda.
+
+## 5. Resultados
 A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 9 questões utilizadas para verificação da técnica de elicitação de requisitos Introspecção:
 
 ![Resultados Instrospecção](./imagens_verifica01/introspeccao.png)

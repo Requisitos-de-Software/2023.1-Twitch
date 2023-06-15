@@ -1,4 +1,4 @@
-# Verificação Grupo 01: Personas
+# Personas
 ## 1. Introdução
 Esse artefato visa realizar a verificação do artefato de Personas produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/personas/).
 É importante lembrar que a versão do artefato que foi verificada é a versão 1.5.
@@ -22,20 +22,23 @@ A tabela 1 a seguir apresenta o checklist que orientou a verificação do artefa
 | 08 | Há, pelo menos, uma persona primária, uma persona secundária e uma antipersona.  | Completo |
 | 09 |  As personas possuem objetivos e necessidades bem definidos. | Completo |
 | 10 |  Dentre as metodologias utilizadas para criação de personas, foi levado em consideração o perfil de usuário para elaboração do elenco de personas. | Completo |
-| 11 | Tabelas e figuras utilizadas apresentam legendas e fontes.  | Incompleto, tabelas e Refiguras não apresentam legenda, apenas fonte. |
+| 11 | Tabelas e figuras utilizadas apresentam legendas e fontes.  | Incompleto|
 <h6 align = "center"> Tabela 1: Checklist para Verificação do artefato de Personas
 <br> Autor(es): Brunna Louise
 <br>Fonte: Autor(es)</h6>
 
-## 4. Resultados
+## 4. Observações
+
+#### ID - 11
+O artefato está bem completo e foi muito bem desenvolvido. Recomenda-se apenas que o Grupo 01 se atente a colocar legendas apropriadas nas imagens e tabelas que utilizarem em seus artefatos.
+
+## 5. Resultados
 A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 11 questões utilizadas para verificação do artefato de personas:
 
 ![Resultados Personas](./imagens_verifica01/result_personas.png)
 <h6 align = "center"> Imagem 1: Resultados da Verificação do Artefato de Personas
 <br> Autor(es): Brunna Louise
 <br>Fonte: Autor(es)</h6>
-
-O artefato está bem completo e foi muito bem desenvolvido. Recomenda-se apenas que o Grupo 01 se atente a colocar legendas apropriadas nas imagens e tabelas que utilizarem em seus artefatos.
 
 ## Histórico de Versões
 
