@@ -1,4 +1,4 @@
-# Verficação Grupo 01: Especificação Suplementar
+# Especificação Suplementar
 
 ## 1. Introdução
 Esse artefato visa realizar a verificação do artefato de Especificação Suplementar produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/).

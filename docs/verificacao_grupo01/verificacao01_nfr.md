@@ -1,9 +1,8 @@
-# Verificação NFR Framework
+# NFR Framework
 
 ## 1. Introdução
 
 Esse artefato visa realizar a verificação do artefato NFR Framework na versão 1.9 produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/).
-É importante lembrar que a versão do artefato que foi verificada é a versão 1.9.
 
 ## 2. Metodologia
 

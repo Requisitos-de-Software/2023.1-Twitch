@@ -1,9 +1,8 @@
-# Verificação Rich Picture
+# LéxicoS
 
 ## 1. Introdução
 
 Esse artefato visa realizar a verificação do artefato Léxico na versão 1.2 produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/).
-É importante lembrar que a versão do artefato que foi verificada é a versão 1.2.
 
 ## 2. Metodologia
 

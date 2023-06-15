@@ -1,5 +1,7 @@
+# Backlog
+
 ## 1. Introdução
-Esse artefato visa realizar a verificação do artefato de Personas produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/). É importante lembrar que a versão do artefato que foi verificada é a versão 2.1.
+Esse artefato visa realizar a verificação do artefato de Backlog produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/). É importante lembrar que a versão do artefato que foi verificada é a versão 2.1.
 
 ## 2. Metodologia
 Você pode conferir a metodologia utilizada para a verificação do Grupo 01 [nesse link](https://requisitos-de-software.github.io/2023.1-Twitch/verificacao_grupo01/planejamento/).

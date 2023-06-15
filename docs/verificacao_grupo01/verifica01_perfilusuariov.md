@@ -1,5 +1,6 @@
+# Perfil de Usuário
 ## 1. Introdução
-Esse artefato visa realizar a verificação do artefato de Personas produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/).
+Esse artefato visa realizar a verificação do artefato de Perfil de Usuário produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/).
 É importante lembrar que a versão do artefato que foi verificada é a versão 1.4.
 
 ## 2. Metodologia

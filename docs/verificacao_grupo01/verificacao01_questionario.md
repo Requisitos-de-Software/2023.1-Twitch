@@ -1,9 +1,8 @@
-# Verificação Questionário
+# Questionário
 
 ## 1. Introdução
 
 Esse artefato visa realizar a verificação do artefato Questionário das técnicas de Elicitação na versão 1.0 produzido pelo Grupo 01 - Bilheteria Digital, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/tecnicas/questionario/).
-É importante lembrar que a versão do artefato que foi verificada é a versão 1.0.
 
 ## 2. Metodologia
 
