@@ -1,4 +1,4 @@
-# LéxicoS
+# Léxicos
 
 ## 1. Introdução
 
