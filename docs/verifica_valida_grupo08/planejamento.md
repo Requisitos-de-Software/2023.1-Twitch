@@ -57,3 +57,5 @@ A Tabela 3 registra o histórico de versão desse documento.
 >SALES, André. Tabela utilizada para análise dos grupos. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 13 de junho de 2023.
 
 >SERRANO, Maurício; SERRANO, Milene. Material em Slides produzido para a disciplina de Requisitos de Software.
+
+>Análise realizada pelo Grupo 07, disponível [nesse GitPages](https://requisitos-de-software.github.io/2023.1-Petz/).

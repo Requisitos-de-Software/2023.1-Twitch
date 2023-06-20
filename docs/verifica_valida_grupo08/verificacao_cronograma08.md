@@ -11,15 +11,15 @@ Você pode conferir a metodologia utilizada para a verificação de nosso grupo 
 
 |ID|Questão|Verificação|
 |:-:|:-:|:-:|
-|1|O cronograma apresenta da de início e de fim para cada atividade?|Completo|
-|2|O cronograma apresenta o(s) integrante(s) responsável(eis) por cada atividade?|Completo|
-|3|O cronograma apresenta data de revisão para cada atividade?|Completo|
-|4|Existe um cronograma executado, com as atividades que foram executadas?|Incompleto, falta atualizá-lo com informações referentes à entrega 5.1|
-|5|No cronograma executado, está informada a data de início de fim?|Completo|
-|6|No cronograma executado, está informada o integrante responsável e o revisor?|Completo|
-|7|No artefato, possui histórico de versão com data, autor e descrição?|Completo|
-|8|Todas as tabelas possuem legenda?|Completo|
-|9|Todas as tabelas possuem chamada dentro do corpo to texto?|Completo|
+|01|O cronograma apresenta da de início e de fim para cada atividade?|Completo|
+|02|O cronograma apresenta o(s) integrante(s) responsável(eis) por cada atividade?|Completo|
+|03|O cronograma apresenta data de revisão para cada atividade?|Completo|
+|04|Existe um cronograma executado, com as atividades que foram executadas?|Incompleto, falta atualizá-lo com informações referentes à entrega 5.1|
+|05|No cronograma executado, está informada a data de início de fim?|Completo|
+|06|No cronograma executado, está informada o integrante responsável e o revisor?|Completo|
+|07|No artefato, possui histórico de versão com data, autor e descrição?|Completo|
+|08|Todas as tabelas possuem legenda?|Completo|
+|09|Todas as tabelas possuem chamada dentro do corpo to texto?|Completo|
 
 <h6 align = "center"> Tabela 1: Checklist para Verificação do Artefato de Cronograma
 <br> Autor(es): Brunna Louise
@@ -41,7 +41,7 @@ O que foi apontado pelo grupo a respeito dos artefatos, apesar de válido, const
 ## Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
-| 13.06.2023 | 1.0    | Primeira Versão do artefato de Verificação do Cronograma |   Brunna Louise   | Rafael Nobre  |
+| 20.06.2023 | 1.0    | Primeira Versão do artefato de Verificação do Cronograma |   Brunna Louise   | Rafael Nobre  |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Brunna Louise </h6>
@@ -51,3 +51,5 @@ O que foi apontado pelo grupo a respeito dos artefatos, apesar de válido, const
 >SALES, André. Tabela utilizada para análise dos grupos. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 13 de junho de 2023.
 
 >SERRANO, Maurício; SERRANO, Milene. Material em Slides produzido para a disciplina de Requisitos de Software.
+
+>Análise realizada pelo Grupo 07, disponível [nesse GitPages](https://requisitos-de-software.github.io/2023.1-Petz/).
