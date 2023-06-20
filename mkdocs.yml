@@ -57,7 +57,7 @@ nav:
     - Backlog do produto: ./modelagem/backlog.md
   - Verificação Grupo 01:
     - Planejamento da Verificação: ./verificacao_grupo01/planejamento.md
-    - Entrega 1:
+    - Entrega 1 - Planejamento:
       - Aplicativo Escolhido: ./verificacao_grupo01/verifica01_aplicativo_escolhido.md
       - Cronograma: ./verificacao_grupo01/verifica01_cronograma.md
       - Rich Picture: ./verificacao_grupo01/verificacao01_richpicture.md
@@ -82,6 +82,13 @@ nav:
       - NFR Framework: ./verificacao_grupo01/verificacao01_nfr.md
       - Histórias de Usuário: ./verificacao_grupo01/userstory_v.md
       - Backlog: ./verificacao_grupo01/verifica01_backlog.md
+  - Verificação e Validação Grupo 08:
+    - Planejamento da Verificação e da Validação: ./verifica_valida_grupo08/planejamento.md
+    - Entrega 1 - Planejamento:
+      - Cronograma: ./verifica_valida_grupo08/verificacao_cronograma08.md
+      - Ferramentas: ./verifica_valida_grupo08/verificacao_ferramentas08.md
+    - Entrega 3 - Modelagem de Requisitos:
+      - Léxicos: ./verifica_valida_grupo08/verificacao_lexicos08.md
   - Atas de reunião: 
     - Reunião 1: ./atas/reuniao_1.md
     - Reunião 2: ./atas/reuniao_2.md
