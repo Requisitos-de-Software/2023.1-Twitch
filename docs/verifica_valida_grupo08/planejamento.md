@@ -29,12 +29,12 @@ A tabela 2 a seguir registra que membros foram responsáveis por verificar cada 
 
 | **Participante** | **Papel** |
 | ---- | ----------- | 
-| Ana Beatriz | Verificação dos artefatos: Análise Documental, História de Usuário, Backlog |
-| Brunna Louise | Verificação dos artefatos: Cronograma, Ferramentas, Léxico |
-| Diógenes Dantas | Verificação dos artefatos: Rich Picture, MOSCoW, Use Case |
-| Matheus Phillipo | Verificação dos artefatos: Observação, Escala de três níveis, NFR Framework |
-| Milena Beatriz | Verificação dos artefatos: Brainstorm, First Things First, Especificação Suplementar |
-| Rafael Nobre | Verificação dos artefatos: Perfis de Usuário, Personas, Cenários |
+| Ana Beatriz | Verificação dos artefatos: Análise Documental, História de Usuário, Backlog. |
+| Brunna Louise | Verificação dos artefatos: Cronograma, Ferramentas, Léxico. |
+| Diógenes Dantas | Verificação dos artefatos: Rich Picture, MOSCoW, Use Case. |
+| Matheus Phillipo | Verificação dos artefatos: Observação, Escala de três níveis, NFR Framework; <br> Validação por Prototipação. |
+| Milena Beatriz | Verificação dos artefatos: Brainstorm, First Things First, Especificação Suplementar. |
+| Rafael Nobre | Verificação dos artefatos: Perfis de Usuário, Personas, Cenários; <br> Validação Informal. |
 
 <h6 align = "center"> Tabela 2: Participantes e seus papéis na produção dos artefatos relacionados à Entrega 5.2 - Verificação e Validação do próprio Grupo 
 <br> Autor(es): 
