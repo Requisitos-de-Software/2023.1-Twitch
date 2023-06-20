@@ -1,3 +1,4 @@
+# Planejamento
 ## 1. Introdução
 A Entrega 5.2 da Disciplina de Requisitos de Software aborda a etapa de verificação e de validação dos artefatos produzidos pelo próprio grupo durante o semestre. 
 
