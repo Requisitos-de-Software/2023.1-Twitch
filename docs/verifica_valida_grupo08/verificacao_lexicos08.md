@@ -48,7 +48,7 @@ O que foi apontado pelo grupo a respeito dos artefatos, apesar de válido, const
 ## Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
-| 20.06.2023 | 1.0    | Primeira Versão do artefato de Verificação do Cronograma |   Brunna Louise   | Rafael Nobre  |
+| 20.06.2023 | 1.0    | Primeira Versão do artefato de Verificação de Léxicos |   Brunna Louise   | Rafael Nobre  |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Brunna Louise </h6>
