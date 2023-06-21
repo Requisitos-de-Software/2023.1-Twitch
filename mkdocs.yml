@@ -87,8 +87,13 @@ nav:
     - Entrega 1 - Planejamento:
       - Cronograma: ./verifica_valida_grupo08/verificacao_cronograma08.md
       - Ferramentas: ./verifica_valida_grupo08/verificacao_ferramentas08.md
+      - Rich Picture: ./verifica_valida_grupo08/verificacao_richpicture08.md
+    - Entrega 2 - Elicitação:
+      - Priorização:
+        - Técnica de Priorização MosCow: ./verifica_valida_grupo08/verificacao_moscow08.md
     - Entrega 3 - Modelagem de Requisitos:
       - Léxicos: ./verifica_valida_grupo08/verificacao_lexicos08.md
+      - Casos de Uso: ./verifica_valida_grupo08/verificacao_usecase08.md
   - Atas de reunião: 
     - Reunião 1: ./atas/reuniao_1.md
     - Reunião 2: ./atas/reuniao_2.md
