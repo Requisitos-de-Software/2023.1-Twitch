@@ -31,8 +31,23 @@ A tabela a seguir apresenta o checklist já contruído pelo grupo anteriormente 
 <br> Autor(es): Milena Aires
 <br>Fonte: Autor(es)</h6>
 
+## 4. Observações 
+### ID 05
+Explica o conceito de um Brainstorm mas não é claro o objetivo e a aplicação dentro do projeto.
 
-## 4. Resultados
+### ID 07
+Não há nenhum registro de como foi guiado o Brainstorm.
+
+## ID 09
+Não há registros da reunião.
+
+## ID 11
+Não é especificado nenhuma regra do Brainstorm realizado, tal como tempo limite, pessoas, etc.
+
+## ID 12 
+Tem o registro dos requisitos elecitados no Brainstorm realizado mas não tem os dados obtidos no processo.
+
+## 5. Resultados
 O documento verificado está contruído de forma adequada, porém falta algumas informações relevantes para o enriquecimento de informações e detalhamento do processo realizado, com isso obtemos o gráfico abaixo: 
 
 ![Resultados Brainstorm](./imagens/verificacao_brainstorm.png)
@@ -41,10 +56,10 @@ O documento verificado está contruído de forma adequada, porém falta algumas 
 <br> Autor(es): Milena Aires 
 <br>Fonte: Autor(es)</h6>
 
-## 5. Referências
+## 6. Referências
 > RETRAINING: Requirements engineering. [S. l.]. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em: 20 de junho de 2023.
 
-## 6. Histórico de Versões
+## 7. Histórico de Versões
 
 A Tabela seguinte registra o histórico de versão desse documento.
 
