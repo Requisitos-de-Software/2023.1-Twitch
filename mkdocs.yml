@@ -93,15 +93,21 @@ nav:
       - Personas: ./verifica_valida_grupo08/verificacao_personas.md
       - Cenários: ./verifica_valida_grupo08/verificacao_cenarios.md
       - Técnicas:
+        - Brainstorm: ./verifica_valida_grupo08/verificacao_brainstorm08.md
         - Observação: ./verifica_valida_grupo08/verificacao_observacao.md
+        - Análise Documental: ./verifica_valida_grupo08/verifica_analise_doc.md
       - Priorização:
         - Técnica de Priorização Three Level Scale: ./verifica_valida_grupo08/verifica_threelevelscale.md
         - Técnica de Priorização MosCow: ./verifica_valida_grupo08/verificacao_moscow08.md
+        - Técnica de Priorização First Thing First: ./verifica_valida_grupo08/verificacao_ftf.md
     - Entrega 3 - Modelagem de Requisitos:
+      - Especificação Suplementar: ./verifica_valida_grupo08/verificacao_esp_sup.md
       - Léxicos: ./verifica_valida_grupo08/verificacao_lexicos08.md
       - Casos de Uso: ./verifica_valida_grupo08/verificacao_usecase08.md
     - Entrega 4 - Modelagem de Requisitos (Ágil):
       - NFR Framework: ./verifica_valida_grupo08/verificacao_nfr.md
+      - Histórias de Usuário: ./verifica_valida_grupo08/verifica_userstory.md
+      - Backlog: ./verifica_valida_grupo08/verifica_backlog.md
     - Validação: ./verifica_valida_grupo08/validacao.md
   - Atas de reunião: 
     - Reunião 1: ./atas/reuniao_1.md
