@@ -5,7 +5,7 @@ Esse artefato visa realizar a verificação do artefato de Histórias de Usuári
 É importante lembrar que a versão do artefato que foi verificada é a versão 1.2.
 
 ## 2. Metodologia
-Você pode conferir a metodologia utilizada para a verificação do Grupo 01 [nesse link](https://requisitos-de-software.github.io/2023.1-Twitch/verificacao_grupo01/planejamento/).
+Você pode conferir a metodologia utilizada para a verificação [nesse link](https://requisitos-de-software.github.io/2023.1-Twitch/verificacao_grupo01/planejamento/).
 
 ## 3. Verificação
 
