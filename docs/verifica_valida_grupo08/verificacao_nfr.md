@@ -10,7 +10,7 @@ Pode-se conferir a metodologia utilizada para a verificação [nesse link](https
 
 ## 3. Verificação
 
-A tabela a seguir apresenta o checklist que orientou a verificação do NFR Framework do Grupo 01 - Bilheteria Digital, da disciplina de Requisitos de Software no semestre 2023.01.
+A tabela a seguir apresenta o checklist que orientou a verificação do NFR Framework , da disciplina de Requisitos de Software no semestre 2023.01.
 
 | ID |Questão| Resultado da Verificação |
 | :---: | --- | :---: |
@@ -55,7 +55,8 @@ A Tabela seguinte registra o histórico de versão desse documento.
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
-|20.06.2023| 1.0 | Primeiro versão do checklist sobre o NFR Framework produzido pelo grupo 01| Matheus Silva | Diógenes Dantas |
+|20.06.2023| 1.0 | Primeiro versão do artefato de verificação sobre o NFR Framework| Matheus Silva | Diógenes Dantas |
+|21.06.2023| 1.1 | Correção na referência do artefato verificado| Matheus Silva | Diógenes Dantas |
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor(es): Matheus Silva
