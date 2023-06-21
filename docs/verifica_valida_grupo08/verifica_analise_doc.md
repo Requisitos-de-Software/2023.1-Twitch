@@ -38,7 +38,7 @@ A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 
 <br>Fonte: Autor(es)</h6>
 
 ## 5. Observações Pertinentes do Grupo 07
-A análise realizada pelo Grupo 07 a respeito dos artefatos relacionados a Análise documental se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-Petz/analise/teste/historiasUsuario/).
+A análise realizada pelo Grupo 07 a respeito dos artefatos relacionados a Análise documental se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-Petz/analise/teste/analiseDocumental/).
 
 O grupo concluiu com base no checklist criado por eles que o artefato atende as definições conceituais da Análise documental e não é necessário alterações.
 
