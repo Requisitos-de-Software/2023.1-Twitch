@@ -87,13 +87,16 @@ nav:
     - Entrega 1 - Planejamento:
       - Cronograma: ./verifica_valida_grupo08/verificacao_cronograma08.md
       - Ferramentas: ./verifica_valida_grupo08/verificacao_ferramentas08.md
+      - Rich Picture: ./verifica_valida_grupo08/verificacao_richpicture08.md
     - Entrega 2 - Elicitação:
       - Técnicas:
         - Observação: ./verifica_valida_grupo08/verificacao_observacao.md
       - Priorização:
         - Técnica de Priorização Three Level Scale: ./verifica_valida_grupo08/verifica_threelevelscale.md
+        - Técnica de Priorização MosCow: ./verifica_valida_grupo08/verificacao_moscow08.md
     - Entrega 3 - Modelagem de Requisitos:
       - Léxicos: ./verifica_valida_grupo08/verificacao_lexicos08.md
+      - Casos de Uso: ./verifica_valida_grupo08/verificacao_usecase08.md
     - Entrega 4 - Modelagem de Requisitos (Ágil):
       - NFR Framework: ./verifica_valida_grupo08/verificacao_nfr.md
   - Atas de reunião: 
