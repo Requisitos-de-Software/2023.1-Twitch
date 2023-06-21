@@ -5,6 +5,8 @@
 
 <p align="justify">&emsp;&emsp;Em geral, busca responder as seguintes perguntas: o artefato está correto? É o que o cliente esperava? Dessa forma, fica evidente que o usuário/cliente tem participação esperada nesse momento.</p>
 
+<p align="justify">&emsp;&emsp;Em geral, busca responder as seguintes perguntas: o artefato está correto? É o que o cliente esperava? Dessa forma, fica evidente que o usuário/cliente tem participação esperada nesse momento.</p>
+
 ## 2. Metodologia
 
 ### 2.1 Prototipação
@@ -20,7 +22,9 @@
 
 <p align="justify">&emsp;&emsp;A partir destes resquisitos, foram deselvolvidos protótipos correspondentes a essas funcionalidades.</p>
 
-<p align="justify">&emsp;&emsp;Uma entrevista foi feita com o usuário integrante do grupo, Matheus Phillipo Silverio Silva, estudante de Engenharia de Software pela UnB, para validar os protótipos desenvolvidos.</p>
+<p align="justify">&emsp;&emsp;Uma entrevista foi realizada com um usuário integrante do grupo, Matheus Phillipo Silverio Silva, estudante de Engenharia de Software pela UnB, para validar os protótipos desenvolvidos tendo o Rafael Nobre como o entrevistador.</p>
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/BWLdO7RYcdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 2.2 Comprovação Informal
 
@@ -70,8 +74,8 @@ Requisitos](http://disciplinas.lia.ufc.br/engsof081/arquivos/ProcessosEngRequisi
 ## 5. Histórico de Versão
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
-| 21/06/2023 | 1.0 | Criação de template para artefato de validação | Matheus Silva | - |
-| 21/06/2023 | 1.1 | Introdução, metodologia e artefatos de prototipação | Matheus Silva | - |
+| 21/06/2023 | 1.0 | Criação de template para artefato de validação | Matheus Silva | Rafael Nobre |
+| 21/06/2023 | 1.1 | Introdução, metodologia e artefatos de prototipação | Matheus Silva | Rafael Nobre |
 
 <h6 align = "center"> Tabela 1: Histórico de versão
 <br> Autor(es): Matheus Silva
