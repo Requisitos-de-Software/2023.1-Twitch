@@ -50,7 +50,7 @@ A Tabela 2 registra o histórico de versão desse documento.
 
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
-| 20.06.2023 | 1.0    | Criação do documento de verificação do método de priorização Three Leval Scale |  Matheus Silva  |  - |
+| 20.06.2023 | 1.0    | Criação do documento de verificação do método de priorização Three Leval Scale |  Matheus Silva  | Diógenes Dantas |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor(es): Matheus Silva
