@@ -26,7 +26,14 @@
 
 ### 2.2 Comprovação Informal
 
+Utilizamos da comprovação informal para validar nossos artefatos, enviando uma mensagem para a equipe da Twitch, a fim de compreender e receber feedbacks a respeito do nosso projeto. 
 
+![Validação informal](valid_informal.png)
+<h6 align = "center"> Imagem 1: Validação informal
+<br> Autor(es): Rafael Nobre
+<br>Fonte: Autor(es)</h6>
+
+Até o dia 21/06/2023, não obtemos resposta.
 ## 3. Prototipação
 
 ### 3.1 OBS09 - Ao acessar "Ajuste de Conteúdo", o usuário deve ter a opção de selecionar se deseja receber sugestões de conteúdos categorizados para adultos
@@ -35,7 +42,7 @@ A figura abaixo mostra a prototipação realizada acerca do requisito funcional 
 
 ![image](./imagens/sugestao_conteudo.png)
 
-<h6 align = "center"> Imagem 1: Prototipação OBS09
+<h6 align = "center"> Imagem 2: Prototipação OBS09
 <br> Autor(es): Matheus Silva
 <br>Fonte: Autor(es)</h6>
 
@@ -74,6 +81,7 @@ Requisitos](http://disciplinas.lia.ufc.br/engsof081/arquivos/ProcessosEngRequisi
 |:---: | :---: | :---: | :---: | :---: |
 | 21/06/2023 | 1.0 | Criação de template para artefato de validação | Matheus Silva | Rafael Nobre |
 | 21/06/2023 | 1.1 | Introdução, metodologia e artefatos de prototipação | Matheus Silva | Rafael Nobre |
+| 21/06/2023 | 1.2 | Inserção da validação informal | Rafael Nobre | Matheus Silva |
 
 <h6 align = "center"> Tabela 1: Histórico de versão
 <br> Autor(es): Matheus Silva
