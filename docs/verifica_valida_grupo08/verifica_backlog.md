@@ -58,7 +58,7 @@ A Tabela 3 registra o histórico de versão desse documento.
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
-| 21/06/2023| 1.0 | Criação do documento | Ana Beatriz | - |
+| 21/06/2023| 1.0 | Criação do documento | Ana Beatriz | Matheus Silva |
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor(es): 
