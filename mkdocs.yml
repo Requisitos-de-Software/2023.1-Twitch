@@ -89,6 +89,9 @@ nav:
       - Ferramentas: ./verifica_valida_grupo08/verificacao_ferramentas08.md
       - Rich Picture: ./verifica_valida_grupo08/verificacao_richpicture08.md
     - Entrega 2 - Elicitação:
+      - Perfis de Usuário: ./verifica_valida_grupo08/verificacao_perfis_usuario.md
+      - Personas: ./verifica_valida_grupo08/verificacao_personas.md
+      - Cenários: ./verifica_valida_grupo08/verificacao_cenarios.md
       - Técnicas:
         - Observação: ./verifica_valida_grupo08/verificacao_observacao.md
       - Priorização:
