@@ -5,8 +5,6 @@
 
 <p align="justify">&emsp;&emsp;Em geral, busca responder as seguintes perguntas: o artefato está correto? É o que o cliente esperava? Dessa forma, fica evidente que o usuário/cliente tem participação esperada nesse momento.</p>
 
-<p align="justify">&emsp;&emsp;Em geral, busca responder as seguintes perguntas: o artefato está correto? É o que o cliente esperava? Dessa forma, fica evidente que o usuário/cliente tem participação esperada nesse momento.</p>
-
 ## 2. Metodologia
 
 ### 2.1 Prototipação
