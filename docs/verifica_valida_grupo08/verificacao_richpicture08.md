@@ -1,4 +1,4 @@
-# Ferramentas
+# Rich Picture
 
 ## 1. Introdução
 Esse artefato visa realizar a verificação do artefato Rich Picture produzido pelo nosso próprio grupo, que se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-Twitch/pre_rastreabilidade/rich_picture/).
