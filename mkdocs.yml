@@ -90,6 +90,8 @@ nav:
     - Entrega 2 - Elicitação:
       - Técnicas:
         - Observação: ./verifica_valida_grupo08/verificacao_observacao.md
+      - Priorização:
+        - Técnica de Priorização Three Level Scale: ./verifica_valida_grupo08/verifica_threelevelscale.md
     - Entrega 3 - Modelagem de Requisitos:
       - Léxicos: ./verifica_valida_grupo08/verificacao_lexicos08.md
   - Atas de reunião: 
