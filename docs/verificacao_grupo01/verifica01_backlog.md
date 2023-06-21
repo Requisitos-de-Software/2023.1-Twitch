@@ -46,7 +46,7 @@ O artefato está bem completo e foi muito bem desenvolvido. Contudo, é necessá
 
 >SALES, André. Tabela utilizada para análise dos grupos. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 13 de junho de 2023.
 
->SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 15): Modelagem de Requisitos - Abordagens Ágeis. Aceso em: 14 de junho de 2023
+>SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 15): Modelagem de Requisitos - Abordagens Ágeis. Acesso em: 14 de junho de 2023
 
 >S. PRESSMAN,Roger, R. MAXIM, Bruce Cap. 3 Desenvolvimento Ágil - Engenharia de Software Pressman. Acesso em: 14 de junho de 2023.
 
