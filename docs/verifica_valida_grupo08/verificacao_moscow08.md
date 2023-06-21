@@ -18,7 +18,7 @@ Você pode conferir a metodologia utilizada para a verificação de nosso grupo 
 | 05 | As tabelas e imagens do artefato possuem fontes, legendas e chamadas no texto | Completo |
 | 06 | O artefato explica como funciona a metodologia de priorização do MosCow | Completo |
 | 07 | O artefato explica como funciona a metodologia de priorização do MosCow | Completo |
-| 08 | O artefato apresenta a participação do cliente ou persona no desenvolvimento do MosCow | Não Realizado |
+| 08 | O artefato apresenta a participação do cliente ou persona na construção do MosCow | Não Realizado |
 | 09 | O artefato explica como funciona a metodologia de priorização do MosCow | Completo |
 | 10 | Os requisitos apresentados do artefatos estão separados por funcionais, não funcionais | Completo |
 | 11 | Os requisitos estão classificados em Must-Have, Should-Have, Could-Have, Would/ Want/ Won't- Have | Completo |
@@ -29,24 +29,33 @@ Você pode conferir a metodologia utilizada para a verificação de nosso grupo 
 <br> Autor(es): Diógenes Dantas
 <br>Fonte: Autor(es)</h6>
 
-## 4. Resultados
+## 4. Observações
+
+### ID - 08
+
+Adicionar participação de clientes ou personas na construção do MosCow.
+
+## 5. Resultados
 A imagem 1 a seguir apresenta um gráfico de pizza apresentando os resultados contidos na Tabela 1.
 
-![Resultados Ferramentas]()
+![Resultados MosCow](./imagens/resultado_moscow.png)
 <h6 align = "center"> Imagem 1: Resultados da Verificação do Artefato de MosCow
 <br> Autor(es): Diógenes Dantas
 <br>Fonte: Autor(es)</h6>
 
-## 5. Observações Pertinentes do Grupo 07
-A análise realizada pelo Grupo 07 a respeito do artefato de Ferramentas se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-Petz/analise/teste/richpicture/).
+## 6. Observações Pertinentes do Grupo 07
+A análise realizada pelo Grupo 07 a respeito do artefato MosCow se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-Petz/analise/teste/moscow/).
 
-As única observação apontadaa pelo Grupo 07 
+As única observação apontada pelo Grupo 07 é o fato de que o artefato produzido pelo grupo 08 não utilizou uma persona e/ou um cliente no desenvolvimento da Técnica de Priorização Moscow. Segundo o Grupo 07, tendo como referência os slides "SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07)", é necessário que a priorização seja com base nos requisitos que tenham maior valor de negócio para os clientes.
+
+Além disso, o Grupo 07 destacou a falta informações sobre os motivos da priorização dos requisitos.
 
 ## Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 20.06.2023 | 1.0    | Adição da primeira versão do artefato de Verificação Rich Picture |  Diógenes  | Milena |
-| 20.06.2023 | 1.1    | Adicão de checklist dos Casos de Uso, introdução, observações do grupo 07 e referencias|   Diógenes   | Milena |
+| 20.06.2023 | 1.1    | Adicão de checklist do MosCow, introdução, observações do grupo 07 e referencias|   Diógenes   | Milena |
+| 20.06.2023 | 1.2    | Adicão de gráfico de pizza apresentando os resultados do CheckList do MosCow |   Diógenes   | Milena |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Diógenes Dantas </h6>

@@ -35,13 +35,13 @@ Você pode conferir a metodologia utilizada para a verificação de nosso grupo 
 ## 4. Resultados
 A imagem 1 a seguir apresenta um gráfico de pizza apresentando os resultados contidos na Tabela 1.
 
-![Resultados Ferramentas]()
+![Resultados Rich Picture](./imagens/resultado_richpicture.png)
 <h6 align = "center"> Imagem 1: Resultados da Verificação do Artefato RichPicture
 <br> Autor(es): Diógenes Dantas
 <br>Fonte: Autor(es)</h6>
 
 ## 5. Observações Pertinentes do Grupo 07
-A análise realizada pelo Grupo 07 a respeito do artefato de Ferramentas se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-Petz/analise/teste/richpicture/).
+A análise realizada pelo Grupo 07 a respeito do artefato Rich Picture se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-Petz/analise/teste/richpicture/).
 
 As única observação apontadaa pelo Grupo 07 se devem apenas a questão da Rich Picture não ter um título e deve ser acrescentado no artefato.
 
@@ -50,7 +50,8 @@ As única observação apontadaa pelo Grupo 07 se devem apenas a questão da Ric
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 20.06.2023 | 1.0    | Adição da primeira versão do artefato de Verificação Rich Picture |   Diógenes   | Rafael Nobre  |
-| 20.06.2023 | 1.1    | Adição da introdução, checklist de verificação da Rich Picture, referências |   Diógenes   | Rafael Nobre  |
+| 20.06.2023 | 1.1    | Adição da introdução, checklist de verificação da Rich Picture, referências |   Diógenes   | Rafael Nobre |
+| 20.06.2023 | 1.2    | Adicão de gráfico de pizza apresentando os resultados do CheckList da Rich Picture |   Diógenes   | Matheus |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Diógenes Dantas </h6>

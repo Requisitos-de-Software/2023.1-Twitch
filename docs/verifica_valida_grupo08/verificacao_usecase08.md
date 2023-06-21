@@ -22,7 +22,7 @@ Você pode conferir a metodologia utilizada para a verificação de nosso grupo 
 |9|Os relacioamentos de _exclude_ e _include_ estão diagramadas corretamente?|Completo|
 |10|Os atores possuem identificadores no diagrama? Ex. cliente, usuário|Completo|
 |11|Os casos de uso descrevem requisitos funcionais|Completo|
-|12|Está especificada a técnica utilizada para realização dos casos de uso?|Incompleto|
+|12|Está especificada a técnica utilizada para realização dos casos de uso?|Completo|
 |13|As ações são indicadas por verbos no infinitivo?|Completo|
 |14|Os casos de uso possuem fluxos alternativos consistentes?|Completo|
 |15|Os casos de uso possuem fluxos de exceção consistentes?|Completo|
@@ -37,13 +37,13 @@ Você pode conferir a metodologia utilizada para a verificação de nosso grupo 
 ## 4. Resultados
 A imagem 1 a seguir apresenta um gráfico de pizza apresentando os resultados contidos na Tabela 1.
 
-![Resultados Ferramentas]()
+![Resultados Casos_de_Uso](./imagens/resultado_casosdeuson.png)
 <h6 align = "center"> Imagem 1: Resultados da Verificação do Artefato Casos de Uso
 <br> Autor(es): Diógenes Dantas
 <br>Fonte: Autor(es)</h6>
 
 ## 5. Observações Pertinentes do Grupo 07
-A análise realizada pelo Grupo 07 a respeito do artefato de Ferramentas se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-Petz/analise/teste/casosDeUso/).
+A análise realizada pelo Grupo 07 a respeito do artefato Casos de Uso se encontra [nesse link](https://requisitos-de-software.github.io/2023.1-Petz/analise/teste/casosDeUso/).
 
 As única observação apontada pelo Grupo 07 se deve a respeito da ortografia correta e formal do artefato que apresentou alguns erros. Em relação ao conteúdo e as outras métricas dos Casos de Uso, tudo do checklist do Grupo 07 está presente no artefato. 
 
@@ -52,6 +52,7 @@ As única observação apontada pelo Grupo 07 se deve a respeito da ortografia c
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 20.06.2023 | 1.0    | Adição da primeira versão do artefato de Verificação Casos de Uso |   Diógenes   | Rafael Nobre  |
 | 20.06.2023 | 1.1    | Adicão do checklist de Casos de Uso, introdução e as referências usadas na verificacão |   Diógenes   | Rafael Nobre  |
+| 20.06.2023 | 1.2    | Adicão de gráfico de pizza apresentando os resultados do CheckList do Casos de Uso |   Diógenes   | Rafael Nobre |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Diógenes Dantas </h6>
