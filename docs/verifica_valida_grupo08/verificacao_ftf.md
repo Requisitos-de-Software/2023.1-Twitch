@@ -58,7 +58,7 @@ A Tabela seguinte registra o histórico de versão desse documento.
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
-|20.06.2023| 1.0 | Primeira versão do checklist sobre o First Things First produzido pelo grupo 08| Milena Aires | - |
+|20.06.2023| 1.0 | Primeira versão do checklist sobre o First Things First produzido pelo grupo 08| Milena Aires | Ana Beatriz |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor(es): Milena Aires 
