@@ -1,6 +1,8 @@
+# Brainstorm
+
 ## 1. Introdução
 
-A técnica de Elicitação de Requisitos Brainstorm consiste em uma dinâmica de grupo que visa a busca por conclusões e ideias por meio de técnicas espontâneas de geraçõa de ideias.
+A técnica de Elicitação de Requisitos Brainstorm consiste em uma dinâmica de grupo que visa a busca por conclusões e ideias por meio de técnicas espontâneas de gerações de ideias.
 
 Propõe que a diversidade de pensamento, em um momento dinâmico e interativo, sugere ideias relevantes para a resolução de problemas e elicitação de Requisitos.
 
@@ -10,17 +12,24 @@ O grupo se reuniu na sala de aula, durante e após umas das aulas de Requisitos,
 
 ## 3. Participantes
 
-A reunião ocorreu na data 25/04/2023 das 10:20h às 11:50
+A reunião ocorreu na data 25/04/2023 das 10:20h às 11:50 com os seguintes participantes e papéis:
 
-- Matheus
-- Rafael - Direcionador do brainstorm
-- Milena
-- Brunna
-- Diógenes
-- Ana
+|**Participante**|**Papel**|
+|----------------|---------|
+| Matheus| Moderador |
+| Rafael | Usuário |
+| Milena | Usuário |
+| Brunna | Usuário |
+| Diógenes | Usuário |
+| Ana | Usuário |
 
-## Conclusões
-## Requisitos Funcionais
+<h6 align = "center"> Tabela 1: Participantes da Brainstorm
+<br> Autor: Milena Aires 
+<br>Fonte: Autor(es)</h6>
+
+
+## 4. Conclusões
+## 4.1 Requisitos Funcionais
 
 A Tabela 1 indica os requisitos funcionais elicitados por meio
 
@@ -71,11 +80,11 @@ A Tabela 1 indica os requisitos funcionais elicitados por meio
 |RFB43|O usuário deve ser capaz de personalizar o seu canal|
 |RFB44|O usuário deve ser capaz de iniciar sua transmissão|
 
-<h6 align = "center"> Tabela 1: Requisitos Funcionais do Brainstorm
+<h6 align = "center"> Tabela 2: Requisitos Funcionais do Brainstorm
 <br> Autor: Rafael Nobre
 <br>Fonte: Autor(es)</h6>
 
-## Requisitos Não Funcionais
+## 4.2 Requisitos Não Funcionais
 
 A Tabela 2 indica os requisitos não funcionais elicitados por meio
 
@@ -88,15 +97,19 @@ A Tabela 2 indica os requisitos não funcionais elicitados por meio
 |RNFB05|Escabilidade: sistema é capaz de ter um bom desempenho sob uma carga de trabalho aumentada ou crescente: Suporta um alto número de usuários ativos ao mesmo tempo|
 |RNFB06|Disponibilidade:o sistema deve estar disponível quando necessário, com um bom funcionamento durante 24 horas|
 
-<h6 align = "center"> Tabela 2: Requisitos Não Funcionais do Brainstorm
+<h6 align = "center"> Tabela 3: Requisitos Não Funcionais do Brainstorm
 <br> Autor: Diógenes
 <br>Fonte: Autor(es)</h6>
 
-### Legendas
+### 5. Legendas
 
 - RFB: Requisito Funcional Brainstorm
 - RNFB: Requisito Não Funcional Brainstorm
-## Histórico de Versões
+
+## 6. Bibliografia 
+>[1] RETRAINING:  Requirements engineering. [S. l.]. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em: 20 de junho de 2023.
+
+## 7. Histórico de Versões
 
 A Tabela 3 registra o histórico de versão deste documento
 
@@ -105,6 +118,7 @@ A Tabela 3 registra o histórico de versão deste documento
 | 25/04/2023 | 1.0 | Primeiros Requisitos Funcionais | Rafael Nobre | Brunna Louise |
 | 25/04/2023 | 1.1 | Primeiros Requisitos Não Funcionais | Diogenes | Rafael Nobre |
 | 01/05/2023 | 1.2 | Correções de numeração de tabela | Matheus | Diógenes |
+| 21/06/2023 | 1.3 | Correções de acordo com o checklist | Milena | - |
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor: Rafael Nobre
