@@ -36,7 +36,7 @@ Você pode conferir a metodologia utilizada para a verificação de nosso grupo 
 A imagem 1 a seguir apresenta um gráfico de pizza apresentando os resultados contidos na Tabela 1.
 
 ![Resultados Ferramentas]()
-<h6 align = "center"> Imagem 1: Resultados da Verificação do Artefato de Ferramentas
+<h6 align = "center"> Imagem 1: Resultados da Verificação do Artefato RichPicture
 <br> Autor(es): Diógenes Dantas
 <br>Fonte: Autor(es)</h6>
 
