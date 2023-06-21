@@ -102,6 +102,7 @@ nav:
       - Casos de Uso: ./verifica_valida_grupo08/verificacao_usecase08.md
     - Entrega 4 - Modelagem de Requisitos (Ágil):
       - NFR Framework: ./verifica_valida_grupo08/verificacao_nfr.md
+    - Validação: ./verifica_valida_grupo08/validacao.md
   - Atas de reunião: 
     - Reunião 1: ./atas/reuniao_1.md
     - Reunião 2: ./atas/reuniao_2.md
