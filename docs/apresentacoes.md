@@ -44,8 +44,8 @@ No ponto de controle 6, o objetivo da equipe foi realizar a verificação dos ar
 | 01.05.2023 | 1.4    | Adição do link da apresentação 2 no iframe e Ponto de Controle 2 | Diógenes | Matheus | 
 | 17.05.2023 | 1.5    | Adição do link da apresentação 3 no iframe e Ponto de Controle 3 | Diógenes | Matheus |
 | 24.05.2023 | 1.6    | Adição do link da apresentação 4 no iframe e Ponto de Controle 4 | Diógenes | Matheus |
-| 14.06.2023 | 1.7    | Adição do link da apresentação 5 no iframe e Ponto de Controle 5 | Diógenes | - |
-| 21.06.2023 | 1.8    | Adição do link da apresentação 6 no iframe e Ponto de Controle 6 | Rafael | - |
+| 14.06.2023 | 1.7    | Adição do link da apresentação 5 no iframe e Ponto de Controle 5 | Diógenes | Rafael |
+| 21.06.2023 | 1.8    | Adição do link da apresentação 6 no iframe e Ponto de Controle 6 | Rafael | Diógenes |
 
 <h6 align = "center"> Tabela 1: Histórico de Versões
 <br>Autor(es): Diógenes
