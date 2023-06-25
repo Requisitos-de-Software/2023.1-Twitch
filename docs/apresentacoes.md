@@ -24,10 +24,14 @@ No ponto de controle 4, o objetivo da equipe foi realizar estudos a respeito da 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/m4sJ6Enkxco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 ## 6. Ponto de Controle 5
-No ponto de controle 4, o objetivo da equipe foi realizar a verificação dos artefatos construídos pelo grupo 01 (Bilheteria Digital). Foi incluso a verificação com checklists e resultados.
+No ponto de controle 5, o objetivo da equipe foi realizar a verificação dos artefatos construídos pelo grupo 01 (Bilheteria Digital). Foi incluso a verificação com checklists e resultados.
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/hmxwSdkFZqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
+## 7. Ponto de Controle 6
+No ponto de controle 6, o objetivo da equipe foi realizar a verificação dos artefatos construídos pelo próprio grupo, assim como realizar a validação.
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/CJT6191JQMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 ## 3. Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
@@ -40,7 +44,8 @@ No ponto de controle 4, o objetivo da equipe foi realizar a verificação dos ar
 | 01.05.2023 | 1.4    | Adição do link da apresentação 2 no iframe e Ponto de Controle 2 | Diógenes | Matheus | 
 | 17.05.2023 | 1.5    | Adição do link da apresentação 3 no iframe e Ponto de Controle 3 | Diógenes | Matheus |
 | 24.05.2023 | 1.6    | Adição do link da apresentação 4 no iframe e Ponto de Controle 4 | Diógenes | Matheus |
-| 14.06.2023 | 1.7    | Adição do link da apresentação 5 no iframe e Ponto de Controle 5 | Diógenes | - |
+| 14.06.2023 | 1.7    | Adição do link da apresentação 5 no iframe e Ponto de Controle 5 | Diógenes | Rafael |
+| 21.06.2023 | 1.8    | Adição do link da apresentação 6 no iframe e Ponto de Controle 6 | Rafael | Diógenes |
 
 <h6 align = "center"> Tabela 1: Histórico de Versões
 <br>Autor(es): Diógenes
