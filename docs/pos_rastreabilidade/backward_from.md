@@ -75,162 +75,162 @@ Somado a isso, o meta-modelo de Toranzo classiica os elos de rastreabilidade em 
 
 #### ENF01
 
-- Categoria:
+- Categoria: Ambiental 
 - Elos:
 
 #### ENF02
 
-- Categoria:
+- Categoria: Desenvolvimento
 - Elos:
 
 #### ENF03
 
-- Categoria:
+- Categoria: Desenvolvimento
 - Elos:
 
 #### ENF04
 
-- Categoria:
+- Categoria: Organizacional
 - Elos:
 
 #### ENF05
 
-- Categoria:
+- Categoria: Desenvolvimento
 - Elos:
 
 #### ENF06
 
-- Categoria:
+- Categoria: Desenvolvimento
 - Elos:
 
 #### ENF07
 
-- Categoria:
+- Categoria: Desenvolvimento
 - Elos:
 
 #### ENF08
 
-- Categoria:
+- Categoria: Desenvolvimento
 - Elos:
 
 #### ENF09
 
-- Categoria:
+- Categoria: Gerencial
 - Elos:
 
 #### ENF10
 
-- Categoria:
+- Categoria: Ambiental
 - Elos:
 
 #### ENF11
 
-- Categoria:
+- Categoria: Organizacional
 - Elos:
 
 #### ENF12
 
-- Categoria:
+- Categoria: Gerencial
 - Elos:
 
 #### ENF13
 
-- Categoria:
+- Categoria: Desenvolvimento
 - Elos:
   
 #### ENF14
 
-- Categoria:
+- Categoria: Ambiental
 - Elos:
 
 #### ENF15
 
-- Categoria:
+- Categoria: Ambiental
 - Elos:
 
 #### ENF16
 
-- Categoria:
+- Categoria: Ambiental
 - Elos:
 
 #### ENF17
 
-- Categoria:
+- Categoria: Desenvolvimento
 - Elos:
 
 #### ENF18
 
-- Categoria:
+- Categoria: Desenvolvimento
 - Elos:
 
 #### ENF19
 
-- Categoria:
+- Categoria: Desenvolvimento
 - Elos:
 
 #### ENF20
 
-- Categoria:
+- Categoria: Desenvolvimento
 - Elos:
 
 #### ENF21
 
-- Categoria:
+- Categoria: Desenvolvimento
 - Elos:
 
 #### ENF22
 
-- Categoria:
+- Categoria: Desenvolvimento
 - Elos:
 
 #### ENF23
 
-- Categoria:
+- Categoria: Desenvolvimento
 - Elos:
 
 #### ENF24
 
-- Categoria:
+- Categoria: Desenvolvimento
 - Elos:
 
 #### ENF25
 
-- Categoria:
+- Categoria: Organizacional
 - Elos:
 
 #### ENF26
 
-- Categoria:
+- Categoria: Ambiental
 - Elos:
 
 #### ENF27
 
-- Categoria:
+- Categoria: Ambiental
 - Elos:
 
  #### ENF28
 
-- Categoria:
+- Categoria: Ambiental
 - Elos:
 
 #### ENF29
 
-- Categoria:
+- Categoria: Ambiental
 - Elos:
 
 #### ENF30
 
-- Categoria:
+- Categoria: Ambiental
 - Elos:
 
 #### ENF31
 
-- Categoria:
+- Categoria: Ambiental
 - Elos:
 
 #### ENF32
 
-- Categoria:
+- Categoria: Ambiental
 - Elos:
   
 ### 3.3 Legenda
