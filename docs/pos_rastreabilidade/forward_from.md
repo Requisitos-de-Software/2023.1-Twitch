@@ -23,6 +23,19 @@ Os requisitos funcionais obtidos a partir da técnica de Brainstorming serão ra
 <h6 align = "center"> Tabela 1: Exemplo de Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
 
+Já os requisitos funcionais obtidos a partir da técnica de Observação serão rastreados conforme apresentado na Tabela X abaixo:
+
+| [OBSXX]()  | Descrição do requisito.  |
+| ------ | ---- | 
+| Tipo de Requisito  |  Se é requisito funcional ou não funcional; se é implementado ou não implementado. |
+| Especificação Suplementar  | Especificação suplementar associada ao requisito. |
+| História de Usuário | [USBXX]() |
+| Caso de Uso | Caso de Uso relacionado ao requisito funcional. |
+| Cenário  | Cenário devidamente implementado relacionado ao requisito funcional.  |
+| Funcionalidade | Ilustração dessa funcionalidade nos serviços da Twitch, seja por imagem, gif, ou vídeo. |
+<h6 align = "center"> Tabela X: Forward-From de Requisitos obtidos a partir de Observação
+<br> Autor: Brunna Louise</h6>
+
 ## 3. Pós-rastreabilidade 
 
 ### 3.1 Requisitos Funcionais - Técnica de Brainstorming
@@ -293,41 +306,39 @@ Os requisitos funcionais obtidos a partir da técnica de Brainstorming serão ra
 
 ### 3.2 Requisitos obtidos a partir de Observação
 
-| [OBS09](../elicitacao/tecnicas/observacao.md)  | Ao acessar "Ajuste de Conteúdo", o usuário deve ter a opção de selecionar se deseja receber sugestões de conteúdos categorizados para adultos |
+| [OBS09](../elicitacao/priorizacao.md#21-moscow)  | Ao acessar "Ajuste de Conteúdo", o usuário deve ter a opção de selecionar se deseja receber sugestões de conteúdos categorizados para adultos.  |
 | ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
+| Tipo de Requisito  | Requisito Funcional Implementado  |
+| Especificação Suplementar  | - |
 | História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
+| Caso de Uso | - |
+| Cenário  |  - |
 | Funcionalidade | |
 <h6 align = "center"> Tabela 24: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
-| [OBS10](../elicitacao/tecnicas/observacao.md)  | A plataforma deve colocar um efeito Blur nos Thumbnails para cada conteúdo categorizado como adulto ou 18+  |
+| [OBS10](../elicitacao/priorizacao.md#21-moscow)  | A plataforma deve colocar um efeito Blur nos Thumbnails para cada conteúdo categorizado como adulto ou 18+.  |
 | ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
+| Tipo de Requisito  | Requisito Não Funcional Não Implementado  |
+| Especificação Suplementar  | - |
 | História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
-| Funcionalidade | |
+| Caso de Uso | - |
+| Cenário  | [C08](../modelagem/cenarios.md#c08-restrição-de-conteúdo-18)  |
+| Funcionalidade | - |
 <h6 align = "center"> Tabela 25: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
-| [OBS11](../elicitacao/tecnicas/observacao.md)  | A plataforma deve colocar uma etapa de confirmação, perguntado se o usuário deseja visualizar o conteúdo categorizado como adulto ou 18+  |
+| [OBS11](../elicitacao/priorizacao.md#21-moscow)  | A plataforma deve colocar uma etapa de confirmação, perguntado se o usuário deseja visualizar o conteúdo categorizado como adulto ou 18+.  |
 | ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
+| Tipo de Requisito  | Requisito Funcional Não Implementado  |
+| Especificação Suplementar  |  |
 | História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
-| Funcionalidade | |
+| Caso de Uso | - |
+| Cenário  | [C08](../modelagem/cenarios.md#c08-restrição-de-conteúdo-18)   |
+| Funcionalidade | - |
 <h6 align = "center"> Tabela 26: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
+
 
 ### 3.3 Legenda
 A tabela 24 a seguir apresenta a definição de siglas utilizadas ao longo do documento.
