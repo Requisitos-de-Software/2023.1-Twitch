@@ -16,6 +16,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EPXX]() |
 | Feature | Funcionalidade presente nos serviços da Twitch. |
 | História de Usuário | [USBXX]() |
+| Caso de Uso  | Caso de Uso relacionado ao requisito funcional.  |
 | Funcionalidade | Ilustração dessa funcionalidade nos serviços da Twitch, seja por imagem, gif, ou vídeo. |
 
 <h6 align = "center"> Tabela 1: Exemplo de Forward-From de Requisitos Funcionais
@@ -30,6 +31,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP01 - Conteúdo](../modelagem/backlog.md#311-ep01---conteúdo) |
 | Feature |  |
 | História de Usuário | [USB01](../modelagem/user_stories.md#31-histórias-de-usuário-relacionadas-à-visualização-e-interação-com-conteúdo) |
+| Caso de Uso | [Consumir Conteúdo](../modelagem/usecase.md#53-caso-de-uso-consumir-conteúdo) |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 2: Forward-From de Requisitos Funcionais
@@ -40,6 +42,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP01 - Conteúdo](../modelagem/backlog.md#311-ep01---conteúdo) |
 | Feature |  |
 | História de Usuário | [USB02](../modelagem/user_stories.md#31-histórias-de-usuário-relacionadas-à-visualização-e-interação-com-conteúdo) |
+| Caso de Uso | [Consumir Conteúdo](../modelagem/usecase.md#53-caso-de-uso-consumir-conteúdo) |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 3: Forward-From de Requisitos Funcionais
@@ -50,6 +53,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP01 - Conteúdo](../modelagem/backlog.md#311-ep01---conteúdo) |
 | Feature |  |
 | História de Usuário | [USB03](../modelagem/user_stories.md#31-histórias-de-usuário-relacionadas-à-visualização-e-interação-com-conteúdo) |
+| Caso de Uso | [Interagir em Lives](../modelagem/usecase.md#56-caso-de-uso-interagir-em-lives) |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 4: Forward-From de Requisitos Funcionais
@@ -60,6 +64,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP01 - Conteúdo](../modelagem/backlog.md#311-ep01---conteúdo) |
 | Feature |  |
 | História de Usuário | [USB04](../modelagem/user_stories.md#31-histórias-de-usuário-relacionadas-à-visualização-e-interação-com-conteúdo) |
+| Caso de Uso | [Interagir em Lives](../modelagem/usecase.md#56-caso-de-uso-interagir-em-lives) |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 5: Forward-From de Requisitos Funcionais
@@ -70,6 +75,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP02 - Conta](../modelagem/backlog.md#312-ep02---conta) |
 | Feature |  |
 | História de Usuário | [USB15](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| Caso de Uso | [Apoiar Conteúdo](../modelagem/usecase.md#58-caso-de-uso-apoiar-conteúdo) |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 6: Forward-From de Requisitos Funcionais
@@ -80,6 +86,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP02 - Conta](../modelagem/backlog.md#312-ep02---conta) |
 | Feature |  |
 | História de Usuário | [USB17](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| Caso de Uso | [Apoiar Conteúdo](../modelagem/usecase.md#58-caso-de-uso-apoiar-conteúdo) |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 7: Forward-From de Requisitos Funcionais
@@ -90,6 +97,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP01 - Conteúdo](../modelagem/backlog.md#311-ep01---conteúdo) |
 | Feature |  |
 | História de Usuário | [USB10](../modelagem/user_stories.md#31-histórias-de-usuário-relacionadas-à-visualização-e-interação-com-conteúdo) |
+| Caso de Uso | - |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 8: Forward-From de Requisitos Funcionais
@@ -100,6 +108,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP01 - Conteúdo](../modelagem/backlog.md#311-ep01---conteúdo) |
 | Feature |  |
 | História de Usuário | [USB11](../modelagem/user_stories.md#31-histórias-de-usuário-relacionadas-à-visualização-e-interação-com-conteúdo) |
+| Caso de Uso | - |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 9: Forward-From de Requisitos Funcionais
@@ -110,6 +119,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP01 - Conteúdo](../modelagem/backlog.md#311-ep01---conteúdo) |
 | Feature |  |
 | História de Usuário | [USB12](../modelagem/user_stories.md#31-histórias-de-usuário-relacionadas-à-visualização-e-interação-com-conteúdo) |
+| Caso de Uso | [Buscar Conteúdo](../modelagem/usecase.md#52-caso-de-uso-buscar-conteúdo) |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 10: Forward-From de Requisitos Funcionais
@@ -120,6 +130,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP01 - Conteúdo](../modelagem/backlog.md#311-ep01---conteúdo) |
 | Feature |  |
 | História de Usuário | [USB13](../modelagem/user_stories.md#31-histórias-de-usuário-relacionadas-à-visualização-e-interação-com-conteúdo) |
+| Caso de Uso | - |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 11: Forward-From de Requisitos Funcionais
@@ -130,6 +141,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP02 - Conta](../modelagem/backlog.md#312-ep02---conta) |
 | Feature |  |
 | História de Usuário | [USB20](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| Caso de Uso | - |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 12: Forward-From de Requisitos Funcionais
@@ -140,6 +152,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP02 - Conta](../modelagem/backlog.md#312-ep02---conta) |
 | Feature |  |
 | História de Usuário | [USB21](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| Caso de Uso | - |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 13: Forward-From de Requisitos Funcionais
@@ -150,6 +163,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP02 - Conta](../modelagem/backlog.md#312-ep02---conta) |
 | Feature |  |
 | História de Usuário | [USB22](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| Caso de Uso | - |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 14: Forward-From de Requisitos Funcionais
@@ -160,6 +174,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP02 - Conta](../modelagem/backlog.md#312-ep02---conta) |
 | Feature |  |
 | História de Usuário | [USB23](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| Caso de Uso | - |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 15: Forward-From de Requisitos Funcionais
@@ -170,6 +185,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP02 - Conta](../modelagem/backlog.md#312-ep02---conta) |
 | Feature |  |
 | História de Usuário | [USB24](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| Caso de Uso | - |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 16: Forward-From de Requisitos Funcionais
@@ -180,6 +196,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP02 - Conta](../modelagem/backlog.md#312-ep02---conta) |
 | Feature |  |
 | História de Usuário | [USB25](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| Caso de Uso | - |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 17: Forward-From de Requisitos Funcionais
@@ -190,6 +207,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP03 - Plataforma](../modelagem/backlog.md#313-ep03---plataforma) |
 | Feature |  |
 | História de Usuário | [USB30](../modelagem/user_stories.md#33-histórias-de-usuário-relacionadas-à-plataforma-e-configurações) |
+| Caso de Uso | - |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 18: Forward-From de Requisitos Funcionais
@@ -200,6 +218,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP03 - Plataforma](../modelagem/backlog.md#313-ep03---plataforma) |
 | Feature |  |
 | História de Usuário | [USB32](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| Caso de Uso | [Fazer Login](../modelagem/usecase.md#51-caso-de-uso-fazer-login) |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 19: Forward-From de Requisitos Funcionais
@@ -210,6 +229,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP03 - Plataforma](../modelagem/backlog.md#313-ep03---plataforma) |
 | Feature |  |
 | História de Usuário | [USB33](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| Caso de Uso | - |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 20: Forward-From de Requisitos Funcionais
@@ -220,6 +240,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP03 - Plataforma](../modelagem/backlog.md#313-ep03---plataforma) |
 | Feature |  |
 | História de Usuário | [USB34](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| Caso de Uso | - |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 21: Forward-From de Requisitos Funcionais
@@ -230,6 +251,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP03 - Plataforma](../modelagem/backlog.md#313-ep03---plataforma) |
 | Feature |  |
 | História de Usuário | [USB36](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| Caso de Uso | - |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 22: Forward-From de Requisitos Funcionais
@@ -240,6 +262,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 | Épico  | [EP03 - Plataforma](../modelagem/backlog.md#313-ep03---plataforma) |
 | Feature |  |
 | História de Usuário | [USB37](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| Caso de Uso | [Criar Conteúdo](../modelagem/usecase.md#54-caso-de-uso-criar-conteúdo) |
 | Funcionalidade | |
 
 <h6 align = "center"> Tabela 23: Forward-From de Requisitos Funcionais
