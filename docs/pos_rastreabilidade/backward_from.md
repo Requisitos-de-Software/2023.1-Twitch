@@ -1,4 +1,4 @@
-# Backward From
+# Backward Tom
 
 ## 1. Introdução
 
@@ -35,13 +35,30 @@ Somado a isso, o meta-modelo de Toranzo classiica os elos de rastreabilidade em 
 <h6 align = "center"> Tabela 1: Backward-From Requisitos Não-Funcionais
 <br> Autor: Diógenes Dantas e Milena</h6>
 
+### 3.2 Requisitos Não-Funcionais
+
+
+
+### 3.3 Legenda
+
+|    ID    | Significado |
+| :--------: | :----: |
+| RF |  Requisitos Funcionais  |
+| RNF |  Requisitos Não Funcionais  |
+| OBS |  Observação  |
+| DOC |  Documentação  |
+
+
+<h6 align = "center"> Tabela 2: Legenda
+<br> Autor: Diógenes Dantas e Milena </h6>
+
 
 ## Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
-| 26.06.2023 | 1.0    | Primeira Versão do artefato de Backward_From de Pós-Rastreabilidade|   Diógenes Dantas   |  Milena  |
+| 26.06.2023 | 1.0    | Primeira Versão do artefato de Backward_From de Pós-Rastreabilidade |   Diógenes Dantas   |  Milena  |
 
-<h6 align = "center"> Tabela 2: Histórico de Versões
+<h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor: Diógenes Dantas e Milena </h6>
 
 ## Referências

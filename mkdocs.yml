@@ -111,6 +111,8 @@ nav:
     - Validação: ./verifica_valida_grupo08/validacao.md
   - Pós Rastreabilidade:
     - Backward From: ./pos_rastreabilidade/backward_from.md
+    - Forward From: ./pos_rastreabilidade/forward_from.md
+    - Matriz de Rastreablidade: ./pos_rastreabilidade/matriz_rastreabilidade.md
   - Atas de reunião: 
     - Reunião 1: ./atas/reuniao_1.md
     - Reunião 2: ./atas/reuniao_2.md
