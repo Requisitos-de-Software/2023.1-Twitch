@@ -9,7 +9,7 @@ Esse artefato tem como objetivo aplicar a técnica de rastreabilidade Forward-Fr
 
 A rastreabilidade a partir da técnica Forward-from será realizada para os requisitos funcionais com priorização do tipo Must presentes na [tabela de priorização com técnica MOSCoW](../elicitacao/priorizacao.md#21-moscow). Isso foi decidido pois os épicos, histórias de usuários, casos de uso e cenários foram definidos com base nesses requisitos funcionais estabelecidos como sendo de maior prioridade.
 
-Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
+Os requisitos funcionais obtidos a partir da técnica de Brainstorming serão rastreados conforme apresentado na Tabela 1:
 
 | [RFBXX]()  | Descrição do requisito funcional.  |
 | ------ | ---- | 
@@ -25,7 +25,7 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 
 ## 3. Pós-rastreabilidade 
 
-### 3.1 Requisitos Funcionais
+### 3.1 Requisitos Funcionais - Técnica de Brainstorming
 
 | [RFB01](../elicitacao/priorizacao.md#21-moscow)  | O usuário deve ser capaz de assistir a uma live.  |
 | ------ | ---- | 
@@ -291,7 +291,129 @@ Os requisitos funcionais serão rastreados conforme apresentado na Tabela 1:
 <h6 align = "center"> Tabela 23: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
 
-### 3.2 Legenda
+### 3.2 Requisitos obtidos a partir de Observação
+
+| [OBS01](../elicitacao/priorizacao.md#21-moscow)  | O usuário deve ser capaz de consumir conteúdos sem se registrar na plataforma.  |
+| ------ | ---- | 
+| Tipo de Requisito  |   |
+| Épico  |  |
+| Feature |  |
+| História de Usuário |  |
+| Caso de Uso |  |
+| Cenário  |   |
+| Funcionalidade | |
+<h6 align = "center"> Tabela 24: Forward-From de Requisitos obtidos a partir de Observação
+<br> Autor: Brunna Louise</h6>
+
+| [OBS02](../elicitacao/priorizacao.md#21-moscow)  | O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo.  |
+| ------ | ---- | 
+| Tipo de Requisito  |   |
+| Épico  |  |
+| Feature |  |
+| História de Usuário |  |
+| Caso de Uso |  |
+| Cenário  |   |
+| Funcionalidade | |
+<h6 align = "center"> Tabela 25: Forward-From de Requisitos obtidos a partir de Observação
+<br> Autor: Brunna Louise</h6>
+
+| [OBS03](../elicitacao/priorizacao.md#21-moscow)  | O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo através de um provedor de email como Gmail, Outlook.  |
+| ------ | ---- | 
+| Tipo de Requisito  |   |
+| Épico  |  |
+| Feature |  |
+| História de Usuário |  |
+| Caso de Uso |  |
+| Cenário  |   |
+| Funcionalidade | |
+<h6 align = "center"> Tabela 26: Forward-From de Requisitos obtidos a partir de Observação
+<br> Autor: Brunna Louise</h6>
+
+| [OBS04](../elicitacao/priorizacao.md#21-moscow)  | O usuário deve estar cadastrado e logado para acessar as funcionalidades do sistema, com exceção o acesso aos vídeos.  |
+| ------ | ---- | 
+| Tipo de Requisito  |   |
+| Épico  |  |
+| Feature |  |
+| História de Usuário |  |
+| Caso de Uso |  |
+| Cenário  |   |
+| Funcionalidade | |
+<h6 align = "center"> Tabela 27: Forward-From de Requisitos obtidos a partir de Observação
+<br> Autor: Brunna Louise</h6>
+
+| [OBS06](../elicitacao/priorizacao.md#21-moscow)  | Para um novo usuário, o sistema de recomendação de Categorias deve mostrar os tipos de conteúdos que estão em alta na plataforma.  |
+| ------ | ---- | 
+| Tipo de Requisito  |   |
+| Épico  |  |
+| Feature |  |
+| História de Usuário |  |
+| Caso de Uso |  |
+| Cenário  |   |
+| Funcionalidade | |
+<h6 align = "center"> Tabela 28: Forward-From de Requisitos obtidos a partir de Observação
+<br> Autor: Brunna Louise</h6>
+
+| [OBS08](../elicitacao/priorizacao.md#21-moscow)  | Ao acessar "Ajuste de Conteúdo", após o usuário selecionar as categorias que lhe interessa. O sistema deve sugerir os tipos de conteúdos voltados a sua escolha na maioria da interface.  |
+| ------ | ---- | 
+| Tipo de Requisito  |   |
+| Épico  |  |
+| Feature |  |
+| História de Usuário |  |
+| Caso de Uso |  |
+| Cenário  |   |
+| Funcionalidade | |
+<h6 align = "center"> Tabela 29: Forward-From de Requisitos obtidos a partir de Observação
+<br> Autor: Brunna Louise</h6>
+
+| [OBS09](../elicitacao/priorizacao.md#21-moscow)  | Ao acessar "Ajuste de Conteúdo", o usuário deve ter a opção de selecionar se deseja receber sugestões de conteúdos categorizados para adultos.  |
+| ------ | ---- | 
+| Tipo de Requisito  |   |
+| Épico  |  |
+| Feature |  |
+| História de Usuário |  |
+| Caso de Uso |  |
+| Cenário  |   |
+| Funcionalidade | |
+<h6 align = "center"> Tabela 30: Forward-From de Requisitos obtidos a partir de Observação
+<br> Autor: Brunna Louise</h6>
+
+| [OBS10](../elicitacao/priorizacao.md#21-moscow)  | A plataforma deve colocar um efeito Blur nos Thumbnails para cada conteúdo categorizado como adulto ou 18+.  |
+| ------ | ---- | 
+| Tipo de Requisito  |   |
+| Épico  |  |
+| Feature |  |
+| História de Usuário |  |
+| Caso de Uso |  |
+| Cenário  |   |
+| Funcionalidade | |
+<h6 align = "center"> Tabela 31: Forward-From de Requisitos obtidos a partir de Observação
+<br> Autor: Brunna Louise</h6>
+
+| [OBS11](../elicitacao/priorizacao.md#21-moscow)  | A plataforma deve colocar uma etapa de confirmação, perguntado se o usuário deseja visualizar o conteúdo categorizado como adulto ou 18+.  |
+| ------ | ---- | 
+| Tipo de Requisito  |   |
+| Épico  |  |
+| Feature |  |
+| História de Usuário |  |
+| Caso de Uso |  |
+| Cenário  |   |
+| Funcionalidade | |
+<h6 align = "center"> Tabela 32: Forward-From de Requisitos obtidos a partir de Observação
+<br> Autor: Brunna Louise</h6>
+
+| [OBS12](../elicitacao/priorizacao.md#21-moscow)  | A barra de navegação de tipos de conteúdos deve aparecer na tela de início, mesmo estando logado.  |
+| ------ | ---- | 
+| Tipo de Requisito  |   |
+| Épico  |  |
+| Feature |  |
+| História de Usuário |  |
+| Caso de Uso |  |
+| Cenário  |   |
+| Funcionalidade | |
+<h6 align = "center"> Tabela 32: Forward-From de Requisitos obtidos a partir de Observação
+<br> Autor: Brunna Louise</h6>
+
+### 3.3 Legenda
 A tabela 24 a seguir apresenta a definição de siglas utilizadas ao longo do documento.
 
 |    Sigla no ID    | Significado |
@@ -300,6 +422,7 @@ A tabela 24 a seguir apresenta a definição de siglas utilizadas ao longo do do
 | USBXX |  Histórias de usuário identificadas no artefato de [Histórias de Usuário](../modelagem/user_stories.md#3-histórias-de-usuário).  |
 | EPXX |  Épicos identificados no artefato de [Backlog](../modelagem/backlog.md#3-épicos).  |
 | CXX |  Cenários implementados descritos no artefato de [Cenários](../modelagem/cenarios.md#31-cenários-identificados-implementados).  |
+| OBSXX |  Requisitos obtidos a partir da [técnica de Observação](../elicitacao/tecnicas/observacao.md#3-resultados).  |
 <h6 align = "center"> Tabela 24: Legenda das siglas utilizadas ao longo do artefato.
 <br> Autor: Brunna Louise </h6>
 
