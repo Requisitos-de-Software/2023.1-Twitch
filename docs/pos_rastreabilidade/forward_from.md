@@ -9,7 +9,7 @@ Esse artefato tem como objetivo aplicar a técnica de rastreabilidade Forward-Fr
 
 A rastreabilidade a partir da técnica Forward-from será realizada para os requisitos funcionais com priorização do tipo Must presentes na [tabela de priorização com técnica MOSCoW](../elicitacao/priorizacao.md#21-moscow). Isso foi decidido pois os épicos, histórias de usuários, casos de uso e cenários foram definidos com base nesses requisitos funcionais estabelecidos como sendo de maior prioridade.
 
-Os requisitos funcionais obtidos a partir da técnica de Brainstorming serão rastreados conforme apresentado na Tabela 1:
+Os requisitos funcionais obtidos a partir da técnica de [Brainstorming](../elicitacao/tecnicas/Brainstorm.md) serão rastreados conforme apresentado na Tabela 1:
 
 | [RFBXX]()  | Descrição do requisito funcional.  |
 | ------ | ---- | 
@@ -23,7 +23,7 @@ Os requisitos funcionais obtidos a partir da técnica de Brainstorming serão ra
 <h6 align = "center"> Tabela 1: Exemplo de Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
 
-Já os requisitos funcionais obtidos a partir da técnica de Observação serão rastreados conforme apresentado na Tabela X abaixo:
+Já os requisitos funcionais obtidos a partir da técnica de [Observação](../elicitacao/tecnicas/observacao.md) serão rastreados conforme apresentado na Tabela X abaixo:
 
 | [OBSXX]()  | Descrição do requisito.  |
 | ------ | ---- | 
