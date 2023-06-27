@@ -295,121 +295,111 @@ Os requisitos funcionais obtidos a partir da técnica de Brainstorming serão ra
 
 | [OBS01](../elicitacao/priorizacao.md#21-moscow)  | O usuário deve ser capaz de consumir conteúdos sem se registrar na plataforma.  |
 | ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
+| Tipo de Requisito  |  Requisito Não Funcional Implementado |
+| Especificação Suplementar  | [F03](../modelagem/esp_suplementar.md#31-funcionalidade-functionality)<br>[U01](../modelagem/esp_suplementar.md#32-usabilidade-usability) |
 | História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
-| Funcionalidade | |
+| Caso de Uso | [Consumir Conteúdo](../modelagem/usecase.md#53-caso-de-uso-consumir-conteúdo) |
+| Cenário  | -  |
+| Funcionalidade | - |
 <h6 align = "center"> Tabela 24: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
 | [OBS02](../elicitacao/priorizacao.md#21-moscow)  | O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo.  |
 | ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
-| História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
-| Funcionalidade | |
+| Tipo de Requisito  | Requisito Funcional Implementado  |
+| Especificação Suplementar | [F04](../modelagem/esp_suplementar.md#31-funcionalidade-functionality) |
+| História de Usuário | - |
+| Caso de Uso | - |
+| Cenário  | [C01](../modelagem/cenarios.md#c01-criar-conta)  |
+| Funcionalidade |  |
 <h6 align = "center"> Tabela 25: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
 | [OBS03](../elicitacao/priorizacao.md#21-moscow)  | O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo através de um provedor de email como Gmail, Outlook.  |
 | ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
+| Tipo de Requisito  |  Requisito Funcional Não Implementado |
+| Especificação Suplementar  | - |
 | História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
-| Funcionalidade | |
+| Caso de Uso | - |
+| Cenário  | [C07](../modelagem/cenarios.md#c07-login-por-um-provedor-email)  |
+| Funcionalidade | - |
 <h6 align = "center"> Tabela 26: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
 | [OBS04](../elicitacao/priorizacao.md#21-moscow)  | O usuário deve estar cadastrado e logado para acessar as funcionalidades do sistema, com exceção o acesso aos vídeos.  |
 | ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
+| Tipo de Requisito  |  Requisito Não Funcional Implementado |
+| Especificação Suplementar  | [S04](../modelagem/esp_suplementar.md#35-suportabilidade) |
 | História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
-| Funcionalidade | |
+| Caso de Uso | - |
+| Cenário  | -  |
+| Funcionalidade | - |
 <h6 align = "center"> Tabela 27: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
 | [OBS06](../elicitacao/priorizacao.md#21-moscow)  | Para um novo usuário, o sistema de recomendação de Categorias deve mostrar os tipos de conteúdos que estão em alta na plataforma.  |
 | ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
+| Tipo de Requisito  |  Requisito Funcional Implementado |
+| Especificação Suplementar  | - |
 | História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
+| Caso de Uso | - |
+| Cenário  | -  |
 | Funcionalidade | |
 <h6 align = "center"> Tabela 28: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
 | [OBS08](../elicitacao/priorizacao.md#21-moscow)  | Ao acessar "Ajuste de Conteúdo", após o usuário selecionar as categorias que lhe interessa. O sistema deve sugerir os tipos de conteúdos voltados a sua escolha na maioria da interface.  |
 | ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
+| Tipo de Requisito  | Requisito Funcional Implementado  |
+| Especificação Suplementar  | - |
 | História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
+| Caso de Uso | - |
+| Cenário  | -  |
 | Funcionalidade | |
 <h6 align = "center"> Tabela 29: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
 | [OBS09](../elicitacao/priorizacao.md#21-moscow)  | Ao acessar "Ajuste de Conteúdo", o usuário deve ter a opção de selecionar se deseja receber sugestões de conteúdos categorizados para adultos.  |
 | ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
+| Tipo de Requisito  | Requisito Funcional Implementado  |
+| Especificação Suplementar  | - |
 | História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
+| Caso de Uso | - |
+| Cenário  |  - |
 | Funcionalidade | |
 <h6 align = "center"> Tabela 30: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
 | [OBS10](../elicitacao/priorizacao.md#21-moscow)  | A plataforma deve colocar um efeito Blur nos Thumbnails para cada conteúdo categorizado como adulto ou 18+.  |
 | ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
+| Tipo de Requisito  | Requisito Não Funcional Não Implementado  |
+| Especificação Suplementar  | - |
 | História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
-| Funcionalidade | |
+| Caso de Uso | - |
+| Cenário  | [C08](../modelagem/cenarios.md#c08-restrição-de-conteúdo-18)  |
+| Funcionalidade | - |
 <h6 align = "center"> Tabela 31: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
 | [OBS11](../elicitacao/priorizacao.md#21-moscow)  | A plataforma deve colocar uma etapa de confirmação, perguntado se o usuário deseja visualizar o conteúdo categorizado como adulto ou 18+.  |
 | ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
+| Tipo de Requisito  | Requisito Funcional Não Implementado  |
+| Especificação Suplementar  |  |
 | História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
-| Funcionalidade | |
+| Caso de Uso | - |
+| Cenário  | [C08](../modelagem/cenarios.md#c08-restrição-de-conteúdo-18)   |
+| Funcionalidade | - |
 <h6 align = "center"> Tabela 32: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
 | [OBS12](../elicitacao/priorizacao.md#21-moscow)  | A barra de navegação de tipos de conteúdos deve aparecer na tela de início, mesmo estando logado.  |
 | ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
+| Tipo de Requisito  |  Requisito Não Funcional Implementado |
+| Especificação Suplementar  | [U04](../modelagem/esp_suplementar.md#32-usabilidade-usability) |
 | História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
-| Funcionalidade | |
+| Caso de Uso | - |
+| Cenário  | -  |
+| Funcionalidade | - |
 <h6 align = "center"> Tabela 32: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
