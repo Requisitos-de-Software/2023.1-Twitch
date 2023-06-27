@@ -109,6 +109,8 @@ nav:
       - Histórias de Usuário: ./verifica_valida_grupo08/verifica_userstory.md
       - Backlog: ./verifica_valida_grupo08/verifica_backlog.md
     - Validação: ./verifica_valida_grupo08/validacao.md
+  - Pós Rastreabilidade:
+    - Backward From: ./pos_rastreabilidade/backward_from.md
   - Atas de reunião: 
     - Reunião 1: ./atas/reuniao_1.md
     - Reunião 2: ./atas/reuniao_2.md
