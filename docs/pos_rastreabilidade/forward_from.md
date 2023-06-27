@@ -293,7 +293,7 @@ Os requisitos funcionais obtidos a partir da técnica de Brainstorming serão ra
 
 ### 3.2 Requisitos obtidos a partir de Observação
 
-| [OBS01](../elicitacao/priorizacao.md#21-moscow)  | O usuário deve ser capaz de consumir conteúdos sem se registrar na plataforma.  |
+| [OBS09](../elicitacao/tecnicas/observacao.md)  | Ao acessar "Ajuste de Conteúdo", o usuário deve ter a opção de selecionar se deseja receber sugestões de conteúdos categorizados para adultos |
 | ------ | ---- | 
 | Tipo de Requisito  |   |
 | Épico  |  |
@@ -305,7 +305,7 @@ Os requisitos funcionais obtidos a partir da técnica de Brainstorming serão ra
 <h6 align = "center"> Tabela 24: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
-| [OBS02](../elicitacao/priorizacao.md#21-moscow)  | O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo.  |
+| [OBS10](../elicitacao/tecnicas/observacao.md)  | A plataforma deve colocar um efeito Blur nos Thumbnails para cada conteúdo categorizado como adulto ou 18+  |
 | ------ | ---- | 
 | Tipo de Requisito  |   |
 | Épico  |  |
@@ -317,7 +317,7 @@ Os requisitos funcionais obtidos a partir da técnica de Brainstorming serão ra
 <h6 align = "center"> Tabela 25: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
-| [OBS03](../elicitacao/priorizacao.md#21-moscow)  | O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo através de um provedor de email como Gmail, Outlook.  |
+| [OBS11](../elicitacao/tecnicas/observacao.md)  | A plataforma deve colocar uma etapa de confirmação, perguntado se o usuário deseja visualizar o conteúdo categorizado como adulto ou 18+  |
 | ------ | ---- | 
 | Tipo de Requisito  |   |
 | Épico  |  |
@@ -327,90 +327,6 @@ Os requisitos funcionais obtidos a partir da técnica de Brainstorming serão ra
 | Cenário  |   |
 | Funcionalidade | |
 <h6 align = "center"> Tabela 26: Forward-From de Requisitos obtidos a partir de Observação
-<br> Autor: Brunna Louise</h6>
-
-| [OBS04](../elicitacao/priorizacao.md#21-moscow)  | O usuário deve estar cadastrado e logado para acessar as funcionalidades do sistema, com exceção o acesso aos vídeos.  |
-| ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
-| História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
-| Funcionalidade | |
-<h6 align = "center"> Tabela 27: Forward-From de Requisitos obtidos a partir de Observação
-<br> Autor: Brunna Louise</h6>
-
-| [OBS06](../elicitacao/priorizacao.md#21-moscow)  | Para um novo usuário, o sistema de recomendação de Categorias deve mostrar os tipos de conteúdos que estão em alta na plataforma.  |
-| ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
-| História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
-| Funcionalidade | |
-<h6 align = "center"> Tabela 28: Forward-From de Requisitos obtidos a partir de Observação
-<br> Autor: Brunna Louise</h6>
-
-| [OBS08](../elicitacao/priorizacao.md#21-moscow)  | Ao acessar "Ajuste de Conteúdo", após o usuário selecionar as categorias que lhe interessa. O sistema deve sugerir os tipos de conteúdos voltados a sua escolha na maioria da interface.  |
-| ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
-| História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
-| Funcionalidade | |
-<h6 align = "center"> Tabela 29: Forward-From de Requisitos obtidos a partir de Observação
-<br> Autor: Brunna Louise</h6>
-
-| [OBS09](../elicitacao/priorizacao.md#21-moscow)  | Ao acessar "Ajuste de Conteúdo", o usuário deve ter a opção de selecionar se deseja receber sugestões de conteúdos categorizados para adultos.  |
-| ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
-| História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
-| Funcionalidade | |
-<h6 align = "center"> Tabela 30: Forward-From de Requisitos obtidos a partir de Observação
-<br> Autor: Brunna Louise</h6>
-
-| [OBS10](../elicitacao/priorizacao.md#21-moscow)  | A plataforma deve colocar um efeito Blur nos Thumbnails para cada conteúdo categorizado como adulto ou 18+.  |
-| ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
-| História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
-| Funcionalidade | |
-<h6 align = "center"> Tabela 31: Forward-From de Requisitos obtidos a partir de Observação
-<br> Autor: Brunna Louise</h6>
-
-| [OBS11](../elicitacao/priorizacao.md#21-moscow)  | A plataforma deve colocar uma etapa de confirmação, perguntado se o usuário deseja visualizar o conteúdo categorizado como adulto ou 18+.  |
-| ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
-| História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
-| Funcionalidade | |
-<h6 align = "center"> Tabela 32: Forward-From de Requisitos obtidos a partir de Observação
-<br> Autor: Brunna Louise</h6>
-
-| [OBS12](../elicitacao/priorizacao.md#21-moscow)  | A barra de navegação de tipos de conteúdos deve aparecer na tela de início, mesmo estando logado.  |
-| ------ | ---- | 
-| Tipo de Requisito  |   |
-| Épico  |  |
-| Feature |  |
-| História de Usuário |  |
-| Caso de Uso |  |
-| Cenário  |   |
-| Funcionalidade | |
-<h6 align = "center"> Tabela 32: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
 ### 3.3 Legenda
