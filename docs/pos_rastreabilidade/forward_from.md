@@ -23,6 +23,19 @@ Os requisitos funcionais obtidos a partir da técnica de Brainstorming serão ra
 <h6 align = "center"> Tabela 1: Exemplo de Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
 
+Já os requisitos funcionais obtidos a partir da técnica de Observação serão rastreados conforme apresentado na Tabela X abaixo:
+
+| [OBSXX]()  | Descrição do requisito.  |
+| ------ | ---- | 
+| Tipo de Requisito  |  Se é requisito funcional ou não funcional; se é implementado ou não implementado. |
+| Especificação Suplementar  | Especificação suplementar associada ao requisito. |
+| História de Usuário | [USBXX]() |
+| Caso de Uso | Caso de Uso relacionado ao requisito funcional. |
+| Cenário  | Cenário devidamente implementado relacionado ao requisito funcional.  |
+| Funcionalidade | Ilustração dessa funcionalidade nos serviços da Twitch, seja por imagem, gif, ou vídeo. |
+<h6 align = "center"> Tabela X: Forward-From de Requisitos obtidos a partir de Observação
+<br> Autor: Brunna Louise</h6>
+
 ## 3. Pós-rastreabilidade 
 
 ### 3.1 Requisitos Funcionais - Técnica de Brainstorming
