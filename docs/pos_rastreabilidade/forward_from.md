@@ -1,4 +1,4 @@
-# Backward Tom
+# Forward From
 
 ## 1. Introdução
 
@@ -14,8 +14,8 @@
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: |
 |  |     | |  |
 
-<h6 align = "center"> Tabela 1: Backward-From Requisitos Não-Funcionais
-<br> Autor: Diógenes Dantas e Milena</h6>
+<h6 align = "center"> Tabela 1: Forward-From de Requisitos Funcionais
+<br> Autor: Brunna Louise</h6>
 
 ### 3.2 Requisitos Não-Funcionais
 
@@ -25,13 +25,13 @@
 
 
 <h6 align = "center"> Tabela 2: Legenda
-<br> Autor: Diógenes Dantas e Milena </h6>
+<br> Autor: Brunna Louise </h6>
 
 
 ## Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
-| 26.06.2023 | 1.0    | Primeira Versão do artefato de Backward_From de Pós-Rastreabilidade |   Diógenes Dantas   |  Milena  |
+| 26.06.2023 | 1.0    | Primeira Versão do artefato de Forward From de Pós-Rastreabilidade |   Brunna Louise   |  Matheus Phillipo  |
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor: Diógenes Dantas e Milena </h6>
