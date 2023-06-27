@@ -1,7 +1,9 @@
 # Forward From
 
 ## 1. Introdução
+Segundo Miriam Sayão, a rastreabilidade pode ser definida como técnica que visa a documentação de relacionamentos entre requisitos, arquitetura e implementação final de um sistema. Esse processo ajuda a compreender relacionamentos entre requisitos de software, ou entre artefatos de requisitos, arquitetura e implementação. A descrição dos relacionamentos permite mostrar que o projeto atende aos requisitos elicitados, bem como ajuda a detectar requisitos que não foram atendidos pelo software.
 
+Esse artefato tem como objetivo aplicar a técnica de rastreabilidade Forward-From ao projeto realizado. Essa técnica, em específico, conecta requisitos a artefatos de desenho e implementação.
 
 ## 2. Metodologia
 
@@ -10,19 +12,37 @@
 
 ### 3.1 Requisitos Funcionais
 
-|    ID    | Requisito | Origem                                                                      | Elo |
-| :--------: | :----: | :----------------------------------------------------------------------------: | :--------: |
-|  |     | |  |
+| [RF01]()  |   |
+| ------ | ---- | 
+| Épico  | []() |
+| Feature |  |
+| História de Usuário | []() |
+| Funcionalidade | ![type:video]()|
 
 <h6 align = "center"> Tabela 1: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
 
 ### 3.2 Requisitos Não-Funcionais
 
-
+| [RNF01]() |  |
+| ------ | ---- | 
+| Épico  | []() |
+| Feature | -- |
+| História de Usuário | []()  |
+| Funcionalidade | -- |
 
 ### 3.3 Legenda
+A tabela 2 a seguir apresenta a definição de siglas utilizadas ao longo do documento.
 
+|    ID    | Significado |
+| :--------: | :----: |
+| RF |  Requisitos Funcionais  |
+| RNF |  Requisitos Não Funcionais  |
+| US |  User Story  |
+| EP |  Épico  |
+| FE |  Feature  |
+| DOC |  Documentação  |
+| OBS |  Observação  |
 
 <h6 align = "center"> Tabela 2: Legenda
 <br> Autor: Brunna Louise </h6>
