@@ -30,10 +30,19 @@ Somado a isso, o meta-modelo de Toranzo classiica os elos de rastreabilidade em 
 
 |    ID    | Requisito | Origem                                                                      | Elo |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: |
-|  |     | |  |
+| RF01 |  O usuário deve ser capaz de assistir a uma live  | [BST01](../elicitacao/tecnicas/Brainstorm.md), [BST02](../elicitacao/tecnicas/Brainstorm.md) | [ENF01](#enf01) |
+| RF01 |  O usuário deve ser capaz de interagir em uma live | [BST03](../elicitacao/tecnicas/Brainstorm.md), [BST05](../elicitacao/tecnicas/Brainstorm.md),[BST11](../elicitacao/tecnicas/Brainstorm.md),  | [ENF02](#enf02) |
+| RF01 |  O usuário deve ser capaz de assistir a uma live  | [BST](../elicitacao/tecnicas/Brainstorm.md) | [ENF01](#enf01) |
+| RF01 |  O usuário deve ser capaz de assistir a uma live  | [BST](../elicitacao/tecnicas/Brainstorm.md) | [ENF01](#enf01) |
+| RF01 |  O usuário deve ser capaz de assistir a uma live  | [BST](../elicitacao/tecnicas/Brainstorm.md) | [ENF01](#enf01) |
+| RF01 |  O usuário deve ser capaz de assistir a uma live  | [BST](../elicitacao/tecnicas/Brainstorm.md) | [ENF01](#enf01) |
+| RF01 |  O usuário deve ser capaz de assistir a uma live  | [BST](../elicitacao/tecnicas/Brainstorm.md) | [ENF01](#enf01) |
+| RF01 |  O usuário deve ser capaz de assistir a uma live  | [BST](../elicitacao/tecnicas/Brainstorm.md) | [ENF01](#enf01) |
 
 <h6 align = "center"> Tabela 1: Backward-From Requisitos Não-Funcionais
 <br> Autor: Diógenes Dantas e Milena</h6>
+
+### 3.1.2 Elos Funcionais
 
 ### 3.2 Requisitos Não-Funcionais
 |    ID    | Requisito | Origem | Elo |
