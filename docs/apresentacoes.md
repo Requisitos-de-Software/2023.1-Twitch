@@ -33,6 +33,11 @@ No ponto de controle 6, o objetivo da equipe foi realizar a verificação dos ar
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/CJT6191JQMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
+## 7. Ponto de Controle 7
+No ponto de controle 7, o objetivo da equipe foi realizar a etapa de pós-rastreabilidade do projeto.
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/au4Lk4Ec_qE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+
 ## 3. Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
@@ -46,6 +51,7 @@ No ponto de controle 6, o objetivo da equipe foi realizar a verificação dos ar
 | 24.05.2023 | 1.6    | Adição do link da apresentação 4 no iframe e Ponto de Controle 4 | Diógenes | Matheus |
 | 14.06.2023 | 1.7    | Adição do link da apresentação 5 no iframe e Ponto de Controle 5 | Diógenes | Rafael |
 | 21.06.2023 | 1.8    | Adição do link da apresentação 6 no iframe e Ponto de Controle 6 | Rafael | Diógenes |
+| 28.06.2023 | 1.8    | Adição do link da apresentação 7 no iframe e Ponto de Controle 6 | Rafael | Diógenes |
 
 <h6 align = "center"> Tabela 1: Histórico de Versões
 <br>Autor(es): Diógenes
