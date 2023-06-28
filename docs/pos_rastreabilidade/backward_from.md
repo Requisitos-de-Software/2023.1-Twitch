@@ -46,7 +46,7 @@ Somado a isso, o meta-modelo de Toranzo classiica os elos de rastreabilidade em 
 | RF14 | O usuário deve ser capaz de iniciar sua transmissão | [BST44](../elicitacao/tecnicas/Brainstorm.md), [DOC01](../elicitacao/tecnicas/AnaliseDeDocumento.md) |[EF14](#ef14) |
 | RF15 | O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo | [OBS02](../elicitacao/tecnicas/observacao.md), [OBS03](../elicitacao/tecnicas/observacao.md) |[EF15](#ef14) |
 
-<h6 align = "center"> Tabela 1: Backward-From Requisitos Não-Funcionais
+<h6 align = "center"> Tabela 1: Backward-From Requisitos Funcionais
 <br> Autor: Diógenes Dantas e Milena</h6>
 
 ### 3.1.2 Elos Funcionais
@@ -163,167 +163,170 @@ Somado a isso, o meta-modelo de Toranzo classiica os elos de rastreabilidade em 
 | RNF31 |	A plataforma deve ser capaz de lidar com um aumento na demanda e no número de usuários, garantindo um desempenho estável mesmo em períodos de pico de tráfego	| [DOC](../elicitacao/tecnicas/AnaliseDeDocumento.md) | [ENF31](#enf31) |
 | RNF32 |	Todas as transações financeiras realizadas na plataforma devem ser protegidas e garantidas contra falhas ou corrupção de dados	| [DOC](../elicitacao/tecnicas/AnaliseDeDocumento.md) | [ENF32](#enf32) |
 
+<h6 align = "center"> Tabela 2: Backward-From Requisitos Não-Funcionais
+<br> Autor: Diógenes Dantas e Milena</h6>
+
 ### 3.2.1 Elos não funcionais 
 
 #### ENF01
 
 - Categoria: Ambiental 
-- Elos:
+- Elos: Agrega [Brainstorm](../elicitacao/tecnicas/Brainstorm.md)
 
 #### ENF02
 
 - Categoria: Desenvolvimento
-- Elos:
+- Elos: [Brainstorm](../elicitacao/tecnicas/Brainstorm.md)
 
 #### ENF03
 
 - Categoria: Desenvolvimento
-- Elos:
+- Elos: [Brainstorm](../elicitacao/tecnicas/Brainstorm.md)
 
 #### ENF04
 
 - Categoria: Organizacional
-- Elos:
+- Elos: [Brainstorm](../elicitacao/tecnicas/Brainstorm.md)
 
 #### ENF05
 
 - Categoria: Desenvolvimento
-- Elos:
+- Elos: [Brainstorm](../elicitacao/tecnicas/Brainstorm.md)
 
 #### ENF06
 
 - Categoria: Desenvolvimento
-- Elos:
+- Elos: [Brainstorm](../elicitacao/tecnicas/Brainstorm.md)
 
 #### ENF07
 
 - Categoria: Desenvolvimento
-- Elos:
+- Elos: Agrega [Observação](../elicitacao/tecnicas/observacao.md)
 
 #### ENF08
 
 - Categoria: Desenvolvimento
-- Elos:
+- Elos: Agrega [Observação](../elicitacao/tecnicas/observacao.md)
 
 #### ENF09
 
 - Categoria: Gerencial
-- Elos:
+- Elos: Agrega [Observação](../elicitacao/tecnicas/observacao.md)
 
 #### ENF10
 
 - Categoria: Ambiental
-- Elos:
+- Elos: Agrega [Observação](../elicitacao/tecnicas/observacao.md)
 
 #### ENF11
 
 - Categoria: Organizacional
-- Elos:
+- Elos: Agrega [Observação](../elicitacao/tecnicas/observacao.md)
 
 #### ENF12
 
 - Categoria: Gerencial
-- Elos:
+- Elos: Agrega [Observação](../elicitacao/tecnicas/observacao.md)
 
 #### ENF13
 
 - Categoria: Desenvolvimento
-- Elos:
+- Elos: Agrega [Observação](../elicitacao/tecnicas/observacao.md)
   
 #### ENF14
 
 - Categoria: Ambiental
-- Elos:
+- Elos: Agrega  [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
 
 #### ENF15
 
 - Categoria: Ambiental
-- Elos:
+- Elos: Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
 
 #### ENF16
 
 - Categoria: Ambiental
-- Elos:
+- Elos: Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
 
 #### ENF17
 
 - Categoria: Desenvolvimento
-- Elos:
+- Elos: Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
 
 #### ENF18
 
 - Categoria: Desenvolvimento
-- Elos:
+- Elos: Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
 
 #### ENF19
 
 - Categoria: Desenvolvimento
-- Elos:
+- Elos: Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
 
 #### ENF20
 
 - Categoria: Desenvolvimento
-- Elos:
+- Elos: Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
 
 #### ENF21
 
 - Categoria: Desenvolvimento
-- Elos:
-
+- Elos: Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
+ 
 #### ENF22
 
 - Categoria: Desenvolvimento
-- Elos:
+- Elos: Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
 
 #### ENF23
 
 - Categoria: Desenvolvimento
-- Elos:
+- Elos: Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
 
 #### ENF24
 
 - Categoria: Desenvolvimento
-- Elos:
+- Elos: Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
 
 #### ENF25
 
 - Categoria: Organizacional
-- Elos:
+- Elos: Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
 
 #### ENF26
 
 - Categoria: Ambiental
-- Elos:
+- Elos: Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
 
 #### ENF27
 
 - Categoria: Ambiental
-- Elos:
+- Elos:  Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
 
  #### ENF28
 
 - Categoria: Ambiental
-- Elos:
+- Elos: Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
 
 #### ENF29
 
 - Categoria: Ambiental
-- Elos:
+- Elos: Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
 
 #### ENF30
 
 - Categoria: Ambiental
-- Elos:
+- Elos: Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
 
 #### ENF31
 
 - Categoria: Ambiental
-- Elos:
+- Elos: Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
 
 #### ENF32
 
 - Categoria: Ambiental
-- Elos:
+- Elos: Agrega [Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento.md) 
   
 ### 3.3 Legenda
 
@@ -336,7 +339,7 @@ Somado a isso, o meta-modelo de Toranzo classiica os elos de rastreabilidade em 
 | DOC |  Documentação  |
 
 
-<h6 align = "center"> Tabela 2: Legenda
+<h6 align = "center"> Tabela 3: Legenda
 <br> Autor: Diógenes Dantas e Milena </h6>
 
 
@@ -347,8 +350,9 @@ Somado a isso, o meta-modelo de Toranzo classiica os elos de rastreabilidade em 
 | 27.06.2023 | 1.1    | Adição da tabela com os requisitos não funcionais para pós-rastreabildade Backward_From |   Milena   |  Diógenes Dantas |
 | 27.06.2023 | 1.2    | Adição da tabela com os requisitos funcionais para pós-rastreabildade Backward_From |   Diógenes Dantas   |  Milena  |
 | 27.06.2023 | 1.3    | Adição dos Elos Funcionais |   Diógenes Dantas   |  Milena  |
+| 27.06.2023 | 1.4    | Adição dos Elos Não Funcionais |   Milena   |  Diógenes  |
 
-<h6 align = "center"> Tabela 3: Histórico de Versões
+<h6 align = "center"> Tabela 4: Histórico de Versões
 <br> Autor: Diógenes Dantas e Milena </h6>
 
 ## Referências
