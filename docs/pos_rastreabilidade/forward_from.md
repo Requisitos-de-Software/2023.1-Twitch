@@ -31,8 +31,9 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | [Especificação Suplementar](../modelagem/esp_suplementar.md)  | Especificação suplementar associada ao requisito. |
 | [História de Usuário](../modelagem/user_stories.md) | **USBXX** |
 | [Caso de Uso](../modelagem/usecase.md) | Caso de Uso relacionado ao requisito funcional. |
-| [Cenário](../modelagem/cenarios.md)o  | Cenário devidamente implementado relacionado ao requisito funcional.  |
+| [Cenário](../modelagem/cenarios.md) | Cenário devidamente implementado relacionado ao requisito funcional.  |
 | Funcionalidade | Ilustração dessa funcionalidade nos serviços da Twitch, seja por imagem, gif, ou vídeo. |
+
 <h6 align = "center"> Tabela X: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
@@ -370,11 +371,11 @@ A tabela 24 a seguir apresenta a definição de siglas utilizadas ao longo do do
 
 |    Sigla no ID    | Significado |
 | :--------: | :----: |
-| RFBXX |  Requisitos Funcionais obtidos a partir da técnica de [Brainstorming](../elicitacao/tecnicas/Brainstorm.md#41-requisitos-funcionais).  |
-| USBXX |  Histórias de usuário identificadas no artefato de [Histórias de Usuário](../modelagem/user_stories.md#3-histórias-de-usuário).  |
-| EPXX |  Épicos identificados no artefato de [Backlog](../modelagem/backlog.md#3-épicos).  |
-| CXX |  Cenários implementados descritos no artefato de [Cenários](../modelagem/cenarios.md#31-cenários-identificados-implementados).  |
-| OBSXX |  Requisitos obtidos a partir da [técnica de Observação](../elicitacao/tecnicas/observacao.md#3-resultados).  |
+| **RFBXX** |  Requisitos Funcionais obtidos a partir da técnica de [Brainstorming](../elicitacao/tecnicas/Brainstorm.md#41-requisitos-funcionais).  |
+| **USBXX** |  Histórias de usuário identificadas no artefato de [Histórias de Usuário](../modelagem/user_stories.md#3-histórias-de-usuário).  |
+| **EPXX** |  Épicos identificados no artefato de [Backlog](../modelagem/backlog.md#3-épicos).  |
+| **CXX** |  Cenários implementados descritos no artefato de [Cenários](../modelagem/cenarios.md#31-cenários-identificados-implementados).  |
+| **OBSXX** |  Requisitos obtidos a partir da [técnica de Observação](../elicitacao/tecnicas/observacao.md#3-resultados).  |
 <h6 align = "center"> Tabela 24: Legenda das siglas utilizadas ao longo do artefato.
 <br> Autor(es): Brunna Louise e Matheus Phillipo
 <br> Fonte: Autor(es)</h6>
@@ -391,7 +392,8 @@ A tabela 24 a seguir apresenta a definição de siglas utilizadas ao longo do do
 | 28.06.2023 | 1.5    | Adicionando links referentes aos artefatos restantes e imagens as funcionalidades restante |  Matheus Phillipo   |  Brunna Louise  |
 
 <h6 align = "center"> Tabela 25: Histórico de Versões
-<br> Autor: Brunna Louise e Matheus Phillipo </h6>
+<br> Autor(es): Brunna Louise e Matheus Phillipo
+<br> Fonte: Autor(es)</h6>
 
 ## Referências
 
