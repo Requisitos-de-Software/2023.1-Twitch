@@ -30,19 +30,102 @@ Somado a isso, o meta-modelo de Toranzo classiica os elos de rastreabilidade em 
 
 |    ID    | Requisito | Origem                                                                      | Elo |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: |
-| RF01 |  O usuário deve ser capaz de assistir a uma live  | [BST01](../elicitacao/tecnicas/Brainstorm.md), [BST02](../elicitacao/tecnicas/Brainstorm.md) | [ENF01](#enf01) |
-| RF01 |  O usuário deve ser capaz de interagir em uma live | [BST03](../elicitacao/tecnicas/Brainstorm.md), [BST05](../elicitacao/tecnicas/Brainstorm.md),[BST11](../elicitacao/tecnicas/Brainstorm.md),  | [ENF02](#enf02) |
-| RF01 |  O usuário deve ser capaz de assistir a uma live  | [BST](../elicitacao/tecnicas/Brainstorm.md) | [ENF01](#enf01) |
-| RF01 |  O usuário deve ser capaz de assistir a uma live  | [BST](../elicitacao/tecnicas/Brainstorm.md) | [ENF01](#enf01) |
-| RF01 |  O usuário deve ser capaz de assistir a uma live  | [BST](../elicitacao/tecnicas/Brainstorm.md) | [ENF01](#enf01) |
-| RF01 |  O usuário deve ser capaz de assistir a uma live  | [BST](../elicitacao/tecnicas/Brainstorm.md) | [ENF01](#enf01) |
-| RF01 |  O usuário deve ser capaz de assistir a uma live  | [BST](../elicitacao/tecnicas/Brainstorm.md) | [ENF01](#enf01) |
-| RF01 |  O usuário deve ser capaz de assistir a uma live  | [BST](../elicitacao/tecnicas/Brainstorm.md) | [ENF01](#enf01) |
+| RF01 |  O usuário deve ser capaz de assistir a uma live  | [BST01](../elicitacao/tecnicas/Brainstorm.md), [BST02](../elicitacao/tecnicas/Brainstorm.md) | [EF01](#ef01) |
+| RF02 |  O usuário deve ser capaz de interagir em uma live | [BST03](../elicitacao/tecnicas/Brainstorm.md), [BST05](../elicitacao/tecnicas/Brainstorm.md),[BST07](../elicitacao/tecnicas/Brainstorm.md), [BST11](../elicitacao/tecnicas/Brainstorm.md), [BST14](../elicitacao/tecnicas/Brainstorm.md), [BST15](../elicitacao/tecnicas/Brainstorm.md) | [EF02](#ef02) |
+| RF03 |  O usuário deve ser capaz de seguir um streamer | [BST06](../elicitacao/tecnicas/Brainstorm.md), [BST24](../elicitacao/tecnicas/Brainstorm.md)| [EF03](#ef03) |
+| RF04 |  O usuário deve ser capaz de se inscrever em um canal utilizando o Amazon Prime  | [BST08](../elicitacao/tecnicas/Brainstorm.md), [BST09](../elicitacao/tecnicas/Brainstorm.md), [BST10](../elicitacao/tecnicas/Brainstorm.md) | [EF04](#ef04) |
+| RF05 |  O usuário deve ser capaz de comprar bits  | [BST12](../elicitacao/tecnicas/Brainstorm.md), [BST13](../elicitacao/tecnicas/Brainstorm.md), [BST17](../elicitacao/tecnicas/Brainstorm.md), [BST19](../elicitacao/tecnicas/Brainstorm.md) | [EF05](#ef05) |
+| RF06 |  RFB18	O usuário deve ser capaz de consultar seu histórico de pagamentos  | [BST18](../elicitacao/tecnicas/Brainstorm.md), [BST20](../elicitacao/tecnicas/Brainstorm.md) | [EF06](#ef06) |
+| RF07 |  O usuário deve ser capaz de resgatar Loots do Prime Gaming  | [BST21](../elicitacao/tecnicas/Brainstorm.md), [BST22](../elicitacao/tecnicas/Brainstorm.md), [BST23](../elicitacao/tecnicas/Brainstorm.md) | [EF07](#ef07) |
+| RF08 |  O usuário deve ser capaz de configurar o seu perfil  | [BST25](../elicitacao/tecnicas/Brainstorm.md), [BST26](../elicitacao/tecnicas/Brainstorm.md), [BST27](../elicitacao/tecnicas/Brainstorm.md), [BST28](../elicitacao/tecnicas/Brainstorm.md), [BST29](../elicitacao/tecnicas/Brainstorm.md), [BST30](../elicitacao/tecnicas/Brainstorm.md),[BST31](../elicitacao/tecnicas/Brainstorm.md), [BST34](../elicitacao/tecnicas/Brainstorm.md) | [EF08](#ef08) |
+| RF09 | O usuário deve ser capaz de altear a cor do chat  | [BST32](../elicitacao/tecnicas/Brainstorm.md), [BST33](../elicitacao/tecnicas/Brainstorm.md) |[EF09](#ef09) |
+| RF10 | O usuário deve ser capaz de vincular sua conta da Twitch a outras plataformas (Twitter, Amazon, Steam, Discord, Youtube) | [BST35](../elicitacao/tecnicas/Brainstorm.md) |[EF10](#ef10) |
+| RF11 | O usuário deve ser capaz de realizar ajustes nos conteúdos sugeridos  | [BST36](../elicitacao/tecnicas/Brainstorm.md), [OBS06](../elicitacao/tecnicas/observacao.md), [OBS08](../elicitacao/tecnicas/observacao.md), [OBS09](../elicitacao/tecnicas/observacao.md), [OBS11](../elicitacao/tecnicas/observacao.md) |[EF11](#ef11) |
+| RF12 | O usuário deve ser capaz de realizar o login na plataforma | [BST37](../elicitacao/tecnicas/Brainstorm.md), [BST38](../elicitacao/tecnicas/Brainstorm.md), [BST39](../elicitacao/tecnicas/Brainstorm.md), [BST40](../elicitacao/tecnicas/Brainstorm.md), [BST41](../elicitacao/tecnicas/Brainstorm.md)|[EF12](#ef12) |
+| RF13 | O usuário deve ser capaz de personalizar o seu canal | [BST43](../elicitacao/tecnicas/Brainstorm.md), [DOC02](../elicitacao/tecnicas/AnaliseDeDocumento.md), [DOC03](../elicitacao/tecnicas/AnaliseDeDocumento.md), [DOC04](../elicitacao/tecnicas/AnaliseDeDocumento.md), [DOC05](../elicitacao/tecnicas/AnaliseDeDocumento.md), [DOC06](../elicitacao/tecnicas/AnaliseDeDocumento.md) |[EF13](#ef13) |
+| RF14 | O usuário deve ser capaz de iniciar sua transmissão | [BST44](../elicitacao/tecnicas/Brainstorm.md), [DOC01](../elicitacao/tecnicas/AnaliseDeDocumento.md) |[EF14](#ef14) |
+| RF15 | O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo | [OBS02](../elicitacao/tecnicas/observacao.md), [OBS03](../elicitacao/tecnicas/observacao.md) |[EF15](#ef14) |
 
 <h6 align = "center"> Tabela 1: Backward-From Requisitos Não-Funcionais
 <br> Autor: Diógenes Dantas e Milena</h6>
 
 ### 3.1.2 Elos Funcionais
+
+#### EF01
+
+- Categoria: Desenvolvimento 
+- Elos: [BST01](../elicitacao/tecnicas/Brainstorm.md) agrega [BST02](../elicitacao/tecnicas/Brainstorm.md) 
+
+#### EF02
+
+- Categoria: Desenvolvimento
+- Elos: [BST03](../elicitacao/tecnicas/Brainstorm.md) agrega [BST05](../elicitacao/tecnicas/Brainstorm.md) <br>[BST07](../elicitacao/tecnicas/Brainstorm.md) agrega [BST11](../elicitacao/tecnicas/Brainstorm.md)</br> [BST14](../elicitacao/tecnicas/Brainstorm.md) agrega [BST15](../elicitacao/tecnicas/Brainstorm.md)
+
+#### EF03
+
+- Categoria: Desenvolvimento
+- Elos: [BST06](../elicitacao/tecnicas/Brainstorm.md) agrega [BST24](../elicitacao/tecnicas/Brainstorm.md)
+
+#### EF04
+
+- Categoria: Desenvolvimento
+- Elos: [BST08](../elicitacao/tecnicas/Brainstorm.md) agrega [BST09](../elicitacao/tecnicas/Brainstorm.md)  <br> agrega [BST10](../elicitacao/tecnicas/Brainstorm.md) </br>
+
+#### EF05
+
+- Categoria: Desenvolvimento
+- Elos: <br>[BST12](../elicitacao/tecnicas/Brainstorm.md) agrega [BST13](../elicitacao/tecnicas/Brainstorm.md) </br> [BST17](../elicitacao/tecnicas/Brainstorm.md) agrega [BST19](../elicitacao/tecnicas/Brainstorm.md)
+
+#### EF06
+
+- Categoria: Desenvolvimento
+- Elos:  [BST18](../elicitacao/tecnicas/Brainstorm.md) agrega [BST20](../elicitacao/tecnicas/Brainstorm.md)
+
+#### EF07
+
+- Categoria: Desenvolvimento
+- Elos: [BST21](../elicitacao/tecnicas/Brainstorm.md) agrega [BST22](../elicitacao/tecnicas/Brainstorm.md)  <br> agrega [BST23](../elicitacao/tecnicas/Brainstorm.md) </br>
+
+#### EF08
+
+- Categoria: Desenvolvimento
+- Elos: [BST25](../elicitacao/tecnicas/Brainstorm.md) agrega [BST26](../elicitacao/tecnicas/Brainstorm.md) <br>[BST27](../elicitacao/tecnicas/Brainstorm.md) agrega [BST28](../elicitacao/tecnicas/Brainstorm.md)</br> [BST29](../elicitacao/tecnicas/Brainstorm.md) agrega [BST30](../elicitacao/tecnicas/Brainstorm.md) <br>[BST31](../elicitacao/tecnicas/Brainstorm.md) agrega [BST34](../elicitacao/tecnicas/Brainstorm.md) </br>
+
+#### EF09
+
+- Categoria: Desenvolvimento
+- Elos: [BST32](../elicitacao/tecnicas/Brainstorm.md) agrega [BST33](../elicitacao/tecnicas/Brainstorm.md)
+
+#### EF10
+
+- Categoria: Desenvolvimento
+- Elos: [BST35](../elicitacao/tecnicas/Brainstorm.md)
+
+#### EF11
+
+- Categoria: Desenvolvimento
+- Elos: <br>[BST36](../elicitacao/tecnicas/Brainstorm.md) agrega [OBS06](../elicitacao/tecnicas/observacao.md)</br> [OBS08](../elicitacao/tecnicas/observacao.md) agrega [OBS09](../elicitacao/tecnicas/observacao.md) <br> agrega [OBS11](../elicitacao/tecnicas/observacao.md) </br>
+
+#### EF12
+
+- Categoria: Desenvolvimento
+- Elos: <br> [BST37](../elicitacao/tecnicas/Brainstorm.md) agrega [BST38](../elicitacao/tecnicas/Brainstorm.md)</br> [BST39](../elicitacao/tecnicas/Brainstorm.md) agrega [BST40](../elicitacao/tecnicas/Brainstorm.md) <br> agrega [BST41](../elicitacao/tecnicas/Brainstorm.md) </br>
+
+#### EF13
+
+- Categoria: Desenvolvimento
+- Elos: <br>[BST43](../elicitacao/tecnicas/Brainstorm.md) agrega [DOC02](../elicitacao/tecnicas/AnaliseDeDocumento.md)</br> [DOC03](../elicitacao/tecnicas/AnaliseDeDocumento.md) agrega [DOC04](../elicitacao/tecnicas/AnaliseDeDocumento.md) <br>[DOC05](../elicitacao/tecnicas/AnaliseDeDocumento.md) agrega [DOC06](../elicitacao/tecnicas/AnaliseDeDocumento.md)</br>
+  
+#### EF14
+
+- Categoria: Ambiental
+- Elos: [BST44](../elicitacao/tecnicas/Brainstorm.md) agrega [DOC01](../elicitacao/tecnicas/AnaliseDeDocumento.md)
+
+#### EF15
+
+- Categoria: Ambiental
+- Elos: [OBS02](../elicitacao/tecnicas/observacao.md) agrega [OBS03](../elicitacao/tecnicas/observacao.md)
+
 
 ### 3.2 Requisitos Não-Funcionais
 |    ID    | Requisito | Origem | Elo |
@@ -261,6 +344,9 @@ Somado a isso, o meta-modelo de Toranzo classiica os elos de rastreabilidade em 
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 26.06.2023 | 1.0    | Primeira Versão do artefato de Backward_From de Pós-Rastreabilidade |   Diógenes Dantas   |  Milena  |
+| 27.06.2023 | 1.1    | Adição da tabela com os requisitos não funcionais para pós-rastreabildade Backward_From |   Milena   |  Diógenes Dantas |
+| 27.06.2023 | 1.2    | Adição da tabela com os requisitos funcionais para pós-rastreabildade Backward_From |   Diógenes Dantas   |  Milena  |
+| 27.06.2023 | 1.3    | Adição dos Elos Funcionais |   Diógenes Dantas   |  Milena  |
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor: Diógenes Dantas e Milena </h6>
