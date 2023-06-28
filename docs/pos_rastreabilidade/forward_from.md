@@ -47,7 +47,7 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | História de Usuário | [USB01](../modelagem/user_stories.md#31-histórias-de-usuário-relacionadas-à-visualização-e-interação-com-conteúdo) |
 | Caso de Uso | [Consumir Conteúdo](../modelagem/usecase.md#53-caso-de-uso-consumir-conteúdo) |
 | Cenário  | [C06](../modelagem/cenarios.md#c06-assistir-uma-live)  |
-| Funcionalidade | |
+| Funcionalidade | ![usuario_assiste_live](./imagens/usuario_assiste_live.png)|
 
 <h6 align = "center"> Tabela 2: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -59,7 +59,7 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | História de Usuário | [USB02](../modelagem/user_stories.md#31-histórias-de-usuário-relacionadas-à-visualização-e-interação-com-conteúdo) |
 | Caso de Uso | [Consumir Conteúdo](../modelagem/usecase.md#53-caso-de-uso-consumir-conteúdo) |
 | Cenário  | [C06](../modelagem/cenarios.md#c06-assistir-uma-live)  |
-| Funcionalidade | |
+| Funcionalidade | ![vod](./imagens/vod.png)|
 
 <h6 align = "center"> Tabela 3: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -71,7 +71,7 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | História de Usuário | [USB03](../modelagem/user_stories.md#31-histórias-de-usuário-relacionadas-à-visualização-e-interação-com-conteúdo) |
 | Caso de Uso | [Interagir em Lives](../modelagem/usecase.md#56-caso-de-uso-interagir-em-lives) |
 | Cenário  | -  |
-| Funcionalidade | |
+| Funcionalidade |![chat](./imagens/chat.png) |
 
 <h6 align = "center"> Tabela 4: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -83,7 +83,7 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | História de Usuário | [USB04](../modelagem/user_stories.md#31-histórias-de-usuário-relacionadas-à-visualização-e-interação-com-conteúdo) |
 | Caso de Uso | [Interagir em Lives](../modelagem/usecase.md#56-caso-de-uso-interagir-em-lives) |
 | Cenário  | -  |
-| Funcionalidade | |
+| Funcionalidade |![chat](./imagens/chat.png)  |
 
 <h6 align = "center"> Tabela 5: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -92,10 +92,10 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | ------ | ---- | 
 | Épico  | [EP02 - Conta](../modelagem/backlog.md#312-ep02---conta) |
 | Feature |  |
-| História de Usuário | [USB15](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| História de Usuário | [USB18](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
 | Caso de Uso | [Apoiar Conteúdo](../modelagem/usecase.md#58-caso-de-uso-apoiar-conteúdo) |
 | Cenário  | -  |
-| Funcionalidade | |
+| Funcionalidade |![seguir_stremaer](./imagens/seguir_streamer.png) |
 
 <h6 align = "center"> Tabela 6: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -104,10 +104,10 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | ------ | ---- | 
 | Épico  | [EP02 - Conta](../modelagem/backlog.md#312-ep02---conta) |
 | Feature |  |
-| História de Usuário | [USB17](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| História de Usuário | [USB20](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
 | Caso de Uso | [Apoiar Conteúdo](../modelagem/usecase.md#58-caso-de-uso-apoiar-conteúdo) |
 | Cenário  | -  |
-| Funcionalidade | |
+| Funcionalidade |![inscrever](./imagens/inscrever.png) |
 
 <h6 align = "center"> Tabela 7: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -119,7 +119,7 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | História de Usuário | [USB10](../modelagem/user_stories.md#31-histórias-de-usuário-relacionadas-à-visualização-e-interação-com-conteúdo) |
 | Caso de Uso | - |
 | Cenário  | -  |
-| Funcionalidade | |
+| Funcionalidade |![denuncia_ao_vivo](./imagens/denuncia_ao_vivo.png) |
 
 <h6 align = "center"> Tabela 8: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -131,7 +131,7 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | História de Usuário | [USB11](../modelagem/user_stories.md#31-histórias-de-usuário-relacionadas-à-visualização-e-interação-com-conteúdo) |
 | Caso de Uso | - |
 | Cenário  | -  |
-| Funcionalidade | |
+| Funcionalidade | - |
 
 <h6 align = "center"> Tabela 9: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -143,7 +143,7 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | História de Usuário | [USB12](../modelagem/user_stories.md#31-histórias-de-usuário-relacionadas-à-visualização-e-interação-com-conteúdo) |
 | Caso de Uso | [Buscar Conteúdo](../modelagem/usecase.md#52-caso-de-uso-buscar-conteúdo) |
 | Cenário  | [C05](../modelagem/cenarios.md#c05-fazer-uma-pesquisa)  |
-| Funcionalidade | |
+| Funcionalidade |![busca_canais](./imagens/busca_canais.png) |
 
 <h6 align = "center"> Tabela 10: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -155,7 +155,7 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | História de Usuário | [USB13](../modelagem/user_stories.md#31-histórias-de-usuário-relacionadas-à-visualização-e-interação-com-conteúdo) |
 | Caso de Uso | - |
 | Cenário  | -  |
-| Funcionalidade | |
+| Funcionalidade | ![saldo_bits](./imagens/saldo_bits.png)|
 
 <h6 align = "center"> Tabela 11: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -164,10 +164,10 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | ------ | ---- | 
 | Épico  | [EP02 - Conta](../modelagem/backlog.md#312-ep02---conta) |
 | Feature |  |
-| História de Usuário | [USB20](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| História de Usuário | [USB23](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
 | Caso de Uso | - |
 | Cenário  | -  |
-| Funcionalidade | |
+| Funcionalidade |![configurar_perfil](./imagens/configurar_perfil.png) |
 
 <h6 align = "center"> Tabela 12: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -176,10 +176,10 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | ------ | ---- | 
 | Épico  | [EP02 - Conta](../modelagem/backlog.md#312-ep02---conta) |
 | Feature |  |
-| História de Usuário | [USB21](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| História de Usuário | [USB24](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
 | Caso de Uso | - |
 | Cenário  | -  |
-| Funcionalidade | |
+| Funcionalidade |![config_img_perfil](./imagens/config_img_perfil.png) |
 
 <h6 align = "center"> Tabela 13: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -188,10 +188,10 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | ------ | ---- | 
 | Épico  | [EP02 - Conta](../modelagem/backlog.md#312-ep02---conta) |
 | Feature |  |
-| História de Usuário | [USB22](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| História de Usuário | [USB25](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
 | Caso de Uso | - |
 | Cenário  | -  |
-| Funcionalidade | |
+| Funcionalidade |![config_banner_perfil](./imagens/config_banner_perfil.png) |
 
 <h6 align = "center"> Tabela 14: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -200,10 +200,10 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | ------ | ---- | 
 | Épico  | [EP02 - Conta](../modelagem/backlog.md#312-ep02---conta) |
 | Feature |  |
-| História de Usuário | [USB23](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| História de Usuário | [USB26](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
 | Caso de Uso | - |
 | Cenário  | [C01](../modelagem/cenarios.md#c01-criar-conta)  |
-| Funcionalidade | |
+| Funcionalidade | ![alterar_nome_usuario](./imagens/alterar_nome_usuario.png)|
 
 <h6 align = "center"> Tabela 15: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -212,10 +212,10 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | ------ | ---- | 
 | Épico  | [EP02 - Conta](../modelagem/backlog.md#312-ep02---conta) |
 | Feature |  |
-| História de Usuário | [USB24](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| História de Usuário | [USB27](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
 | Caso de Uso | - |
 | Cenário  | -  |
-| Funcionalidade | |
+| Funcionalidade | ![alterar_nome_exibicao](./imagens/alterar_nome_exibicao.png)|
 
 <h6 align = "center"> Tabela 16: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -224,10 +224,10 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | ------ | ---- | 
 | Épico  | [EP02 - Conta](../modelagem/backlog.md#312-ep02---conta) |
 | Feature |  |
-| História de Usuário | [USB25](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| História de Usuário | [USB28](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
 | Caso de Uso | - |
 | Cenário  | -  |
-| Funcionalidade | |
+| Funcionalidade |![alterar_biografia](./imagens/alterar_biografia.png) |
 
 <h6 align = "center"> Tabela 17: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -236,10 +236,10 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | ------ | ---- | 
 | Épico  | [EP03 - Plataforma](../modelagem/backlog.md#313-ep03---plataforma) |
 | Feature |  |
-| História de Usuário | [USB30](../modelagem/user_stories.md#33-histórias-de-usuário-relacionadas-à-plataforma-e-configurações) |
+| História de Usuário | [USB33](../modelagem/user_stories.md#33-histórias-de-usuário-relacionadas-à-plataforma-e-configurações) |
 | Caso de Uso | - |
 | Cenário  | -  |
-| Funcionalidade | |
+| Funcionalidade | ![config_idioma](./imagens/config_idioma.png)|
 
 <h6 align = "center"> Tabela 18: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -248,10 +248,10 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | ------ | ---- | 
 | Épico  | [EP03 - Plataforma](../modelagem/backlog.md#313-ep03---plataforma) |
 | Feature |  |
-| História de Usuário | [USB32](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| História de Usuário | [USB35](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
 | Caso de Uso | [Fazer Login](../modelagem/usecase.md#51-caso-de-uso-fazer-login) |
 | Cenário  | [C02](../modelagem/cenarios.md#c02-login-de-usuário-já-cadastrado)  |
-| Funcionalidade | |
+| Funcionalidade |![login](./imagens/login.png) |
 
 <h6 align = "center"> Tabela 19: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -260,10 +260,10 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | ------ | ---- | 
 | Épico  | [EP03 - Plataforma](../modelagem/backlog.md#313-ep03---plataforma) |
 | Feature |  |
-| História de Usuário | [USB33](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| História de Usuário | [USB36](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
 | Caso de Uso | - |
 | Cenário  | -  |
-| Funcionalidade | |
+| Funcionalidade | ![logoff](./imagens/logoff.png)|
 
 <h6 align = "center"> Tabela 20: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -272,10 +272,10 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | ------ | ---- | 
 | Épico  | [EP03 - Plataforma](../modelagem/backlog.md#313-ep03---plataforma) |
 | Feature |  |
-| História de Usuário | [USB34](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| História de Usuário | [USB37](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
 | Caso de Uso | - |
 | Cenário  | -  |
-| Funcionalidade | |
+| Funcionalidade | - |
 
 <h6 align = "center"> Tabela 21: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -284,10 +284,10 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | ------ | ---- | 
 | Épico  | [EP03 - Plataforma](../modelagem/backlog.md#313-ep03---plataforma) |
 | Feature |  |
-| História de Usuário | [USB36](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| História de Usuário | [USB39](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
 | Caso de Uso | - |
 | Cenário  | -  |
-| Funcionalidade | |
+| Funcionalidade | - |
 
 <h6 align = "center"> Tabela 22: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -296,10 +296,10 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | ------ | ---- | 
 | Épico  | [EP03 - Plataforma](../modelagem/backlog.md#313-ep03---plataforma) |
 | Feature |  |
-| História de Usuário | [USB37](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
+| História de Usuário | [USB40](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
 | Caso de Uso | [Criar Conteúdo](../modelagem/usecase.md#54-caso-de-uso-criar-conteúdo) |
 | Cenário  | -  |
-| Funcionalidade | |
+| Funcionalidade |![transmissao](./imagens/transmissao.png) |
 
 <h6 align = "center"> Tabela 23: Forward-From de Requisitos Funcionais
 <br> Autor: Brunna Louise</h6>
@@ -308,12 +308,12 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 
 | [OBS09](../elicitacao/priorizacao.md#21-moscow)  | Ao acessar "Ajuste de Conteúdo", o usuário deve ter a opção de selecionar se deseja receber sugestões de conteúdos categorizados para adultos.  |
 | ------ | ---- | 
-| Tipo de Requisito  | Requisito Funcional Implementado  |
+| Tipo de Requisito  | Requisito Funcional Não Implementado  |
 | Especificação Suplementar  | - |
-| História de Usuário |  |
+| História de Usuário | [USB15](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
 | Caso de Uso | - |
-| Cenário  |  - |
-| Funcionalidade | |
+| Cenário  | [C08](../modelagem/cenarios.md#c08-restrição-de-conteúdo-18) |
+| Funcionalidade |![sugestao_conteudo](../verifica_valida_grupo08/imagens/sugestao_conteudo.png) |
 <h6 align = "center"> Tabela 24: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
@@ -321,10 +321,10 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | ------ | ---- | 
 | Tipo de Requisito  | Requisito Não Funcional Não Implementado  |
 | Especificação Suplementar  | - |
-| História de Usuário |  |
+| História de Usuário |[USB16](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos)  |
 | Caso de Uso | - |
 | Cenário  | [C08](../modelagem/cenarios.md#c08-restrição-de-conteúdo-18)  |
-| Funcionalidade | - |
+| Funcionalidade | ![efeito_blur](../verifica_valida_grupo08/imagens/efeito_blur.png) |
 <h6 align = "center"> Tabela 25: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
@@ -332,10 +332,10 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 | ------ | ---- | 
 | Tipo de Requisito  | Requisito Funcional Não Implementado  |
 | Especificação Suplementar  |  |
-| História de Usuário |  |
+| História de Usuário | [USB17](../modelagem/user_stories.md#32-histórias-de-usuário-relacionadas-a-inscrições-e-pagamentos) |
 | Caso de Uso | - |
 | Cenário  | [C08](../modelagem/cenarios.md#c08-restrição-de-conteúdo-18)   |
-| Funcionalidade | - |
+| Funcionalidade | ![confirmacao_conteudo](../verifica_valida_grupo08/imagens/confirmacao_conteudo.png) |
 <h6 align = "center"> Tabela 26: Forward-From de Requisitos obtidos a partir de Observação
 <br> Autor: Brunna Louise</h6>
 
@@ -360,6 +360,8 @@ A tabela 24 a seguir apresenta a definição de siglas utilizadas ao longo do do
 | 26.06.2023 | 1.0    | Primeira Versão do artefato de Forward From de Pós-Rastreabilidade. |   Brunna Louise   |  Matheus Phillipo  |
 | 26.06.2023 | 1.1    | Adicionando Requisitos Funcionais e Linkando a seus devidos épicos e histórias de usuário. |   Brunna Louise   |  Matheus Phillipo  |
 | 26.06.2023 | 1.2    | Adicionando links para casos de uso e cenários. |   Brunna Louise   |  Matheus Phillipo  |
+| 26.06.2023 | 1.3    | Adicionando requisitos não implementados elicitados pela Observação. |   Brunna Louise, Matheus Phillipo   |  Matheus Phillipo  |
+| 26.06.2023 | 1.4    | Adicionando imagens referentes a funcionalidades e conserto dos IDs de Histórias de usuários |  Matheus Phillipo   |  Brunna Louise  |
 
 <h6 align = "center"> Tabela 25: Histórico de Versões
 <br> Autor: Brunna Louise e Matheus Phillipo </h6>
