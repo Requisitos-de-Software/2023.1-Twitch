@@ -162,7 +162,7 @@ Este cenário visa demonstrar a restrição de acesso aos conteúdos adultos den
 | Contexto   | - Local: qualquer tela de aplicação <br> - Tempo: 1 a 3 minutos <br> - Pré-condições: dispositivo com aplicativo instalado  |
 | Recursos   | - Dispositivo eletrônico com acesso a internet como: computador, smatphone, etc. <br> - Aplicativo twitch |
 | Atores     | - Usuário twitch |
-| Episódios  | - O usuário acessa o aplicativo twitch <br> - O usuário busca por conteúdos adultos <br> - O usuário seleciona algum conteúdo <br> - O usuário visualiza a tela com o conteúdo adulto mas censurada pelo efeito blur e recebe a mensagem "você tem certeza que deseja acessar esse conteúdo?" <br> - O usuário aperta o botão "sim" ou "não |
+| Episódios  | - O usuário acessa o aplicativo twitch <br> - O usuário busca por conteúdos adultos <br> - O usuário seleciona algum conteúdo <br> - O usuário visualiza a tela com o conteúdo adulto mas censurada pelo efeito blur e recebe a mensagem "você tem certeza que deseja acessar esse conteúdo?" <br> - O usuário aperta o botão "sim" ou "não <br> - O usuário abre a caixa de Recomendações e opta em não receber conteúdos adultos |
 | Restrições | - O usuário ter um email que a idade cadastrada seja menor que 18 anos|
 | Exceção    | - Falta de energia no dispositivo  <br> - Dispositivo danificado <br> - Falta de conexão com a internet  |
 
@@ -193,3 +193,4 @@ Na construção dos cenários foi utilizado a observação, onde um usuário an�
 | 1.0    | 12.05.2023 | Criação do documento e adição dos cenários | Milena Aires | - |
 | 1.1    | 16.05.2023 | Finalização do documento de cenários | Milena Aires | Matheus |
 | 1.2    | 06.06.2023 | Adição de participantes | Milena Aires | Matheus |
+| 1.3    | 28.06.2023 | Adição de um episódio no cenário 8 | Matheus Phillipo | Brunna Louise |
