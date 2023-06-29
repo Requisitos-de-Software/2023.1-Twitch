@@ -33,7 +33,7 @@ A tabela 1, que está na seção 2 desse artefato, tratará das ferramentas util
 <h6 align = "center"> Tabela 1: Ferramentas utilizadas </h6>
 <h6 align = "center"> Fonte: Brunna Louise </h6>
 
-## 3. Referências
+## Referências
 
 [1] Ferramenta Discord. Para acessá-la, clique [aqui](https://discord.com). <br/>
 [2] Ferramenta Draw.io. Para acessá-la, clique [aqui](https://app.diagrams.net). <br/>
@@ -54,13 +54,20 @@ A tabela 1, que está na seção 2 desse artefato, tratará das ferramentas util
 [17] Ferramenta WhatsApp. Para acessá-la, clique [aqui](https://web.whatsapp.com). <br/>
 [18] Ferramenta YouTube. Para acessá-la, clique [aqui](https://www.youtube.com). <br/>
 
-## 4. Histórico de versão
+## Histórico de versão
+
+A Tabela 2 registra o histórico de versão desse documento.
+
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 12.04.2023 | 1.0    | Criação do documento, adição de introdução e adição das ferramentas utilizadas atualmente |   Brunna   |    Rafael     |
 | 14.04.2023 | 1.1    | Padronização do tamanho dos ícones das ferramentas utilizadas |   Brunna   |    Rafael     |
 | 20.04.2023 | 1.2    | Correções no documento após feedback da primeira entrega |   Brunna   |    Diógenes     |
-| 26.04.2023 | 1.3    | Adicionando Microsoft Forms |   Brunna   |    -     |
-| 02.05.2023 | 1.4   | Adicionando This Person Does Not Exist |   Brunna   |    -     |
-| 16.05.2023 | 1.5   | Adicionando Lucidchart |   Brunna   |    -     |
-| 29.06.2023 | 2.0   | Versão final do artefato de Ferramentas: adição de ferramentas faltantes; organização das ferramentas em ordem alfabética; adição de revisores faltantes |   Brunna   |    -     |
+| 26.04.2023 | 1.3    | Adicionando Microsoft Forms |   Brunna   |    Ana Beatriz     |
+| 02.05.2023 | 1.4   | Adicionando This Person Does Not Exist |   Brunna   |    Ana Beatriz     |
+| 16.05.2023 | 1.5   | Adicionando Lucidchart |   Brunna   |    Ana Beatriz    |
+| 29.06.2023 | 2.0   | Versão final do artefato de Ferramentas: adição de ferramentas faltantes; organização das ferramentas em ordem alfabética; adição de revisores faltantes |   Brunna   |    Ana Beatriz     |
+
+<h6 align = "center"> Tabela 2: Histórico de Versões
+<br> Autor: Brunna </h6>
+
