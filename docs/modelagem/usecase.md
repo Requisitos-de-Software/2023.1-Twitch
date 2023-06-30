@@ -163,7 +163,7 @@ A tabela 11 a seguir registra os membros do grupo que contribuíram com esse doc
 | **Participante** | **Papel** |
 | ---- | ----------- | 
 | Brunna Louise | Membro da Equipe de Modelagem |
-| Diógenes | Membro da Equipe de Modelagem |
+| Diógenes Dantas | Membro da Equipe de Modelagem |
 
 <h6 align = "center"> Tabela 11: Participantes e seus papéis na produção do artefato
 <br> Autor(es): Diógenes, Brunna Louise
@@ -193,6 +193,7 @@ A Tabela 12 registra o histórico de versão desse documento.
 | 01/06/2023 | 1.7 | Adição da Tabela de Validação do Diagrama dos Casos de Uso| Diógenes Dantas | Brunna Louise |
 | 05/06/2023 | 1.8 | Adição de Fluxos Alternativos e Fluxos de Exceção (caso se aplique) | Brunna Louise | Diógenes Dantas |
 | 12/06/2023 | 1.9 | Adição de Validação por meio de Personas | Brunna Louise | Diógenes Dantas |
+| 20/06/2023 | 2.0 | Organiza artefato para a entrega final | Brunna Louise | Diógenes Dantas |
 <h6 align = "center"> Tabela 12: Histórico de Versões
 <br> Autor(es): Brunna Louise, Diógenes Dantas
 <br>Fonte: Autor(es)</h6>
