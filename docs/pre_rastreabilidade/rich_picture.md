@@ -13,12 +13,12 @@ A metodologia utilizada para desenvolvimento dos Rich Picture aqui presentes con
 - Barreiras de Sistema
 
 
-## 3. Rich Picture - Versão 1.0
+## 3. Rich Picture
 
 A primeira versão do nosso Rich picture pode ser acompanhada na [Figura 1](#Rich_picture_v1.0), e representa as avaliações iniciais da investigação realizada na plataforma da Twitch. A Tabela 1 contém a legenda dos ícones e elementos utilizados.
 
 ![Rich_picture_v1.0](./assets/versions/rich_picture_1.svg){: id="Rich_picture_v1.0"}
-<h6 align = "center">Figura 1: Rich Picture - Versão 1.0
+<h6 align = "center">Figura 1: Rich Picture
 <br>Autor: Rafael Nobre
 <br>Fonte: Autor(es)</h6>
 
@@ -31,11 +31,11 @@ A primeira versão do nosso Rich picture pode ser acompanhada na [Figura 1](#Ric
 |**Setas**|![seta_icon](./assets/icons/seta.png){width=100}|
 
 
-<h6 align = "center" id='Tabela_rich_picture_v1.0'> Tabela 1: Legenda do Rich Picture - Versão 1.0
+<h6 align = "center" id='Tabela_rich_picture_v1.0'> Tabela 1: Legenda do Rich Picture
 <br> Autor: Rafael Nobre
 <br>Fonte: Autor(es)</h6>
 
-## 5. Referências
+## 4. Referências
 
 > Introducing Rich Pictures - Software Development Project [CTEC2402]
 
@@ -47,6 +47,7 @@ A Tabela 2 registra o histórico de versão deste documento
 |:---: | :---: | :---: | :---: | :---: |
 | 15/04/2023 | 1.0 | Rich Picture - Versão 1.0 | Rafael Nobre | Matheus Phillipo |
 | 20/04/2023 | 1.1 | Inserção das chamadas das tabelas/imagens| Rafael Nobre| Milena|
+| 01/07/2023 | 1.2 | Ajustes finais | Rafael Nobre | - |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Rafael Nobre
