@@ -107,7 +107,7 @@ A Tabela 1 registra o histórico de versão desse documento.
 | 28/04/2023 | 1.1 | Inserção do Dashboard e análise dos resultados | Rafael Nobre | Brunna Louise |
 | 01/05/2023 | 1.2 | Padronização das referências | Brunna Louise | Rafael Nobre |
 | 09/05/2023 | 1.3 | Adicionando informação relativa à duração do questionário | Brunna Louise | Rafael Nobre |
-| 09/05/2023 | 2.0 | Versão final do artefato de Perfis de Usuário: padronização; apresentação do termo de consentimento; inclusão de erros que não poderiam ser reparados. | Brunna Louise | - |
+| 09/05/2023 | 2.0 | Versão final do artefato de Perfis de Usuário: padronização; apresentação do termo de consentimento; inclusão de erros que não poderiam ser reparados. | Brunna Louise | Rafael |
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor: Brunna Louise
