@@ -17,7 +17,7 @@ A reunião ocorreu na data 25/04/2023 das 10:20h às 11:50 com os seguintes part
 |**Participante**|**Papel**|
 |----------------|---------|
 | Matheus| Moderador |
-| Rafael | Usuário |
+| Rafael | Relator |
 | Milena | Usuário |
 | Brunna | Usuário |
 | Diógenes | Usuário |
@@ -27,11 +27,11 @@ A reunião ocorreu na data 25/04/2023 das 10:20h às 11:50 com os seguintes part
 <br> Autor: Milena Aires 
 <br>Fonte: Autor(es)</h6>
 
-
 ## 4. Conclusões
+
 ## 4.1 Requisitos Funcionais
 
-A Tabela 1 indica os requisitos funcionais elicitados por meio
+A Tabela 2 indica os requisitos funcionais elicitados por meio da técnica de Brainstorm
 
 |**ID**|**Requisito Funcional**|
 |------|-----------------------|
@@ -86,7 +86,7 @@ A Tabela 1 indica os requisitos funcionais elicitados por meio
 
 ## 4.2 Requisitos Não Funcionais
 
-A Tabela 2 indica os requisitos não funcionais elicitados por meio
+A Tabela 3 indica os requisitos não funcionais elicitados por meio da técnica de Brainstorm
 
 |**ID**|**Requisito Não Funcional**|
 |------|-----------------------|
@@ -118,7 +118,8 @@ A Tabela 3 registra o histórico de versão deste documento
 | 25/04/2023 | 1.0 | Primeiros Requisitos Funcionais | Rafael Nobre | Brunna Louise |
 | 25/04/2023 | 1.1 | Primeiros Requisitos Não Funcionais | Diogenes | Rafael Nobre |
 | 01/05/2023 | 1.2 | Correções de numeração de tabela | Matheus | Diógenes |
-| 21/06/2023 | 1.3 | Correções de acordo com o checklist | Milena | - |
+| 21/06/2023 | 1.3 | Correções de acordo com o checklist | Milena | Rafael Nobre |
+| 03/07/2023 | 1.4 | Ajustes finais | Rafael Nobre | - |
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor: Rafael Nobre
