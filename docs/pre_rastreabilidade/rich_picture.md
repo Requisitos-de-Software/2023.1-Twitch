@@ -1,3 +1,5 @@
+# Rich picture
+
 ## 1. Introdução
 
 Rich Picture é uma técnica visual que ajuda a compreender complexidades em um sistema, projeto ou situação de maneira mais holística. A técnica do Rich Picture envolve a criação de uma imagem ou diagrama que representa um sistema em questão, com todos os seus elementos, relacionamentos e nuances. Ao fornecer uma representação visual do sistema, o Rich Picture pode ajudar a criar uma compreensão compartilhada de todos os elementos e suas interações, facilitando assim a tomada de decisões.
