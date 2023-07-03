@@ -123,6 +123,7 @@ A Tabela 5 registra o histórico de versão desse documento.
 | 23/05/2023 | 1.1 | Estabelecendo padrões de codificação e adicionando documentação adicional | Brunna Louise | Ana Beatriz |
 | 23/05/2023 | 1.2 | Adicionando criterios de aceitação | Ana Beatriz | Brunna Louise |
 | 27/06/2023 | 1.3 | Adicionando requisitos que não foram implementados | Matheus Phillipo | Brunna Louise |
+| 03/07/2023 | 1.4 | Adiciona estrutura para permitir hyperlinks| Rafael Nobre | Brunna Louise |
 
 <h6 align = "center"> Tabela 5: Histórico de Versões
 <br> Autor(es): Ana Beatriz, Brunna Louise
