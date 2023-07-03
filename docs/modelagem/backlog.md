@@ -27,7 +27,7 @@ Para um menor nível de abstração expresso nos temas, foram registrados os ép
 
 #### 3.1.1 EP01 - Conteúdo
 
-O épico de Conteúdo refere-se às features que devem ser implementadas, que tem relacionamento com o conteúdo que a plataforma da Twitch oferece, como lives, clipes e VOD's.
+O épico de Conteúdo refere-se às features que devem ser implementadas, que tem relacionamento com o conteúdo que a plataforma da Twitch oferece, como lives, clipes e VOD's. Na tabela 1 é possível acompanhar os requisitos deste épico.
 
 <table style="border-collapse: collapse; border-spacing: 0" class="tg">
   <thead>
@@ -1176,7 +1176,7 @@ O épico de Conteúdo refere-se às features que devem ser implementadas, que te
 
 #### 3.1.2 EP02 - Conta
 
-O épico de Conta é referente às configurações e personalizações das contas da Twitch, assim como ações que estão relacionadas à conta, como as funcionalidades de seguir e se inscrever.
+O épico de Conta é referente às configurações e personalizações das contas da Twitch, assim como ações que estão relacionadas à conta, como as funcionalidades de seguir e se inscrever. Na tabela 2 é possíver acompanhar os requisitos deste épico.
 
 <table style="border-collapse: collapse; border-spacing: 0" class="tg">
   <thead>
@@ -2305,7 +2305,7 @@ O épico de Conta é referente às configurações e personalizações das conta
 
 #### 3.1.3 EP03 - Plataforma
 
-O épico de Plataforma é referente a configurações e ajustes que o usuário pode fazer na plataforma, que dizem respeito à sua navegação e experiência de usuário.
+O épico de Plataforma é referente a configurações e ajustes que o usuário pode fazer na plataforma, que dizem respeito à sua navegação e experiência de usuário. Na tabela 3 pode-se verificar os requisitos deste épico.
 
 <table style="border-collapse: collapse; border-spacing: 0" class="tg">
   <thead>
@@ -3098,4 +3098,4 @@ O épico de Plataforma é referente a configurações e ajustes que o usuário p
 |  1.0   | 23.05.2023 | Criação do documento                          | Rafael Nobre e Milena | Matheus     |
 |  1.1   | 24.05.2023 | Adição do tema conteúdo e épicos relacionados | Milena                | Rafael      |
 |  1.2   | 24.05.2023 | Adição das tabelas do épicos relacionados     | Milena e Rafael       | Brunna      |
-|  1.3   | 03.07.2023 | Ajustes de tabela                             | Rafael                |      -      |
+|  1.3   | 03.07.2023 | Ajustes de tabela                             | Rafael                | Diógenes    |
