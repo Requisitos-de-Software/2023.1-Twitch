@@ -54,15 +54,15 @@ A imagem 1 a seguir apresenta um gráfico de pizza apresentando os resultados co
 
 > <a id="1">[1]</a> SALES, André. Tabela utilizada para análise dos grupos. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 13 de junho de 2023. 
 
-> <a id="1">[2]</a> SERRANO, Maurício; SERRANO, Milene. Material em Slides produzido para a disciplina de Requisitos de Software.
+> <a id="2">[2]</a> SERRANO, Maurício; SERRANO, Milene. Material em Slides produzido para a disciplina de Requisitos de Software.
 
-> <a id="1">[3]</a> Análise realizada pelo Grupo 07, disponível [nesse GitPages](https://requisitos-de-software.github.io/2023.1-Petz/).
+> <a id="3">[3]</a> Análise realizada pelo Grupo 07, disponível [nesse GitPages](https://requisitos-de-software.github.io/2023.1-Petz/).
 
 ## Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 20.06.2023 | 1.0    | Primeira Versão do artefato de Verificação de Léxicos |   Brunna Louise   | Rafael Nobre  |
-| 03.07.2023 | 2.0    | Versão Final do artefato de Verificação de Léxicos: padronização |   Brunna   | -  |
+| 03.07.2023 | 2.0    | Versão Final do artefato de Verificação de Léxicos: padronização |   Brunna   | Diógenes Dantas  |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Brunna Louise </h6>
