@@ -48,7 +48,7 @@ O artefato está bem completo e foi muito bem desenvolvido. Contudo, é necessá
 
 >SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 15): Modelagem de Requisitos - Abordagens Ágeis. Acesso em: 14 de junho de 2023. <a id="2">[2]</a>
 
->S. PRESSMAN,Roger, R. MAXIM, Bruce Cap. 3 Desenvolvimento Ágil - Engenharia de Software Pressman. Acesso em: 14 de junho de 2023. <a id="3">]</a>
+>S. PRESSMAN,Roger, R. MAXIM, Bruce Cap. 3 Desenvolvimento Ágil - Engenharia de Software Pressman. Acesso em: 14 de junho de 2023. <a id="3">[3]</a>
 
 
 ## Histórico de Versões
