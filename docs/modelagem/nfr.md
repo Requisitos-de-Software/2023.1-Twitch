@@ -62,14 +62,14 @@ Dessa forma, a partir dos requisitos não-funcionais elicitados na fase de Elici
 
 | Identificador | Requisitos não funcionais |
 | --------------| ---------- |
-| OBS10 | A plataforma deve colocar um efeito Blur nos Thumbnails para cada conteúdo categorizado como adulto ou 18+ |
-| OBS12 | A barra de navegação de tipos de conteúdos deve aparecer na tela de início, mesmo estando logado  |
-| OBS13 | Na Barra de navegação de tipos de conteúdos deve ser adicionado o tipo Artes e Ciência | 
-| OBS14 | A experiência do usuário na questão de sugestões de conteúdo e o tipo de disponibilidade delas deve ser melhor logado na plataforma |
-| RNFB02 | Segurança: o sistema deve garantir proteção contra acesso não autorizado |
-| QUE01 | Redução de anúncios seguidos |
-| QUE05 | Recomendação de conteúdos que condizem com o tipo de conteúdo consumido pelo usuário |
-| QUE08 | Modo Rascunho para Salvar e Editar vídeos, após sair da sessão.|
+| <div id="OBS10"><a href="../../elicitacao/tecnicas/observacao/#OBS10">OBS10</a></div> | A plataforma deve colocar um efeito Blur nos Thumbnails para cada conteúdo categorizado como adulto ou 18+ |
+| <div id="OBS12"><a href="../../elicitacao/tecnicas/observacao/#OBS12">OBS12</a></div> | A barra de navegação de tipos de conteúdos deve aparecer na tela de início, mesmo estando logado  |
+| <div id="OBS13"><a href="../../elicitacao/tecnicas/observacao/#OBS13">OBS13</a></div> | Na Barra de navegação de tipos de conteúdos deve ser adicionado o tipo Artes e Ciência | 
+| <div id="OBS14"><a href="../../elicitacao/tecnicas/observacao/#OBS14">OBS14</a></div> | A experiência do usuário na questão de sugestões de conteúdo e o tipo de disponibilidade delas deve ser melhor logado na plataforma |
+| <div id="RNFB02"><a href="../../elicitacao/tecnicas/Brainstorm/#RNFB02">RNFB02</a></div> | Segurança: o sistema deve garantir proteção contra acesso não autorizado |
+| <div id="QUE01"><a href="../../elicitacao/perfis_usuario/#QUE01">QUE01</a></div> | Redução de anúncios seguidos |
+| <div id="QUE05"><a href="../../elicitacao/perfis_usuario/#QUE05">QUE05</a></div> | Recomendação de conteúdos que condizem com o tipo de conteúdo consumido pelo usuário |
+| <div id="QUE08"><a href="../../elicitacao/perfis_usuario/#QUE08">QUE08</a></div> | Modo Rascunho para Salvar e Editar vídeos, após sair da sessão.|
 
 <h6 align = "center"> Tabela 1: Requisitos não funcionais  
 <br> Autor(es): Matheus

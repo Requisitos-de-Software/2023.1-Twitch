@@ -66,14 +66,14 @@ A partir dos resultados obtidos no questionário, informações relevantes foram
 
 | Identificador | Requisitos | Tipo |
 | --------------| ---------- | ---- |
-| QUE01 | Redução de anúncios seguidos | RNF |
-| QUE02 | Opção para ocultar as recomendações ou canais que outros usuários assistem | RF |
-| QUE03 | Recomendação de vídeos publicados que estão em ascensão na plataforma (semelhante ao "Em Alta" no Youtube) | RF |
-| QUE04 | Integração nativa com servidor do Discord | RF |
-| QUE05 | Recomendação de conteúdos que condizem com o tipo de conteúdo consumido pelo usuário | RNF |
-| QUE06 | Filtragem de direitos autorais, combatendo a pirataria | RF |
-| QUE07 | Telas Múltiplas | RF |
-| QUE08 | Modo Rascunho para Salvar e Editar vídeos, após sair da sessão.| RNF |
+| <div id="QUE01">QUE01</div> | Redução de anúncios seguidos | RNF |
+| <div id="QUE02">QUE02</div> | Opção para ocultar as recomendações ou canais que outros usuários assistem | RF |
+| <div id="QUE03">QUE03</div> | Recomendação de vídeos publicados que estão em ascensão na plataforma (semelhante ao "Em Alta" no Youtube) | RF |
+| <div id="QUE04">QUE04</div> | Integração nativa com servidor do Discord | RF |
+| <div id="QUE05">QUE05</div> | Recomendação de conteúdos que condizem com o tipo de conteúdo consumido pelo usuário | RNF |
+| <div id="QUE06">QUE06</div> | Filtragem de direitos autorais, combatendo a pirataria | RF |
+| <div id="QUE07">QUE07</div> | Telas Múltiplas | RF |
+| <div id="QUE08">QUE08</div> | Modo Rascunho para Salvar e Editar vídeos, após sair da sessão.| RNF |
 <h6 align = "center"> Tabela 1: Requisitos elicitados a partir de resultados do questionário.
 <br> Autor: Brunna Louise
 <br>Fonte: Autor(es)</h6>
