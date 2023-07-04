@@ -56,6 +56,7 @@ Além disso, o Grupo 07 destacou a falta informações sobre os motivos da prior
 | 20.06.2023 | 1.0    | Adição da primeira versão do artefato de Verificação Rich Picture |  Diógenes  | Milena |
 | 20.06.2023 | 1.1    | Adicão de checklist do MosCow, introdução, observações do grupo 07 e referencias|   Diógenes   | Milena |
 | 20.06.2023 | 1.2    | Adicão de gráfico de pizza apresentando os resultados do CheckList do MosCow |   Diógenes   | Milena |
+| 03.07.2023 | 2.0    | Adição de associação entre a questão da tabela do checklist e as referências do artefato. Artefato ajustado para a entrega final | Diógenes | Milena |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Diógenes Dantas </h6>

@@ -28,7 +28,7 @@ A tabela 1 a seguir apresenta o checklist que orientou a verificação do Grupo 
 <br>Fonte: Autor(es)</h6>
 
 ## 4. Observações
-
+e
 #### ID - 1
 
 Necessário destacar que a introspecção pode não ser apropriada para refletir de maneira precisa a experiência ou desempenho real dos envolvidos, uma vez que sua utilização requer a presença de um especialista. 
