@@ -49,7 +49,7 @@ O documento verificado está construído de forma adequada, porém existem ponto
 > SERRANO, Milene; SERRANO, Maurício; Requisitos - Aula 13. Disponível em: Aprender3. Acesso em: 15 de maio de 2023. Twitch Engineering Blog.
 > Grupo 8 - Twitch: Verificação Especificação Suplementar. Disponível em: https://requisitos-de-software.github.io/2023.1-Twitch/verificacao_grupo01/verifica01_espsuplementar/. Acesso em: 20 de junho de 2023.
 
-## 7. Histórico de Versões
+## 7. Histórico de Versão
 
 A Tabela seguinte registra o histórico de versão desse documento.
 
@@ -57,6 +57,6 @@ A Tabela seguinte registra o histórico de versão desse documento.
 |:---: | :---: | :---: | :---: | :---: |
 |20.06.2023| 1.0 | Primeira versão do checklist sobre a Especificação Suplementar produzido pelo grupo 08| Milena Aires | Ana Beatriz |
 
-<h6 align = "center"> Tabela 3: Histórico de Versões
+<h6 align = "center"> Tabela 3: Histórico de Versão
 <br> Autor(es): Milena Aires 
 <br>Fonte: Autor(es)</h6>
