@@ -12,16 +12,16 @@ A tabela 1 a seguir apresenta o checklist que orientou a verificação do Grupo 
 
 | ID |Questão| Resultado da Verificação |
 | :---: | --- | :---: |
-| 01 | O artefato possui uma introdução | Completo |
-| 02 | O artefato possui a metodologia  | Completo |
-| 03 | O artefato possui uma tabela com histórico de versões, com data, descrição, autor(es) e revisor(es)  | Completo |
-| 04 | O artefato possui referências bibliográficas  | Completo |
-| 05 | As tabelas e imagens do artefato possuem fontes e legendas | Incompleto |
-| 06 | O artefato descreve os resultados obtidos, imagens ou texto | Completo |
-| 07 | Os dados coletados para utilizar no perfil de usuário foram obtidos através de um estudo conduzido por entrevistas ou aplicação de questionário  | Completo |
-| 08 | O artefato apresenta o termo de consentimento utilizado na coleta dos dados | Completo |
-| 09 | O artefato identifica as características de interesse obtidos na coleta de dados, como nível de instrução, faixa etária, experiência, estado civil, atitudes (tecnófilos, tecnófobos) | Completo |
-| 10 | O artefato explica como a coleta de dados foi usada para determinar o perfil de usuário principal do aplicativo analisado | Completo |
+| 01 | O artefato possui uma introdução [1](#1) | Completo |
+| 02 | O artefato possui a metodologia [1](#1) | Completo |
+| 03 | O artefato possui uma tabela com histórico de versões, com data, descrição, autor(es) e revisor(es) [1](#1) | Completo |
+| 04 | O artefato possui referências bibliográficas [1](#1) | Completo |
+| 05 | As tabelas e imagens do artefato possuem fontes e legendas [1](#1) | Incompleto |
+| 06 | O artefato descreve os resultados obtidos, imagens ou texto [2](#2) | Completo |
+| 07 | Os dados coletados para utilizar no perfil de usuário foram obtidos através de um estudo conduzido por entrevistas ou aplicação de questionário [2](#2)| Completo |
+| 08 | O artefato apresenta o termo de consentimento utilizado na coleta dos dados [1](#1)| Completo |
+| 09 | O artefato identifica as características de interesse obtidos na coleta de dados, como nível de instrução, faixa etária, experiência, estado civil, atitudes (tecnófilos, tecnófobos) [3](#3)| Completo |
+| 10 | O artefato explica como a coleta de dados foi usada para determinar o perfil de usuário principal do aplicativo analisado [3](#3) | Completo |
 
 <h6 align = "center"> Tabela 1: Checklist para Verificação
 <br> Autor(es): Diógenes Dantas
@@ -43,11 +43,11 @@ A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 
 
 ## Referências
 
->SALES, André. Tabela utilizada para análise dos grupos. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 13 de junho de 2023.
+>SALES, André. Tabela utilizada para análise dos grupos. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 13 de junho de 2023. <a id="1">[1]</a>
 
->Courage, Catherine e Baxter, Kathy (2005). Understanding Your Users: A Practical Guide to User Requirements Methods, Tools, and Techniques. Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edition. Acesso em: 13 de junho de 2023.
+>Courage, Catherine e Baxter, Kathy (2005). Understanding Your Users: A Practical Guide to User Requirements Methods, Tools, and Techniques. Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edition. Acesso em: 13 de junho de 2023. <a id="2">[2]</a>
 
->Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 13 de junho de 2023
+>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 13 de junho de 2023. <a id="3">[3]</a>
 
 
 ## Histórico de Versões
@@ -59,6 +59,7 @@ A Tabela 3 registra o histórico de versão desse documento.
 | 13.06.2023 | 1.0    | Criação do documento de verificação do perfil de usuário (Bilheteria Digital) |   Diógenes   |    Rafael    |
 | 13.06.2023 | 1.1    | Adição do Checklist da Verificação do perfil de usuário |   Diógenes   |    Rafael   |
 | 13.06.2023 | 1.2    | Adição do gráfico de pizza explicando os resultados do checklist |   Diógenes   |    Rafael   |
+| 03.07.2023 | 2.0    | Adição de associação entre a questão da tabela do checklist e as referências do artefato. Artefato ajustado para a entrega final |   Diógenes   |    Rafael   |
 
 
 <h6 align = "center"> Tabela 2: Histórico de Versões

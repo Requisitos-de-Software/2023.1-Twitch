@@ -6,13 +6,15 @@ Histórias de usuário são as menores unidades de trabalho em uma estrutura ág
 
 ## 2. Metodologia
 
-A partir dos requisitos funcionais previamente elicitados (disponíveis em [Técnicas de Elicitação - Brainstorm](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/Brainstorm/)) pela equipe de desenvolvimento em uma reunião de Brainstorm, membros Ana Beatriz e Brunna Louise, em uma reunião, foram capazes de extrair histórias de usuário dos requsitos funcionais. Nessa reunião, Ana Beatriz assumiu papel de cliente (Product Owner) e Brunna Louise assumiu papel de integrante da equipe de desenvolvimento. As histórias de usuário extraídas apresentam a seguinte a estrutura:
+A partir dos requisitos funcionais previamente elicitados (disponíveis em [Técnicas de Elicitação - Brainstorm](../elicitacao/tecnicas/Brainstorm.md#41-requisitos-funcionais) e em [Técnicas de Elicitação - Observação](../elicitacao/tecnicas/observacao.md#3-resultados)) pela equipe de desenvolvimento e a partir da priorização desses mesmos requisitos pela técnica de MOSCoW (disponível em [Técnicas de Priorização](../elicitacao/priorizacao.md#21-moscow)), membros Ana Beatriz e Brunna Louise, em uma reunião, foram capazes de extrair as histórias de usuário presentes nesse artefato. Para a seleção dos requisitos funcionais dos quais seriam extraídas histórias de usuário, levaram-se em consideração os requisitos cuja prioridade foi considerada **Must**, ou seja, requisitos de maior relevância para o desenvolvimento do projeto.
+
+Na reunião citada acima, Ana Beatriz assumiu papel de cliente (Product Owner) e Brunna Louise assumiu papel de integrante da equipe de desenvolvimento. As histórias de usuário extraídas apresentam a seguinte a estrutura:
 
 |**Id da User Story**|**Usuário** | **Desejo** | **Descrição de recurso** | **Critério de aceitação**|**Id do Requisito**|
 | :---: |:---: | :---: | :---: | :---:| :---: |
 |USBxx|Como usuário, | quero | xxxxxxx. | Critério a ser cumprido. |RFBxx|
 
-O Id da User Story (História de Usuário) é um código que identifica cada história de usuário aqui contida, a fim de otimizar a rastreabilidade. Seguindo esse mesmo princípio, o Id do Requisito é o mesmo Id utilizado no documento [Técnicas de Elicitação - Brainstorm](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/Brainstorm/) e também no documento de [Técnicas de Elicitação - Observação](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao/) , que foi o artefato no qual nos baseamos para extrair as histórias de usuário.
+O Id da User Story (História de Usuário) é um código que identifica cada história de usuário aqui contida, a fim de otimizar a rastreabilidade. Seguindo esse mesmo princípio, o Id do Requisito é o mesmo Id utilizado no documento [Técnicas de Elicitação - Brainstorm](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/Brainstorm/) e também no documento de [Técnicas de Elicitação - Observação](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao/), que foi o artefato no qual nos baseamos para extrair as histórias de usuário.
 
 O usuário pode ser um **espectador**, ou seja, o tipo mais comum de usuário, cujo principal objetivo é assistir a e interagir com transmissões ao vivo; ou um **criador de conteúdo**, cujo principal objetivo é transmitir lives em seu canal. Um criador de conteúdo possui todas as características de um espectador, com o diferencial de produzir conteúdo para a plataforma.
 
@@ -97,11 +99,7 @@ Serão descritas abaixo as histórias de usuário extraídas de requisitos funci
 <br> Autor(es): Ana Beatriz, Brunna Louise
 <br>Fonte: Autor(es)</h6>
 
-## 4. Referências
-
-> REHKOPF, Max. *Histórias de usuários com exemplos e um template*. Atlassian. Disponível no [link](https://www.atlassian.com/br/agile/project-management/user-stories). Acesso em 22 de maio de 2023.
-
-## 5. Participantes
+## 4. Participantes
 
 A tabela 4 a seguir registra os membros do grupo que contribuíram com esse documento:
 
@@ -112,6 +110,10 @@ A tabela 4 a seguir registra os membros do grupo que contribuíram com esse docu
 <h6 align = "center"> Tabela 4: Participantes e seus papéis na produção do artefato
 <br> Autor(es): Ana Beatriz, Brunna Louise
 <br>Fonte: Autor(es)</h6>
+
+## 5. Referências
+
+> REHKOPF, Max. *Histórias de usuários com exemplos e um template*. Atlassian. Disponível no [link](https://www.atlassian.com/br/agile/project-management/user-stories). Acesso em 22 de maio de 2023.
 
 ## Histórico de Versões
 
@@ -124,6 +126,7 @@ A Tabela 5 registra o histórico de versão desse documento.
 | 23/05/2023 | 1.2 | Adicionando criterios de aceitação | Ana Beatriz | Brunna Louise |
 | 27/06/2023 | 1.3 | Adicionando requisitos que não foram implementados | Matheus Phillipo | Brunna Louise |
 | 03/07/2023 | 1.4 | Adiciona estrutura para permitir hyperlinks| Rafael Nobre | Brunna Louise |
+| 03/07/2023 | 2.0 | Resolução de Conflitos e Versão final do artefato| Brunna Louise | Diógenes Dantas |
 
 <h6 align = "center"> Tabela 5: Histórico de Versões
 <br> Autor(es): Ana Beatriz, Brunna Louise
