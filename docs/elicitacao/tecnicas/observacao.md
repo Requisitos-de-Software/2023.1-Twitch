@@ -45,8 +45,9 @@ A tela e áudio do usuário foram captadas e estão disponíveis abaixo.
 
 </center>
 
-<h6 align = "center"> Tabela 1: Requisitos levantados utilizando a técnica da Observação. </h6>
-<h6 align = "center"> Fonte: Autores </h6>
+<h6 align = "center"> Tabela 1: Requisitos levantados utilizando a técnica da Observação.
+<br>Autor(es): Matheus
+<br>Fonte: Autor(es)</h6>
 
 ## 4. Referências
 
@@ -59,6 +60,7 @@ A tela e áudio do usuário foram captadas e estão disponíveis abaixo.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
 | 1.0 | 30/04/2023 | Criação e desenvolvimento do artefato | Matheus Phillipo | Rafael Nobre |
+| 2.0 | 04/07/2023 | Versão final | Matheus Phillipo | Rafael Nobre |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br>Autor(es): Matheus
