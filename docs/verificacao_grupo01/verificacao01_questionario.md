@@ -76,6 +76,6 @@ A Tabela seguinte registra o histórico de versão desse documento.
 |:---: | :---: | :---: | :---: | :---: |
 |14.06.2023| 1.0 | Primeiro versão do checklist sobre o Questionário produzido pelo grupo 01| Milena Aires | Matheus |
 
-<h6 align = "center"> Tabela 3: Histórico de Versões
+<h6 align = "center"> Tabela 3: Histórico de Versão
 <br> Autor(es): Milena Aires
 <br>Fonte: Autor(es)</h6>
