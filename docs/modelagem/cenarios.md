@@ -87,7 +87,7 @@ O cenário a seguir demonstra a redefinição de senha de um usuário ja cadastr
 <h6 align = "center"> Fonte: Autor </h6>
 
 #### C04: Mandar um susurro 
-O seguinte cenário demonstra o envio de susurro (mensagem de chat) no aplicativo da twitch para outro usuário da plataforma.
+O seguinte cenário demonstra o envio de susurro (mensagem de chat) no aplicativo da twitch para outro usuário da plataforma.  Este cenário está relacionado com o [L22](https://requisitos-de-software.github.io/2023.1-Twitch/modelagem/lexico/#l22-whisper). 
 
 | Elemento   | Descrição |
 | ---------- | --------- |
@@ -102,8 +102,8 @@ O seguinte cenário demonstra o envio de susurro (mensagem de chat) no aplicativ
 <h6 align = "center"> Tabela 5: Cenário envio de susurro no aplicativo Twitch </h6>
 <h6 align = "center"> Fonte: Autor </h6>
 
-#### C05: Fazer uma pesquisa 
-O cenário descreve uma pesquisa feita dentro do aplicativo por um usuário.
+#### C05: Fazer uma busca
+O cenário descreve uma pesquisa feita dentro do aplicativo por um usuário.  Este cenário está relacionado com o [L13](https://requisitos-de-software.github.io/2023.1-Twitch/modelagem/lexico/#l13-buscar). 
 
 | Elemento   | Descrição |
 | ---------- | --------- |
@@ -119,7 +119,7 @@ O cenário descreve uma pesquisa feita dentro do aplicativo por um usuário.
 <h6 align = "center"> Fonte: Autor </h6>
 
 #### C06: Assistir uma live
-No cenário de assistir uma live, no momento em que usuário entra no aplicativo a página inicial já sugere diversas lives e conteúdos gravados com base no gosto do usuário, onde ele basta apertar na live que já é iniciada a trasmissão. Mas também o usuário pode buscar por uma live específica de acordo com o seguinte cenário.
+No cenário de assistir uma live, no momento em que usuário entra no aplicativo a página inicial já sugere diversas lives e conteúdos gravados com base no gosto do usuário, onde ele basta apertar na live que já é iniciada a trasmissão. Mas também o usuário pode buscar por uma live específica de acordo com o seguinte cenário.  Este cenário está relacionado com o [L03](https://requisitos-de-software.github.io/2023.1-Twitch/modelagem/lexico/#l03-assistir). 
 
 | Elemento   | Descrição |
 | ---------- | --------- |
@@ -154,7 +154,8 @@ Este cenário refere-se ao login diretamente por um provedor de email. O usuári
 <h6 align = "center"> Fonte: Autor </h6>
 
 #### C08: Restrição de conteúdo 18+
-Este cenário visa demonstrar a restrição de acesso aos conteúdos adultos dentro da plataforma.  
+Este cenário visa demonstrar a restrição de acesso aos conteúdos adultos dentro da plataforma. Este cenário está relacionado com o [L28](https://requisitos-de-software.github.io/2023.1-Twitch/modelagem/lexico/#l28-confirmacao-de-conteudos-18). 
+ 
 
 | Elemento   | Descrição |
 | ---------- | --------- |
@@ -190,7 +191,12 @@ Na construção dos cenários foi utilizado a observação, onde um usuário an�
 
 | Versão | Data       | Descrição            | Autor(es)     | Revisor(es)   |
 | :----: | ---------- | -------------------- | ------------- | ------------- |
-| 1.0    | 12.05.2023 | Criação do documento e adição dos cenários | Milena Aires | - |
+| 1.0    | 12.05.2023 | Criação do documento e adição dos cenários | Milena Aires | Matheus |
 | 1.1    | 16.05.2023 | Finalização do documento de cenários | Milena Aires | Matheus |
 | 1.2    | 06.06.2023 | Adição de participantes | Milena Aires | Matheus |
 | 1.3    | 28.06.2023 | Adição de um episódio no cenário 8 | Matheus Phillipo | Brunna Louise |
+| 1.4    | 04.07.2023 | Melhorias entrega final | Milena | Brunna Louise |
+
+<h6 align = "center"> Tabela 3: Histórico de Versão
+<br>Autor(es): Milena </h6>
+

@@ -17,7 +17,7 @@ Grande parte dos requisitos elicitados, nos sentidos mais técnicos, foram extra
 ### 3.1 Funcionalidade (Functionality)
 
 A categoria de Funcionalidade representa todos os aspectos funcionais do software, ou seja, seus requisitos funcionais. Esses requisitos já foram elicitados em três técnicas diferentes: [Brainstorm](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/Brainstorm/), [Observação](/elicitacao/tecnicas/observacao/) e [Análise Documental](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/AnaliseDeDocumento/).
-Abaixo estão algunas destes requisitos:
+Abaixo, na tabela 1, estão algunas destes requisitos:
 
 |**Id**|**Descrição**| **Requisito relacionado**|
 |:----:|:-----------:|:------------------------:|
@@ -33,6 +33,7 @@ Abaixo estão algunas destes requisitos:
 <br>Fonte: Autor(es)</h6>
 
 ### 3.2 Usabilidade (Usability)
+A Tabela 2 registra Requisitos não funcionais de Usabilidade.
 
 |**Id**|**Descrição**| **Requisito relacionado**|
 |:----:|:-----------:|:------------------------:|
@@ -49,6 +50,7 @@ Abaixo estão algunas destes requisitos:
 <br>Fonte: Autor(es)</h6>
 
 ### 3.3 Confiabilidade (Reliability)
+A Tabela 3 registra Requisitos não funcionais de Confiabilidade.
 
 |**Id**|**Descrição**| **Requisito relacionado**|
 |:----:|:-----------:|:------------------------:|
@@ -63,6 +65,7 @@ Abaixo estão algunas destes requisitos:
 <br>Fonte: Autor(es)</h6>
 
 ### 3.4 Desempenho (Performance)
+A Tabela 4 registra Requisitos não funcionais de Desempenho.
 
 |**Id**|**Descrição**| **Requisito relacionado**|
 |:----:|:-----------:|:------------------------:|
@@ -78,6 +81,7 @@ Abaixo estão algunas destes requisitos:
 <br>Fonte: Autor(es)</h6>
 
 ### 3.5 Suportabilidade
+A Tabela 5 registra Requisitos não funcionais de Suportabilidade.
 
 |**Id**|**Descrição**| **Requisito relacionado**|
 |:----:|:-----------:|:------------------------:|
@@ -92,11 +96,26 @@ Abaixo estão algunas destes requisitos:
 <br> Autor: Rafael
 <br>Fonte: Autor(es)</h6>
 
+### 3.6 +(Mais)
+A Tabela 6 registra Requisitos não funcionais de + (Mais).
+
+|**Id**|**Descrição**| **Requisito relacionado**|
+|:----:|:-----------:|:------------------------:|
+|M01| Acesso a funcionalidades como chat e análise no Painel de Controle. | [DOC02](/elicitacao/tecnicas/AnaliseDeDocumento/#3-resultados)|
+|M02| Progressão de Streamer para Afiliado e, em seguida, para Parceiro, com requisitos específicos em relação a horas transmitidas, transmissões em dias únicos, média de espectadores e seguidores alcançados. | [DOC03](/elicitacao/tecnicas/AnaliseDeDocumento/#3-resultados)|
+|M03| Disponibilização de ótimas ferramentas aos Afiliados e Parceiros, como um botão de subscrição, ícone expressivo personalizado, receitas de anúncios, distintivos de subscritor e mais oportunidades de receita. | [DOC04](/elicitacao/tecnicas/AnaliseDeDocumento/#3-resultados)|
+|M04| Possibilidade de submeter um formulário de candidatura a Parceiro através do painel de controle. | [DOC05](/elicitacao/tecnicas/AnaliseDeDocumento/#3-resultados)|
+|M05| Desbloqueio de funcionalidades como seguidores, chat, subscrições, ícones expressivos, distintivos de subscritor e receitas de anúncios, com a quantidade de funcionalidades desbloqueadas aumentando à medida que o streamer avança de Streamer para Afiliado e Parceiro.| [DOC06](/elicitacao/tecnicas/AnaliseDeDocumento/#3-resultados)|
+<h6 align = "center"> Tabela 6: Requisitos não funcionais de + (Mais)
+<br> Autor: Ana Beatriz
+<br>Fonte: Autor(es)</h6>
+
 ## Bibliografia
 > SERRANO, Milene; SERRANO, Maurício; Requisitos - Aula 13. Disponível em: Aprender3. Acesso em: 15 de maio de 2023.
 > Twitch Engineering Blog
 
 ## Histórico de Versão
+A Tabela 7 registra o histórico de versão desse documento.
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
@@ -104,3 +123,7 @@ Abaixo estão algunas destes requisitos:
 | 16/05/2023 | 1.1 | Adição das especificações | Rafael | Ana Beatriz |
 | 16/05/2023 | 1.2 | Adição das especificações | Ana Beatriz | Rafael |
 | 04/06/2023 | 1.3 | Correção de acordo com sugestões do Monitor e do professor | Rafael | Ana Beatriz |
+| 04/07/2023 | 2.0 | Padronização do documento e adição de elemento +|  Ana Beatriz  | Rafael
+
+<h6 align = "center"> Tabela 7: Histórico de Versões
+<br> Autor: Ana Beatriz </h6>

@@ -38,14 +38,6 @@ A análise realizada pelo Grupo 07 a respeito dos artefatos relacionados ao Cron
 
 O que foi apontado pelo grupo a respeito dos artefatos, apesar de válido, constitui apenas erros relacionados à padronização, à ortografia e à bibliografia. Conceitualmente, ambos artefatos estão corretos e bem construídos e as alterações são simples de fazer.
 
-## Histórico de versão
-|    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
-| :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
-| 20.06.2023 | 1.0    | Primeira Versão do artefato de Verificação do Cronograma |   Brunna Louise   | Rafael Nobre  |
-
-<h6 align = "center"> Tabela 2: Histórico de Versões
-<br> Autor: Brunna Louise </h6>
-
 ## Referências
 
 >SALES, André. Tabela utilizada para análise dos grupos. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 13 de junho de 2023.
@@ -53,3 +45,15 @@ O que foi apontado pelo grupo a respeito dos artefatos, apesar de válido, const
 >SERRANO, Maurício; SERRANO, Milene. Material em Slides produzido para a disciplina de Requisitos de Software.
 
 >Análise realizada pelo Grupo 07, disponível [nesse GitPages](https://requisitos-de-software.github.io/2023.1-Petz/).
+
+## Histórico de versão
+
+A Tabela 2 registra o histórico de versão desse documento.
+
+|    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
+| :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
+| 20/06/2023 | 1.0    | Primeira Versão do artefato de Verificação do Cronograma |   Brunna Louise   | Rafael Nobre  |
+| 29/06/2023 | 2.0 | Padronização do documento |  Ana Beatriz  | Rafael Nobre |
+
+<h6 align = "center"> Tabela 2: Histórico de Versões
+<br> Autor: Brunna Louise </h6>

@@ -67,9 +67,13 @@ A Mastriz de Rastreabilidade é um artefato para dispor e apresentar todos os re
 >SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 26). Disponível em: https://aprender3.unb.br/pluginfile.php/2523172/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 26 de junho de 2023
 
 ## Histórico de versão
+
+A Tabela 2 registra o histórico de versão desse documento.
+
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
-| 28.06.2023 | 1.0    | Criação do artefato de Matriz de Rastreabilidade |  Rafael e Ana   | Matheus |
+| 28/06/2023 | 1.0    | Criação do artefato de Matriz de Rastreabilidade |  Rafael e Ana   | Matheus |
+| 29/06/2023 | 2.0    | Correção de erros nos links e padronização do documento |  Ana Beatriz  | Matheus |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Rafael e Ana </h6>

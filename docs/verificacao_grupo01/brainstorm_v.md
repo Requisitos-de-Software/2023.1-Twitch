@@ -39,21 +39,23 @@ A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 
 
 Com base na análise do documento, todos os elementos do checklist foram abordados, fornecendo uma descrição adequada do processo de brainstorming realizado e os requisitos elicitados a partir dele.
 
+## Referências
+
+>COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face: The Essentials of Interaction Design. 
+
+>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 ## Histórico de Versões
 
 A Tabela 3 registra o histórico de versão desse documento.
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
-| 13/06/2023| 1.0 | Criação do documento | Ana Beatriz | - |
+| 13/06/2023| 1.0 | Criação do documento | Ana Beatriz | Matheus |
 | 14/06/2023| 1.1 | Adição da introdução e ajuste na metodologia | Ana Beatriz | Matheus |
+| 29/06/2023 | 2.0 | Padronização do documento |  Ana Beatriz  | Matheus |
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
-<br> Autor(es): 
+<br> Autor(es): Ana Beatriz
 <br>Fonte: Autor(es)</h6>
 
-## Referências
-
->COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face: The Essentials of Interaction Design. 
-
->BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.

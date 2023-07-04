@@ -50,18 +50,19 @@ A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 
 <br> Autor(es): Ana Beatriz
 <br>Fonte: Autor(es)</h6>
 
+## Referências
+> FIRST things first: Setting requirement priorities. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.
+
 ## Histórico de Versões
 
 A Tabela 3 registra o histórico de versão desse documento.
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
-| 13/06/2023| 1.0 | Criação do documento | Ana Beatriz | - |
+| 13/06/2023| 1.0 | Criação do documento | Ana Beatriz | Matheus |
 | 14/06/2023| 1.1 | Adição da introdução e ajuste na metodologia | Ana Beatriz | Matheus |
+| 29/06/2023 | 2.0 | Padronização do documento |  Ana Beatriz  | Matheus |
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
-<br> Autor(es): 
+<br> Autor(es): Ana Beatriz
 <br>Fonte: Autor(es)</h6>
-
-## Referências
-> FIRST things first: Setting requirement priorities. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.

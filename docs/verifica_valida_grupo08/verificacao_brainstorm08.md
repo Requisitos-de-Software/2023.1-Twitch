@@ -59,7 +59,7 @@ O documento verificado está contruído de forma adequada, porém falta algumas 
 ## 6. Referências
 > RETRAINING: Requirements engineering. [S. l.]. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em: 20 de junho de 2023.
 
-## 7. Histórico de Versões
+## 7. Histórico de Versão
 
 A Tabela seguinte registra o histórico de versão desse documento.
 
@@ -67,6 +67,6 @@ A Tabela seguinte registra o histórico de versão desse documento.
 |:---: | :---: | :---: | :---: | :---: |
 |20.06.2023| 1.0 | Primeira versão do checklist sobre o Brainstorm produzido pelo grupo 08| Milena Aires | Ana Beatriz |
 
-<h6 align = "center"> Tabela 3: Histórico de Versões
+<h6 align = "center"> Tabela 3: Histórico de Versão
 <br> Autor(es): Milena Aires 
 <br>Fonte: Autor(es)</h6>
