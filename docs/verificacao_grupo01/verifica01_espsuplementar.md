@@ -63,7 +63,7 @@ A Tabela 2 registra o histórico de versão desse documento.
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
 |13/06/2023 | 1.0 | Primeira versão da verificação do artefato Especificação Suplementar (Grupo 01) | Brunna Louise | Diógenes Dantas |
-|04/07/2023 | 2.0 | Versão final da verificação do artefato Especificação Suplementar (Grupo 01) | Brunna Louise | - |
+|04/07/2023 | 2.0 | Versão final da verificação do artefato Especificação Suplementar (Grupo 01) | Brunna Louise | Diógenes Dantas |
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor(es): Brunna Louise
 <br>Fonte: Autor(es)</h6>
