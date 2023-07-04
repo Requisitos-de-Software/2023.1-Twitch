@@ -54,7 +54,7 @@ O documento verificado está bem estruturado e rico de informações. O resultad
 ## 5. Referências
 > SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2523131/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf Acesso em: 14/06/2023.
 
-## 6. Histórico de Versões
+## 6. Histórico de Versão
 
 A Tabela seguinte registra o histórico de versão desse documento.
 

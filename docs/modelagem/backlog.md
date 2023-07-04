@@ -13,6 +13,13 @@ Para o desenvolvimento do Product Backlog do projeto da Twitch, utilizamos uma e
 
 As Histórias de Usuários e Épicos são definidas geralmente pelo PO(_Product Owner_) do projeto.
 
+Para confecção do artefato foram utilizados os seguintes papéis com o respectivo participante: 
+
+|**Participante**|**Papel**|
+|:--------------:|:-------:|
+| Rafael | Persona |
+| Milena | Membro da Equipe de Desenvolvimento Ágil |
+
 ## 3. Épicos
 
 Épico é um conjunto de travalho que poder ser dividio em vários histórias menores. Geralmente são entregues em um conjunto de sprints pois pode ser alterado conforme o desenvolvimento cresce e relevando o feedback do cliente, os histórias de usuários podem ser adicionadas ou removidas. Para o projeto os épicos foram separados em:
@@ -3098,4 +3105,8 @@ O épico de Plataforma é referente a configurações e ajustes que o usuário p
 |  1.0   | 23.05.2023 | Criação do documento                          | Rafael Nobre e Milena | Matheus     |
 |  1.1   | 24.05.2023 | Adição do tema conteúdo e épicos relacionados | Milena                | Rafael      |
 |  1.2   | 24.05.2023 | Adição das tabelas do épicos relacionados     | Milena e Rafael       | Brunna      |
-|  1.3   | 03.07.2023 | Ajustes de tabela                             | Rafael                |      -      |
+|  1.3   | 03.07.2023 | Ajustes de tabela                             | Rafael                | Milena      |
+|  1.4   | 04.07.2023 | Adição de participantes                       | Milena                | Rafael      |
+
+<h6 align = "center"> Tabela 3: Histórico de Versão
+<br>Autor(es): Milena </h6>

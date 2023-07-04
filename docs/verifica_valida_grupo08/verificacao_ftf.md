@@ -52,7 +52,7 @@ O documento verificado está contruído de forma adequada, com isso obtemos o gr
 
 >Software Requirements: Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2523072/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf. Acesso em: 20 de junho de 2023.
 
-## 7. Histórico de Versões
+## 7. Histórico de Versão
 
 A Tabela seguinte registra o histórico de versão desse documento.
 
@@ -60,6 +60,6 @@ A Tabela seguinte registra o histórico de versão desse documento.
 |:---: | :---: | :---: | :---: | :---: |
 |20.06.2023| 1.0 | Primeira versão do checklist sobre o First Things First produzido pelo grupo 08| Milena Aires | Ana Beatriz |
 
-<h6 align = "center"> Tabela 2: Histórico de Versões
+<h6 align = "center"> Tabela 2: Histórico de Versão
 <br> Autor(es): Milena Aires 
 <br>Fonte: Autor(es)</h6>

@@ -17,7 +17,7 @@ O ponto de controle 1 teve como foco o planejamento para a execução do projeto
 | Página Inicial (equipe) e GitHub Pages | **Início**: 07.04.2023  **Término**: 14.04.2023 | **Início**: -  **Término**: - | Matheus | - |
 | Ferramentas do Projeto | **Início**: 07.04.2023  **Término**: 14.04.2023 | **Início**: 16.04.2023  **Término**: 20.04.2023 | Brunna | Rafael |
 | Cronograma | **Início**: 07.04.2023  **Término**: 15.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Ana Beatriz e Milena | Brunna |
-| Metodologia | **Início**: 07.04.2023  **Término**: 14.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Diógenes | - |
+| Metodologia | **Início**: 07.04.2023  **Término**: 14.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Diógenes | Rafael |
 | Rich Picture | **Início**: 07.04.2023  **Término**: 15.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Rafael | Matheus |
 | Gravação e Postagem | **Início**: 16.04.2023  **Término**: 16.04.2023 | **Início**: 17.04.2023 **Término**: 17.04.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Milena |
 
@@ -39,7 +39,7 @@ O ponto de controle 2 teve como objetivo Elicitação – Técnicas e Priorizaç
 | Gravação e Postagem | **Início**: 30.04.2023 -  **Término**: 01.05.2023 | **Início**: 30.04.2023 -  **Término**: 01.05.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Diógenes |
 
 <h6 align = "center"> Tabela 2: Cronograma realizado do ponto de controle 2 </h6>
-<h6 align = "center"> Fonte: Autor(es) </h6>
+<h6 align = "center"> Fonte: Milena </h6>
 
 ### 2.3 Ponto de controle 3
 O ponto de controle 3 teve como objetivo a modelagem de Requisitos.
@@ -53,7 +53,7 @@ O ponto de controle 3 teve como objetivo a modelagem de Requisitos.
 | Gravação e Postagem | **Início**: 17.05.2023  **Término**: 17.05.2023 | **Início**: 17.05.2023  **Término**: 17.05.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Matheus |
 
 <h6 align = "center"> Tabela 3: Cronograma realizado do ponto de controle 3 </h6>
-<h6 align = "center"> Fonte: Autor(es) </h6>
+<h6 align = "center"> Fonte: Milena </h6>
 
 ### 2.4 Ponto de controle 4
 O ponto de controle 4 refere-se à Modelagem de Requisitos - Ágil
@@ -66,58 +66,59 @@ O ponto de controle 4 refere-se à Modelagem de Requisitos - Ágil
 | Gravação e Postagem | **Início**: 24.05.2023  **Término**: 24.05.2023 | **Início**: 24.05.2023  **Término**: 24.05.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Matheus |
 
 <h6 align = "center"> Tabela 4: Cronograma realizado do ponto de controle 4 </h6>
-<h6 align = "center"> Fonte: Autor(es) </h6>
+<h6 align = "center"> Fonte: Milena </h6>
 
 ### 2.5 Ponto de controle 5
-
-O ponto de controle 5 foi divido em duas entregas respectivas, tendo como o foco a análise de requisitos: verficação e validação. 
-
-#### 2.5.1 Ponto de controle 5.1
+O ponto de controle 5 refere-se a verificação do grupo 1.
 
 | Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
 | :------: | :-------: | :-----: | :--------: | :------: |
-| Verificação e Validação | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
-| Gravação e Postagem | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Verificação e Validação | **Início**: 25.05.2023  **Término**: 14.06.2023 | **Início**: 14.06.2023  **Término**: 14.06.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael |
+| Gravação e Postagem | **Início**: 14.06.2023  **Término**: 14.06.2023 | **Início**: -=14.06.2023  **Término**: 14.06.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Rafael |
 
 <h6 align = "center"> Tabela 5: Cronograma realizado do ponto de controle 5.1 </h6>
-<h6 align = "center"> Fonte: Autor(es) </h6>
+<h6 align = "center"> Fonte: Milena </h6>
 
-#### 2.5.2 Ponto de controle 5.2
-
-| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
-| :------: | :-------: | :-----: | :--------: | :------: |
-| Verificação e Validação | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
-| Gravação e Postagem | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
-
-<h6 align = "center"> Tabela 6: Cronograma realizado do ponto de controle 5.2 </h6>
-<h6 align = "center"> Fonte: Autor(es) </h6>
-
-### 2.6 Ponto de controle 6
-Ponto de controle 6 - Gerência de Desenvolvimento de Software orientada à baseline de Requisitos 
+#### 2.6 Ponto de controle 6
+No ponto de controle 6, o objetivo da equipe foi realizar a verificação dos artefatos construídos pelo próprio grupo, assim como realizar a validação.
 
 | Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
 | :------: | :-------: | :-----: | :--------: | :------: |
-| Backward From | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
-| Forward From | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
-| Matriz Geral | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
-| Gravação e Postagem | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Verificação e Validação | **Início**: 15.06.2023  **Término**: 21.06.2023 | **Início**: 21.06.2023 **Término**: 21.06.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael |
+| Gravação e Postagem | **Início**: 21.06.2023  **Término**: 21.06.2023 | **Início**: 21.06.2023  **Término**: 21.06.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Diógenes |
 
-<h6 align = "center"> Tabela 7: Cronograma realizado do ponto de controle 6 </h6>
-<h6 align = "center"> Fonte: Autor(es) </h6>
+<h6 align = "center"> Tabela 6: Cronograma realizado do ponto de controle 6 </h6>
+<h6 align = "center"> Fonte: Milena </h6>
+
+### 2.7 Ponto de controle 7
+No ponto de controle 7, o objetivo foi confeccionar a pós-rastreabilidade dos artefatos.
+
+| Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
+| :------: | :-------: | :-----: | :--------: | :------: |
+| Verificação e validação | **Início**: 22.06.2023 **Término**: 28.06.2023 | **Início**: 28.06.2023  **Término**: 28.06.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael |
+| Gravação e Postagem | **Início**: 28.06.2023 **Término**: 28.06.2023 | **Início**: 28.06.2023  **Término**: 28.06.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Diógenes |
+
+<h6 align = "center"> Tabela 7: Cronograma realizado do ponto de controle final </h6>
+<h6 align = "center"> Fonte: Milena </h6>
+
 
 ### 2.7 Ponto de controle final
 No ponto de controle final deve ser feita uma verificação, correção e refinamento dos artefatos para ser entregue na avaliação final do projeto.
 
 | Artefato | Elaboração| Revisão | Autor(es)  | Revisor  |
 | :------: | :-------: | :-----: | :--------: | :------: |
-| Verificação, correção e refinamento | **Início**: - **Término**: - | **Início**: -  **Término**: -  | - | - |
-| Gravação e Postagem | **Início**: -  **Término**: - | **Início**: -  **Término**: - | - | - |
+| Verificação, correção e refinamento | **Início**: 29.06.2023 **Término**: 05.07.2023 | **Início**: 05.07.2023  **Término**: 05.07.2023  | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael |
+| Gravação e Postagem | **Início**: 05.07.2023  **Término**: 05.07.2023 | **Início**: 05.07.2023  **Término**: 05.07.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Diógenes |
 
-<h6 align = "center"> Tabela 8: Cronograma realizado do ponto de controle final </h6>
-<h6 align = "center"> Fonte: Autor(es) </h6>
+<h6 align = "center"> Tabela 7: Cronograma realizado do ponto de controle final </h6>
+<h6 align = "center"> Fonte: Milena </h6>
 
 ## 3. Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 29.04.2023 | 1.0    | Criação do documento, adição de introdução, adição do cronograma realizado do ponto de controle 1 e tabelas para os próximos pontos de controle |   Milena   | Matheus |
 | 06.06.2023 | 1.1    | Adição do cronograma realizado do ponto de controle 3 e 4 |   Milena   | Matheus |
+| 04.07.2023 | 1.2    | Adição do cronograma realizado dos pontos controle para entrega final |   Milena   | Matheus |
+
+<h6 align = "center"> Tabela 8: Histórico de versão </h6>
+<h6 align = "center"> Fonte: Milena </h6>

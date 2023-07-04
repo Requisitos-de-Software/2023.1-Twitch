@@ -57,7 +57,7 @@ O Rich Picture analisado está conforme as diretrizes e estrutura exigidas. Os �
 ## 5. Referências
 >SALES, André. Rich Picture. Disponível em:https://www.youtube.com/watch?v=NxEPxW_Ku8M. Acesso em: 14 de junho de 2023.
 
-## 6. Histórico de Versões
+## 6. Histórico de Versão
 
 A Tabela seguinte registra o histórico de versão desse documento.
 
@@ -65,6 +65,6 @@ A Tabela seguinte registra o histórico de versão desse documento.
 |:---: | :---: | :---: | :---: | :---: |
 |14.06.2023| 1.0 | Primeiro versão do checklist sobre o Rich Picture produzido pelo grupo 01| Milena Aires | Matheus |
 
-<h6 align = "center"> Tabela 3: Histórico de Versões
+<h6 align = "center"> Tabela 3: Histórico de Versão
 <br> Autor(es): Milena Aires
 <br>Fonte: Autor(es)</h6>
