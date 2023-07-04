@@ -186,6 +186,7 @@ A Tabela 2 registra o histórico de versão desse documento.
 | 23/05/2023 | 1.2 | Adicão do final da metodologia e imagens | Matheus | Diógenes |
 | 23/05/2023 | 1.3 | Adicão de títulos do NFR Framework (Confiabilidade, Usabilidade etc) | Diógenes | Matheus |
 | 23/05/2023 | 1.4 | Adicão de imagens do NFR Framework | Diógenes, Matheus | Matheus |
+| 04/07/2023 | 2.0 | Ajustes de hyperlink | Rafael | Diógenes |
 
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
