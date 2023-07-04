@@ -3098,4 +3098,8 @@ O épico de Plataforma é referente a configurações e ajustes que o usuário p
 |  1.0   | 23.05.2023 | Criação do documento                          | Rafael Nobre e Milena | Matheus     |
 |  1.1   | 24.05.2023 | Adição do tema conteúdo e épicos relacionados | Milena                | Rafael      |
 |  1.2   | 24.05.2023 | Adição das tabelas do épicos relacionados     | Milena e Rafael       | Brunna      |
-|  1.3   | 03.07.2023 | Ajustes de tabela                             | Rafael                | Diógenes    |
+|  2.0   | 03.07.2023 | Ajustes de tabela                             | Rafael                | Diógenes    |
+
+<h6 align = "center"> Tabela 4: Histórico de versão
+<br>Autor(es): Rafael
+<br>Fonte: Autor(es)</h6>
