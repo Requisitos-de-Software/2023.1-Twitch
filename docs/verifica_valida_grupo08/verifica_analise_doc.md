@@ -29,7 +29,7 @@ A tabela 1 a seguir apresenta o checklist que orientou a verificação da Análi
 
 
 ## 4. Resultados
-A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 11 questões utilizadas para verificação do artefato Análise documental:
+A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 8 questões utilizadas para verificação do artefato Análise documental:
 
 ![Resultados Análise documental](./imagens/verifica_analise_doc.png)
 
@@ -42,6 +42,13 @@ A análise realizada pelo Grupo 07 a respeito dos artefatos relacionados a Anál
 
 O grupo concluiu com base no checklist criado por eles que o artefato atende as definições conceituais da Análise documental e não é necessário alterações.
 
+## Referências
+> PRESSMAN, Roger S.; 1-MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
+
+>SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2523115/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf.
+
+>Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: http://www.computer.org/web/swebok/v3. p. 38.
+
 ## Histórico de Versões
 
 A Tabela 3 registra o histórico de versão desse documento.
@@ -49,14 +56,8 @@ A Tabela 3 registra o histórico de versão desse documento.
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
 | 21/06/2023| 1.0 | Criação do documento | Ana Beatriz | Matheus Silva |
+| 29/06/2023 | 2.0 | Padronização do documento |  Ana Beatriz  | Matheus Silva|
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
-<br> Autor(es): 
+<br> Autor(es): Ana Beatriz
 <br>Fonte: Autor(es)</h6>
-
-## Referências
-> PRESSMAN, Roger S.; 1-MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
-
->SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2523115/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf.
-
->Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: http://www.computer.org/web/swebok/v3. p. 38.
