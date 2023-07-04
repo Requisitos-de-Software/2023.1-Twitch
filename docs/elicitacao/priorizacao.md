@@ -17,6 +17,8 @@ Essa é uma técnica simples onde basicamente para cada requisito, você deve at
 - Could-Have: São requisitos que agregam valor ao projeto porém não são importantes para a conclusão.
 - Would/ Want/ Won't- Have: São os requisitos que não tem um impacto no projeto, com pouco retorno e em alguns casos não se enquadram no projeto.
 
+Para confecção do artefato foram utilizados os seguintes papéis com o respectivo participante: 
+
 |**Participante**|**Papel**|
 |:--------------:|:-------:|
 | Diógenes | Persona |
