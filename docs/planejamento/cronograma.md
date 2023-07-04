@@ -27,7 +27,7 @@ O ponto de controle 1 tem como foco o planejamento para a execução do projeto,
 | Cronograma | **Início**: 07.04.2023  **Término**: 15.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Ana Beatriz e Milena | Brunna |
 | Metodologia | **Início**: 07.04.2023  **Término**: 15.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Diógenes | Rafael |
 | Rich Picture | **Início**: 07.04.2023  **Término**: 15.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Rafael | Matheus |
-| Gravação e Postagem | **Início**: 17.04.2023  **Término**: 17.04.2023 | - | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | - |
+| Gravação e Postagem | **Início**: 17.04.2023  **Término**: 17.04.2023 | **Início**: 17.04.2023  **Término**: 17.04.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Diógenes |
 
 <h6 align = "center"> Tabela 1: Cronograma planejado do ponto de controle 1 </h6>
 <h6 align = "center"> Fonte: Autor(es) </h6>
@@ -120,11 +120,20 @@ No ponto de controle final deve ser feita uma verificação, correção e refina
 <h6 align = "center"> Tabela 8: Cronograma planejado do ponto de controle final </h6>
 <h6 align = "center"> Fonte: Autor(es) </h6>
 
-## 4. Histórico de versão
+## Referências
+> SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf.
+
+## Histórico de versão
+A Tabela 9 registra o histórico de versão desse documento.
+
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 11.04.2023 | 1.0    | Criação do documento, adição de introdução e criação do template do cronograma |   Milena   |    Brunna     |
 | 15.04.2023 | 1.1    | Adição do cronograma dos pontos de controle 1, 3, 5 e final |   Milena   |    Brunna     |
 | 15.04.2023 | 1.2    | Adição do cronograma dos pontos de controle 2, 3 e 6 |   Ana Beatriz   |    Brunna     |
-| 29.04.2023 | 1.2    | Adição de legendas e fontes nas tabelas |  Milena   |    -    |
+| 29.04.2023 | 1.2    | Adição de legendas e fontes nas tabelas |  Milena   |    Ana Beatriz    |
+| 04/07/2023 | 2.0 | Padronização do documento adição da referência|  Ana Beatriz  | Milena
+
+<h6 align = "center"> Tabela 9: Histórico de Versões
+<br> Autor: Milena </h6>
 
