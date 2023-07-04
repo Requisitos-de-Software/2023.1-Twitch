@@ -17,7 +17,7 @@ O ponto de controle 1 teve como foco o planejamento para a execução do projeto
 | Página Inicial (equipe) e GitHub Pages | **Início**: 07.04.2023  **Término**: 14.04.2023 | **Início**: -  **Término**: - | Matheus | - |
 | Ferramentas do Projeto | **Início**: 07.04.2023  **Término**: 14.04.2023 | **Início**: 16.04.2023  **Término**: 20.04.2023 | Brunna | Rafael |
 | Cronograma | **Início**: 07.04.2023  **Término**: 15.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Ana Beatriz e Milena | Brunna |
-| Metodologia | **Início**: 07.04.2023  **Término**: 14.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Diógenes | - |
+| Metodologia | **Início**: 07.04.2023  **Término**: 14.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Diógenes | Rafael |
 | Rich Picture | **Início**: 07.04.2023  **Término**: 15.04.2023 | **Início**: 16.04.2023  **Término**: 16.04.2023 | Rafael | Matheus |
 | Gravação e Postagem | **Início**: 16.04.2023  **Término**: 16.04.2023 | **Início**: 17.04.2023 **Término**: 17.04.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Milena |
 
