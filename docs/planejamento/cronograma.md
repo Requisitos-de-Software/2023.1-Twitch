@@ -132,7 +132,7 @@ A Tabela 9 registra o histórico de versão desse documento.
 | 15.04.2023 | 1.1    | Adição do cronograma dos pontos de controle 1, 3, 5 e final |   Milena   |    Brunna     |
 | 15.04.2023 | 1.2    | Adição do cronograma dos pontos de controle 2, 3 e 6 |   Ana Beatriz   |    Brunna     |
 | 29.04.2023 | 1.2    | Adição de legendas e fontes nas tabelas |  Milena   |    Ana Beatriz    |
-| 04/07/2023 | 2.0 | Padronização do documento adição da referência|  Ana Beatriz  | Milena
+| 04/07/2023 | 2.0 | Padronização do documento e adição da referência|  Ana Beatriz  | Milena
 
 <h6 align = "center"> Tabela 9: Histórico de Versões
 <br> Autor: Milena </h6>
