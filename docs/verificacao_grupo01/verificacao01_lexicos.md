@@ -56,7 +56,7 @@ Os léxicos foram muito bem contruídos e explicados, com hiperlinks onde relaci
 ## 5. Referências
 >SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf. Acesso em: 14/06/2023.
 
-## 6. Histórico de Versões
+## 6. Histórico de Versão
 
 A Tabela seguinte registra o histórico de versão desse documento.
 
@@ -64,6 +64,6 @@ A Tabela seguinte registra o histórico de versão desse documento.
 |:---: | :---: | :---: | :---: | :---: |
 |14.06.2023| 1.0 | Primeiro versão do checklist sobre o Léxico produzido pelo grupo 01| Milena Aires | Matheus |
 
-<h6 align = "center"> Tabela 3: Histórico de Versões
+<h6 align = "center"> Tabela 3: Histórico de Versão
 <br> Autor(es): Milena Aires
 <br>Fonte: Autor(es)</h6>
