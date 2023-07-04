@@ -17,6 +17,11 @@ Essa é uma técnica simples onde basicamente para cada requisito, você deve at
 - Could-Have: São requisitos que agregam valor ao projeto porém não são importantes para a conclusão.
 - Would/ Want/ Won't- Have: São os requisitos que não tem um impacto no projeto, com pouco retorno e em alguns casos não se enquadram no projeto.
 
+|**Participante**|**Papel**|
+|:--------------:|:-------:|
+| Diógenes | Persona |
+| Milena | Membro da Equipe de Desenvolvimento Ágil |
+
 Para priorização dos requisitos foi montado uma tabela com os requisitos elicitados anteriormente no projeto e sua devida priorização.
 
 |**Identificador**|**Requisito**|**Priorização**|
@@ -287,11 +292,12 @@ A seguir a tabela de priorização foi construída com sua devida prioridade e j
 ## 4. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
-| 1.0 | 30/04/2023 | Criação e adição de priorização MoSCoW | Milena | Diógenes |
-| 1.1 | 30/04/2023 | Adição de priorização First Things First| Diógenes | Milena |
-| 1.2 | 01/05/2023 | Finalização de priorização First Things First| Diógenes | Milena |
-| 1.3 | 17/05/2023 | Adição de priorização Escala de Três Níveis | Milena | Diógenes |
+| 1.0 | 30.04.2023 | Criação e adição de priorização MoSCoW | Milena | Diógenes |
+| 1.1 | 30.04.2023 | Adição de priorização First Things First| Diógenes | Milena |
+| 1.2 | 01.05.2023 | Finalização de priorização First Things First| Diógenes | Milena |
+| 1.3 | 17.05.2023 | Adição de priorização Escala de Três Níveis | Milena | Diógenes |
+| 1.4 | 04.07.2023 | Alterações e melhorias para a entrega do projeto final | Milena | Diógenes |
 
-<h6 align = "center"> Tabela 3: Histórico de Versões
+<h6 align = "center"> Tabela 3: Histórico de Versão
 <br>Autor(es): Diógenes e Milena
 <br>Fonte: Autor(es)</h6>
