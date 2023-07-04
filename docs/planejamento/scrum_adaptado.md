@@ -25,9 +25,10 @@ O Scrum utilizado pelo grupo será de maneira adaptada as necessidades do membro
 ## Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
-| 14.04.2023 | 1.0    | Criação do documento, adição de introdução e adição das metologias utilizadas atualmente | Diógenes   |    -     |
+| 14.04.2023 | 1.0    | Criação do documento, adição de introdução e adição das metologias utilizadas atualmente | Diógenes   |  Rafael  |
 | 20.04.2023 | 1.1    | Edição do documento, separação das metologias e das políticas de contribuição, adição de referências | Diógenes  | Rafael |
 | 25.04.2023 | 1.2    | Edição do documento, retira regras de colaboração, pois foram colocadas em um arquivo separado | Diógenes  | Rafael |
+| 29.05.2023 | 1.3    | Artefato organizado e ajustado para a entrega final | Diógenes  | Rafael |
 
 <h6 align = "center"> Tabela 1: Histórico de Versões
 <br> Autor: Diógenes </h6>
