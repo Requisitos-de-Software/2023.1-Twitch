@@ -5,11 +5,11 @@
 Esse artefato consiste na síntese de tudo o que foi produzido e realizado durante a disciplina de Requisitos de Software, no semestre de 2023.1.
 
 ## 2. Aplicativo Selecionado
-É possível conferir as motivações para escolha do aplicativo e seus termos de uso [nesse link](./index.md).
+É possível conferir as motivações para escolha do aplicativo e seus termos de uso [nesse link](../../index/).
 
 ## 3. Planejamento dos recursos e entregas
-É possível conferir o cronograma planejado para o semestre da disciplina [nesse link](./planejamento/cronograma.md).
-É possível conferir o cronograma executado ao longo do semestre [nesse link](./planejamento/cronograma_realizado.md).
+É possível conferir o cronograma planejado para o semestre da disciplina [nesse link](../../planejamento/cronograma/).
+É possível conferir o cronograma executado ao longo do semestre [nesse link](../../planejamento/cronograma_realizado/).
 
 Durante o processo de planejamento e execução, foram descobertas algumas discrepâncias entre o que foi originalmente planejado e o que foi realmente executado. Essas variações envolvem expectativas e atrasos relacionados aos prazos estabelecidos, bem como mudanças nos integrantes responsáveis ​​pela revisão. Mudaças de revisor ocorreram pois revisava quem estava livre no momento em que um Pull Request fosse criado.
  
@@ -42,11 +42,11 @@ Durante o processo de planejamento e execução, foram descobertas algumas discr
 | Backlogs | **Início**: 20.05.2023 **Término**: 22.05.2023 | **Início**: 23.05.2023  **Término**: 24.05.2023 | **Início**: 22.05.2023  **Término**: 22.05.2023 | **Início**: 24.05.2023  **Término**: 24.05.2023 | Milena e Rafael | Rafael Nobre e Milena | Diógenes e Matheus | Brunna, Matheus e Rafael  |
 | NFR Framework | **Início**: 18.05.2023 **Término**: 22.05.2023 |  **Início**: 23.05.2023  **Término**: 23.05.2023 | **Início**: 22.05.2023  **Término**: 22.04.2023 | **Início**: 23.05.2023  **Término**: 23.05.2023 | Diógenes e Matheus | Diógenes e Matheus | Ana Beatriz e Brunna | Diógenes e Matheus|
 | Gravação e Postagem | **Início**: 23.05.2023  **Término**: 23.05.2023 | **Início**: 24.05.2023  **Término**: 24.05.2023 | **Início**: 24.05.2023  **Término**: 24.05.2023 | **Início**: 24.05.2023  **Término**: 24.05.2023| Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Rafael | Matheus |
-|**Ponto de controle 5**.1|||||||||
+|**Ponto de controle 5.1**|||||||||
 | Artefato | Elaboração Planejada| Elaboração Realizada| Revisão Planejada|  Revisão Realizada| Autor(es) Planejado |  Autor(es) Realizado | Revisor Planejado | Revisor Realizado|
 | Verificação e Validação | **Início**: 25.05.2023  **Término**: 02.06.2023  |  **Início**: 25.05.2023  **Término**: 14.06.2023  | **Início**: 03.06.2023  **Término**: 04.06.2023  |  **Início**: 14.06.2023  **Término**: 14.06.2023  | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael  | Rafael | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael  |
 | Gravação e Postagem | **Início**: 05.06.2023  **Término**: 05.06.2023 | 14.06.2023  **Término**: 14.06.2023| **Início**: 06.06.2023  **Término**: 07.06.2023 |  **Início**: 14.06.2023  **Término**: 14.06.2023  | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael |  Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Milena | Rafael |
-|**Ponto de controle 5**.2|||||||||
+|**Ponto de controle 5.2**|||||||||
 | Artefato | Elaboração Planejada| Elaboração Realizada| Revisão Planejada|  Revisão Realizada| Autor(es) Planejado |  Autor(es) Realizado | Revisor Planejado | Revisor Realizado|
 | Verificação e Validação | **Início**: 08.06.2023 **Término**: 09.06.2023 | **Início**: 15.06.2023  **Término**: 21.06.2023  | **Início**: 10.06.2023  **Término**: 11.06.2023 | **Início**: 21.06.2023 **Término**: 21.06.2023  | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael |  Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Ana Beatriz |  Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael |
 | Gravação e Postagem | **Início**: 12.06.2023  **Término**: 12.06.2023 | **Início**: 21.06.2023  **Término**: 21.06.2023 | **Início**: 13.06.2023  **Término**: 14.06.2023 | **Início**: 21.06.2023  **Término**: 21.06.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael |  Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Brunna | Diógenes |
@@ -56,7 +56,7 @@ Durante o processo de planejamento e execução, foram descobertas algumas discr
 | Forward From | **Início**: 15.06.2023 **Término**: 18.06.2023 | **Início**: 26.06.2023 **Término**: 05.07.2023 | **Início**: 18.06.2023  **Término**: 18.06.2023 | **Início**: 05.07.2023 **Término**: 05.07.2023 | Matheus e Brunna |  Matheus e Brunna | Diógenes e Matheus | Matheus e Brunna |
 | Matriz Geral | **Início**: 15.06.2023 **Término**: 18.06.2023 | **Início**: 28.06.2023 **Término**: 28.06.2023 | **Início**: 18.06.2023  **Término**: 18.06.2023 | **Início**: 28.06.2023 **Término**: 28.06.2023 | Ana Beatriz e Rafael | Ana Beatriz e Rafael | Diógenes e Milena | Ana Beatriz e Matheus |
 | Gravação e Postagem | **Início**: 19.06.2023  **Término**: 19.06.2023 | | **Início**: 20.06.2023  **Término**: 20.06.2023 | | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael |  Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Ana Beatriz | Diógenes |
-|**Ponto de controle f**inal|||||||||
+|**Ponto de controle final**|||||||||
 | Artefato | Elaboração Planejada| Elaboração Realizada| Revisão Planejada|  Revisão Realizada| Autor(es) Planejado |  Autor(es) Realizado | Revisor Planejado | Revisor Realizado|
 | Verificação, correção e refinamento | **Início**: 22.06.2023 **Término**: 30.06.2023 | | **Início**: 01.07.2023  **Término**: 02.07.2023  | | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael |  Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Diógenes |  Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael |
 | Gravação e Postagem | **Início**: 03.07.2023  **Término**: 03.07.2023 | **Início**: 05.07.2023  **Término**: 05.07.2023 | **Início**: 04.07.2023  **Término**: 05.07.2023 | **Início**: 05.07.2023  **Término**: 05.07.2023 | Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael |  Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Matheus | Diógenes|
@@ -104,9 +104,9 @@ A sexta e última fase caracterizou-se pela realização de artefatos de pós-ra
 
 Na tabela 3 abaixo, o leitor poderá conferir de forma numérica o que foi produzido no decorrer do projeto:
 
-| Artefatos Produzidos | Técnicas de Elicitação | Técnicas de Priorização | Técnicas de Modelagem | Pontos de Controle |
-| ---- | ---- | ---- | ---- | ---- |
-| 64 artefatos | 3 técnicas de elicitação | 3 técnicas de priorização | 7 técnicas de Modelagem | 7 pontos de controle |
+| Artefatos Produzidos | Técnicas de Elicitação | Técnicas de Priorização | Técnicas de Modelagem | Pontos de Controle | Atas de Reunião |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 64 artefatos | 3 técnicas de elicitação | 3 técnicas de priorização | 7 técnicas de Modelagem | 7 pontos de controle | 8 atas de reunião |
 <h6 align = "center"> Tabela 3: O que foi produzido e o que foi utilizado, em números.
 <br> Autor: Brunna Louise
 <br>Fonte: Autores</h6>
@@ -118,7 +118,7 @@ Dentre os desafios encontrados pela equipe, destacaram-se:
 - Cansaço em geral proporcionado, principalmente, pelos semestres atípicos durante e após a pandemia de Covid-19;
 - Conciliação de horários para reuniões e desenvolvimento pareado do projeto;
 - Prazos de entrega dos artefatos e apresentações gravadas;
-- Da quarta entrega em diante, a equipe não recebeu mais feedbacks a respeito do andamento do projeto. Isso deixou os membros inseguros quanto à qualidade e à conformidade de seus projetos.
+- Na quarta entrega e nas seguintes, a equipe não recebeu mais feedbacks a respeito do andamento do projeto. Isso deixou os membros inseguros quanto à qualidade e à conformidade de seus projetos.
 
 ### 5.4. Conclusão
 
@@ -232,13 +232,26 @@ Conclui-se que a disciplina foi muito proveitosa para os membros e os artefatos 
 | [Prototipação](../../verifica_valida_grupo08/validacao#3-prototipacao/) | Matheus Silva | Rafael Nobre | Foi utilizada para que o usuário possa ter um protótipo da proposta dos requisitos elicitados que não foram implementados |
 | [Validação Informal](../../verifica_valida_grupo08/validacao#22-comprovacao-informal/) | Rafael Nobre | Matheus Silva | Foi utilizada para validar nossos artefatos, enviando uma mensagem para a equipe da Twitch, a fim de compreender e receber feedbacks a respeito do nosso projeto.  |
 | **Pós Rastreabilidade** | - | - |
+| [Backward From](../../pos_rastreabilidade/backward_from/) | Diógenes e Milena | Milena e Diógenes |
+| [Forward From](../../pos_rastreabilidade/forward_from/) | Brunna e Matheus | Matheus e Brunna |
+| [Matriz de Rastreablidade](../../pos_rastreabilidade/matriz_rastreabilidade/) | Ana Beatriz e Rafael | Rafael e Ana Beatriz |
+| **Atas de Reunião** | - | - |
+| [Reunião 1](../../atas/reuniao_1/) | Milena  | Rafael |
+| [Reunião 2](../../atas/reuniao_2/) | Milena | Rafael |
+| [Reunião 3](../../atas/reuniao_3/) | Milena | Rafael |
+| [Reunião 4](../../atas/reuniao_4/) | Rafael | Milena |
+| [Reunião 5](../../atas/reuniao_5/) | Rafael | Brunna |
+| [Reunião 6](../../atas/reuniao_6/) | Matheus | Diógenes |
+| [Reunião 7](../../atas/reuniao_7/) | Matheus | Diógenes |
+| [Reunião 8](../../atas/reuniao_8/) | Matheus | Diógenes |
+| [**Apresentações**](../../apresentacoes/) | Diógenes | Rafael |
+| [**Regras de Colaboração**](../../colab/) | Ana Beatriz | Matheus |
 
 <h6 align = "center"> Tabela 5: Síntese dos artefatos produzidos.
 <br> Autor: Milena Aires
 <br>Fonte: Autores</h6>
 
 
- 
 ## 8. Síntese do método de verificação e validação
 
 ### 8.1. Tabela da Verificação
@@ -329,6 +342,7 @@ Na parte de verificação foi feito um planejamento de um modelo a se seguir par
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 04.07.2023 | 1.0    | Criação do documento e do template do artefato do Projeto Final |   Brunna   |   Diógenes Dantas    |
+| 05.07.2023 | 1.1 | Confecção das tabelas para entrega final |Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Milena |
 
 <h6 align = "center"> Tabela 10: Histórico de Versões
 <br>Autor(es): Brunna Louise
