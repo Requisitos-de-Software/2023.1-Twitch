@@ -34,4 +34,4 @@ Realizada com o propósito de preparar ajustes a serem feitos após a segunda ap
 ## 5. Histórico de versão
 |    Data    | Versão | Descrição                                       | Autor(es)  | Revisor  |
 | :--------: | :----: | :---------------------------------------------: | :--------: | :------: |
-| 08.05.2023 | 1.0    | Criação do documento e adição da ata de reunião |   Matheus   |   |
+| 08.05.2023 | 1.0    | Criação do documento e adição da ata de reunião |   Matheus   | Diógenes  |

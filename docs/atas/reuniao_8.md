@@ -23,4 +23,4 @@ Realizada com o propósito de preparar ajustes a serem feitos após o ponto de e
 ## 5. Histórico de versão
 |    Data    | Versão | Descrição                                       | Autor(es)  | Revisor  |
 | :--------: | :----: | :---------------------------------------------: | :--------: | :------: |
-| 31.05.2023 | 1.0    | Criação do documento e adição da ata de reunião |   Matheus   |   |
+| 31.05.2023 | 1.0    | Criação do documento e adição da ata de reunião |   Matheus   |  Diógenes |
