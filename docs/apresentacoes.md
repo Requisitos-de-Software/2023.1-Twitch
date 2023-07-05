@@ -41,17 +41,17 @@ No ponto de controle 7, o objetivo da equipe foi realizar a etapa de pós-rastre
 ## 3. Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
-| 16.04.2023 | 1.0    | Criação do documento, adição de introdução e criação do template do documento de Apresentações |   Brunna   |    -     |
+| 16.04.2023 | 1.0    | Criação do documento, adição de introdução e criação do template do documento de Apresentações |   Brunna   |    Diógenes     |
 | 16.04.2023 | 1.1    | Adição do link "Não listado" da apresentacão no Youtube do Ponto de Controle 1 |   Diógenes   |    Rafael   |
 | 17.04.2023 | 1.2    | Adição de especificação do ponto de controle 1 e iframe| Milena | Diógenes | 
 | 17.04.2023 | 1.3    | Adição do link da apresentação no iframe | Diógenes | Brunna | 
-| 17.04.2023 | 1.3    | Correção de bugs no iFrame | Brunna | - | 
+| 17.04.2023 | 1.3    | Correção de bugs no iFrame | Brunna | Diógenes | 
 | 01.05.2023 | 1.4    | Adição do link da apresentação 2 no iframe e Ponto de Controle 2 | Diógenes | Matheus | 
 | 17.05.2023 | 1.5    | Adição do link da apresentação 3 no iframe e Ponto de Controle 3 | Diógenes | Matheus |
 | 24.05.2023 | 1.6    | Adição do link da apresentação 4 no iframe e Ponto de Controle 4 | Diógenes | Matheus |
 | 14.06.2023 | 1.7    | Adição do link da apresentação 5 no iframe e Ponto de Controle 5 | Diógenes | Rafael |
 | 21.06.2023 | 1.8    | Adição do link da apresentação 6 no iframe e Ponto de Controle 6 | Rafael | Diógenes |
-| 28.06.2023 | 1.8    | Adição do link da apresentação 7 no iframe e Ponto de Controle 6 | Rafael | Diógenes |
+| 28.06.2023 | 1.9    | Adição do link da apresentação 7 no iframe e Ponto de Controle 6 | Rafael | Diógenes |
 
 <h6 align = "center"> Tabela 1: Histórico de Versões
 <br>Autor(es): Diógenes
