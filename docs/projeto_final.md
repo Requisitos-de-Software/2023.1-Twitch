@@ -6,7 +6,8 @@
 É possível conferir as motivações para escolha do aplicativo e seus termos de uso [nesse link](./index.md).
 
 ## 3. Planejamento dos recursos e entregas (cronograma planejado e executado)
-
+É possível conferir o cronograma planejado para o semestre da disciplina [nesse link](./planejamento/cronograma.md).
+É possível conferir o cronograma executado ao longo do semestre [nesse link](./planejamento/cronograma_realizado.md).
 
 ## 4. Execução do projeto (fases/etapas desenvolvidas no projeto)
 
