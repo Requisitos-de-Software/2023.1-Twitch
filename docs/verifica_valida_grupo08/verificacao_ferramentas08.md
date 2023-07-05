@@ -50,8 +50,8 @@ A imagem 1 a seguir apresenta um gráfico de pizza apresentando os resultados co
 ## Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
-| 20.06.2023 | 1.0    | Primeira Versão do artefato de Verificação de Ferramentas |   Brunna  | Rafael |
-| 03.07.2023 | 2.0    | Versão Final do artefato de Verificação de Ferramentas: padronização |   Brunna   | -  |
+| 20.06.2023 | 1.0    | Primeira Versão do artefato de Verificação de Ferramentas |   Brunna Louise | Rafael Nobre |
+| 03.07.2023 | 2.0    | Versão Final do artefato de Verificação de Ferramentas: padronização |   Brunna Louise   | Rafael Nobre |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Brunna Louise </h6>

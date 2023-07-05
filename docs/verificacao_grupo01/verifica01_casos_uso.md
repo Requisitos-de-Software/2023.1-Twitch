@@ -61,7 +61,7 @@ A imagem 1 a seguir apresenta um gráfico de pizza apresentando os resultados, a
 ## Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
-| 13.06.2023 | 1.0    | Inspeção do artefato de casos de uso |   Rafael   | Bruna  |
+| 13.06.2023 | 1.0    | Inspeção do artefato de casos de uso |   Rafael Nobre | Brunna Louise  |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Rafael Nobre </h6>

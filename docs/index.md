@@ -40,8 +40,8 @@ Portanto, a escolha do Twitch como objeto de estudo para uma matéria sobre requ
 ## 3. Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
-| 14.04.2023 | 1.0    | Criação do documento, adição de descrição e membros do grupo |   Matheus   |    -     |
-| 23.04.2023 | 1.1    | Critérios de escolha do app |   Matheus   |    -     |
-| 23.04.2023 | 1.2    | Termos de uso |   Matheus   |    -     |
-| 01.05.2023 | 1.2    | Formatação e legenda de tabela |   Matheus   |    -     |
+| 14.04.2023 | 1.0    | Criação do documento, adição de descrição e membros do grupo |   Matheus   |   Rafael  |
+| 23.04.2023 | 1.1    | Critérios de escolha do app |   Matheus   |    Rafael    |
+| 23.04.2023 | 1.2    | Termos de uso |   Matheus   |    Rafael  |
+| 01.05.2023 | 1.2    | Formatação e legenda de tabela |   Matheus   |    Rafael     |
 

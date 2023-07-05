@@ -60,7 +60,7 @@ A Tabela seguinte registra o histórico de versão desse documento.
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
-|14.06.2023| 1.0 | Primeiro versão do checklist sobre o NFR Framework produzido pelo grupo 01| Milena Aires | Matheus |
+|14.06.2023| 1.0 | Primeiro versão do checklist sobre o NFR Framework produzido pelo grupo 01| Milena Aires | Matheus Silva |
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor(es): Milena Aires

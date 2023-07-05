@@ -62,7 +62,7 @@ A Tabela abaixo registra o histórico de versão desse documento.
 
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
-| 14.06.2023 | 1.0 | Criação do artefato de verificação de Cenários do Grupo 2 | Matheus | Milena |
+| 14.06.2023 | 1.0 | Criação do artefato de verificação de Cenários do Grupo 2 | Matheus Silva | Milena Aires |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor(es): Matheus

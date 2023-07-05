@@ -54,7 +54,7 @@ A imagem 1 a seguir apresenta um gráfico de pizza apresentando os resultados, a
 ## Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
-| 21.06.2023 | 1.0    | Inspeção do artefato de Cenários|   Rafael Nobre   | Mateus |
+| 21.06.2023 | 1.0    | Inspeção do artefato de Cenários|   Rafael Nobre   | Matheus |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Rafael Nobre</h6>
