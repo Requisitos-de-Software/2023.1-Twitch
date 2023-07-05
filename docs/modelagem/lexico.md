@@ -374,9 +374,9 @@ Léxico | Sinônimo |  Noção  |  Impacto | Classificação |
 
 | Versão |    Data    |                   Descrição                   |    Autor     | Revisor |
 | :----: | :--------: | :-------------------------------------------: | :----------: | :-----: |
-|  1.0   | 10/05/2023 | Criação do documento com todas as informações | Matheus Phillipo | - |
-|  1.1   | 04/06/2023 | Especificação de usuário e ligação entre léxicos com hyperlinks| Matheus Phillipo | - |
-|  2.0   | 04/07/2023 | Versão final do artefato | Matheus Phillipo | - |
+|  1.0   | 10/05/2023 | Criação do documento com todas as informações | Matheus Phillipo | Diógenes |
+|  1.1   | 04/06/2023 | Especificação de usuário e ligação entre léxicos com hyperlinks| Matheus Phillipo | Diógenes |
+|  2.0   | 04/07/2023 | Versão final do artefato | Matheus Phillipo | Diógenes |
 
 <h6 align = "center"> Tabela 35: Histórico de Versão
 <br>Autor(es): Matheus
