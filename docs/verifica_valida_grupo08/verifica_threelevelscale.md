@@ -24,7 +24,7 @@ A tabela 1 a seguir apresenta o checklist que orientou a verificação desse art
 | 10 | O documento possui as técnicas de elicitação dos requisitos priorizados utilizados no Three Level Scale | Completo |
 
 <h6 align = "center"> Tabela 1: Checklist para Verificação do Three Level Scale
-<br> Autor(es): Matheus SUkva
+<br> Autor(es): Matheus Phillipo
 <br>Fonte: Autor(es)</h6>
 
 
@@ -33,10 +33,10 @@ A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 
 
 ![Resultados Three-Level Scale](./imagens/resultado_threelevelscale.png)
 <h6 align = "center"> Imagem 1: Resultados da Verificação do Three Level Scale
-<br> Autor(es): Matheus Silva
+<br> Autor(es): Matheus Phillipo
 <br>Fonte: Autor(es)</h6>
 
-## Referências
+## 5. Referências
 
 >SALES, André. Tabela utilizada para análise dos grupos. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 13 de junho de 2023.
 
@@ -44,13 +44,14 @@ A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 
 
 
 
-## Histórico de Versões
+## 6. Histórico de Versões
 
 A Tabela 2 registra o histórico de versão desse documento.
 
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
-| 20.06.2023 | 1.0    | Criação do documento de verificação do método de priorização Three Leval Scale |  Matheus Silva  | Diógenes Dantas |
+| 20.06.2023 | 1.0    | Criação do documento de verificação do método de priorização Three Leval Scale |  Matheus Phillipo  | Diógenes Dantas |
+| 04.07.2023 | 2.0    | Versão Final do artefato |  Matheus Phillipo  | Diógenes Dantas |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor(es): Matheus Silva

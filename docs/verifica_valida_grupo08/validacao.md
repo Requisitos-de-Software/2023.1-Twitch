@@ -10,13 +10,13 @@
 ### 2.1 Prototipação
 <p align="justify">&emsp;&emsp;Entre as diversas formas de realizar a validação, a equipe utilizou, primariamente a prototipação.</p>
 
-<p align="justify">&emsp;&emsp;Ao analisarmos todo o material desenvolvido encontramos as seguintes funcionalidades como ainda não implementadas no aplicativo:</p>
+<p align="justify">&emsp;&emsp;Ao analisarmos todo o material desenvolvido até o dia 21/06/2023, encontramos as seguintes funcionalidades como ainda não implementadas no aplicativo:</p>
 
-- **[OBS09](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao/)** Ao acessar "Ajuste de Conteúdo", o [usuário](https://requisitos-de-software.github.io/2023.1-Twitch/modelagem/lexico/#l02-usuario-comum) deve ter a opção de selecionar se deseja receber sugestões de conteúdos categorizados para adultos
+- **[OBS09](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao#OBS09)** Ao acessar "Ajuste de Conteúdo", o [usuário](https://requisitos-de-software.github.io/2023.1-Twitch/modelagem/lexico/#l02-usuario-comum) deve ter a opção de selecionar se deseja receber sugestões de conteúdos categorizados para adultos
 
-- **[OBS10](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao/)** A plataforma deve colocar um [efeito Blur](https://requisitos-de-software.github.io/2023.1-Twitch/modelagem/lexico/#l32-efeito-blur) nos [Thumbnails](https://requisitos-de-software.github.io/2023.1-Twitch/modelagem/lexico/#l23-thumbnail) para cada conteúdo categorizado como adulto e/ou 18+
+- **[OBS10](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao#OBS10)** A plataforma deve colocar um [efeito Blur](https://requisitos-de-software.github.io/2023.1-Twitch/modelagem/lexico/#l32-efeito-blur) nos [Thumbnails](https://requisitos-de-software.github.io/2023.1-Twitch/modelagem/lexico/#l23-thumbnail) para cada conteúdo categorizado como adulto e/ou 18+
 
-- **[OBS11](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao/)** A plataforma deve colocar uma [etapa de confirmação](https://requisitos-de-software.github.io/2023.1-Twitch/modelagem/lexico/#l28-confirmacao-de-conteudos-18), perguntado se o usuário deseja visualizar o conteúdo categorizado como adulto ou 18+
+- **[OBS11](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao#OBS11)** A plataforma deve colocar uma [etapa de confirmação](https://requisitos-de-software.github.io/2023.1-Twitch/modelagem/lexico/#l28-confirmacao-de-conteudos-18), perguntado se o usuário deseja visualizar o conteúdo categorizado como adulto ou 18+
 
 <p align="justify">&emsp;&emsp;A partir destes resquisitos, foram deselvolvidos protótipos correspondentes a essas funcionalidades.</p>
 
@@ -26,19 +26,21 @@
 
 ### 2.2 Comprovação Informal
 
-Utilizamos da comprovação informal para validar nossos artefatos, enviando uma mensagem para a equipe da Twitch, a fim de compreender e receber feedbacks a respeito do nosso projeto. 
+<p align="justify">
+Utilizamos da comprovação informal para validar nossos artefatos, enviando uma mensagem para a equipe da Twitch, a fim de compreender e receber feedbacks a respeito do nosso projeto.
+</p> 
 
 ![Validação informal](valid_informal.png)
 <h6 align = "center"> Imagem 1: Validação informal
 <br> Autor(es): Rafael Nobre
 <br>Fonte: Autor(es)</h6>
 
-Até o dia 21/06/2023, não obtemos resposta.
+Até o dia 04/07/2023, não se obteve resposta.
 ## 3. Prototipação
 
 ### 3.1 OBS09 - Ao acessar "Ajuste de Conteúdo", o usuário deve ter a opção de selecionar se deseja receber sugestões de conteúdos categorizados para adultos
 
-A figura abaixo mostra a prototipação realizada acerca do requisito funcional com ID **[OBS09](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao/)**. Note que foi colocado um checkbox no final do pop up, sugerindo ao usuário com uma pergunta se ele deseja receber sugestões de conteúdos categorizados para adultos.
+A figura abaixo mostra a prototipação realizada acerca do requisito funcional com ID **[OBS09](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao#OBS09)**. Note que foi colocado um checkbox no final do pop up, sugerindo ao usuário com uma pergunta se ele deseja receber sugestões de conteúdos categorizados para adultos.
 
 ![image](./imagens/sugestao_conteudo.png)
 
@@ -48,7 +50,7 @@ A figura abaixo mostra a prototipação realizada acerca do requisito funcional 
 
 ### 3.2 OBS10 - A plataforma deve colocar um efeito Blur nos Thumbnails para cada conteúdo categorizado como adulto e/ou 18+.
 
-A figura abaixo mostra a prototipação realizada acerca do requisito funcional com ID **[OBS10](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao/)**. Note que há alguns Thumbanils com o efeito Blur para esses tipos de conteúdos.
+A figura abaixo mostra a prototipação realizada acerca do requisito funcional com ID **[OBS10](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao#OBS10)**. Note que há alguns Thumbanils com o efeito Blur para esses tipos de conteúdos.
 
 ![image](./imagens/efeito_blur.png)
 
@@ -56,9 +58,9 @@ A figura abaixo mostra a prototipação realizada acerca do requisito funcional 
 <br> Autor(es): Matheus Silva
 <br>Fonte: Autor(es)</h6>
 
-### 3.3 OBS11 - A plataforma deve colocar uma etapa de confirmação, perguntado se o usuário deseja visualizar o conteúdo categorizado como adulto ou 18+.
+### 3.3 OBS11 - A plataforma deve colocar uma etapa de confirmação, perguntado se o usuário deseja visualizar o conteúdo categorizado como adulto ou 18+.*
 
-A figura abaixo mostra a prototipação realizada acerca do requisito funcional com ID **[OBS11](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao/)**. Note que no local do videoplayer, está a etapa de confirmação para a pessoa continuar assistindo aquela live, sem deixar com que o usuário visualize o que está sendo transmitido sem a confirmação dele.
+A figura abaixo mostra a prototipação realizada acerca do requisito funcional com ID **[OBS11](https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao#OBS11)**. Note que no local do videoplayer, está a etapa de confirmação para a pessoa continuar assistindo aquela live, sem deixar com que o usuário visualize o que está sendo transmitido sem a confirmação dele.
 
 ![image](./imagens/confirmacao_conteudo.png)
 
@@ -66,10 +68,9 @@ A figura abaixo mostra a prototipação realizada acerca do requisito funcional 
 <br> Autor(es): Matheus Silva
 <br>Fonte: Autor(es)</h6>
 
-## 4. Comprovação Informal 
+* No dia 04/07/2023, foi identificado a implementação desse requisito podendo ser verificado no artefato de [Forward From](../pos_rastreabilidade/forward_from.md), a partir da versão 2.0
 
-
-## 5. Referências
+## 4. Referências
 
 > - Milene Serrano, Requisitos - Aula 23. Acesso em: 14 de agosto de 2022. Disponível em: Aprender3.
 > - Jacinta Pereira e  Rossana Andrade, Processos de Engenharia de
@@ -82,6 +83,7 @@ Requisitos](http://disciplinas.lia.ufc.br/engsof081/arquivos/ProcessosEngRequisi
 | 21/06/2023 | 1.0 | Criação de template para artefato de validação | Matheus Silva | Rafael Nobre |
 | 21/06/2023 | 1.1 | Introdução, metodologia e artefatos de prototipação | Matheus Silva | Rafael Nobre |
 | 21/06/2023 | 1.2 | Inserção da validação informal | Rafael Nobre | Matheus Silva |
+| 04/07/2023 | 2.0 | Versão final do artefato | Matheus Silva | Rafael Nobre |
 
 <h6 align = "center"> Tabela 1: Histórico de versão
 <br> Autor(es): Matheus Silva
