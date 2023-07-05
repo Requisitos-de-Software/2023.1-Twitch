@@ -42,22 +42,24 @@ A imagem 1 a seguir apresenta um gráfico de pizza levando em consideração as 
 
 Com base na verificação realizada, o artefato Histórias de Usuário parece estar completo e seguir o checklist fornecido. Ele fornece uma descrição detalhada das histórias de usuário, incluindo critérios de aceitação e prioridades, além de mencionar a metodologia utilizada para sua elicitação.
 
-## Histórico de Versões
-
-A Tabela 3 registra o histórico de versão desse documento.
-
-|**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
-|:---: | :---: | :---: | :---: | :---: |
-| 13/06/2023| 1.0 | Criação do documento | Ana Beatriz | - |
-| 14/06/2023| 1.1 | Adição da introdução e ajuste na metodologia | Ana Beatriz | Matheus Silva |
-
-<h6 align = "center"> Tabela 3: Histórico de Versões
-<br> Autor(es): 
-<br>Fonte: Autor(es)</h6>
-
 ## Referências
 > PRESSMAN, Roger S.; 1-MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
 
 >SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2523115/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 20/05/2023.
 
 >Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: http://www.computer.org/web/swebok/v3. p. 38.
+
+## Histórico de Versões
+
+A Tabela 3 registra o histórico de versão desse documento.
+
+|**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
+|:---: | :---: | :---: | :---: | :---: |
+| 13/06/2023| 1.0 | Criação do documento | Ana Beatriz | Matheus |
+| 14/06/2023| 1.1 | Adição da introdução e ajuste na metodologia | Ana Beatriz | Matheus |
+| 29/06/2023 | 2.0 | Padronização do documento |  Ana Beatriz  | Matheus |
+
+<h6 align = "center"> Tabela 3: Histórico de Versões
+<br> Autor(es): Ana Beatriz
+<br>Fonte: Autor(es)</h6>
+

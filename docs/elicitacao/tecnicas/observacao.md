@@ -28,25 +28,26 @@ A tela e áudio do usuário foram captadas e estão disponíveis abaixo.
 
 | Identificador | Requisitos | Tipo |
 | --------------| ---------- | ---- |
-| OBS01 | O usuário deve ser capaz de consumir conteúdos sem se registrar na plataforma | RNF
-| OBS02 | O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo | RF
-| OBS03 | O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo através de um provedor de email como Gmail, Outlook | RF
-| OBS04 | O usuário deve estar cadastrado e logado para acessar as funcionalidades do sistema, com exceção o acesso aos vídeos  | RNF
-| OBS05 | Ao sair de uma live e voltar para a página de início, o vídeo da live em formato de Thumbnail deve estar pausada ou não existir | RF
-| OBS06 | Para um novo usuário, o sistema de recomendação de Categorias deve mostrar os tipos de conteúdos que estão em alta na plataforma | RF
-| OBS07 | Ao acessar "Ajuste de Conteúdo", no catálogo disponibilizado deverá ter somente a imagem do conteúdo sem um ícone de coração | RNF
-| OBS08 | Ao acessar "Ajuste de Conteúdo", após o usuário selecionar as categorias que lhe interessa. O sistema deve sugerir os tipos de conteúdos voltados a sua escolha na maioria da interface | RF
-| OBS09 | Ao acessar "Ajuste de Conteúdo", o usuário deve ter a opção de selecionar se deseja receber sugestões de conteúdos categorizados para adultos | RF
-| OBS10 | A plataforma deve colocar um efeito Blur nos Thumbnails para cada conteúdo categorizado como adulto ou 18+ | RNF
-| OBS11 | A plataforma deve colocar uma etapa de confirmação, perguntado se o usuário deseja visualizar o conteúdo categorizado como adulto ou 18+| RF
-| OBS12 | A barra de navegação de tipos de conteúdos deve aparecer na tela de início, mesmo estando logado  | RNF
-| OBS13 | Na Barra de navegação de tipos de conteúdos deve ser adicionado o tipo Artes e Ciência | RNF
-| OBS14 | A experiência do usuário na questão de sugestões de conteúdo e o tipo de disponibilidade delas deve ser melhor logado na plataforma | RNF
+| <div id="OBS01">OBS01</div> | O usuário deve ser capaz de consumir conteúdos sem se registrar na plataforma | RNF
+| <div id="OBS02">OBS02</div> | O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo | RF
+| <div id="OBS03">OBS03</div> | O usuário deve ser capaz de realizar seu cadastro dentro do aplicativo através de um provedor de email como Gmail, Outlook | RF
+| <div id="OBS04">OBS04</div> | O usuário deve estar cadastrado e logado para acessar as funcionalidades do sistema, com exceção o acesso aos vídeos  | RNF
+| <div id="OBS05">OBS05</div> | Ao sair de uma live e voltar para a página de início, o vídeo da live em formato de Thumbnail deve estar pausada ou não existir | RF
+| <div id="OBS06">OBS06</div> | Para um novo usuário, o sistema de recomendação de Categorias deve mostrar os tipos de conteúdos que estão em alta na plataforma | RF
+| <div id="OBS07">OBS07</div> | Ao acessar "Ajuste de Conteúdo", no catálogo disponibilizado deverá ter somente a imagem do conteúdo sem um ícone de coração | RNF
+| <div id="OBS08">OBS08</div> | Ao acessar "Ajuste de Conteúdo", após o usuário selecionar as categorias que lhe interessa. O sistema deve sugerir os tipos de conteúdos voltados a sua escolha na maioria da interface | RF
+| <div id="OBS09">OBS09</div> | Ao acessar "Ajuste de Conteúdo", o usuário deve ter a opção de selecionar se deseja receber sugestões de conteúdos categorizados para adultos | RF
+| <div id="OBS10">OBS10</div> | A plataforma deve colocar um efeito Blur nos Thumbnails para cada conteúdo categorizado como adulto ou 18+ | RNF
+| <div id="OBS11">OBS11</div> | A plataforma deve colocar uma etapa de confirmação, perguntado se o usuário deseja visualizar o conteúdo categorizado como adulto ou 18+| RF
+| <div id="OBS12">OBS12</div> | A barra de navegação de tipos de conteúdos deve aparecer na tela de início, mesmo estando logado  | RNF
+| <div id="OBS13">OBS13</div> | Na Barra de navegação de tipos de conteúdos deve ser adicionado o tipo Artes e Ciência | RNF
+| <div id="OBS14">OBS14</div> | A experiência do usuário na questão de sugestões de conteúdo e o tipo de disponibilidade delas deve ser melhor logado na plataforma | RNF
 
 </center>
 
-<h6 align = "center"> Tabela 1: Requisitos levantados utilizando a técnica da Observação. </h6>
-<h6 align = "center"> Fonte: Autores </h6>
+<h6 align = "center"> Tabela 1: Requisitos levantados utilizando a técnica da Observação.
+<br>Autor(es): Matheus
+<br>Fonte: Autor(es)</h6>
 
 ## 4. Referências
 
@@ -59,6 +60,7 @@ A tela e áudio do usuário foram captadas e estão disponíveis abaixo.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
 | 1.0 | 30/04/2023 | Criação e desenvolvimento do artefato | Matheus Phillipo | Rafael Nobre |
+| 2.0 | 04/07/2023 | Versão final | Matheus Phillipo | Rafael Nobre |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br>Autor(es): Matheus

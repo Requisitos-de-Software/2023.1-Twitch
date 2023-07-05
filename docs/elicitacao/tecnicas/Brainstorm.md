@@ -119,8 +119,8 @@ A Tabela 3 registra o histórico de versão deste documento
 | 25/04/2023 | 1.1 | Primeiros Requisitos Não Funcionais | Diogenes | Rafael Nobre |
 | 01/05/2023 | 1.2 | Correções de numeração de tabela | Matheus | Diógenes |
 | 21/06/2023 | 1.3 | Correções de acordo com o checklist | Milena | Rafael Nobre |
-| 03/07/2023 | 1.4 | Ajustes finais | Rafael Nobre | - |
-
-<h6 align = "center"> Tabela 3: Histórico de Versões
+| 03/07/2023 | 2.0 | Ajustes finais | Rafael Nobre | Diógenes |
+ 
+<h6 align = "center"> Tabela 4: Histórico de Versões
 <br> Autor: Rafael Nobre
 <br>Fonte: Autor(es)</h6>

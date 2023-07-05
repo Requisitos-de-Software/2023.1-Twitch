@@ -4,7 +4,7 @@
 Esse artefato visa realizar a verificação do artefato de Observação. É importante ressaltar que a versão do artefato que foi verificada é a versão 1.2.
 
 ## 2. Metodologia
-Você pode conferir a metodologia utilizada para a verificação do artefato de observação [nesse link](../planejamento/#2-metodologia).
+Você pode conferir a metodologia utilizada para a verificação do artefato de observação [nesse link](../planejamento/#2-metodologia). Além disso, para esse artefato foi aproveitado o checklist de verificação utilizada no [grupo 1](../verificacao_grupo01/verifica01_observacao.md#3-verificacao).
 
 ## 3. Verificação
 
@@ -38,15 +38,16 @@ A imagem 1 a seguir apresenta um gráfico de pizza apresentando os resultados, a
 <br> Autor(es): Matheus Silva
 <br>Fonte: Autor(es)</h6>
 
-## Referências
+## 6. Referências
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1
 > Reinehr, Sheila. Engenharia de requisitos
 
-## Histórico de versão
+## 7. Histórico de versão
 |    Data    | Versão | Descrição                                                                      | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 20.06.2023 | 1.0    | Inspeção do artefato de Observação |   Matheus   | Diógenes Dantas |
+| 04.07.2023 | 2.0    | Versão final do artefato |   Matheus   | Diógenes Dantas |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Matheus Silva</h6>

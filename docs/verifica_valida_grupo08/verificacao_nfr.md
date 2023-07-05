@@ -57,6 +57,7 @@ A Tabela seguinte registra o histórico de versão desse documento.
 |:---: | :---: | :---: | :---: | :---: |
 |20.06.2023| 1.0 | Primeiro versão do artefato de verificação sobre o NFR Framework| Matheus Silva | Diógenes Dantas |
 |21.06.2023| 1.1 | Correção na referência do artefato verificado| Matheus Silva | Diógenes Dantas |
+|04.07.2023| 2.0 | Versão final do artefato| Matheus Silva | Diógenes Dantas |
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor(es): Matheus Silva

@@ -9,6 +9,7 @@ A metodologia escolhida consiste na utilização de checklists para nortear a ve
 | ID |Questão| Resultado da Verificação |
 | :---: | --- | :---: |
 | Identificação da questão, válida apenas dentro do próprio arquivo | O que está sendo verificado. Pode estar em formato de pergunta ou afirmação.  | Após a verificação, é possível dizer que o grupo cumpriu com a questão ou não? O resultado pode ser Completo, Incompleto, ou Não Realizado.|
+
 <h6 align = "center"> Tabela 1: Checklist para Verificação
 <br> Autor(es): Brunna Louise
 <br>Fonte: Autor(es)</h6>
@@ -21,7 +22,7 @@ Além da checklist produzida pelo próprio grupo, os membros acharam importante 
 
 ## 3. Metodologia da Validação
 
-colocar aqui os bagulhos man
+A metodologia escolhida foi a elaboração da prototipação dos requisitos não implementados e uma comprovação informal, através do email disponibilizado para contato da Twitch. Além disso, foi realizada uma entrevista para validar os protótipos com um dos integrantes do grupo que foi se familiarizando mais com a plataforma durante o decorrer deste trabalho.
 
 ## 4. Participantes
 
@@ -37,25 +38,27 @@ A tabela 2 a seguir registra que membros foram responsáveis por verificar cada 
 | Rafael Nobre | Verificação dos artefatos: Perfis de Usuário, Personas, Cenários; <br> Validação Informal. |
 
 <h6 align = "center"> Tabela 2: Participantes e seus papéis na produção dos artefatos relacionados à Entrega 5.2 - Verificação e Validação do próprio Grupo 
-<br> Autor(es): 
-<br>Fonte: Autor(es)</h6>
-
-## Histórico de Versões
-
-A Tabela 3 registra o histórico de versão desse documento.
-
-|**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
-|:---: | :---: | :---: | :---: | :---: |
-| 20/06/2023 | 1.0 | Criação de template para artefato de planejamento da verificação do próprio grupo | Brunna Louise | Diógenes Dantas |
-
-<h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor(es): Brunna Louise
 <br>Fonte: Autor(es)</h6>
 
-## Referências
+## 5. Referências
 
 >SALES, André. Tabela utilizada para análise dos grupos. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/31/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 13 de junho de 2023.
 
 >SERRANO, Maurício; SERRANO, Milene. Material em Slides produzido para a disciplina de Requisitos de Software.
 
 >Análise realizada pelo Grupo 07, disponível [nesse GitPages](https://requisitos-de-software.github.io/2023.1-Petz/).
+
+## 6. Histórico de Versões
+
+A Tabela 3 registra o histórico de versão desse documento.
+
+|**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
+|:---: | :---: | :---: | :---: | :---: |
+| 20/06/2023 | 1.0 | Criação de template para artefato de planejamento da verificação do próprio grupo | Brunna Louise | Diógenes Dantas |
+| 04/07/2023 | 2.0 | Versão final do artefato | Matheus Phillipo | Brunna Louise |
+
+<h6 align = "center"> Tabela 3: Histórico de Versões
+<br> Autor(es): Brunna Louise
+<br>Fonte: Autor(es)</h6>
+

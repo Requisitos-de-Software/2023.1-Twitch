@@ -52,6 +52,11 @@ A análise realizada pelo Grupo 07 a respeito dos artefatos relacionados ao Back
 
 O grupo apontou pequenos problemas com a padronização do artefato. Já em relação ao conteúdo, disseram que o épico "Plataforma" não agrupa de forma coerente as histórias de usuário, incluindo histórias que tratam de configurações de conta da Twitch. Além disso, segundo o Grupo 7, nenhuma das histórias de usuário apresenta as razões pelas quais um ator utilizaria uma funcionalidade do software, o que não está de acordo com as determinações de metodologias ágeis. Os épicos também foram considerados amplos demais e não apresentam uma ideia geral clara das funcionalidades ou atributos do sistema.
 
+## Referências
+> PRESSMAN, Roger S.; 1-MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
+
+>SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2523115/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf.
+
 ## Histórico de Versões
 
 A Tabela 3 registra o histórico de versão desse documento.
@@ -59,12 +64,9 @@ A Tabela 3 registra o histórico de versão desse documento.
 |**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
 |:---: | :---: | :---: | :---: | :---: |
 | 21/06/2023| 1.0 | Criação do documento | Ana Beatriz | Matheus Silva |
+| 29/06/2023 | 2.0 | Padronização do documento |  Ana Beatriz  | Matheus Silva|
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
-<br> Autor(es): 
+<br> Autor(es): Ana Beatriz
 <br>Fonte: Autor(es)</h6>
 
-## Referências
-> PRESSMAN, Roger S.; 1-MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
-
->SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2523115/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf.
