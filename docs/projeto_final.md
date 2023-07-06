@@ -5,11 +5,11 @@
 Esse artefato consiste na síntese de tudo o que foi produzido e realizado durante a disciplina de Requisitos de Software, no semestre de 2023.1.
 
 ## 2. Aplicativo Selecionado
-É possível conferir as motivações para escolha do aplicativo e seus termos de uso [nesse link](../../index/).
+É possível conferir as motivações para escolha do aplicativo e seus termos de uso [nesse link](../index/).
 
 ## 3. Planejamento dos recursos e entregas
-É possível conferir o cronograma planejado para o semestre da disciplina [nesse link](../../planejamento/cronograma/).
-É possível conferir o cronograma executado ao longo do semestre [nesse link](../../planejamento/cronograma_realizado/).
+É possível conferir o cronograma planejado para o semestre da disciplina [nesse link](../planejamento/cronograma/).
+É possível conferir o cronograma executado ao longo do semestre [nesse link](../planejamento/cronograma_realizado/).
 
 Durante o processo de planejamento e execução, foram descobertas algumas discrepâncias entre o que foi originalmente planejado e o que foi realmente executado. Essas variações envolvem expectativas e atrasos relacionados aos prazos estabelecidos, bem como mudanças nos integrantes responsáveis ​​pela revisão. Mudaças de revisor ocorreram pois revisava quem estava livre no momento em que um Pull Request fosse criado.
  
@@ -133,29 +133,29 @@ Conclui-se que a disciplina foi muito proveitosa para os membros e os artefatos 
 
 |Etapa|Artefato|Técnica|Autor(es)|Revisor(es)|
 |:---:|:------:|:-----:|:---:|:-----:|
-|Pré-Rastreabilidade|[Rich Picture](../../pre_rastreabilidade/rich_picture/)|Rich Picture|Rafael Nobre| Milena e Matheus|
-|Elicitação|[Perfis de Usuário](../../elicitacao/perfis_usuario/)|Questionário|Rafael Nobre e Brunna Louise| Rafael Nobre e Brunna Louise|
-|Elicitação|[Personas](../../elicitacao/personas/)|Questionário|Diógenes e Ana Beatriz|Diógenes e Ana Beatriz|
-|Elicitação|[Brainstorm](../../elicitacao/tecnicas/Brainstorm/)|Brainstorm|Rafael Nobre e Diógenes| Brunna Louise e Rafael Nobre|
-|Elicitação|[Observação](../../elicitacao/tecnicas/observacao/)|Observação|Matheus|Rafael Nobre|
-|Elicitação|[Análise Documental](../../elicitacao/tecnicas/AnaliseDeDocumento/)|Análise de Documento|Matheus|Brunna|
-|Elicitação|[Priorização](../../elicitacao/priorizacao)|MosCow|Milena|Diógenes|
-|Elicitação|[Priorização](../../elicitacao/priorizacao)|First Things First|Diógenes|Milena|
-|Elicitação|[Priorização](../../elicitacao/priorizacao)|Escala de Três Níveis|Milena|Diógenes|
-|Modelagem|[Cenários](../../modelagem/cenarios/)|Cenários|Milena|Matheus|
-|Modelagem|[Léxico](../../modelagem/lexico)|Léxico|Matheus|Diógenes|
-|Modelagem|[Casos de Uso](../../modelagem/usecase/)|Diagrama UML|Diógenes e Brunna|Diógenes e Brunna|
-|Modelagem|[Especificação Suplementar](../../modelagem/esp_suplementar/)|FURPS+|Ana e Rafael|Ana e Rafael|
-|Modelagem|[Histórias de usuário](../../modelagem/user_stories/)|Histórias de usuário|Ana e Brunna|Ana e Brunna|
-|Modelagem|[NFR Framework](../../modelagem/nfr)|NFR-Framework|Diógenes e Matheus|Diógenes e Matheus|
-|Modelagem|[Backlog do Produto](../../modelagem/backlog/)|Backlog do Produto|Rafael Nobre e Milena| Matheus e Rafael|
-|Análise|[Verificação](../../verifica_valida_grupo08/planejamento/)|Inspeção|Todos|Todos|
-|Análise|[Validação](../../verifica_valida_grupo08/validacao/)|Prototipação|Matheus|Rafael Nobre|
-|Análise|[Validação](../../verifica_valida_grupo08/validacao/)|Comprovação Informal|Rafael Nobre|Matheus|
-|Pós Rastreabilidade|[Pós Rastreabilidade](../../pos_rastreabilidade/backward_from/)|Meta-Modelo de Toranzo|Diógenes e Milena| Milena e Diógenes|
-|Pós Rastreabilidade|[Pós Rastreabilidade](../../pos_rastreabilidade/forward_from/)|Forward From|Brunna e Matheus|Matheus e Brunna|
-|Pós Rastreabilidade|[Pós Rastreabilidade](../../pos_rastreabilidade/matriz_rastreabilidade/)|Rafael e Ana| Matheus|
-|Apresentação|[Apresentações](../../apresentacoes/)|Gravações|Todos|Todos|
+|Pré-Rastreabilidade|[Rich Picture](../pre_rastreabilidade/rich_picture/)|Rich Picture|Rafael Nobre| Milena e Matheus|
+|Elicitação|[Perfis de Usuário](../elicitacao/perfis_usuario/)|Questionário|Rafael Nobre e Brunna Louise| Rafael Nobre e Brunna Louise|
+|Elicitação|[Personas](../elicitacao/personas/)|Questionário|Diógenes e Ana Beatriz|Diógenes e Ana Beatriz|
+|Elicitação|[Brainstorm](../elicitacao/tecnicas/Brainstorm/)|Brainstorm|Rafael Nobre e Diógenes| Brunna Louise e Rafael Nobre|
+|Elicitação|[Observação](../elicitacao/tecnicas/observacao/)|Observação|Matheus|Rafael Nobre|
+|Elicitação|[Análise Documental](../elicitacao/tecnicas/AnaliseDeDocumento/)|Análise de Documento|Matheus|Brunna|
+|Elicitação|[Priorização](../elicitacao/priorizacao)|MosCow|Milena|Diógenes|
+|Elicitação|[Priorização](../elicitacao/priorizacao)|First Things First|Diógenes|Milena|
+|Elicitação|[Priorização](../elicitacao/priorizacao)|Escala de Três Níveis|Milena|Diógenes|
+|Modelagem|[Cenários](../modelagem/cenarios/)|Cenários|Milena|Matheus|
+|Modelagem|[Léxico](../modelagem/lexico)|Léxico|Matheus|Diógenes|
+|Modelagem|[Casos de Uso](../modelagem/usecase/)|Diagrama UML|Diógenes e Brunna|Diógenes e Brunna|
+|Modelagem|[Especificação Suplementar](../modelagem/esp_suplementar/)|FURPS+|Ana e Rafael|Ana e Rafael|
+|Modelagem|[Histórias de usuário](../modelagem/user_stories/)|Histórias de usuário|Ana e Brunna|Ana e Brunna|
+|Modelagem|[NFR Framework](../modelagem/nfr)|NFR-Framework|Diógenes e Matheus|Diógenes e Matheus|
+|Modelagem|[Backlog do Produto](../modelagem/backlog/)|Backlog do Produto|Rafael Nobre e Milena| Matheus e Rafael|
+|Análise|[Verificação](../verifica_valida_grupo08/planejamento/)|Inspeção|Todos|Todos|
+|Análise|[Validação](../verifica_valida_grupo08/validacao/)|Prototipação|Matheus|Rafael Nobre|
+|Análise|[Validação](../verifica_valida_grupo08/validacao/)|Comprovação Informal|Rafael Nobre|Matheus|
+|Pós Rastreabilidade|[Pós Rastreabilidade](../pos_rastreabilidade/backward_from/)|Meta-Modelo de Toranzo|Diógenes e Milena| Milena e Diógenes|
+|Pós Rastreabilidade|[Pós Rastreabilidade](../pos_rastreabilidade/forward_from/)|Forward From|Brunna e Matheus|Matheus e Brunna|
+|Pós Rastreabilidade|[Pós Rastreabilidade](../pos_rastreabilidade/matriz_rastreabilidade/)|Rafael e Ana| Matheus|
+|Apresentação|[Apresentações](../apresentacoes/)|Gravações|Todos|Todos|
 <h6 align = "center"> Tabela 4: Síntese das técnicas utilizadas.
 <br> Autor: Rafael Nobre
 <br>Fonte: Autores</h6>
@@ -165,87 +165,87 @@ Conclui-se que a disciplina foi muito proveitosa para os membros e os artefatos 
 
 | Artefato | Autor(es) | Revisor(es) |
 | -------- | --------- | ----------- |
-| [Aplicativo Escolhido](../../) | Matheus | Milena |
+| [Aplicativo Escolhido](../) | Matheus | Milena |
 | **Planejamento** | - | - |
-| [Cronograma](../../planejamento/cronograma/) | Ana Beatriz e Milena | Ana Beatriz, Brunna e Milena |
-| [Cronograma Realizado](../../planejamento/cronograma_realizado/) | Milena | Matheus |
-| [Ferramentas](../..planejamento/ferramentas/) | Brunna | Rafael |
-| [Metodologias](../../planejamento/scrum_adaptado/) | Diógenes | Rafael |
+| [Cronograma](../planejamento/cronograma/) | Ana Beatriz e Milena | Ana Beatriz, Brunna e Milena |
+| [Cronograma Realizado](../planejamento/cronograma_realizado/) | Milena | Matheus |
+| [Ferramentas](..planejamento/ferramentas/) | Brunna | Rafael |
+| [Metodologias](../planejamento/scrum_adaptado/) | Diógenes | Rafael |
 | **Pré-Rastreabilidade** | - | - |
-| [Rich picture](../../pre_rastreabilidade/rich_picture/) | Rafael | Matheus e Milena |
+| [Rich picture](../pre_rastreabilidade/rich_picture/) | Rafael | Matheus e Milena |
 | **Elicitação** | - | - |
-| [Perfis de Usuário](../../elicitacao/perfis_usuario/) | Brunna e Rafael | Brunna e Rafael |
-| [Personas](../../elicitacao/personas/) | Ana Beatriz e Diógenes| Ana Beatriz e Diógenes |
-| [Brainstorm](../../elicitacao/Brainstorm/) | Diógenes e Rafael | Diógenes e Rafael |
-| [Observação](../../elicitacao/observacao/) | Matheus Silva | Rafael Nobre |
-| [Análise Documental](../../elicitacao/AnaliseDeDocumento/) | Matheus Silva | Brunna |
-| [Priorização](../../elicitacao/priorizacao/) | Diógenes e Milena | Diógenes e Milena |
+| [Perfis de Usuário](../elicitacao/perfis_usuario/) | Brunna e Rafael | Brunna e Rafael |
+| [Personas](../elicitacao/personas/) | Ana Beatriz e Diógenes| Ana Beatriz e Diógenes |
+| [Brainstorm](../elicitacao/Brainstorm/) | Diógenes e Rafael | Diógenes e Rafael |
+| [Observação](../elicitacao/observacao/) | Matheus Silva | Rafael Nobre |
+| [Análise Documental](../elicitacao/AnaliseDeDocumento/) | Matheus Silva | Brunna |
+| [Priorização](../elicitacao/priorizacao/) | Diógenes e Milena | Diógenes e Milena |
 | **Modelagem** | - | - |
-| [Cenários](../../modelagem/cenarios/) | Milena | Matheus Silva |
-| [Léxico](../../modelagem/lexico/) | Matheus | Diógenes |
-| [Use Case](../../modelagem/usecase/) | Brunna e Diógenes | Milena e Rafael |
-| [Especificação Suplementar](../../modelagem/esp_suplementar/) | Ana Beatriz e Rafael | Ana Beatriz e Rafael|
-| [User Stories](../../modelagem/user_stories/) | Ana Beatriz e Brunna | Ana Beatriz e Brunna |
-| [NFR Framework](../../modelagem/nfr/) | Diógenes e Matheus | Diógenes e Matheus |
-| [Backlog do produto](../../modelagem/backlog/) | Milena e Rafael | Milena e Rafael |
+| [Cenários](../modelagem/cenarios/) | Milena | Matheus Silva |
+| [Léxico](../modelagem/lexico/) | Matheus | Diógenes |
+| [Use Case](../modelagem/usecase/) | Brunna e Diógenes | Milena e Rafael |
+| [Especificação Suplementar](../modelagem/esp_suplementar/) | Ana Beatriz e Rafael | Ana Beatriz e Rafael|
+| [User Stories](../modelagem/user_stories/) | Ana Beatriz e Brunna | Ana Beatriz e Brunna |
+| [NFR Framework](../modelagem/nfr/) | Diógenes e Matheus | Diógenes e Matheus |
+| [Backlog do produto](../modelagem/backlog/) | Milena e Rafael | Milena e Rafael |
 | **Verificação Grupo 01** | - | - |
-| [Planejamento da Verificação](../../verificacao_grupo01/planejamento/) | Brunna | Diógenes |
-| [Aplicativo Escolhido](../../verificacao_grupo01/verifica01_aplicativo_escolhido/) | Rafael | Diógenes |
-| [Cronograma](../../verificacao_grupo01/verifica01_cronograma/) | Rafael | Brunna |
-| [Rich Picture](../../verificacao_grupo01/verificacao01_richpicture/) | Milena | Matheus |
-| [Perfil de Usuário](../../verificacao_grupo01/verifica01_perfilusuariov/) | Diógenes | Rafael |
-| [Personas](../../verificacao_grupo01/verifica01_personas/) | Brunna | Diógenes |
-| [Introspecção](../../verificacao_grupo01/verifica01_introspeccao/) | Diógenes | Rafael e Milena |
-| [Brainstorming](../../verificacao_grupo01/brainstorm_v/) | Ana Beatriz | Matheus |
-| [Questionário](../../verificacao_grupo01/verificacao01_questionario/) | Milena | Matheus |
-| [Observação](../../verificacao_grupo01/verifica01_observacao/) | Rafael | Diógenes |
-| [Técnica de Priorização $100](../../verificacao_grupo01/verifica01_$100/) | Brunna | Diógenes |
-| [Técnica de Priorização First Thing First](../../verificacao_grupo01/first_v/) | Ana Beatriz | Matheus |
-| [Técnica de Priorização Three Level Scale](../../verificacao_grupo01/verifica01_threelevelscale/) | Diógenes | Brunna |
-| [Especificação Suplementar](../../verificacao_grupo01/verifica01_espsuplementar/) | Brunna | Diógenes |
-| [Cenários](../../verificacao_grupo01/verifica01_cenarios/) |Matheus Silva | Milena Aires |
-| [Léxicos](../../verificacao_grupo01/verificacao01_lexicos/) | Milena Aires | Matheus Silva |
-| [Casos de uso](../../verificacao_grupo01/verifica01_casos_uso/) | Rafael Nobre | Brunna Louise  |
-| [NFR Framework](../../verificacao_grupo01/verificacao01_nfr/) | Milena Aires | Matheus Silva |
-| [Histórias de Usuário](../../verificacao_grupo01/userstory_v/) | Ana Beatriz | Matheus Silva |
-| [Backlog](../../verificacao_grupo01/verifica01_backlog/) | Diógenes | Brunna Louise |
+| [Planejamento da Verificação](../verificacao_grupo01/planejamento/) | Brunna | Diógenes |
+| [Aplicativo Escolhido](../verificacao_grupo01/verifica01_aplicativo_escolhido/) | Rafael | Diógenes |
+| [Cronograma](../verificacao_grupo01/verifica01_cronograma/) | Rafael | Brunna |
+| [Rich Picture](../verificacao_grupo01/verificacao01_richpicture/) | Milena | Matheus |
+| [Perfil de Usuário](../verificacao_grupo01/verifica01_perfilusuariov/) | Diógenes | Rafael |
+| [Personas](../verificacao_grupo01/verifica01_personas/) | Brunna | Diógenes |
+| [Introspecção](../verificacao_grupo01/verifica01_introspeccao/) | Diógenes | Rafael e Milena |
+| [Brainstorming](../verificacao_grupo01/brainstorm_v/) | Ana Beatriz | Matheus |
+| [Questionário](../verificacao_grupo01/verificacao01_questionario/) | Milena | Matheus |
+| [Observação](../verificacao_grupo01/verifica01_observacao/) | Rafael | Diógenes |
+| [Técnica de Priorização $100](../verificacao_grupo01/verifica01_$100/) | Brunna | Diógenes |
+| [Técnica de Priorização First Thing First](../verificacao_grupo01/first_v/) | Ana Beatriz | Matheus |
+| [Técnica de Priorização Three Level Scale](../verificacao_grupo01/verifica01_threelevelscale/) | Diógenes | Brunna |
+| [Especificação Suplementar](../verificacao_grupo01/verifica01_espsuplementar/) | Brunna | Diógenes |
+| [Cenários](../verificacao_grupo01/verifica01_cenarios/) |Matheus Silva | Milena Aires |
+| [Léxicos](../verificacao_grupo01/verificacao01_lexicos/) | Milena Aires | Matheus Silva |
+| [Casos de uso](../verificacao_grupo01/verifica01_casos_uso/) | Rafael Nobre | Brunna Louise  |
+| [NFR Framework](../verificacao_grupo01/verificacao01_nfr/) | Milena Aires | Matheus Silva |
+| [Histórias de Usuário](../verificacao_grupo01/userstory_v/) | Ana Beatriz | Matheus Silva |
+| [Backlog](../verificacao_grupo01/verifica01_backlog/) | Diógenes | Brunna Louise |
 | **Verificação Grupo 08** | - | - |
-| [Planejamento](../../verifica_valida_grupo08/planejamento/) | Brunna Louise | Diógenes |
-| [Verificação Análise Documental](../../verifica_valida_grupo08/verifica_analise_doc/) | Ana Beatriz | Matheus Silva |
-| [Verificação Backlog](../../verifica_valida_grupo08/verifica_backlog/) | Ana Beatriz | Matheus Silva |
-| [Verificação Brainstorm](../../verifica_valida_grupo08/verificacao_brainstorm08/) | Milena Aires | Ana Beatriz |
-| [Verificação Casos de Uso](../../verifica_valida_grupo08/verificacao_usecase08/) | Diógenes  | Rafael Nobre |
-| [Verificação Cenários](../../verifica_valida_grupo08/verificacao_cenarios/) |  Rafael Nobre   | Matheus Silva |
-| [Verificação Cronograma](../../verifica_valida_grupo08/verificacao_cronograma08/) | Brunna Louise   | Rafael Nobre  |
-| [Verificação Especificação Suplementar](../../verifica_valida_grupo08/verificacao_esp_sup/) | Milena Aires | Ana Beatriz |
-| [Verificação First Things First](../../verifica_valida_grupo08/verificacao_ftf/) | Milena Aires | Ana Beatriz |
-| [Verificação Ferramentas](../../verifica_valida_grupo08/verificacao_ferramentas08/) | Brunna Louise   | Rafael Nobre |
-| [Verificação Histórias de Usuário](../../verifica_valida_grupo08/verifica_userstory/) | Ana Beatriz | Matheus Silva |
-| [Verificação Léxicos](../../verifica_valida_grupo08/verificacao_lexicos08/) | Brunna Louise  | Rafael Nobre e Diógenes |
-| [Verificação Moscow](../../verifica_valida_grupo08/verificacao_moscow08/) | Diógenes | Milena |
-| [Verificação NFR Framework](../../verifica_valida_grupo08/verificacao_nfr/) | Matheus Silva | Diógenes |
-| [Verificação Observação](../../verifica_valida_grupo08/verificacao_observacao/) | Matheus Silva | Diógenes |
-| [Verificação Personas](../../verifica_valida_grupo08/verificacao_personas/) |  Rafael Nobre   | Matheus Silva |
-| [Verificação Perfis Usuário](../../verifica_valida_grupo08/verificacao_perfis_usuario/) |  Rafael Nobre   |  Matheus Silva |
-| [Verificação Rich Picture](../../verifica_valida_grupo08/verificacao_richpicture08/) | Diógenes | Rafael Nobre e Matheus Silva |
-| [Verificação Three Level Scale](../../verifica_valida_grupo08/verifica_threelevelscale/) | Matheus Silva  | Diógenes |
-| [Prototipação](../../verifica_valida_grupo08/validacao#3-prototipacao/) | Matheus Silva | Rafael Nobre | Foi utilizada para que o usuário possa ter um protótipo da proposta dos requisitos elicitados que não foram implementados |
-| [Validação Informal](../../verifica_valida_grupo08/validacao#22-comprovacao-informal/) | Rafael Nobre | Matheus Silva | Foi utilizada para validar nossos artefatos, enviando uma mensagem para a equipe da Twitch, a fim de compreender e receber feedbacks a respeito do nosso projeto.  |
+| [Planejamento](../verifica_valida_grupo08/planejamento/) | Brunna Louise | Diógenes |
+| [Verificação Análise Documental](../verifica_valida_grupo08/verifica_analise_doc/) | Ana Beatriz | Matheus Silva |
+| [Verificação Backlog](../verifica_valida_grupo08/verifica_backlog/) | Ana Beatriz | Matheus Silva |
+| [Verificação Brainstorm](../verifica_valida_grupo08/verificacao_brainstorm08/) | Milena Aires | Ana Beatriz |
+| [Verificação Casos de Uso](../verifica_valida_grupo08/verificacao_usecase08/) | Diógenes  | Rafael Nobre |
+| [Verificação Cenários](../verifica_valida_grupo08/verificacao_cenarios/) |  Rafael Nobre   | Matheus Silva |
+| [Verificação Cronograma](../verifica_valida_grupo08/verificacao_cronograma08/) | Brunna Louise   | Rafael Nobre  |
+| [Verificação Especificação Suplementar](../verifica_valida_grupo08/verificacao_esp_sup/) | Milena Aires | Ana Beatriz |
+| [Verificação First Things First](../verifica_valida_grupo08/verificacao_ftf/) | Milena Aires | Ana Beatriz |
+| [Verificação Ferramentas](../verifica_valida_grupo08/verificacao_ferramentas08/) | Brunna Louise   | Rafael Nobre |
+| [Verificação Histórias de Usuário](../verifica_valida_grupo08/verifica_userstory/) | Ana Beatriz | Matheus Silva |
+| [Verificação Léxicos](../verifica_valida_grupo08/verificacao_lexicos08/) | Brunna Louise  | Rafael Nobre e Diógenes |
+| [Verificação Moscow](../verifica_valida_grupo08/verificacao_moscow08/) | Diógenes | Milena |
+| [Verificação NFR Framework](../verifica_valida_grupo08/verificacao_nfr/) | Matheus Silva | Diógenes |
+| [Verificação Observação](../verifica_valida_grupo08/verificacao_observacao/) | Matheus Silva | Diógenes |
+| [Verificação Personas](../verifica_valida_grupo08/verificacao_personas/) |  Rafael Nobre   | Matheus Silva |
+| [Verificação Perfis Usuário](../verifica_valida_grupo08/verificacao_perfis_usuario/) |  Rafael Nobre   |  Matheus Silva |
+| [Verificação Rich Picture](../verifica_valida_grupo08/verificacao_richpicture08/) | Diógenes | Rafael Nobre e Matheus Silva |
+| [Verificação Three Level Scale](../verifica_valida_grupo08/verifica_threelevelscale/) | Matheus Silva  | Diógenes |
+| [Prototipação](../verifica_valida_grupo08/validacao#3-prototipacao/) | Matheus Silva | Rafael Nobre | Foi utilizada para que o usuário possa ter um protótipo da proposta dos requisitos elicitados que não foram implementados |
+| [Validação Informal](../verifica_valida_grupo08/validacao#22-comprovacao-informal/) | Rafael Nobre | Matheus Silva | Foi utilizada para validar nossos artefatos, enviando uma mensagem para a equipe da Twitch, a fim de compreender e receber feedbacks a respeito do nosso projeto.  |
 | **Pós Rastreabilidade** | - | - |
-| [Backward From](../../pos_rastreabilidade/backward_from/) | Diógenes e Milena | Milena e Diógenes |
-| [Forward From](../../pos_rastreabilidade/forward_from/) | Brunna e Matheus | Matheus e Brunna |
-| [Matriz de Rastreablidade](../../pos_rastreabilidade/matriz_rastreabilidade/) | Ana Beatriz e Rafael | Rafael e Ana Beatriz |
+| [Backward From](../pos_rastreabilidade/backward_from/) | Diógenes e Milena | Milena e Diógenes |
+| [Forward From](../pos_rastreabilidade/forward_from/) | Brunna e Matheus | Matheus e Brunna |
+| [Matriz de Rastreablidade](../pos_rastreabilidade/matriz_rastreabilidade/) | Ana Beatriz e Rafael | Rafael e Ana Beatriz |
 | **Atas de Reunião** | - | - |
-| [Reunião 1](../../atas/reuniao_1/) | Milena  | Rafael |
-| [Reunião 2](../../atas/reuniao_2/) | Milena | Rafael |
-| [Reunião 3](../../atas/reuniao_3/) | Milena | Rafael |
-| [Reunião 4](../../atas/reuniao_4/) | Rafael | Milena |
-| [Reunião 5](../../atas/reuniao_5/) | Rafael | Brunna |
-| [Reunião 6](../../atas/reuniao_6/) | Matheus | Diógenes |
-| [Reunião 7](../../atas/reuniao_7/) | Matheus | Diógenes |
-| [Reunião 8](../../atas/reuniao_8/) | Matheus | Diógenes |
-| [**Apresentações**](../../apresentacoes/) | Diógenes | Rafael |
-| [**Regras de Colaboração**](../../colab/) | Ana Beatriz | Matheus |
+| [Reunião 1](../atas/reuniao_1/) | Milena  | Rafael |
+| [Reunião 2](../atas/reuniao_2/) | Milena | Rafael |
+| [Reunião 3](../atas/reuniao_3/) | Milena | Rafael |
+| [Reunião 4](../atas/reuniao_4/) | Rafael | Milena |
+| [Reunião 5](../atas/reuniao_5/) | Rafael | Brunna |
+| [Reunião 6](../atas/reuniao_6/) | Matheus | Diógenes |
+| [Reunião 7](../atas/reuniao_7/) | Matheus | Diógenes |
+| [Reunião 8](../atas/reuniao_8/) | Matheus | Diógenes |
+| [**Apresentações**](../apresentacoes/) | Diógenes | Rafael |
+| [**Regras de Colaboração**](../colab/) | Ana Beatriz | Matheus |
 
 <h6 align = "center"> Tabela 5: Síntese dos artefatos produzidos.
 <br> Autor: Milena Aires
@@ -260,25 +260,25 @@ Na parte de verificação foi feito um planejamento de um modelo a se seguir par
 
 | Artefatos | Autor(es) | Revisor(es) |
 | --- | --- | --- |
-| [Planejamento](../../verifica_valida_grupo08/planejamento/) | Brunna Louise | Diógenes Dantas |
-| [Verificação Análise Documental](../../verifica_valida_grupo08/verifica_analise_doc/) | Ana Beatriz | Matheus Silva |
-| [Verificação Backlog](../../verifica_valida_grupo08/verifica_backlog/) | Ana Beatriz | Matheus Silva |
-| [Verificação Brainstorm](../../verifica_valida_grupo08/verificacao_brainstorm08/) | Milena Aires | Ana Beatriz |
-| [Verificação Casos de Uso](../../verifica_valida_grupo08/verificacao_usecase08/) | Diógenes Dantas | Rafael Nobre |
-| [Verificação Cenários](../../verifica_valida_grupo08/verificacao_cenarios/) |  Rafael Nobre   | Matheus Silva |
-| [Verificação Cronograma](../../verifica_valida_grupo08/verificacao_cronograma08/) | Brunna Louise   | Rafael Nobre  |
-| [Verificação Especificação Suplementar](../../verifica_valida_grupo08/verificacao_esp_sup/) | Milena Aires | Ana Beatriz |
-| [Verificação First Things First](../../verifica_valida_grupo08/verificacao_ftf/) | Milena Aires | Ana Beatriz |
-| [Verificação Ferramentas](../../verifica_valida_grupo08/verificacao_ferramentas08/) | Brunna Louise   | Rafael Nobre |
-| [Verificação Histórias de Usuário](../../verifica_valida_grupo08/verifica_userstory/) | Ana Beatriz | Matheus Silva |
-| [Verificação Léxicos](../../verifica_valida_grupo08/verificacao_lexicos08/) | Brunna Louise  | Rafael Nobre e Diógenes Dantas |
-| [Verificação Moscow](../../verifica_valida_grupo08/verificacao_moscow08/) | Diógenes | Milena |
-| [Verificação NFR Framework](../../verifica_valida_grupo08/verificacao_nfr/) | Matheus Silva | Diógenes Dantas |
-| [Verificação Observação](../../verifica_valida_grupo08/verificacao_observacao/) | Matheus Silva | Diógenes Dantas |
-| [Verificação Personas](../../verifica_valida_grupo08/verificacao_personas/) |  Rafael Nobre   | Matheus Silva |
-| [Verificação Perfis Usuário](../../verifica_valida_grupo08/verificacao_perfis_usuario/) |  Rafael Nobre   |  Matheus Silva |
-| [Verificação Rich Picture](../../verifica_valida_grupo08/verificacao_richpicture08/) | Diógenes Dantas  | Rafael Nobre e Matheus Silva |
-| [Verificação Three Level Scale](../../verifica_valida_grupo08/verifica_threelevelscale/) | Matheus Silva  | Diógenes Dantas |
+| [Planejamento](../verifica_valida_grupo08/planejamento/) | Brunna Louise | Diógenes Dantas |
+| [Verificação Análise Documental](../verifica_valida_grupo08/verifica_analise_doc/) | Ana Beatriz | Matheus Silva |
+| [Verificação Backlog](../verifica_valida_grupo08/verifica_backlog/) | Ana Beatriz | Matheus Silva |
+| [Verificação Brainstorm](../verifica_valida_grupo08/verificacao_brainstorm08/) | Milena Aires | Ana Beatriz |
+| [Verificação Casos de Uso](../verifica_valida_grupo08/verificacao_usecase08/) | Diógenes Dantas | Rafael Nobre |
+| [Verificação Cenários](../verifica_valida_grupo08/verificacao_cenarios/) |  Rafael Nobre   | Matheus Silva |
+| [Verificação Cronograma](../verifica_valida_grupo08/verificacao_cronograma08/) | Brunna Louise   | Rafael Nobre  |
+| [Verificação Especificação Suplementar](../verifica_valida_grupo08/verificacao_esp_sup/) | Milena Aires | Ana Beatriz |
+| [Verificação First Things First](../verifica_valida_grupo08/verificacao_ftf/) | Milena Aires | Ana Beatriz |
+| [Verificação Ferramentas](../verifica_valida_grupo08/verificacao_ferramentas08/) | Brunna Louise   | Rafael Nobre |
+| [Verificação Histórias de Usuário](../verifica_valida_grupo08/verifica_userstory/) | Ana Beatriz | Matheus Silva |
+| [Verificação Léxicos](../verifica_valida_grupo08/verificacao_lexicos08/) | Brunna Louise  | Rafael Nobre e Diógenes Dantas |
+| [Verificação Moscow](../verifica_valida_grupo08/verificacao_moscow08/) | Diógenes | Milena |
+| [Verificação NFR Framework](../verifica_valida_grupo08/verificacao_nfr/) | Matheus Silva | Diógenes Dantas |
+| [Verificação Observação](../verifica_valida_grupo08/verificacao_observacao/) | Matheus Silva | Diógenes Dantas |
+| [Verificação Personas](../verifica_valida_grupo08/verificacao_personas/) |  Rafael Nobre   | Matheus Silva |
+| [Verificação Perfis Usuário](../verifica_valida_grupo08/verificacao_perfis_usuario/) |  Rafael Nobre   |  Matheus Silva |
+| [Verificação Rich Picture](../verifica_valida_grupo08/verificacao_richpicture08/) | Diógenes Dantas  | Rafael Nobre e Matheus Silva |
+| [Verificação Three Level Scale](../verifica_valida_grupo08/verifica_threelevelscale/) | Matheus Silva  | Diógenes Dantas |
 
 <h6 align = "center"> Tabela 6: Verificações de artefatos
 <br>Autor: Matheus Silva
@@ -287,8 +287,8 @@ Na parte de verificação foi feito um planejamento de um modelo a se seguir par
 ### 8.2 Tabela da Validação
 | Artefatos | Autor | Revisor | Justificativa |
 | --- | --- | --- | --- |
-| [Prototipação](../../verifica_valida_grupo08/validacao#3-prototipacao/) | Matheus Silva | Rafael Nobre | Foi utilizada para que o usuário possa ter um protótipo da proposta dos requisitos elicitados que não foram implementados |
-| [Validação Informal](../../verifica_valida_grupo08/validacao#22-comprovacao-informal/) | Rafael Nobre | Matheus Silva | Foi utilizada para validar nossos artefatos, enviando uma mensagem para a equipe da Twitch, a fim de compreender e receber feedbacks a respeito do nosso projeto.  |
+| [Prototipação](../verifica_valida_grupo08/validacao#3-prototipacao/) | Matheus Silva | Rafael Nobre | Foi utilizada para que o usuário possa ter um protótipo da proposta dos requisitos elicitados que não foram implementados |
+| [Validação Informal](../verifica_valida_grupo08/validacao#22-comprovacao-informal/) | Rafael Nobre | Matheus Silva | Foi utilizada para validar nossos artefatos, enviando uma mensagem para a equipe da Twitch, a fim de compreender e receber feedbacks a respeito do nosso projeto.  |
 
 <h6 align = "center"> Tabela 7: Validação de requisitos
 <br>Autor: Matheus Silva
@@ -300,22 +300,22 @@ Na parte de verificação foi feito um planejamento de um modelo a se seguir par
 |Ferramenta| Artefatos | Utilidade |
 |:--------:|:---------:|:---------:|
 |Discord|Todos|Plataforma utilizada para comunicação e troca de informações entre a equipe, assim como para rápidas reuniões|
-|Draw.io|[Rich Picture](../../pre_rastreabilidade/rich_picture/), [Casos de Uso](../../modelagem/usecase/)|Plataforma para realização de diagramas e fluxogramas|
+|Draw.io|[Rich Picture](../pre_rastreabilidade/rich_picture/), [Casos de Uso](../modelagem/usecase/)|Plataforma para realização de diagramas e fluxogramas|
 |Git|Todos|Sistema para versionamento de arquivos|
 |Github|Todos|Sistema para armazenamento e gestão de arquivos|
 |Github Desktop|Todos|Sistema para gestão do Github via Desktop|
-|Drive|[Apresentações](../../apresentacoes/)|Armazenamento dos vídeos gravados|
-|Google Meet|[Apresentações](../../apresentacoes/)|Plataforma para reuniões de apresentações|
-|Google Sheets|Todos|[Cronograma](../../planejamento/cronograma/)|App de planilhas para gestão de planilhas|
-|Infogram|[Verificações](../../verificacao_grupo01/planejamento/)|App para geração de infogramas|
-|LucidChart|[Casos de Uso](../../modelagem/usecase/)|App para diagramação|
-|Microsoft Forms|[Perfil de usuário](../../elicitacao/perfis_usuario/)|App para geração de formulários|
+|Drive|[Apresentações](../apresentacoes/)|Armazenamento dos vídeos gravados|
+|Google Meet|[Apresentações](../apresentacoes/)|Plataforma para reuniões de apresentações|
+|Google Sheets|Todos|[Cronograma](../planejamento/cronograma/)|App de planilhas para gestão de planilhas|
+|Infogram|[Verificações](../verificacao_grupo01/planejamento/)|App para geração de infogramas|
+|LucidChart|[Casos de Uso](../modelagem/usecase/)|App para diagramação|
+|Microsoft Forms|[Perfil de usuário](../elicitacao/perfis_usuario/)|App para geração de formulários|
 |MkDocs|Todos|Framework para geração de documentação estruturada|
-|Stability|[Personas](../../elicitacao/personas/)|App para geração de pessoas inexistentes|
+|Stability|[Personas](../elicitacao/personas/)|App para geração de pessoas inexistentes|
 |VsCode|Todos|IDE para edição de código e de arquivos|
-|Voice Memos|[Atas](../../atas/reuniao_1/)|App para gravação das atas|
+|Voice Memos|[Atas](../atas/reuniao_1/)|App para gravação das atas|
 |WhatsApp|Todos|App para comunicações entre equipe|
-|Youtube|[Apresentações](../../apresentacoes/)|Site para hospedar as apresentações|
+|Youtube|[Apresentações](../apresentacoes/)|Site para hospedar as apresentações|
 
 <h6 align = "center"> Tabela 8: Síntese das Ferramentas utilizadas durante o projeto.
 <br>Autor: Rafael Nobre
@@ -326,13 +326,13 @@ Na parte de verificação foi feito um planejamento de um modelo a se seguir par
 
 | Etapa | Participantes |
 | ----  | ------------- |
-| [Planejamento do Projeto](../../apresentacoes/#2-ponto-de-controle-1) | Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz |
-| [Elicitação de Requisitos](../../apresentacoes/#3-ponto-de-controle-2) | Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz |
-| [Modelagem de Requisitos](../../apresentacoes/#4-ponto-de-controle-3) | Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz |
-| [Modelagem de Requisitos - Ágil](../../apresentacoes/#5-ponto-de-controle-4) | Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz|
-| [Verificação do Grupo 01 (Bilheteria Digital)](../../apresentacoes/#6-ponto-de-controle-5) |Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz |
-| [Verificação e Validação Grupo 08 (Twitch)](../../apresentacoes/#7-ponto-de-controle-6) | Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz |
-| [Pós-Rastreabilidade](../../apresentacoes/#7-ponto-de-controle-7) | Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz |
+| [Planejamento do Projeto](../apresentacoes/#2-ponto-de-controle-1) | Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz |
+| [Elicitação de Requisitos](../apresentacoes/#3-ponto-de-controle-2) | Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz |
+| [Modelagem de Requisitos](../apresentacoes/#4-ponto-de-controle-3) | Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz |
+| [Modelagem de Requisitos - Ágil](../apresentacoes/#5-ponto-de-controle-4) | Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz|
+| [Verificação do Grupo 01 (Bilheteria Digital)](../apresentacoes/#6-ponto-de-controle-5) |Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz |
+| [Verificação e Validação Grupo 08 (Twitch)](../apresentacoes/#7-ponto-de-controle-6) | Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz |
+| [Pós-Rastreabilidade](../apresentacoes/#7-ponto-de-controle-7) | Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz |
 
 <h6 align = "center"> Tabela 9: Tabela das Apresentações com os Participantes.
 <br> Autor: Diógenes Dantas
