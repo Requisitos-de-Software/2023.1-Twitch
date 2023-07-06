@@ -120,7 +120,23 @@ Dentre os desafios encontrados pela equipe, destacaram-se:
 - Prazos de entrega dos artefatos e apresentações gravadas;
 - Na quarta entrega e nas seguintes, a equipe não recebeu mais feedbacks a respeito do andamento do projeto. Isso deixou os membros inseguros quanto à qualidade e à conformidade de seus projetos.
 
-### 5.4. Conclusão
+### 5.4. Comentários Individuais
+
+#### 5.4.1. Ana Beatriz
+
+#### 5.4.2. Brunna
+
+Apesar de ser uma matéria que exige muito esforço e constância no trabalho, foi uma disciplina muito proveitosa e que contribuiu muito para minhas habilidades de documentação e de trabalho em equipe. Todos souberam cooperar e se comunicar muito bem, e o resultado foi o desenvolvimento de um ótimo projeto. Os membros se entendiam e ajudavam uns aos outros no que precisavam, respeitando a individualidade de cada um. O único aspecto que deixou a desejar foi a falta de feedback mais específico ao grupo em algumas etapas. Era possível inspirar-se em grupos de semestres anteriores, mas muito se muda de um semestre para o outro, o que acaba trazendo uma certa insegurança no que tange à excelência e à conformidade do projeto. 
+
+#### 5.4.3. Diógenes
+
+#### 5.4.4. Matheus
+
+#### 5.4.5. Milena
+
+#### 5.4.6. Rafael
+
+### 5.5. Conclusão
 
 Os resultados obtidos conferem com o esperado segundo o plano de ensino da disciplina. Todos os membros da equipe participaram ativamente de todas as etapas do projeto, o que garantiu que nenhum membro ficasse sobrecarregado com o desenvolvimento do projeto. É possível dizer que todos os estudantes desse time aproveitaram efetivamente a matéria e foram capazes de aplicar os conhecimentos obtidos ao longo do semestre, tanto no desenvolvimento do projeto, quanto na verificação de grupos.
 
@@ -343,7 +359,7 @@ Na parte de verificação foi feito um planejamento de um modelo a se seguir par
 | :--------: | :----: | :----------------------------------------------------------------------------: | :--------: | :------: |
 | 04.07.2023 | 1.0    | Criação do documento e do template do artefato do Projeto Final |   Brunna   |   Diógenes Dantas    |
 | 05.07.2023 | 1.1 | Confecção das tabelas para entrega final |Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Milena |
-
+| 06.07.2023 | 1.2 | Adição de depoimentos individuais, conforme orientado pelo professor. |Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael | Milena |
 <h6 align = "center"> Tabela 10: Histórico de Versões
 <br>Autor(es): Brunna Louise
 <br>Fonte: Autor(es)</h6>
