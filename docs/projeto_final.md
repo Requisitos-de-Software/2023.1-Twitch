@@ -130,6 +130,8 @@ Apesar de ser uma matéria que exige muito esforço e constância no trabalho, f
 
 #### 5.4.3. Diógenes
 
+Na minha opinião, a metodologia utilizada pelo professor foi fácil de entender e bastante intuitiva. O desenvolvimento do projeto foi excelente, pois tínhamos acesso a materiais de apoio completos para a disciplina, e todos no grupo trabalharam bem juntos. Cada um colaborou e ajudou no trabalho, garantindo que as entregas individuais fossem feitas dentro do prazo. Além disso, foi empolgante desenvolver o projeto com o aplicativo da Twitch, pois tenho um interesse especial no aplicativo e o utilizo regularmente. Por isso, foi interessante estudar o aplicativo sob uma perspectiva técnica, relacionada à engenharia de requisitos.
+
 #### 5.4.4. Matheus
 
 #### 5.4.5. Milena
