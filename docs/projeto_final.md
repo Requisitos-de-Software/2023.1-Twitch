@@ -133,6 +133,7 @@ Apesar de ser uma matéria que exige muito esforço e constância no trabalho, f
 #### 5.4.4. Matheus
 
 #### 5.4.5. Milena
+Não encontrei muitas dificuldades por ter uma experiência com a metodoligia do Professor André, fiz a disciplina de IHC no semestre anterior. Uma das dificuldade que o grupo encontrou foi a questão das reuniões, em encontrar um dia em que todos os membros conseguissem estar disponíveis. Com isso, o grupo teve um contato mais informal via Whatsapp mas acabou sendo de certa forma melhor pois o grupo teve um contato mais próximo e obteve ajuda e respostas mais rápidas do grupo.
 
 #### 5.4.6. Rafael
 
