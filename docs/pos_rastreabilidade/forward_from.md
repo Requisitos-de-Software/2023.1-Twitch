@@ -333,7 +333,7 @@ Já os requisitos funcionais obtidos a partir da técnica de [Observação](../e
 <br> Autor(es): Brunna Louise e Matheus Phillipo
 <br> Fonte: Autor(es)</h6>
 
-| [OBS11](../elicitacao/priorizacao.md#21-moscow)  | A plataforma deve colocar uma etapa de confirmação, perguntado se o usuário deseja visualizar o conteúdo categorizado como adulto ou 18+.  |
+| <div id="req_implementado">[OBS11](../elicitacao/priorizacao.md#21-moscow)</div>  | A plataforma deve colocar uma etapa de confirmação, perguntado se o usuário deseja visualizar o conteúdo categorizado como adulto ou 18+.  |
 | ------ | ---- | 
 | Tipo de Requisito  | Requisito Funcional Implementado, identificado no dia 04/07/2023  |
 | Especificação Suplementar  | - |

@@ -98,7 +98,7 @@ A quarta fase também consistiu na modelagem de requisitos, só que, dessa vez, 
 
 A quinta fase foi uma fase de verificação e validação, em que o grupo pôde realizar a verificação de um outro grupo e, depois, fazer a verificação e a validação do próprio grupo.
 
-A sexta e última fase caracterizou-se pela realização de artefatos de pós-rastreabilidade. Foram produzidos artefatos de Backward-From e Forward-From, que resultaram em uma Matriz de Rastreabilidade bem completa.
+A sexta e última fase caracterizou-se pela realização de artefatos de pós-rastreabilidade. Foram produzidos artefatos de Backward-From e Forward-From, que resultaram em uma Matriz de Rastreabilidade bem completa, além de que nessa etapa foi identificada a implementação de um requisito não implementado do [OBS11](../pos_rastreabilidade/forward_from#req_implementado)
 
 ### 5.2. Resultados
 
