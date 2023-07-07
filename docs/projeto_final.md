@@ -137,9 +137,11 @@ Na minha opinião, a metodologia utilizada pelo professor foi fácil de entender
 #### 5.4.4. Matheus
 
 #### 5.4.5. Milena
-Não encontrei muitas dificuldades por ter uma experiência com a metodoligia do Professor André, fiz a disciplina de IHC no semestre anterior. Uma das dificuldade que o grupo encontrou foi a questão das reuniões, em encontrar um dia em que todos os membros conseguissem estar disponíveis. Com isso, o grupo teve um contato mais informal via Whatsapp mas acabou sendo de certa forma melhor pois o grupo teve um contato mais próximo e obteve ajuda e respostas mais rápidas do grupo.
+Não encontrei muitas dificuldades por ter uma experiência com a metodologia do Professor André, fiz a disciplina de IHC no semestre anterior. Uma das dificuldade que o grupo encontrou foi a questão das reuniões, em encontrar um dia em que todos os membros conseguissem estar disponíveis. Com isso, o grupo teve um contato mais informal via Whatsapp mas acabou sendo de certa forma melhor pois o grupo teve um contato mais próximo e obteve ajuda e respostas mais rápidas do grupo.
 
 #### 5.4.6. Rafael
+
+No geral, achei a disciplina proveitosa. Com o projeto tive a oportunidade de exercitar os conhecimentos de Engenharia de Requisitos, julgo a metodologia aplicada muito boa, de modo que carregamos um projeto durante todo o semestre enquanto estudávamos todas as etapas do conteúdo. O estudo voltado à literatura é algo que gostei bastante também, pois exercita uma atividade que é importante em diversos outros ramos. Nosso grupo enfrentou diversas dificuldades durante todo o semestre, com diversos problemas pessoais e dificuldade para alinhar os nossos horários, porém conseguimos, apesar de todos os desafios, entregar um projeto que julgamos positivo. Cada um deu o máximo de si, e foi uma ótima experiência poder colaborar com o time.
 
 ### 5.5. Conclusão
 
