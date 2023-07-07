@@ -124,6 +124,8 @@ Dentre os desafios encontrados pela equipe, destacaram-se:
 
 #### 5.4.1. Ana Beatriz
 
+Durante o semestre, enfrentei alguns desafios na disciplina de Requisitos de Software. Foi um período em que precisei conciliar dois projetos simultaneamente, além de outras matérias com provas e um estágio de seis horas diárias. A falta de tempo tornou difícil comparecer às reuniões que ocorriam após as aulas, pois precisava me apressar para chegar ao estágio a tempo. No entanto, tive a sorte de estar em um grupo composto por pessoas incríveis, que se ajudavam mutuamente e eram extremamente esforçadas e competentes. Apesar das adversidades, conseguimos superar os obstáculos, trabalhando juntos e aproveitando ao máximo os momentos que tínhamos disponíveis para nos encontrarmos e avançarmos no projeto.
+
 #### 5.4.2. Brunna
 
 Apesar de ser uma matéria que exige muito esforço e constância no trabalho, foi uma disciplina muito proveitosa e que contribuiu muito para minhas habilidades de documentação e de trabalho em equipe. Todos souberam cooperar e se comunicar muito bem, e o resultado foi o desenvolvimento de um ótimo projeto. Os membros se entendiam e ajudavam uns aos outros no que precisavam, respeitando a individualidade de cada um. O único aspecto que deixou a desejar foi a falta de feedback mais específico ao grupo em algumas etapas. Era possível inspirar-se em grupos de semestres anteriores, mas muito se muda de um semestre para o outro, o que acaba trazendo uma certa insegurança no que tange à excelência e à conformidade do projeto. 
