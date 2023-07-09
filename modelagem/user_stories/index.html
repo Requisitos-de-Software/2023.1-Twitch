@@ -1,0 +1,2791 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../esp_suplementar/">
+      
+      
+        <link rel="next" href="../nfr/">
+      
+      <link rel="icon" href="../../assets/twitch_icon.png">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.18">
+    
+    
+      
+        <title>User Stories - Grupo 8 - Twitch</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.26e3688c.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ecc896b0.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="purple">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#1-introducao" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="Grupo 8 - Twitch" class="md-header__button md-logo" aria-label="Grupo 8 - Twitch" data-md-component="logo">
+      
+  <img src="../../planejamento/imagens/twitch_icon.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Grupo 8 - Twitch
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              User Stories
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="purple"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+            
+              <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="deep-purple" data-md-color-accent="purple"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+            
+              <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
+          
+        </form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando a pesquisa
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2023.1-Twitch" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Requisitos-de-Software/2023.1-Twitch
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Grupo 8 - Twitch" class="md-nav__button md-logo" aria-label="Grupo 8 - Twitch" data-md-component="logo">
+      
+  <img src="../../planejamento/imagens/twitch_icon.png" alt="logo">
+
+    </a>
+    Grupo 8 - Twitch
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2023.1-Twitch" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Requisitos-de-Software/2023.1-Twitch
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Início
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma_realizado/" class="md-nav__link">
+        Cronograma Realizado
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/ferramentas/" class="md-nav__link">
+        Ferramentas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/scrum_adaptado/" class="md-nav__link">
+        Metodologias
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          Pré-Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Pré-Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pre_rastreabilidade/rich_picture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+          Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/perfis_usuario/" class="md-nav__link">
+        Perfis de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="0">
+          Técnicas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4_3">
+          <span class="md-nav__icon md-icon"></span>
+          Técnicas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/Brainstorm/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/observacao/" class="md-nav__link">
+        Observação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/AnaliseDeDocumento/" class="md-nav__link">
+        Análise Documental
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/priorizacao/" class="md-nav__link">
+        Priorização
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+          Modelagem
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Modelagem
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lexico/" class="md-nav__link">
+        Léxico
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../usecase/" class="md-nav__link">
+        Use Case
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../esp_suplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          User Stories
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        User Stories
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-metodologia" class="md-nav__link">
+    2. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-historias-de-usuario" class="md-nav__link">
+    3. Histórias de Usuário
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Histórias de Usuário">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-historias-de-usuario-relacionadas-a-visualizacao-e-interacao-com-conteudo" class="md-nav__link">
+    3.1. Histórias de usuário relacionadas à visualização e interação com conteúdo:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-historias-de-usuario-relacionadas-a-inscricoes-e-pagamentos" class="md-nav__link">
+    3.2. Histórias de usuário relacionadas a inscrições e pagamentos:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-historias-de-usuario-relacionadas-a-plataforma-e-configuracoes" class="md-nav__link">
+    3.3. Histórias de usuário relacionadas à plataforma e configurações:
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-participantes" class="md-nav__link">
+    4. Participantes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-referencias" class="md-nav__link">
+    5. Referências
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    Histórico de Versões
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nfr/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../backlog/" class="md-nav__link">
+        Backlog do produto
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+          Verificação Grupo 01
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação Grupo 01
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/planejamento/" class="md-nav__link">
+        Planejamento da Verificação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+          Entrega 1 - Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_2">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 1 - Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_aplicativo_escolhido/" class="md-nav__link">
+        Aplicativo Escolhido
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_cronograma/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verificacao01_richpicture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+          Entrega 2 - Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_3">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 2 - Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_perfilusuariov/" class="md-nav__link">
+        Perfil de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_3_3" id="__nav_6_3_3_label" tabindex="0">
+          Técnicas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_6_3_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_3_3">
+          <span class="md-nav__icon md-icon"></span>
+          Técnicas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/brainstorm_v/" class="md-nav__link">
+        Brainstorming
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verificacao01_questionario/" class="md-nav__link">
+        Questionário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_observacao/" class="md-nav__link">
+        Observação
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_3_4" id="__nav_6_3_4_label" tabindex="0">
+          Priorização
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_6_3_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_3_4">
+          <span class="md-nav__icon md-icon"></span>
+          Priorização
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_%24100/" class="md-nav__link">
+        Técnica de Priorização $100
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/first_v/" class="md-nav__link">
+        Técnica de Priorização First Thing First
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_threelevelscale/" class="md-nav__link">
+        Técnica de Priorização Three Level Scale
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+          Entrega 3 - Modelagem de Requisitos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_4">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 3 - Modelagem de Requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_espsuplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verificacao01_lexicos/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_casos_uso/" class="md-nav__link">
+        Casos de uso
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_5" id="__nav_6_5_label" tabindex="0">
+          Entrega 4 - Modelagem de Requisitos (Ágil)
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_5">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 4 - Modelagem de Requisitos (Ágil)
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verificacao01_nfr/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/userstory_v/" class="md-nav__link">
+        Histórias de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+          Verificação e Validação Grupo 08
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação e Validação Grupo 08
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/planejamento/" class="md-nav__link">
+        Planejamento da Verificação e da Validação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_2" id="__nav_7_2_label" tabindex="0">
+          Entrega 1 - Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_2">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 1 - Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_cronograma08/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_ferramentas08/" class="md-nav__link">
+        Ferramentas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_richpicture08/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_3" id="__nav_7_3_label" tabindex="0">
+          Entrega 2 - Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_3">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 2 - Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_perfis_usuario/" class="md-nav__link">
+        Perfis de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_3_4" id="__nav_7_3_4_label" tabindex="0">
+          Técnicas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_3_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_3_4">
+          <span class="md-nav__icon md-icon"></span>
+          Técnicas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_brainstorm08/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_observacao/" class="md-nav__link">
+        Observação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verifica_analise_doc/" class="md-nav__link">
+        Análise Documental
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_3_5" id="__nav_7_3_5_label" tabindex="0">
+          Priorização
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_3_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_3_5">
+          <span class="md-nav__icon md-icon"></span>
+          Priorização
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verifica_threelevelscale/" class="md-nav__link">
+        Técnica de Priorização Three Level Scale
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_moscow08/" class="md-nav__link">
+        Técnica de Priorização MosCow
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_ftf/" class="md-nav__link">
+        Técnica de Priorização First Thing First
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_4" id="__nav_7_4_label" tabindex="0">
+          Entrega 3 - Modelagem de Requisitos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_4">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 3 - Modelagem de Requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_esp_sup/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_lexicos08/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_usecase08/" class="md-nav__link">
+        Casos de Uso
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_5" id="__nav_7_5_label" tabindex="0">
+          Entrega 4 - Modelagem de Requisitos (Ágil)
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_5">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 4 - Modelagem de Requisitos (Ágil)
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_nfr/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verifica_userstory/" class="md-nav__link">
+        Histórias de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verifica_backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/validacao/" class="md-nav__link">
+        Validação
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+          Pós Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Pós Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos_rastreabilidade/backward_from/" class="md-nav__link">
+        Backward From
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos_rastreabilidade/forward_from/" class="md-nav__link">
+        Forward From
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos_rastreabilidade/matriz_rastreabilidade/" class="md-nav__link">
+        Matriz de Rastreablidade
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+          Atas de reunião
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_9">
+          <span class="md-nav__icon md-icon"></span>
+          Atas de reunião
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_1/" class="md-nav__link">
+        Reunião 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_2/" class="md-nav__link">
+        Reunião 2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_3/" class="md-nav__link">
+        Reunião 3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_4/" class="md-nav__link">
+        Reunião 4
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_5/" class="md-nav__link">
+        Reunião 5
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_6/" class="md-nav__link">
+        Reunião 6
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_7/" class="md-nav__link">
+        Reunião 7
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_8/" class="md-nav__link">
+        Reunião 8
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/" class="md-nav__link">
+        Apresentações
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../colab/" class="md-nav__link">
+        Regras de Colaboração
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../projeto_final/" class="md-nav__link">
+        Projeto Final
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-metodologia" class="md-nav__link">
+    2. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-historias-de-usuario" class="md-nav__link">
+    3. Histórias de Usuário
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Histórias de Usuário">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-historias-de-usuario-relacionadas-a-visualizacao-e-interacao-com-conteudo" class="md-nav__link">
+    3.1. Histórias de usuário relacionadas à visualização e interação com conteúdo:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-historias-de-usuario-relacionadas-a-inscricoes-e-pagamentos" class="md-nav__link">
+    3.2. Histórias de usuário relacionadas a inscrições e pagamentos:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-historias-de-usuario-relacionadas-a-plataforma-e-configuracoes" class="md-nav__link">
+    3.3. Histórias de usuário relacionadas à plataforma e configurações:
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-participantes" class="md-nav__link">
+    4. Participantes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-referencias" class="md-nav__link">
+    5. Referências
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    Histórico de Versões
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+  <h1>User Stories</h1>
+
+<h2 id="1-introducao">1. Introdução<a class="headerlink" href="#1-introducao" title="Permanent link">&para;</a></h2>
+<p>Histórias de usuário são as menores unidades de trabalho em uma estrutura ágil de desenvolvimento de software. Uma história de usuário é uma frase descritiva, simples e informal, redigida do ponto de vista de um usuário e/ou persona, que articula como um recurso de software pode gerar valor ao cliente. Utilizando-se dessa metodologia, a equipe de um programa ágil cria uma estrutura centrada na percepção do usuário, o que, em geral, resulta em um produto com funcionalidades mais úteis e melhor implementadas.</p>
+<p>É importante citar que <strong>histórias de usuário não são requisitos de sistema de um software</strong>: essas histórias servem meramente para oferecer um contexto à equipe de desenvolvimento e suas iniciativas; a partir dessas histórias, a equipe sabe porque está desenvolvendo um sistema, o que está desenvolvendo para esse sistema e qual valor esse sistema gera a um cliente. É a partir dessas histórias que também é possível elicitar novos requisitos funcionais de um sistema.</p>
+<h2 id="2-metodologia">2. Metodologia<a class="headerlink" href="#2-metodologia" title="Permanent link">&para;</a></h2>
+<p>A partir dos requisitos funcionais previamente elicitados (disponíveis em <a href="../../elicitacao/tecnicas/Brainstorm/#41-requisitos-funcionais">Técnicas de Elicitação - Brainstorm</a> e em <a href="../../elicitacao/tecnicas/observacao/#3-resultados">Técnicas de Elicitação - Observação</a>) pela equipe de desenvolvimento e a partir da priorização desses mesmos requisitos pela técnica de MOSCoW (disponível em <a href="../../elicitacao/priorizacao/#21-moscow">Técnicas de Priorização</a>), membros Ana Beatriz e Brunna Louise, em uma reunião, foram capazes de extrair as histórias de usuário presentes nesse artefato. Para a seleção dos requisitos funcionais dos quais seriam extraídas histórias de usuário, levaram-se em consideração os requisitos cuja prioridade foi considerada <strong>Must</strong>, ou seja, requisitos de maior relevância para o desenvolvimento do projeto.</p>
+<p>Na reunião citada acima, Ana Beatriz assumiu papel de cliente (Product Owner) e Brunna Louise assumiu papel de integrante da equipe de desenvolvimento. As histórias de usuário extraídas apresentam a seguinte a estrutura:</p>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>Id da User Story</strong></th>
+<th align="center"><strong>Usuário</strong></th>
+<th align="center"><strong>Desejo</strong></th>
+<th align="center"><strong>Descrição de recurso</strong></th>
+<th align="center"><strong>Critério de aceitação</strong></th>
+<th align="center"><strong>Id do Requisito</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">USBxx</td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">xxxxxxx.</td>
+<td align="center">Critério a ser cumprido.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFBxx">RFBxx</a></td>
+</tr>
+</tbody>
+</table>
+<p>O Id da User Story (História de Usuário) é um código que identifica cada história de usuário aqui contida, a fim de otimizar a rastreabilidade. Seguindo esse mesmo princípio, o Id do Requisito é o mesmo Id utilizado no documento <a href="https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/Brainstorm/">Técnicas de Elicitação - Brainstorm</a> e também no documento de <a href="https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/tecnicas/observacao/">Técnicas de Elicitação - Observação</a>, que foi o artefato no qual nos baseamos para extrair as histórias de usuário.</p>
+<p>O usuário pode ser um <strong>espectador</strong>, ou seja, o tipo mais comum de usuário, cujo principal objetivo é assistir a e interagir com transmissões ao vivo; ou um <strong>criador de conteúdo</strong>, cujo principal objetivo é transmitir lives em seu canal. Um criador de conteúdo possui todas as características de um espectador, com o diferencial de produzir conteúdo para a plataforma.</p>
+<p>A descrição do recurso é uma breve descrição de uma funcionalidade que confere valor ao cliente.</p>
+<p>O critério de aceitação da história de usuário descreve parâmetros que devem ser cumpridos a fim de que o desejo do usuário contido na história de usuário seja satisfeito. Foi de extrema importância a participação de um cliente para estabelecer esses critérios.</p>
+<p>É importante deixar documentado que: as histórias de usuário foram escritas de forma simples e não ambígua de forma suficiente a torná-las auto-explicativas; nós, como equipe de desenvolvimento, somos também usuários e, consequentemente, clientes da plataforma Twitch e, portanto, como clientes, validamos essas histórias de usuário aqui descritas; durante a elicitação dos requisitos em uma reunião de Brainstorm, documentada no arquivo citado acima, nós, como equipe de desenvolvimento e como usuários da Twitch e, portanto, clientes da plataforma, fomos capazes de validar tanto os requisitos funcionais quanto os requisitos não funcionais elicitados; e, por fim, todas as histórias de usuário aqui descritas podem ser testadas.</p>
+<p>Em suma:
+- As histórias de usuário são auto-explicativas e não ambíguas;
+- A validação das histórias de usuário foi realizada com participação de clientes da plataforma;
+- A validação dos requisitos funcionais que foram base para a extração das histórias de usuário foi feita com participação de clientes da plataforma; e
+- Todas as histórias de usuário podem ser testadas.</p>
+<h2 id="3-historias-de-usuario">3. Histórias de Usuário<a class="headerlink" href="#3-historias-de-usuario" title="Permanent link">&para;</a></h2>
+<p>Serão descritas abaixo as histórias de usuário extraídas de requisitos funcionais previamente elicitados nas tabelas 1, 2 e 3.</p>
+<h3 id="31-historias-de-usuario-relacionadas-a-visualizacao-e-interacao-com-conteudo">3.1. Histórias de usuário relacionadas à visualização e interação com conteúdo:<a class="headerlink" href="#31-historias-de-usuario-relacionadas-a-visualizacao-e-interacao-com-conteudo" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>Id da User Story</strong></th>
+<th align="center"><strong>Usuário</strong></th>
+<th align="center"><strong>Desejo</strong></th>
+<th align="center"><strong>Descrição de recurso</strong></th>
+<th align="center"><strong>Critério de aceitação</strong></th>
+<th align="center"><strong>Id do Requisito</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><div id="USB01">USB01</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder assistir a uma live.</td>
+<td align="center">- O usuário consegue encontrar e selecionar uma live para assistir.</br> - O vídeo da live é reproduzido corretamente e em tempo real.</br> - O usuário pode ajustar a qualidade do vídeo conforme sua preferência.</br> - Os controles de reprodução (pausar, reproduzir, avançar, retroceder) funcionam corretamente.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB01">RFB01</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB02">USB02</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">quero poder assistir a um VOD (Video on Demand).</td>
+<td align="center">- O usuário pode acessar os VODs disponíveis para um determinado canal.</br> - O usuário pode selecionar e reproduzir um VOD escolhido.</br> - O vídeo do VOD é reproduzido corretamente e em alta qualidade. </br> - Os controles de reprodução (pausar, reproduzir, avançar, retroceder) funcionam corretamente.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB02">RFB02</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB03">USB03</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">quero poder interagir em uma live.</td>
+<td align="center">- O usuário pode ver e interagir com o chat ao vivo durante a transmissão.</br> - O usuário pode ver os emotes disponíveis e utilizá-los no chat.</br> - O usuário pode ver as notificações de ações dos outros espectadores (follows, subscrições, doações, etc.).</br> - O usuário pode ver o número de espectadores e o contador de visualizações da live.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB03">RFB03</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB04">USB04</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder comentar em uma live.</td>
+<td align="center">- O usuário pode digitar e enviar mensagens no chat da live.</br> - As mensagens do usuário são exibidas corretamente no chat em tempo real.</br> - O usuário pode visualizar as mensagens anteriores do chat.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB04">RFB04</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB05">USB05</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder clipar um trecho de uma live.</td>
+<td align="center">- O usuário pode criar um clipe a partir de um momento específico da live.</br> - O clipe é gerado corretamente e pode ser reproduzido posteriormente.</br> - O usuário pode compartilhar o link do clipe gerado.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB05">RFB05</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB06">USB06</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder compartilhar o link de uma live.</td>
+<td align="center">- O usuário pode obter o link direto para a live que está assistindo.</br> - O link pode ser facilmente copiado e compartilhado em outras plataformas.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB07">RFB07</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB07">USB07</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder reagir durante a transmissão.</td>
+<td align="center">- O usuário pode utilizar reações específicas (emotes, emojis, etc.) durante a live.</br> - As reações são exibidas corretamente no chat e/ou na tela da live.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB11">RFB11</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB08">USB08</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder comprar bits.</td>
+<td align="center">- O usuário tem acesso a uma opção para comprar bits.</br> - O processo de compra de bits é fácil de entender e realizar.</br> - As opções de pagamento são seguras e confiáveis.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB12">RFB12</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB09">USB09</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder utilizar bits para enviar mensagens ao streamer.</td>
+<td align="center">- O usuário pode utilizar bits para enviar mensagens destacadas ou com algum tipo de efeito especial ao streamer.</br> - O streamer recebe e pode visualizar as mensagens enviadas com bits.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB13">RFB13</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB10">USB10</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder denunciar uma transmissão ao vivo.</td>
+<td align="center">- O usuário pode acessar a opção de denúncia durante uma transmissão ao vivo.</br> - O processo de denúncia é fácil de entender e realizar.</br> - O usuário pode fornecer informações relevantes sobre a denúncia, como motivo e descrição.</br> - A denúncia é registrada e encaminhada para a equipe de moderação da Twitch para revisão.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB14">RFB14</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB11">USB11</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder denunciar mensagens de outro usuário.</td>
+<td align="center">- O usuário pode acessar a opção de denúncia para mensagens de outros usuários no chat.</br> - O processo de denúncia é simples e direto.</br> - O usuário pode fornecer informações relevantes sobre a denúncia, como motivo e descrição.</br> - A denúncia é registrada e encaminhada para a equipe de moderação da Twitch para revisão.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB15">RFB15</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB12">USB12</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder buscar canais/lives.</td>
+<td align="center">- O usuário pode acessar a funcionalidade de busca no site da Twitch.</br> - O usuário pode inserir palavras-chave, nomes de canais ou categorias de interesse na barra de busca.</br> - Os resultados da busca são relevantes e exibidos de forma clara e organizada.</br> - O usuário pode filtrar os resultados da busca com opções adicionais, como ordenação por relevância, popularidade, etc.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB16">RFB16</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB13">USB13</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder consultar meu saldo de bits (Twitch Wallet).</td>
+<td align="center">- O usuário pode acessar informações sobre seu saldo de bits (Twitch Wallet) em sua conta.</br> - O saldo de bits é exibido de forma clara e atualizada.</br> - O usuário pode visualizar detalhes sobre como os bits foram adquiridos e gastos.</br> - O usuário pode verificar seu histórico de transações relacionadas aos bits.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB17">RFB17</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB14">USB14</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder consultar meus Drops e Recompensas.</td>
+<td align="center">- O usuário pode acessar informações sobre seus Drops e Recompensas em sua conta.</br> - Os Drops e Recompensas são exibidos de forma organizada e fácil de entender.</br> - O usuário pode visualizar os Drops e Recompensas disponíveis, bem como seu progresso em relação a eles.</br> - O usuário pode obter detalhes sobre como resgatar e utilizar os Drops e Recompensas.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB23">RFB23</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB15">USB15</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">ter a opção de selecionar se deseja receber sugestões de conteúdos categorizados para adultos</td>
+<td align="center">- O usuário não receberá mais recomendações de conteúdos categorizados como adultos em sua conta</br></td>
+<td align="center"><a href="../../elicitacao/tecnicas/observacao/#OBS09">OBS09</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB16">USB16</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">um efeito Blur nos Thumbnails de conteúdos categorizados como adultos</td>
+<td align="center">- Os thumbnails que possuem o seu conteúdo como adulto devem conter um efeito Blur (embaçado) em toda a plataforma</td>
+<td align="center"><a href="../../elicitacao/tecnicas/observacao/#OBS10">OBS10</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB17">USB17</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">uma etapa de confirmação ao entrar em um stream de vídeo categorizado como adulto</td>
+<td align="center">- Ao acessar um vídeo categorizado como adulto, deve haver uma etapa de confirmação perguntando se a pessoa deseja ver esse tipo de conteúdo</br> - Esse comportamento deve persistir para todos os vídeos categorizados como adulto</td>
+<td align="center"><a href="../../elicitacao/tecnicas/observacao/#OBS11">OBS11</a></td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 1: Histórias de Usuário relacionadas à visualização e interação com conteúdo.
+<br> Autor(es): Ana Beatriz, Brunna Louise, Matheus Silva
+<br>Fonte: Autor(es)</h6>
+
+<h3 id="32-historias-de-usuario-relacionadas-a-inscricoes-e-pagamentos">3.2. Histórias de usuário relacionadas a inscrições e pagamentos:<a class="headerlink" href="#32-historias-de-usuario-relacionadas-a-inscricoes-e-pagamentos" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>Id da User Story</strong></th>
+<th align="center"><strong>Usuário</strong></th>
+<th align="center"><strong>Desejo</strong></th>
+<th align="center"><strong>Descrição de recurso</strong></th>
+<th align="center"><strong>Critério de aceitação</strong></th>
+<th align="center"><strong>Id do Requisito</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><div id="USB18">USB18</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder seguir um streamer.</td>
+<td align="center">- O usuário pode encontrar a opção de seguir um streamer no perfil do streamer ou em outras áreas relevantes.</br> - Ao seguir um streamer, o usuário recebe atualizações sobre suas transmissões e atividades.</br> - O usuário pode visualizar uma lista de streamers que está seguindo em sua conta.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB06">RFB06</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB19">USB19</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder me inscrever em um canal utilizando o Amazon Prime.</td>
+<td align="center">- O usuário tem a opção de se inscrever em um canal utilizando sua assinatura do Amazon Prime.</br> - O processo de vinculação da conta do Amazon Prime à conta da Twitch é claro e fácil de seguir.</br> - Após a inscrição, o usuário tem acesso aos benefícios exclusivos oferecidos pela assinatura do Amazon Prime.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB08">RFB08</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB20">USB20</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder me inscrever em um canal pagando diretamente.</td>
+<td align="center">- O usuário tem a opção de se inscrever em um canal pagando diretamente.</br> - O processo de pagamento é seguro e confiável, com opções de pagamento adequadas e claras.</br> - Após a inscrição, o usuário tem acesso aos benefícios exclusivos oferecidos pela inscrição paga.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB09">RFB09</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB21">USB21</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder presentear uma inscrição para outro usuário.</td>
+<td align="center">- O usuário tem a opção de presentear uma inscrição para outro usuário.</br> - O processo de presenteamento de inscrição é fácil de entender e realizar.</br> - O usuário pode selecionar o destinatário do presente e fornecer as informações necessárias para a transação.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB10">RFB10</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB22">USB22</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder consultar minhas inscrições.</td>
+<td align="center">- O usuário pode acessar informações sobre suas inscrições em sua conta.</br> - As inscrições ativas são exibidas de forma clara, com detalhes sobre os canais inscritos.</br> - O usuário pode verificar o status de suas inscrições, como data de expiração, renovação automática, etc.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB24">RFB24</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB23">USB23</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder configurar o meu perfil.</td>
+<td align="center">- O usuário pode acessar as configurações do perfil em sua conta.</br> - O usuário pode fazer alterações e personalizações em seu perfil conforme desejado.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB25">RFB25</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB24">USB24</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder configurar minha imagem do perfil.</td>
+<td align="center">- O usuário pode fazer upload ou selecionar uma imagem para ser utilizada como imagem do perfil.</br> - A imagem do perfil é exibida corretamente em todas as áreas relevantes do site.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB26">RFB26</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB25">USB25</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder configurar meu banner do perfil.</td>
+<td align="center">- O usuário pode fazer upload ou selecionar uma imagem para ser utilizada como banner do perfil.</br> - O banner do perfil é exibido corretamente em todas as áreas relevantes do site.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB27">RFB27</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB26">USB26</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder configurar meu nome de usuário.</td>
+<td align="center">- O usuário pode alterar seu nome de usuário de acordo com as regras e limitações definidas pela Twitch.</br> - O novo nome de usuário é atualizado corretamente em todas as áreas relevantes do site.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB28">RFB28</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB27">USB27</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder configurar meu nome de exibição.</td>
+<td align="center">- O usuário pode escolher um nome de exibição para ser exibido em sua conta.</br> - O nome de exibição é exibido corretamente em todas as áreas relevantes do site.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB29">RFB29</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB28">USB28</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder configurar minha biografia.</td>
+<td align="center">- O usuário pode acessar a opção de configurar sua biografia em seu perfil.</br> - O usuário pode adicionar informações pessoais, interesses, links relevantes, etc., em sua biografia.</br> - A biografia é exibida corretamente em seu perfil para outros usuários visualizarem.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB30">RFB30</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB29">USB29</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder escolher o conjunto de emojis que irei utilizar.</td>
+<td align="center">- O usuário pode acessar as configurações relacionadas a emojis em sua conta.</br> - O usuário pode escolher e personalizar o conjunto de emojis disponíveis para uso em suas interações na Twitch.</br> - Os emojis escolhidos são exibidos corretamente em mensagens, reações, etc.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB33">RFB33</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB30">USB30</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder gerenciar as notificações da minha conta.</td>
+<td align="center">- O usuário pode acessar as configurações de notificações em sua conta.</br> - O usuário pode selecionar as preferências de notificação, como receber notificações por e-mail, push ou ambos.</br> - O usuário pode escolher quais tipos de notificações deseja receber, como atividades de streamers seguidos, mensagens recebidas, etc.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB34">RFB34</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB31">USB31</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder vincular minha conta da Twitch a outras plataformas.</td>
+<td align="center">- O usuário pode acessar as opções de vinculação de conta em sua conta da Twitch.</br> - O usuário pode vincular sua conta da Twitch a outras plataformas, como Twitter, YouTube, Discord, etc.</br> - O processo de vinculação é fácil de seguir e as plataformas são conectadas corretamente.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB35">RFB35</a></td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 2: Histórias de usuário relacionadas a inscrições e pagamentos.
+<br> Autor(es): Ana Beatriz, Brunna Louise
+<br>Fonte: Autor(es)</h6>
+
+<h3 id="33-historias-de-usuario-relacionadas-a-plataforma-e-configuracoes">3.3. Histórias de usuário relacionadas à plataforma e configurações:<a class="headerlink" href="#33-historias-de-usuario-relacionadas-a-plataforma-e-configuracoes" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>Id da User Story</strong></th>
+<th align="center"><strong>Usuário</strong></th>
+<th align="center"><strong>Desejo</strong></th>
+<th align="center"><strong>Descrição de recurso</strong></th>
+<th align="center"><strong>Critério de aceitação</strong></th>
+<th align="center"><strong>Id do Requisito</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><div id="USB32">USB32</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder realizar ajustes nos conteúdos sugeridos.</td>
+<td align="center">- O usuário pode acessar as configurações relacionadas aos conteúdos sugeridos em sua conta.</br> - O usuário pode personalizar as preferências de conteúdo, como categorias, jogos, streamers, etc.</br> - As configurações de conteúdos sugeridos são atualizadas corretamente de acordo com as preferências do usuário.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB36">RFB36</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB33">USB33</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder alterar o idioma da plataforma.</td>
+<td align="center">- O usuário pode acessar as configurações de idioma em sua conta.</br> - O usuário pode selecionar o idioma desejado para a interface da plataforma.</br> - O idioma selecionado é aplicado corretamente em todas as áreas e elementos da plataforma.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB37">RFB37</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB34">USB34</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder alterar o tema (claro/escuro) da plataforma.</td>
+<td align="center">- O usuário pode acessar as configurações de tema da plataforma em sua conta.</br> - O usuário pode alternar entre os modos claro e escuro de acordo com sua preferência.</br> - A mudança de tema é aplicada corretamente em toda a interface da plataforma.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB38">RFB38</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB35">USB35</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder realizar login na plataforma.</td>
+<td align="center">- O usuário pode acessar a página de login da Twitch.</br> - O usuário pode inserir suas credenciais de login, como nome de usuário ou e-mail e senha.</br> - Após o login bem-sucedido, o usuário tem acesso à sua conta e todas as funcionalidades associadas.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB39">RFB39</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB36">USB36</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder realizar logout da plataforma.</td>
+<td align="center">- O usuário pode acessar a opção de logout em sua conta.</br> - Ao fazer logout, o usuário é redirecionado para a página inicial ou uma página de confirmação de logout.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB40">RFB40</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB37">USB37</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder desabilitar minha conta da Twitch.</td>
+<td align="center">- O usuário pode acessar as configurações de desativação de conta em sua conta.</br> - O usuário recebe informações claras sobre as consequências da desativação da conta.</br> - O processo de desativação é confirmado com uma etapa adicional de confirmação.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB41">RFB41</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB38">USB38</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">poder trocar sussurros com outros usuários</td>
+<td align="center">- O usuário pode acessar a funcionalidade de sussurros (mensagens privadas) na plataforma.</br> - O usuário pode enviar e receber sussurros de outros usuários.</br> - O sistema de sussurros funciona corretamente, garantindo a privacidade e a comunicação eficiente.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB42">RFB42</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB39">USB39</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">ser capaz de personalizar o meu canal.</td>
+<td align="center">- O usuário pode acessar as configurações de personalização do canal em sua conta.</br> - O usuário pode editar informações do canal, como título, descrição, categorias, tags, etc.</br> - As alterações feitas na personalização do canal são exibidas corretamente para outros usuários.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB43">RFB43</a></td>
+</tr>
+<tr>
+<td align="center"><div id="USB40">USB40</div></td>
+<td align="center">Como usuário,</td>
+<td align="center">quero</td>
+<td align="center">ser capaz de iniciar minha transmissão.</td>
+<td align="center">- O usuário pode acessar a opção de iniciar uma transmissão ao vivo.</br> - O usuário é guiado por um processo claro para configurar sua transmissão, como selecionar a plataforma de transmissão, definir configurações de áudio/vídeo, etc.</br> -  Após a configuração e personalização concluídas, o usuário pode iniciar sua transmissão ao vivo com um clique em um botão de "Iniciar" ou opção equivalente.</td>
+<td align="center"><a href="../../elicitacao/tecnicas/Brainstorm/#RFB44">RFB44</a></td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 3: Histórias de usuário relacionadas à plataforma e configurações.
+<br> Autor(es): Ana Beatriz, Brunna Louise
+<br>Fonte: Autor(es)</h6>
+
+<h2 id="4-participantes">4. Participantes<a class="headerlink" href="#4-participantes" title="Permanent link">&para;</a></h2>
+<p>A tabela 4 a seguir registra os membros do grupo que contribuíram com esse documento:</p>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>Participante</strong></th>
+<th align="center"><strong>Papel</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Ana Beatriz</td>
+<td align="center">Cliente/Usuário/Product Owner</td>
+</tr>
+<tr>
+<td align="center">Brunna Louise</td>
+<td align="center">Membro da Equipe de Desenvolvimento Ágil</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 4: Participantes e seus papéis na produção do artefato
+<br> Autor(es): Ana Beatriz, Brunna Louise
+<br>Fonte: Autor(es)</h6>
+
+<h2 id="5-referencias">5. Referências<a class="headerlink" href="#5-referencias" title="Permanent link">&para;</a></h2>
+<blockquote>
+<p>REHKOPF, Max. <em>Histórias de usuários com exemplos e um template</em>. Atlassian. Disponível no <a href="https://www.atlassian.com/br/agile/project-management/user-stories">link</a>. Acesso em 22 de maio de 2023.</p>
+</blockquote>
+<h2 id="historico-de-versoes">Histórico de Versões<a class="headerlink" href="#historico-de-versoes" title="Permanent link">&para;</a></h2>
+<p>A Tabela 5 registra o histórico de versão desse documento.</p>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>Data</strong></th>
+<th align="center"><strong>Versão</strong></th>
+<th align="center"><strong>Descrição</strong></th>
+<th align="center"><strong>Autor</strong></th>
+<th align="center"><strong>Revisor</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">22/05/2023</td>
+<td align="center">1.0</td>
+<td align="center">Primeira Versão do artefato de User Stories (Histórias de Usuário)</td>
+<td align="center">Ana Beatriz, Brunna Louise</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">23/05/2023</td>
+<td align="center">1.1</td>
+<td align="center">Estabelecendo padrões de codificação e adicionando documentação adicional</td>
+<td align="center">Brunna Louise</td>
+<td align="center">Ana Beatriz</td>
+</tr>
+<tr>
+<td align="center">23/05/2023</td>
+<td align="center">1.2</td>
+<td align="center">Adicionando criterios de aceitação</td>
+<td align="center">Ana Beatriz</td>
+<td align="center">Brunna Louise</td>
+</tr>
+<tr>
+<td align="center">27/06/2023</td>
+<td align="center">1.3</td>
+<td align="center">Adicionando requisitos que não foram implementados</td>
+<td align="center">Matheus Phillipo</td>
+<td align="center">Brunna Louise</td>
+</tr>
+<tr>
+<td align="center">03/07/2023</td>
+<td align="center">1.4</td>
+<td align="center">Adiciona estrutura para permitir hyperlinks</td>
+<td align="center">Rafael Nobre</td>
+<td align="center">Brunna Louise</td>
+</tr>
+<tr>
+<td align="center">03/07/2023</td>
+<td align="center">2.0</td>
+<td align="center">Resolução de Conflitos e Versão final do artefato</td>
+<td align="center">Brunna Louise</td>
+<td align="center">Diógenes Dantas</td>
+</tr>
+<tr>
+<td align="center">04/07/2023</td>
+<td align="center">2.1</td>
+<td align="center">Ajustes nos hyperlinks</td>
+<td align="center">Rafael Nobre</td>
+<td align="center">Diógenes Dantas</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 5: Histórico de Versões
+<br> Autor(es): Ana Beatriz, Brunna Louise
+<br>Fonte: Autor(es)</h6>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Rodapé" >
+        
+          
+          <a href="../esp_suplementar/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Especificação Suplementar" rel="prev">
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              <div class="md-ellipsis">
+                Especificação Suplementar
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../nfr/" class="md-footer__link md-footer__link--next" aria-label="Próximo: NFR Framework" rel="next">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Próximo
+              </span>
+              <div class="md-ellipsis">
+                NFR Framework
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.footer", "header.autohide"], "search": "../../assets/javascripts/workers/search.74e28a9f.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.220ee61c.min.js"></script>
+      
+    
+  </body>
+</html>

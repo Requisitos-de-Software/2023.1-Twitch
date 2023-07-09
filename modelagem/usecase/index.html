@@ -1,0 +1,2940 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../lexico/">
+      
+      
+        <link rel="next" href="../esp_suplementar/">
+      
+      <link rel="icon" href="../../assets/twitch_icon.png">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.18">
+    
+    
+      
+        <title>Use Case - Grupo 8 - Twitch</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.26e3688c.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ecc896b0.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="purple">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#1-introducao" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="Grupo 8 - Twitch" class="md-header__button md-logo" aria-label="Grupo 8 - Twitch" data-md-component="logo">
+      
+  <img src="../../planejamento/imagens/twitch_icon.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Grupo 8 - Twitch
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Use Case
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="purple"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+            
+              <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="deep-purple" data-md-color-accent="purple"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+            
+              <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
+          
+        </form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando a pesquisa
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2023.1-Twitch" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Requisitos-de-Software/2023.1-Twitch
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Grupo 8 - Twitch" class="md-nav__button md-logo" aria-label="Grupo 8 - Twitch" data-md-component="logo">
+      
+  <img src="../../planejamento/imagens/twitch_icon.png" alt="logo">
+
+    </a>
+    Grupo 8 - Twitch
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2023.1-Twitch" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Requisitos-de-Software/2023.1-Twitch
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Início
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma_realizado/" class="md-nav__link">
+        Cronograma Realizado
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/ferramentas/" class="md-nav__link">
+        Ferramentas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/scrum_adaptado/" class="md-nav__link">
+        Metodologias
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          Pré-Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Pré-Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pre_rastreabilidade/rich_picture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+          Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/perfis_usuario/" class="md-nav__link">
+        Perfis de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="0">
+          Técnicas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4_3">
+          <span class="md-nav__icon md-icon"></span>
+          Técnicas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/Brainstorm/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/observacao/" class="md-nav__link">
+        Observação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/AnaliseDeDocumento/" class="md-nav__link">
+        Análise Documental
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/priorizacao/" class="md-nav__link">
+        Priorização
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+          Modelagem
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Modelagem
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lexico/" class="md-nav__link">
+        Léxico
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Use Case
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Use Case
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-metodologia" class="md-nav__link">
+    2. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-legenda-do-diagrama-de-caso-de-uso" class="md-nav__link">
+    3. Legenda do Diagrama de Caso de Uso
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-diagrama-de-caso-de-uso" class="md-nav__link">
+    4. Diagrama de Caso de Uso
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-especificacoes-de-caso-de-uso" class="md-nav__link">
+    5. Especificações de Caso de Uso
+  </a>
+  
+    <nav class="md-nav" aria-label="5. Especificações de Caso de Uso">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-caso-de-uso-fazer-login" class="md-nav__link">
+    5.1 Caso de Uso: Fazer Login
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-caso-de-uso-buscar-conteudo" class="md-nav__link">
+    5.2 Caso de Uso: Buscar Conteúdo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#53-caso-de-uso-consumir-conteudo" class="md-nav__link">
+    5.3 Caso de Uso: Consumir Conteúdo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#54-caso-de-uso-criar-conteudo" class="md-nav__link">
+    5.4 Caso de Uso: Criar Conteúdo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#55-caso-de-uso-acessar-notificacoes" class="md-nav__link">
+    5.5 Caso de Uso: Acessar notificações
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#56-caso-de-uso-interagir-em-lives" class="md-nav__link">
+    5.6 Caso de Uso: Interagir em Lives
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#57-caso-de-uso-moderar-conteudo" class="md-nav__link">
+    5.7 Caso de Uso: Moderar Conteúdo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#58-caso-de-uso-apoiar-conteudo" class="md-nav__link">
+    5.8 Caso de Uso: Apoiar Conteúdo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#59-acessar-sussurro" class="md-nav__link">
+    5.9 Acessar Sussurro
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-validacao-dos-casos-de-uso" class="md-nav__link">
+    6. Validação dos Casos de Uso
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-participantes" class="md-nav__link">
+    7. Participantes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8-referencias" class="md-nav__link">
+    8. Referências
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    Histórico de Versões
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../esp_suplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user_stories/" class="md-nav__link">
+        User Stories
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nfr/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../backlog/" class="md-nav__link">
+        Backlog do produto
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+          Verificação Grupo 01
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação Grupo 01
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/planejamento/" class="md-nav__link">
+        Planejamento da Verificação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+          Entrega 1 - Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_2">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 1 - Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_aplicativo_escolhido/" class="md-nav__link">
+        Aplicativo Escolhido
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_cronograma/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verificacao01_richpicture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+          Entrega 2 - Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_3">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 2 - Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_perfilusuariov/" class="md-nav__link">
+        Perfil de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_3_3" id="__nav_6_3_3_label" tabindex="0">
+          Técnicas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_6_3_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_3_3">
+          <span class="md-nav__icon md-icon"></span>
+          Técnicas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/brainstorm_v/" class="md-nav__link">
+        Brainstorming
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verificacao01_questionario/" class="md-nav__link">
+        Questionário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_observacao/" class="md-nav__link">
+        Observação
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_3_4" id="__nav_6_3_4_label" tabindex="0">
+          Priorização
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_6_3_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_3_4">
+          <span class="md-nav__icon md-icon"></span>
+          Priorização
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_%24100/" class="md-nav__link">
+        Técnica de Priorização $100
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/first_v/" class="md-nav__link">
+        Técnica de Priorização First Thing First
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_threelevelscale/" class="md-nav__link">
+        Técnica de Priorização Three Level Scale
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+          Entrega 3 - Modelagem de Requisitos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_4">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 3 - Modelagem de Requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_espsuplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verificacao01_lexicos/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_casos_uso/" class="md-nav__link">
+        Casos de uso
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_5" id="__nav_6_5_label" tabindex="0">
+          Entrega 4 - Modelagem de Requisitos (Ágil)
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_5">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 4 - Modelagem de Requisitos (Ágil)
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verificacao01_nfr/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/userstory_v/" class="md-nav__link">
+        Histórias de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao_grupo01/verifica01_backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+          Verificação e Validação Grupo 08
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação e Validação Grupo 08
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/planejamento/" class="md-nav__link">
+        Planejamento da Verificação e da Validação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_2" id="__nav_7_2_label" tabindex="0">
+          Entrega 1 - Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_2">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 1 - Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_cronograma08/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_ferramentas08/" class="md-nav__link">
+        Ferramentas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_richpicture08/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_3" id="__nav_7_3_label" tabindex="0">
+          Entrega 2 - Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_3">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 2 - Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_perfis_usuario/" class="md-nav__link">
+        Perfis de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_3_4" id="__nav_7_3_4_label" tabindex="0">
+          Técnicas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_3_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_3_4">
+          <span class="md-nav__icon md-icon"></span>
+          Técnicas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_brainstorm08/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_observacao/" class="md-nav__link">
+        Observação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verifica_analise_doc/" class="md-nav__link">
+        Análise Documental
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_3_5" id="__nav_7_3_5_label" tabindex="0">
+          Priorização
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_3_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_3_5">
+          <span class="md-nav__icon md-icon"></span>
+          Priorização
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verifica_threelevelscale/" class="md-nav__link">
+        Técnica de Priorização Three Level Scale
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_moscow08/" class="md-nav__link">
+        Técnica de Priorização MosCow
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_ftf/" class="md-nav__link">
+        Técnica de Priorização First Thing First
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_4" id="__nav_7_4_label" tabindex="0">
+          Entrega 3 - Modelagem de Requisitos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_4">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 3 - Modelagem de Requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_esp_sup/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_lexicos08/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_usecase08/" class="md-nav__link">
+        Casos de Uso
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_5" id="__nav_7_5_label" tabindex="0">
+          Entrega 4 - Modelagem de Requisitos (Ágil)
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_5">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 4 - Modelagem de Requisitos (Ágil)
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verificacao_nfr/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verifica_userstory/" class="md-nav__link">
+        Histórias de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/verifica_backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verifica_valida_grupo08/validacao/" class="md-nav__link">
+        Validação
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+          Pós Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Pós Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos_rastreabilidade/backward_from/" class="md-nav__link">
+        Backward From
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos_rastreabilidade/forward_from/" class="md-nav__link">
+        Forward From
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos_rastreabilidade/matriz_rastreabilidade/" class="md-nav__link">
+        Matriz de Rastreablidade
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+          Atas de reunião
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_9">
+          <span class="md-nav__icon md-icon"></span>
+          Atas de reunião
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_1/" class="md-nav__link">
+        Reunião 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_2/" class="md-nav__link">
+        Reunião 2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_3/" class="md-nav__link">
+        Reunião 3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_4/" class="md-nav__link">
+        Reunião 4
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_5/" class="md-nav__link">
+        Reunião 5
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_6/" class="md-nav__link">
+        Reunião 6
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_7/" class="md-nav__link">
+        Reunião 7
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_8/" class="md-nav__link">
+        Reunião 8
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/" class="md-nav__link">
+        Apresentações
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../colab/" class="md-nav__link">
+        Regras de Colaboração
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../projeto_final/" class="md-nav__link">
+        Projeto Final
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-metodologia" class="md-nav__link">
+    2. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-legenda-do-diagrama-de-caso-de-uso" class="md-nav__link">
+    3. Legenda do Diagrama de Caso de Uso
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-diagrama-de-caso-de-uso" class="md-nav__link">
+    4. Diagrama de Caso de Uso
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-especificacoes-de-caso-de-uso" class="md-nav__link">
+    5. Especificações de Caso de Uso
+  </a>
+  
+    <nav class="md-nav" aria-label="5. Especificações de Caso de Uso">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-caso-de-uso-fazer-login" class="md-nav__link">
+    5.1 Caso de Uso: Fazer Login
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-caso-de-uso-buscar-conteudo" class="md-nav__link">
+    5.2 Caso de Uso: Buscar Conteúdo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#53-caso-de-uso-consumir-conteudo" class="md-nav__link">
+    5.3 Caso de Uso: Consumir Conteúdo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#54-caso-de-uso-criar-conteudo" class="md-nav__link">
+    5.4 Caso de Uso: Criar Conteúdo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#55-caso-de-uso-acessar-notificacoes" class="md-nav__link">
+    5.5 Caso de Uso: Acessar notificações
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#56-caso-de-uso-interagir-em-lives" class="md-nav__link">
+    5.6 Caso de Uso: Interagir em Lives
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#57-caso-de-uso-moderar-conteudo" class="md-nav__link">
+    5.7 Caso de Uso: Moderar Conteúdo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#58-caso-de-uso-apoiar-conteudo" class="md-nav__link">
+    5.8 Caso de Uso: Apoiar Conteúdo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#59-acessar-sussurro" class="md-nav__link">
+    5.9 Acessar Sussurro
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-validacao-dos-casos-de-uso" class="md-nav__link">
+    6. Validação dos Casos de Uso
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-participantes" class="md-nav__link">
+    7. Participantes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8-referencias" class="md-nav__link">
+    8. Referências
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    Histórico de Versões
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+  <h1>Use Case</h1>
+
+<h2 id="1-introducao">1. Introdução<a class="headerlink" href="#1-introducao" title="Permanent link">&para;</a></h2>
+<p>Um diagrama de caso de uso UML tem como objetivo indicar as diferentes possibilidades que um usuário pode se comunicar ou interagir com um sistema específico. Em UML, um diagrama de caso de uso mostra de forma resumida as interações entre usuários de um sistema (ou atores) e o próprio sistema, bem como as metas que o sistema auxilia os atores a atingir e o escopo desse sistema.</p>
+<p>Dada a simplicidade desse modelo, sua utilização e sua funcionalidade está dentro do escopo de: representar metas de interação sistema-usuário; definir requisitos funcionais de um sistema; especificação de contextos e requisitos do sistema; modelagem do fluxo básico de eventos que um sistema deve ser capaz de realizar.</p>
+<h2 id="2-metodologia">2. Metodologia<a class="headerlink" href="#2-metodologia" title="Permanent link">&para;</a></h2>
+<p>Para elaborar esse artefato, o grupo decidiu representar os casos de uso por meio de um diagrama UML. Os passos seguidos para a produção do diagrama UML de Caso de Uso estão contidos a seguir:</p>
+<ol>
+<li>Inserção da forma retangular de sistema no diagrama;</li>
+<li>Adição de atores primários (inicia a utilização do sistema) e secundários (reage);</li>
+<li>Inserção de casos de uso na ordem em que acontecem para representar as tarefas realizadas dentro do sistema;</li>
+<li>Escolha de nomes intuitivos e simples para os casos de usos usando verbos e descrições simples para reforçar a ideia de que uma ação acontece, sem dar margens a dúvidas;</li>
+<li>Criação de relacionamentos ao conectar atores e casos de uso.</li>
+</ol>
+<p>O software empregado para construir o diagrama foi o LucidChart.</p>
+<h2 id="3-legenda-do-diagrama-de-caso-de-uso">3. Legenda do Diagrama de Caso de Uso<a class="headerlink" href="#3-legenda-do-diagrama-de-caso-de-uso" title="Permanent link">&para;</a></h2>
+<p>A Tabela 1 a seguir descreve os elementos visuais utilizados no diagrama de caso de uso.</p>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Símbolo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Caso de Uso</td>
+<td><img alt="Caso de Uso" src="../imagens/casosdeuso.png" /></td>
+<td>Cada caso de uso representa uma ação que realiza uma tarefa dentro do sistema.</td>
+</tr>
+<tr>
+<td>Ator(es)</td>
+<td><img alt="Ator" src="../imagens/Ator.png" /></td>
+<td>Representam as pessoas que utilizam os casos de uso, sejam elas atores primários (inicia a utilização do sistema, posicionados à esquerda) ou atores secundários (reagem à utilização do sistema, posicionados à direita).</td>
+</tr>
+<tr>
+<td>Associações</td>
+<td><img alt="Associações" src="../imagens/associacao.png" /></td>
+<td>Descrevem os relacionamentos simples entre atores e casos de uso. Os atores se comunicam com os casos de uso ou interagem com os casos de uso.</td>
+</tr>
+<tr>
+<td>Inclusões</td>
+<td><img alt="Inclusão" src="../imagens/incluir.png" /></td>
+<td>Descreve o relacionamento entre um caso de uso base e um caso de uso incluído. O caso de uso base depende de um caso de uso incluído para estar completo, mas não é o ator que desempenha essa tarefa. A seta tracejada tem origem no caso de uso base e aponta para o caso de uso incluído.</td>
+</tr>
+<tr>
+<td>Extensões</td>
+<td><img alt="Extensão" src="../imagens/estender.png" /></td>
+<td>Descreve o relacionamento entre um caso de uso base e um caso de uso estendido. O caso de uso base, ao ser inicializado pelo ator, pode ou não resultar na ocorrência do caso de uso estentido; ou seja, o caso de uso estendido acontece apenas se certos critérios forem cumpridos na realização do caso de uso base. A seta tracejada tem origem no caso de uso estendido e aponta para o caso de uso base.</td>
+</tr>
+<tr>
+<td>Generalização ou Herança</td>
+<td><img alt="Herança" src="../imagens/heranca.png" /></td>
+<td>Descreve o relacionamento entre atores distintos ou entre casos de uso distintos. Um caso de uso especializado herda todas as características de um caso de uso geral, isto é, um caso de uso secundário herda as características de um caso de uso primário. A mesma dinâmica ocorre entre atores especializados, que herdam todas as características de um ator geral.</td>
+</tr>
+<tr>
+<td>Caixa de limite do sistema</td>
+<td><img alt="Caixa de limite do sistema" src="../imagens/sistema.png" /></td>
+<td>Retângulo que delimita o escopo do sistema. Casos de uso fora do retângulo estão fora do escopo do sistema descrito.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 1: Legenda do Diagrama de Caso de Uso
+<br> Autor(es): Brunna Louise, Diógenes Dantas
+<br>Fonte: Autor(es)</h6>
+
+<h2 id="4-diagrama-de-caso-de-uso">4. Diagrama de Caso de Uso<a class="headerlink" href="#4-diagrama-de-caso-de-uso" title="Permanent link">&para;</a></h2>
+<p>O diagrama de Caso de Uso da Twitch está na figura 1 a seguir.</p>
+<p><img alt="Diagrama de Casos de Uso" id="Diagrama de Casos de Uso" src="../imagens/CasodeUsoUML.png" /></p>
+<h6 align = "center">Figura 1: Diagrama de Casos de Uso
+<br>Autor(es): Brunna Louise e Diógenes Dantas
+<br>Fonte: Autor(es)</h6>
+
+<h2 id="5-especificacoes-de-caso-de-uso">5. Especificações de Caso de Uso<a class="headerlink" href="#5-especificacoes-de-caso-de-uso" title="Permanent link">&para;</a></h2>
+<p>As especificações de cada Caso de Uso no diagrama mostrado na seção 4 serão descritas nas tabelas de 2 a X a seguir.</p>
+<h4 id="51-caso-de-uso-fazer-login">5.1 Caso de Uso: Fazer Login<a class="headerlink" href="#51-caso-de-uso-fazer-login" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>Caso de Uso</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário deve ser capaz de realizar login em sua conta para acessar as funcionalidades da Twitch.</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>- Possuir acesso à internet; <br> - Haver efetuado cadastro anteriormente.</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Espectador, Criador, Moderador</td>
+</tr>
+<tr>
+<td>Fluxo</td>
+<td>1. O usuário acessa a página web ou aplicativo da Twitch; <br> 2. O usuário digita seu <em>username</em> e senha definidos no cadastro; <br> 3. O usuário clica em <em>Login</em>.</td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>O usuário terá acesso às principais funcionalidades oferecidas pela Twitch.</td>
+</tr>
+<tr>
+<td>Fluxo Alternativo</td>
+<td>Caso o usuário tenha problemas para fazer login em sua conta (por exemplo, caso tenha esquecido sua senha), ele pode clicar em um hiperlink "Trouble logging in?", que redirecionará o usuário para recuperar sua conta por meio de um email ou um número de celular.</td>
+</tr>
+<tr>
+<td>Fluxo de Exceção 1</td>
+<td>O usuário digitou corretamente seu nome de usuário, mas errou sua senha. Caso isso aconteça, aparecerá uma mensagem de erro dizendo que a senha está incorreta e será possível ao usuário tentar digitá-la novamente.</td>
+</tr>
+<tr>
+<td>Fluxo de Exceção 2</td>
+<td>O usuário digitou um nome de usuário que não existe. Caso isso aconteça, aparecerá uma mensagem de erro dizendo que esse nome de usuário não existe e perguntando se o usuário deseja criar uma nova conta.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 2: Especificação de casos de uso - Fazer Login </h6>
+
+<h4 id="52-caso-de-uso-buscar-conteudo">5.2 Caso de Uso: Buscar Conteúdo<a class="headerlink" href="#52-caso-de-uso-buscar-conteudo" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>Caso de Uso</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário acessa inicialmente uma página inicial que contém recomendações de lives, canais e categorias. Além disso, ele pode realizar uma busca caso queira encontrar algo em específico.</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>- Possuir acesso à internet.</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Espectador, Criador</td>
+</tr>
+<tr>
+<td>Fluxo</td>
+<td>1. Caso o usuário não tenha encontrado o conteúdo que gostaria de visualizar na página inicial, ele precisará fazer uma busca; <br> 2. O usuário clica na barra de busca no topo da página e digita o conteúdo que quer procurar; <br> 3. O usuário encontra lives e canais atrelados às palavras-chave usadas no mecanismo de pesquisa.</td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>Encontrar o conteúdo que estava procurando, ou não.</td>
+</tr>
+<tr>
+<td>Fluxo de Exceção 1</td>
+<td>O usuário buscou por um conteúdo inexistente ou digitou errado o que estava procurando. Caso isso aconteça, aparecerá uma mensagem de erro dizendo que não foram encontrados resultados para essa palavra-chave e que o usuário se certifique de que digitou corretamente o que buscava (conferir se há erros de digitação).</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 3: Especificação de casos de uso - Buscar Conteúdo </h6>
+
+<h4 id="53-caso-de-uso-consumir-conteudo">5.3 Caso de Uso: Consumir Conteúdo<a class="headerlink" href="#53-caso-de-uso-consumir-conteudo" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>Caso de Uso</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário deve ser capaz de assistir lives na plataforma da Twitch.</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>- Possuir acesso à internet.</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Espectador</td>
+</tr>
+<tr>
+<td>Fluxo</td>
+<td>1. O usuário clica na live que quer assistir; <br> 2. O usuário tem acesso à live.</td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>O usuário é capaz de assistir à live.</td>
+</tr>
+<tr>
+<td>Fluxo Alternativo</td>
+<td>O usuário clicou na live, porém o criador de conteúdo dono desse canal indicou que seu canal é direcionado a público adulto. Caso queira proceder, o usuário clica no botão "Start Watching" e pode, por fim, assistir à live.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 4: Especificação de casos de uso - Consumir Conteúdo </h6>
+
+<h4 id="54-caso-de-uso-criar-conteudo">5.4 Caso de Uso: Criar Conteúdo<a class="headerlink" href="#54-caso-de-uso-criar-conteudo" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>Caso de Uso</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Um usuário deve ser capaz de criar um canal para produzir conteúdo. No caso da Twitch, o conteúdo produzido é uma transmissão ao vivo.</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>- Possuir acesso à internet; <br> - Haver efetuado cadastro; <br> - Estar logado em sua conta.</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Criador</td>
+</tr>
+<tr>
+<td>Fluxo</td>
+<td>1. O usuário clica em <em>Criar Conteúdo</em>; <br> 2. O usuário começa a transmitir ao vivo seu conteúdo.</td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>O usuário é capaz de transmitir o conteúdo que deseja ao vivo na plataforma.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 5: Especificação de casos de uso - Criar Conteúdo </h6>
+
+<h4 id="55-caso-de-uso-acessar-notificacoes">5.5 Caso de Uso: Acessar notificações<a class="headerlink" href="#55-caso-de-uso-acessar-notificacoes" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>Caso de Uso</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário deve ser capaz de ter acesso a notificações de canais que segue e de outros usuários que interagiram com seu canal.</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>- Possuir acesso à internet; <br> - Haver efetuado cadastro; <br> - Estar logado em sua conta.</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Espectador, Criador</td>
+</tr>
+<tr>
+<td>Fluxo</td>
+<td>1. O usuário clica no ícone de notificações; <br> 2. O usuário pode alternar entre notificações relacionadas a quem interagiu com seu canal ou notificações relacionadas aos canais que segue.</td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>O usuário é capaz de visualizar quem interagiu com seu canal e que outros canais que ele segue produziram conteúdo enquanto estava ausente.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 6: Especificação de casos de uso - Acessar Notificações </h6>
+
+<h4 id="56-caso-de-uso-interagir-em-lives">5.6 Caso de Uso: Interagir em Lives<a class="headerlink" href="#56-caso-de-uso-interagir-em-lives" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>Caso de Uso</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário deve ser capaz de comentar nas lives as quais está assistindo, interagindo com outros usuários e com o criador de conteúdo.</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>- Possuir acesso à internet; <br> - Haver efetuado cadastro; <br> - Estar logado em sua conta; <br> - Estar consumindo conteúdo (assistindo a uma live).</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Espectador, Criador</td>
+</tr>
+<tr>
+<td>Fluxo</td>
+<td>1. O usuário clica na aba de comentários da live; <br> 2. O usuário digita sua mensagem; <br> 3. A mensagem pode ou não passar por moderação para ser enviada.</td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>A mensagem desejada é enviada (ou não, caso não seja aprovada), possibilitando o usuário a interagir com outros usuários e com o criador de conteúdo.</td>
+</tr>
+<tr>
+<td>Fluxo Alternativo</td>
+<td>O usuário tenta interagir em uma live, porém, o criador de conteúdo permite interação somente a usuários que o sigam. Caso o usuário queria interagir nessa live em específico, ela deve começar a seguir o criador de conteúdo.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 7: Especificação de casos de uso - Interagir em Lives </h6>
+
+<h4 id="57-caso-de-uso-moderar-conteudo">5.7 Caso de Uso: Moderar Conteúdo<a class="headerlink" href="#57-caso-de-uso-moderar-conteudo" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>Caso de Uso</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário deve ser capaz de monitorar os comentários em tempo real, procurando por mensagens que violem as regras do canal ou as diretrizes da Twitch e têm autoridade para remover ou ocultar tais mensagens.</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>- Possuir acesso à internet; <br> - Haver efetuado cadastro; <br> - Estar logado em sua conta;</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Moderador</td>
+</tr>
+<tr>
+<td>Fluxo</td>
+<td>1. O usuário entra em uma live; <br> 2. O criador de conteúdo libera o acesso aos comentários; <br> 3. O usuário designado pelo criador de conteúdo monitora os comentários em tempo real.</td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>O moderador tem acesso aos comentários e pode remover e ocultar mensagens que violam as regras do canal do criador ou as diretrizes da plataforma.</td>
+</tr>
+<tr>
+<td>Fluxo Alternativo</td>
+<td>Caso o criador de conteúdo não tenha habilitado essa opção em seu canal, não será possível que usuários designados por ele moderem o chat de sua live.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 8: Especificação de casos de uso - Moderar Conteúdo </h6>
+
+<h4 id="58-caso-de-uso-apoiar-conteudo">5.8 Caso de Uso: Apoiar Conteúdo<a class="headerlink" href="#58-caso-de-uso-apoiar-conteudo" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>Caso de Uso</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário é capaz de oferecer suporte ativo à sua transmissão, demonstrando interesse e ajudando a fortalecer sua comunidade, utilizando a ferramenta de "seguir" ou pagando com o "inscrever".</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>- Possuir acesso à internet; <br> - Haver efetuado cadastro; <br> - Estar logado em sua conta.</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Espectador, Criador</td>
+</tr>
+<tr>
+<td>Fluxo</td>
+<td>1. O usuário entra em uma live; <br> 2. O usuário clica em seguir, botão ao lado do canal que está transmitindo esse conteúdo.</td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>O usuário é capaz de acompanhar o conteúdo de um criador de conteúdo e receber notificações quando há conteúdo novo.</td>
+</tr>
+<tr>
+<td>Fluxo ALternativo</td>
+<td>Além de apenas seguir um canal, um usuário pode se inscrever. Com isso, ele apoia financeiramente um canal por meio de uma assinatura, o que confere ao usuário benefícios estabelecidos pelo criador de conteúdo.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 9: Especificação de casos de uso - Apoiar Conteúdo </h6>
+
+<h4 id="59-acessar-sussurro">5.9 Acessar Sussurro<a class="headerlink" href="#59-acessar-sussurro" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>Caso de Uso</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário é capaz de acessar o chat privato da plataforma (sussurro) e mandar mensagens para outros usuários.</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>- Possuir acesso à internet; <br> - Haver efetuado cadastro; <br> - Estar logado em sua conta.</td>
+</tr>
+<tr>
+<td>Atores</td>
+<td>Espectador, Criador</td>
+</tr>
+<tr>
+<td>Fluxo</td>
+<td>1. O usuário clica no ícone de sussurros; <br> 2. O usuário pode mandar mensagens para outros usuários.</td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>O usuário é capaz de enviar mensagens privadas para outros usuários e se comunicar com outros membros da plataforma.</td>
+</tr>
+<tr>
+<td>Fluxo de Exceção</td>
+<td>Há usuários que não permitem que outros usuários lhes envie sussurros. Dessa forma, não será possível enviar uma mensagem privada para esse usuário.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 10: Especificação de casos de uso - Acessar Sussuro </h6>
+
+<h2 id="6-validacao-dos-casos-de-uso">6. Validação dos Casos de Uso<a class="headerlink" href="#6-validacao-dos-casos-de-uso" title="Permanent link">&para;</a></h2>
+<p>Utilizando-se da técnica de revisão de requisitos, os membros da equipe de modelagem Brunna e Diógenes fizeram uma reunião em que, utilizando-se de personas criadas anteriormente como usuários ativos/clientes dos serviços da Twitch, fez-se possível validar os casos de uso apresentados.
+As personas capazes de validar o documento apresentado são: Enzo Oliveira, Larissa da Silva e João Carvalho, todas personas primárias utilizadas na etapa de elicitação de requisitos. É possível conferir mais características a respeito dessas personas no documento de <a href="https://requisitos-de-software.github.io/2023.1-Twitch/elicitacao/personas/">Personas</a>.</p>
+<h2 id="7-participantes">7. Participantes<a class="headerlink" href="#7-participantes" title="Permanent link">&para;</a></h2>
+<p>A tabela 11 a seguir registra os membros do grupo que contribuíram com esse documento:</p>
+<table>
+<thead>
+<tr>
+<th><strong>Participante</strong></th>
+<th><strong>Papel</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Brunna Louise</td>
+<td>Membro da Equipe de Modelagem</td>
+</tr>
+<tr>
+<td>Diógenes Dantas</td>
+<td>Membro da Equipe de Modelagem</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 11: Participantes e seus papéis na produção do artefato
+<br> Autor(es): Diógenes, Brunna Louise
+<br>Fonte: Autor(es)</h6>
+
+<h2 id="8-referencias">8. Referências<a class="headerlink" href="#8-referencias" title="Permanent link">&para;</a></h2>
+<blockquote>
+<p>Diagrama de caso de uso UML: O que é, como fazer e exemplos, pela equipe do Lucidchart. Acesse o site com o tutorial nesse <a href="https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml">link</a>. Acesso em 11 de maio de 2023.</p>
+<p>O que é UML e Diagramas de Caso de Uso: Introdução Prática à UML. Acesse o site com o tutorial nesse <a href="https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408">link</a>. Acesso em 13 de maio de 2023.</p>
+<p>Tutorial de Caso de Uso UML. <a href="https://www.youtube.com/watch?v=ab6eDdwS3rA">link</a>. Acesso em 13 de maio de 2023.</p>
+</blockquote>
+<h2 id="historico-de-versoes">Histórico de Versões<a class="headerlink" href="#historico-de-versoes" title="Permanent link">&para;</a></h2>
+<p>A Tabela 12 registra o histórico de versão desse documento.</p>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>Data</strong></th>
+<th align="center"><strong>Versão</strong></th>
+<th align="center"><strong>Descrição</strong></th>
+<th align="center"><strong>Autor</strong></th>
+<th align="center"><strong>Revisor</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">11/05/2023</td>
+<td align="center">1.0</td>
+<td align="center">Primeira Versão do artefato de Use Case (Caso de Uso)</td>
+<td align="center">Brunna Louise, Diógenes Dantas</td>
+<td align="center">Milena Beatriz, Rafael Nobre</td>
+</tr>
+<tr>
+<td align="center">14/05/2023</td>
+<td align="center">1.1</td>
+<td align="center">Adição de metodologia e algumas legendas do Diagrama de Caso de Uso</td>
+<td align="center">Brunna Louise, Diógenes Dantas</td>
+<td align="center">Milena Beatriz</td>
+</tr>
+<tr>
+<td align="center">15/05/2023</td>
+<td align="center">1.2</td>
+<td align="center">Adição do Diagrama de Casos de Uso e novas imagens da Legenda do Diagrama de Caso de Uso</td>
+<td align="center">Diógenes Dantas</td>
+<td align="center">Brunna Louise</td>
+</tr>
+<tr>
+<td align="center">16/05/2023</td>
+<td align="center">1.3</td>
+<td align="center">Adição de passos seguidos para criação de diagrama de caso de uso</td>
+<td align="center">Brunna Louise</td>
+<td align="center">Diógenes Dantas</td>
+</tr>
+<tr>
+<td align="center">16/05/2023</td>
+<td align="center">1.4</td>
+<td align="center">Adição de primeira versão de Especificações de Casos de Uso</td>
+<td align="center">Brunna Louise</td>
+<td align="center">Diógenes Dantas</td>
+</tr>
+<tr>
+<td align="center">16/05/2023</td>
+<td align="center">1.5</td>
+<td align="center">Adição de novas Especificações de Casos de Uso e alteração da imagem de associações</td>
+<td align="center">Diógenes Dantas</td>
+<td align="center">Brunna Louise</td>
+</tr>
+<tr>
+<td align="center">24/05/2023</td>
+<td align="center">1.6</td>
+<td align="center">Adição de Correções ligadas ao diagrama de Casos de Uso</td>
+<td align="center">Diógenes Dantas</td>
+<td align="center">Brunna Louise</td>
+</tr>
+<tr>
+<td align="center">01/06/2023</td>
+<td align="center">1.7</td>
+<td align="center">Adição da Tabela de Validação do Diagrama dos Casos de Uso</td>
+<td align="center">Diógenes Dantas</td>
+<td align="center">Brunna Louise</td>
+</tr>
+<tr>
+<td align="center">05/06/2023</td>
+<td align="center">1.8</td>
+<td align="center">Adição de Fluxos Alternativos e Fluxos de Exceção (caso se aplique)</td>
+<td align="center">Brunna Louise</td>
+<td align="center">Diógenes Dantas</td>
+</tr>
+<tr>
+<td align="center">12/06/2023</td>
+<td align="center">1.9</td>
+<td align="center">Adição de Validação por meio de Personas</td>
+<td align="center">Brunna Louise</td>
+<td align="center">Diógenes Dantas</td>
+</tr>
+<tr>
+<td align="center">20/06/2023</td>
+<td align="center">2.0</td>
+<td align="center">Versão Final do Artefato: ajustes finais para a entrega completa do projeto</td>
+<td align="center">Diógenes Dantas</td>
+<td align="center">Brunna Louise</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 12: Histórico de Versões
+<br> Autor(es): Brunna Louise, Diógenes Dantas
+<br>Fonte: Autor(es)</h6>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Rodapé" >
+        
+          
+          <a href="../lexico/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Léxico" rel="prev">
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              <div class="md-ellipsis">
+                Léxico
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../esp_suplementar/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Especificação Suplementar" rel="next">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Próximo
+              </span>
+              <div class="md-ellipsis">
+                Especificação Suplementar
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.footer", "header.autohide"], "search": "../../assets/javascripts/workers/search.74e28a9f.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.220ee61c.min.js"></script>
+      
+    
+  </body>
+</html>

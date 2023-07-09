@@ -1,0 +1,4057 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../colab/">
+      
+      
+      <link rel="icon" href="../assets/twitch_icon.png">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.18">
+    
+    
+      
+        <title>Projeto Final - Grupo 8 - Twitch</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.26e3688c.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ecc896b0.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="purple">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#projeto-final" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href=".." title="Grupo 8 - Twitch" class="md-header__button md-logo" aria-label="Grupo 8 - Twitch" data-md-component="logo">
+      
+  <img src="../planejamento/imagens/twitch_icon.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Grupo 8 - Twitch
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Projeto Final
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="purple"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+            
+              <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="deep-purple" data-md-color-accent="purple"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+            
+              <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
+          
+        </form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando a pesquisa
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2023.1-Twitch" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Requisitos-de-Software/2023.1-Twitch
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Grupo 8 - Twitch" class="md-nav__button md-logo" aria-label="Grupo 8 - Twitch" data-md-component="logo">
+      
+  <img src="../planejamento/imagens/twitch_icon.png" alt="logo">
+
+    </a>
+    Grupo 8 - Twitch
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2023.1-Twitch" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Requisitos-de-Software/2023.1-Twitch
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        Início
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../planejamento/cronograma/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../planejamento/cronograma_realizado/" class="md-nav__link">
+        Cronograma Realizado
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../planejamento/ferramentas/" class="md-nav__link">
+        Ferramentas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../planejamento/scrum_adaptado/" class="md-nav__link">
+        Metodologias
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          Pré-Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Pré-Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../pre_rastreabilidade/rich_picture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+          Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../elicitacao/perfis_usuario/" class="md-nav__link">
+        Perfis de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../elicitacao/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="0">
+          Técnicas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4_3">
+          <span class="md-nav__icon md-icon"></span>
+          Técnicas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../elicitacao/tecnicas/Brainstorm/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../elicitacao/tecnicas/observacao/" class="md-nav__link">
+        Observação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../elicitacao/tecnicas/AnaliseDeDocumento/" class="md-nav__link">
+        Análise Documental
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../elicitacao/priorizacao/" class="md-nav__link">
+        Priorização
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+          Modelagem
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Modelagem
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../modelagem/cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../modelagem/lexico/" class="md-nav__link">
+        Léxico
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../modelagem/usecase/" class="md-nav__link">
+        Use Case
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../modelagem/esp_suplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../modelagem/user_stories/" class="md-nav__link">
+        User Stories
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../modelagem/nfr/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../modelagem/backlog/" class="md-nav__link">
+        Backlog do produto
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+          Verificação Grupo 01
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação Grupo 01
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/planejamento/" class="md-nav__link">
+        Planejamento da Verificação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+          Entrega 1 - Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_2">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 1 - Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/verifica01_aplicativo_escolhido/" class="md-nav__link">
+        Aplicativo Escolhido
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/verifica01_cronograma/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/verificacao01_richpicture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+          Entrega 2 - Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_3">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 2 - Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/verifica01_perfilusuariov/" class="md-nav__link">
+        Perfil de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/verifica01_personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_3_3" id="__nav_6_3_3_label" tabindex="0">
+          Técnicas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_6_3_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_3_3">
+          <span class="md-nav__icon md-icon"></span>
+          Técnicas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/verifica01_introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/brainstorm_v/" class="md-nav__link">
+        Brainstorming
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/verificacao01_questionario/" class="md-nav__link">
+        Questionário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/verifica01_observacao/" class="md-nav__link">
+        Observação
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_3_4" id="__nav_6_3_4_label" tabindex="0">
+          Priorização
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_6_3_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_3_4">
+          <span class="md-nav__icon md-icon"></span>
+          Priorização
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/verifica01_%24100/" class="md-nav__link">
+        Técnica de Priorização $100
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/first_v/" class="md-nav__link">
+        Técnica de Priorização First Thing First
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/verifica01_threelevelscale/" class="md-nav__link">
+        Técnica de Priorização Three Level Scale
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+          Entrega 3 - Modelagem de Requisitos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_4">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 3 - Modelagem de Requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/verifica01_espsuplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/verifica01_cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/verificacao01_lexicos/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/verifica01_casos_uso/" class="md-nav__link">
+        Casos de uso
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_5" id="__nav_6_5_label" tabindex="0">
+          Entrega 4 - Modelagem de Requisitos (Ágil)
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_5">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 4 - Modelagem de Requisitos (Ágil)
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/verificacao01_nfr/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/userstory_v/" class="md-nav__link">
+        Histórias de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verificacao_grupo01/verifica01_backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+          Verificação e Validação Grupo 08
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação e Validação Grupo 08
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/planejamento/" class="md-nav__link">
+        Planejamento da Verificação e da Validação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_2" id="__nav_7_2_label" tabindex="0">
+          Entrega 1 - Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_2">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 1 - Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verificacao_cronograma08/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verificacao_ferramentas08/" class="md-nav__link">
+        Ferramentas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verificacao_richpicture08/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_3" id="__nav_7_3_label" tabindex="0">
+          Entrega 2 - Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_3">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 2 - Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verificacao_perfis_usuario/" class="md-nav__link">
+        Perfis de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verificacao_personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verificacao_cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_3_4" id="__nav_7_3_4_label" tabindex="0">
+          Técnicas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_3_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_3_4">
+          <span class="md-nav__icon md-icon"></span>
+          Técnicas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verificacao_brainstorm08/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verificacao_observacao/" class="md-nav__link">
+        Observação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verifica_analise_doc/" class="md-nav__link">
+        Análise Documental
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_3_5" id="__nav_7_3_5_label" tabindex="0">
+          Priorização
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_3_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_3_5">
+          <span class="md-nav__icon md-icon"></span>
+          Priorização
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verifica_threelevelscale/" class="md-nav__link">
+        Técnica de Priorização Three Level Scale
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verificacao_moscow08/" class="md-nav__link">
+        Técnica de Priorização MosCow
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verificacao_ftf/" class="md-nav__link">
+        Técnica de Priorização First Thing First
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_4" id="__nav_7_4_label" tabindex="0">
+          Entrega 3 - Modelagem de Requisitos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_4">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 3 - Modelagem de Requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verificacao_esp_sup/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verificacao_lexicos08/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verificacao_usecase08/" class="md-nav__link">
+        Casos de Uso
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_5" id="__nav_7_5_label" tabindex="0">
+          Entrega 4 - Modelagem de Requisitos (Ágil)
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_5">
+          <span class="md-nav__icon md-icon"></span>
+          Entrega 4 - Modelagem de Requisitos (Ágil)
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verificacao_nfr/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verifica_userstory/" class="md-nav__link">
+        Histórias de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/verifica_backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../verifica_valida_grupo08/validacao/" class="md-nav__link">
+        Validação
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+          Pós Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Pós Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../pos_rastreabilidade/backward_from/" class="md-nav__link">
+        Backward From
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../pos_rastreabilidade/forward_from/" class="md-nav__link">
+        Forward From
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../pos_rastreabilidade/matriz_rastreabilidade/" class="md-nav__link">
+        Matriz de Rastreablidade
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+          Atas de reunião
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_9">
+          <span class="md-nav__icon md-icon"></span>
+          Atas de reunião
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../atas/reuniao_1/" class="md-nav__link">
+        Reunião 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../atas/reuniao_2/" class="md-nav__link">
+        Reunião 2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../atas/reuniao_3/" class="md-nav__link">
+        Reunião 3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../atas/reuniao_4/" class="md-nav__link">
+        Reunião 4
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../atas/reuniao_5/" class="md-nav__link">
+        Reunião 5
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../atas/reuniao_6/" class="md-nav__link">
+        Reunião 6
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../atas/reuniao_7/" class="md-nav__link">
+        Reunião 7
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../atas/reuniao_8/" class="md-nav__link">
+        Reunião 8
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../apresentacoes/" class="md-nav__link">
+        Apresentações
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../colab/" class="md-nav__link">
+        Regras de Colaboração
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Projeto Final
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Projeto Final
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-aplicativo-selecionado" class="md-nav__link">
+    2. Aplicativo Selecionado
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-planejamento-dos-recursos-e-entregas" class="md-nav__link">
+    3. Planejamento dos recursos e entregas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-execucao-do-projeto" class="md-nav__link">
+    4. Execução do projeto
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-resultados-alcancados" class="md-nav__link">
+    5. Resultados Alcançados
+  </a>
+  
+    <nav class="md-nav" aria-label="5. Resultados Alcançados">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-visao-geral-do-projeto" class="md-nav__link">
+    5.1. Visão Geral do Projeto
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-resultados" class="md-nav__link">
+    5.2. Resultados
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#53-desafios" class="md-nav__link">
+    5.3. Desafios
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#54-comentarios-individuais" class="md-nav__link">
+    5.4. Comentários Individuais
+  </a>
+  
+    <nav class="md-nav" aria-label="5.4. Comentários Individuais">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#541-ana-beatriz" class="md-nav__link">
+    5.4.1. Ana Beatriz
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#542-brunna" class="md-nav__link">
+    5.4.2. Brunna
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#543-diogenes" class="md-nav__link">
+    5.4.3. Diógenes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#544-matheus" class="md-nav__link">
+    5.4.4. Matheus
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#545-milena" class="md-nav__link">
+    5.4.5. Milena
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#546-rafael" class="md-nav__link">
+    5.4.6. Rafael
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#55-conclusao" class="md-nav__link">
+    5.5. Conclusão
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-sintese-das-tecnicas-utilizadas" class="md-nav__link">
+    6. Síntese das técnicas utilizadas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-sintese-dos-artefatos" class="md-nav__link">
+    7. Síntese dos artefatos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8-sintese-do-metodo-de-verificacao-e-validacao" class="md-nav__link">
+    8. Síntese do método de verificação e validação
+  </a>
+  
+    <nav class="md-nav" aria-label="8. Síntese do método de verificação e validação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#81-tabela-da-verificacao" class="md-nav__link">
+    8.1. Tabela da Verificação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#82-tabela-da-validacao" class="md-nav__link">
+    8.2 Tabela da Validação
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#9-sintese-das-ferramentas-utilizadas" class="md-nav__link">
+    9. Síntese das ferramentas utilizadas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10-tabela-sintetizando-todos-os-videos-das-apresentacoes-de-cada-etapa" class="md-nav__link">
+    10. Tabela sintetizando todos os vídeos das apresentações de cada etapa
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-aplicativo-selecionado" class="md-nav__link">
+    2. Aplicativo Selecionado
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-planejamento-dos-recursos-e-entregas" class="md-nav__link">
+    3. Planejamento dos recursos e entregas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-execucao-do-projeto" class="md-nav__link">
+    4. Execução do projeto
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-resultados-alcancados" class="md-nav__link">
+    5. Resultados Alcançados
+  </a>
+  
+    <nav class="md-nav" aria-label="5. Resultados Alcançados">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-visao-geral-do-projeto" class="md-nav__link">
+    5.1. Visão Geral do Projeto
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-resultados" class="md-nav__link">
+    5.2. Resultados
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#53-desafios" class="md-nav__link">
+    5.3. Desafios
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#54-comentarios-individuais" class="md-nav__link">
+    5.4. Comentários Individuais
+  </a>
+  
+    <nav class="md-nav" aria-label="5.4. Comentários Individuais">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#541-ana-beatriz" class="md-nav__link">
+    5.4.1. Ana Beatriz
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#542-brunna" class="md-nav__link">
+    5.4.2. Brunna
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#543-diogenes" class="md-nav__link">
+    5.4.3. Diógenes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#544-matheus" class="md-nav__link">
+    5.4.4. Matheus
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#545-milena" class="md-nav__link">
+    5.4.5. Milena
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#546-rafael" class="md-nav__link">
+    5.4.6. Rafael
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#55-conclusao" class="md-nav__link">
+    5.5. Conclusão
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-sintese-das-tecnicas-utilizadas" class="md-nav__link">
+    6. Síntese das técnicas utilizadas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-sintese-dos-artefatos" class="md-nav__link">
+    7. Síntese dos artefatos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8-sintese-do-metodo-de-verificacao-e-validacao" class="md-nav__link">
+    8. Síntese do método de verificação e validação
+  </a>
+  
+    <nav class="md-nav" aria-label="8. Síntese do método de verificação e validação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#81-tabela-da-verificacao" class="md-nav__link">
+    8.1. Tabela da Verificação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#82-tabela-da-validacao" class="md-nav__link">
+    8.2 Tabela da Validação
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#9-sintese-das-ferramentas-utilizadas" class="md-nav__link">
+    9. Síntese das ferramentas utilizadas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10-tabela-sintetizando-todos-os-videos-das-apresentacoes-de-cada-etapa" class="md-nav__link">
+    10. Tabela sintetizando todos os vídeos das apresentações de cada etapa
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="projeto-final">Projeto Final<a class="headerlink" href="#projeto-final" title="Permanent link">&para;</a></h1>
+<h2 id="1-introducao">1. Introdução<a class="headerlink" href="#1-introducao" title="Permanent link">&para;</a></h2>
+<p>Esse artefato consiste na síntese de tudo o que foi produzido e realizado durante a disciplina de Requisitos de Software, no semestre de 2023.1.</p>
+<h2 id="2-aplicativo-selecionado">2. Aplicativo Selecionado<a class="headerlink" href="#2-aplicativo-selecionado" title="Permanent link">&para;</a></h2>
+<p>É possível conferir as motivações para escolha do aplicativo e seus termos de uso <a href="../">nesse link</a>.</p>
+<h2 id="3-planejamento-dos-recursos-e-entregas">3. Planejamento dos recursos e entregas<a class="headerlink" href="#3-planejamento-dos-recursos-e-entregas" title="Permanent link">&para;</a></h2>
+<p>É possível conferir o cronograma planejado para o semestre da disciplina <a href="../planejamento/cronograma/">nesse link</a>.
+É possível conferir o cronograma executado ao longo do semestre <a href="../planejamento/cronograma_realizado/">nesse link</a>.</p>
+<p>Durante o processo de planejamento e execução, foram descobertas algumas discrepâncias entre o que foi originalmente planejado e o que foi realmente executado. Essas variações envolvem expectativas e atrasos relacionados aos prazos estabelecidos, bem como mudanças nos integrantes responsáveis ​​pela revisão. Mudaças de revisor ocorreram pois revisava quem estava livre no momento em que um Pull Request fosse criado.</p>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>Ponto de controle 1</strong></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Artefato</td>
+<td align="center">Elaboração Planejada</td>
+<td align="center">Elaboração Realizada</td>
+<td align="center">Revisão Planejada</td>
+<td align="center">Revisão Realizada</td>
+<td align="center">Autor(es) Planejado</td>
+<td align="center">Autor(es) Realizado</td>
+<td align="center">Revisor Planejado</td>
+<td align="center">Revisor Realizado</td>
+</tr>
+<tr>
+<td align="center">Página Inicial (equipe) e GitHub Pages</td>
+<td align="center"><strong>Início</strong>: 07.04.2023  <strong>Término</strong>: 15.04.2023</td>
+<td align="center"><strong>Início</strong>: 07.04.2023  <strong>Término</strong>: 14.04.2023</td>
+<td align="center"><strong>Início</strong>: 16.04.2023  <strong>Término</strong>: 16.04.2023</td>
+<td align="center"><strong>Início</strong>: -  <strong>Término</strong>: -</td>
+<td align="center">Matheus e Rafael</td>
+<td align="center">Matheus</td>
+<td align="center">Ana Beatriz</td>
+<td align="center">Rafael</td>
+</tr>
+<tr>
+<td align="center">Ferramentas do Projeto</td>
+<td align="center"><strong>Início</strong>: 07.04.2023  <strong>Término</strong>: 15.04.2023</td>
+<td align="center"><strong>Início</strong>: 07.04.2023  <strong>Término</strong>: 14.04.2023</td>
+<td align="center"><strong>Início</strong>: 16.04.2023  <strong>Término</strong>: 16.04.2023</td>
+<td align="center"><strong>Início</strong>: 16.04.2023  <strong>Término</strong>: 20.04.2023</td>
+<td align="center">Brunna</td>
+<td align="center">Brunna</td>
+<td align="center">Milena</td>
+<td align="center">Rafael</td>
+</tr>
+<tr>
+<td align="center">Cronograma</td>
+<td align="center"><strong>Início</strong>: 07.04.2023  <strong>Término</strong>: 15.04.2023</td>
+<td align="center"><strong>Início</strong>: 07.04.2023  <strong>Término</strong>: 15.04.2023</td>
+<td align="center"><strong>Início</strong>: 16.04.2023  <strong>Término</strong>: 16.04.2023</td>
+<td align="center"><strong>Início</strong>: 16.04.2023  <strong>Término</strong>: 16.04.2023</td>
+<td align="center">Ana Beatriz e Milena</td>
+<td align="center">Ana Beatriz e Milena</td>
+<td align="center">Brunna</td>
+<td align="center">Brunna</td>
+</tr>
+<tr>
+<td align="center">Metodologia</td>
+<td align="center"><strong>Início</strong>: 07.04.2023  <strong>Término</strong>: 15.04.2023</td>
+<td align="center"><strong>Início</strong>: 07.04.2023  <strong>Término</strong>: 14.04.2023</td>
+<td align="center"><strong>Início</strong>: 16.04.2023  <strong>Término</strong>: 16.04.2023</td>
+<td align="center"><strong>Início</strong>: 16.04.2023  <strong>Término</strong>: 16.04.2023</td>
+<td align="center">Diógenes</td>
+<td align="center">Diógenes</td>
+<td align="center">Rafael</td>
+<td align="center">Rafael</td>
+</tr>
+<tr>
+<td align="center">Rich Picture</td>
+<td align="center"><strong>Início</strong>: 07.04.2023  <strong>Término</strong>: 15.04.2023</td>
+<td align="center"><strong>Início</strong>: 07.04.2023  <strong>Término</strong>: 15.04.2023</td>
+<td align="center"><strong>Início</strong>: 16.04.2023  <strong>Término</strong>: 16.04.2023</td>
+<td align="center"><strong>Início</strong>: 16.04.2023  <strong>Término</strong>: 16.04.2023</td>
+<td align="center">Rafael</td>
+<td align="center">Rafael</td>
+<td align="center">Matheus</td>
+<td align="center">Matheus</td>
+</tr>
+<tr>
+<td align="center">Gravação e Postagem</td>
+<td align="center"><strong>Início</strong>: 17.04.2023  <strong>Término</strong>: 17.04.2023</td>
+<td align="center"><strong>Início</strong>: 16.04.2023  <strong>Término</strong>: 16.04.2023</td>
+<td align="center">-</td>
+<td align="center"><strong>Início</strong>: 17.04.2023 <strong>Término</strong>: 17.04.2023</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">-</td>
+<td align="center">Milena</td>
+</tr>
+<tr>
+<td align="center"><strong>Ponto de controle 2</strong></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">Artefato</td>
+<td align="center">Elaboração Planejada</td>
+<td align="center">Elaboração Realizada</td>
+<td align="center">Revisão Planejada</td>
+<td align="center">Revisão Realizada</td>
+<td align="center">Autor(es) Planejado</td>
+<td align="center">Autor(es) Realizado</td>
+<td align="center">Revisor Planejado</td>
+<td align="center">Revisor Realizado</td>
+</tr>
+<tr>
+<td align="center">Perfil dos usuários</td>
+<td align="center"><strong>Início</strong>: 18.04.2023 <strong>Término</strong>: 22.04.2023</td>
+<td align="center"><strong>Início</strong>: 18.04.2023 -  <strong>Término</strong>: 24.04.2023</td>
+<td align="center"><strong>Início</strong>: 23.04.2023  <strong>Término</strong>: 23.04.2023</td>
+<td align="center"><strong>Início</strong>: 25.04.2023 -  <strong>Término</strong>: 30.04.2023</td>
+<td align="center">Brunna e Rafael</td>
+<td align="center">Rafael e Brunna</td>
+<td align="center">Matheus e Diógenes</td>
+<td align="center">Brunna</td>
+</tr>
+<tr>
+<td align="center">Personas</td>
+<td align="center"><strong>Início</strong>: 23.04.2023 <strong>Término</strong>: 27.04.2023</td>
+<td align="center"><strong>Início</strong>: 18.04.2023 -  <strong>Término</strong>: 24.04.2023</td>
+<td align="center"><strong>Início</strong>: 28.04.2023  <strong>Término</strong>: 28.04.2023</td>
+<td align="center"><strong>Início</strong>: 25.04.2023 -  <strong>Término</strong>: 30.04.2023</td>
+<td align="center">Ana Beatriz e Diógenes</td>
+<td align="center">Diógenes e Ana</td>
+<td align="center">Rafael e Milena</td>
+<td align="center">Ana</td>
+</tr>
+<tr>
+<td align="center">Técnicas de elecitação usadas e que serão usadas</td>
+<td align="center"><strong>Início</strong>: 18.04.2023 <strong>Término</strong>: 27.04.2023</td>
+<td align="center"><strong>Início</strong>: 18.04.2023 -  <strong>Término</strong>: 24.04.2023</td>
+<td align="center"><strong>Início</strong>: 28.04.2023  <strong>Término</strong>: 28.04.2023</td>
+<td align="center"><strong>Início</strong>: 25.04.2023 -  <strong>Término</strong>: 30.04.2023</td>
+<td align="center">Matheus</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Ana Beatriz</td>
+<td align="center">Matheus</td>
+</tr>
+<tr>
+<td align="center">Técnicas priorização usadas e que serão usadas no projeto.</td>
+<td align="center"><strong>Início</strong>: 18.04.2023 <strong>Término</strong>: 27.04.2023</td>
+<td align="center"><strong>Início</strong>: 18.04.2023 -  <strong>Término</strong>: 24.04.2023</td>
+<td align="center"><strong>Início</strong>: 28.04.2023  <strong>Término</strong>: 28.04.2023</td>
+<td align="center"><strong>Início</strong>: 25.04.2023 -  <strong>Término</strong>: 30.04.2023</td>
+<td align="center">Milena</td>
+<td align="center">Diógenes e Milena</td>
+<td align="center">Brunna</td>
+<td align="center">Milena</td>
+</tr>
+<tr>
+<td align="center">Gravação e Postagem</td>
+<td align="center"><strong>Início</strong>: 29.04.2023  <strong>Término</strong>: 29.04.2023</td>
+<td align="center"><strong>Início</strong>: 30.04.2023 -  <strong>Término</strong>: 01.05.2023</td>
+<td align="center"><strong>Início</strong>: 30.05.2023  <strong>Término</strong>: 30.05.2023</td>
+<td align="center"><strong>Início</strong>: 30.04.2023 -  <strong>Término</strong>: 01.05.2023</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Rafael</td>
+<td align="center">Diógenes</td>
+</tr>
+<tr>
+<td align="center"><strong>Ponto de controle 3</strong></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">Artefato</td>
+<td align="center">Elaboração Planejada</td>
+<td align="center">Elaboração Realizada</td>
+<td align="center">Revisão Planejada</td>
+<td align="center">Revisão Realizada</td>
+<td align="center">Autor(es) Planejado</td>
+<td align="center">Autor(es) Realizado</td>
+<td align="center">Revisor Planejado</td>
+<td align="center">Revisor Realizado</td>
+</tr>
+<tr>
+<td align="center">Cenários</td>
+<td align="center"><strong>Início</strong>: 02.05.2023  <strong>Término</strong>: 10.05.2023</td>
+<td align="center"><strong>Início</strong>: 12.05.2023  <strong>Término</strong>: 16.05.2023</td>
+<td align="center"><strong>Início</strong>: 11.05.2023  <strong>Término</strong>: 14.05.2023</td>
+<td align="center"><strong>Início</strong>: 16.05.2023  <strong>Término</strong>: 16.05.2023</td>
+<td align="center">Milena</td>
+<td align="center">Milena Aires</td>
+<td align="center">Diógenes</td>
+<td align="center">Matheus</td>
+</tr>
+<tr>
+<td align="center">Léxico</td>
+<td align="center"><strong>Início</strong>: 02.05.2023  <strong>Término</strong>: 10.05.2023</td>
+<td align="center"><strong>Início</strong>: 10.05.2023  <strong>Término</strong>: 10.05.2023</td>
+<td align="center"><strong>Início</strong>: 11.05.2023  <strong>Término</strong>: 14.05.2023</td>
+<td align="center"><strong>Início</strong>: 10.05.2023  <strong>Término</strong>: 10.05.2023</td>
+<td align="center">Matheus</td>
+<td align="center">Matheus</td>
+<td align="center">Ana Beatriz e Brunna</td>
+<td align="center">Diógenes</td>
+</tr>
+<tr>
+<td align="center">Use Case</td>
+<td align="center"><strong>Início</strong>: 02.05.2023  <strong>Término</strong>: 10.05.2023</td>
+<td align="center"><strong>Início</strong>: 11.05.2023  <strong>Término</strong>: 16.05.2023</td>
+<td align="center"><strong>Início</strong>: 11.05.2023  <strong>Término</strong>: 14.05.2023</td>
+<td align="center"><strong>Início</strong>: 24.05.2023  <strong>Término</strong>: 24.05.2023</td>
+<td align="center">Brunna e Diógenes</td>
+<td align="center">Brunna e Diógenes</td>
+<td align="center">Milena e Rafael</td>
+<td align="center">Brunna, Diógenes, Milena e Rafael</td>
+</tr>
+<tr>
+<td align="center">Especificação Suplementar</td>
+<td align="center"><strong>Início</strong>: 02.05.2023  <strong>Término</strong>: 10.05.2023</td>
+<td align="center"><strong>Início</strong>: 15.05.2023  <strong>Término</strong>: 16.05.2023</td>
+<td align="center"><strong>Início</strong>: 11.05.2023  <strong>Término</strong>: 14.05.2023</td>
+<td align="center"><strong>Início</strong>: 04.06.2023  <strong>Término</strong>: 04.06.2023</td>
+<td align="center">Ana Beatriz e Rafael</td>
+<td align="center">Ana Beatriz e Rafael</td>
+<td align="center">Matheus</td>
+<td align="center">Ana Beatriz e Rafael</td>
+</tr>
+<tr>
+<td align="center">Gravação e Postagem</td>
+<td align="center"><strong>Início</strong>: 15.05.2023  <strong>Término</strong>: 15.05.2023</td>
+<td align="center"><strong>Início</strong>: 17.05.2023  <strong>Término</strong>: 17.05.2023</td>
+<td align="center"><strong>Início</strong>: 16.05.2023  <strong>Término</strong>: 17.05.2023</td>
+<td align="center"><strong>Início</strong>: 17.05.2023  <strong>Término</strong>: 17.05.2023</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Diógenes</td>
+<td align="center">Matheus</td>
+</tr>
+<tr>
+<td align="center"><strong>Ponto de controle 4</strong></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">Artefato</td>
+<td align="center">Elaboração Planejada</td>
+<td align="center">Elaboração Realizada</td>
+<td align="center">Revisão Planejada</td>
+<td align="center">Revisão Realizada</td>
+<td align="center">Autor(es) Planejado</td>
+<td align="center">Autor(es) Realizado</td>
+<td align="center">Revisor Planejado</td>
+<td align="center">Revisor Realizado</td>
+</tr>
+<tr>
+<td align="center">Histórias de Usuário</td>
+<td align="center"><strong>Início</strong>: 18.05.2023 <strong>Término</strong>: 20.05.2023</td>
+<td align="center"><strong>Início</strong>: 22.05.2023  <strong>Término</strong>: 23.05.2023</td>
+<td align="center"><strong>Início</strong>: 20.05.2023  <strong>Término</strong>: 20.05.2023</td>
+<td align="center"><strong>Início</strong>: 23.05.2023  <strong>Término</strong>: 23.05.2023</td>
+<td align="center">Ana Beatriz e Brunna</td>
+<td align="center">Ana Beatriz e Brunna Louise</td>
+<td align="center">Milena e Rafael</td>
+<td align="center">Ana Beatriz e Brunna Louise</td>
+</tr>
+<tr>
+<td align="center">Backlogs</td>
+<td align="center"><strong>Início</strong>: 20.05.2023 <strong>Término</strong>: 22.05.2023</td>
+<td align="center"><strong>Início</strong>: 23.05.2023  <strong>Término</strong>: 24.05.2023</td>
+<td align="center"><strong>Início</strong>: 22.05.2023  <strong>Término</strong>: 22.05.2023</td>
+<td align="center"><strong>Início</strong>: 24.05.2023  <strong>Término</strong>: 24.05.2023</td>
+<td align="center">Milena e Rafael</td>
+<td align="center">Rafael Nobre e Milena</td>
+<td align="center">Diógenes e Matheus</td>
+<td align="center">Brunna, Matheus e Rafael</td>
+</tr>
+<tr>
+<td align="center">NFR Framework</td>
+<td align="center"><strong>Início</strong>: 18.05.2023 <strong>Término</strong>: 22.05.2023</td>
+<td align="center"><strong>Início</strong>: 23.05.2023  <strong>Término</strong>: 23.05.2023</td>
+<td align="center"><strong>Início</strong>: 22.05.2023  <strong>Término</strong>: 22.04.2023</td>
+<td align="center"><strong>Início</strong>: 23.05.2023  <strong>Término</strong>: 23.05.2023</td>
+<td align="center">Diógenes e Matheus</td>
+<td align="center">Diógenes e Matheus</td>
+<td align="center">Ana Beatriz e Brunna</td>
+<td align="center">Diógenes e Matheus</td>
+</tr>
+<tr>
+<td align="center">Gravação e Postagem</td>
+<td align="center"><strong>Início</strong>: 23.05.2023  <strong>Término</strong>: 23.05.2023</td>
+<td align="center"><strong>Início</strong>: 24.05.2023  <strong>Término</strong>: 24.05.2023</td>
+<td align="center"><strong>Início</strong>: 24.05.2023  <strong>Término</strong>: 24.05.2023</td>
+<td align="center"><strong>Início</strong>: 24.05.2023  <strong>Término</strong>: 24.05.2023</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Rafael</td>
+<td align="center">Matheus</td>
+</tr>
+<tr>
+<td align="center"><strong>Ponto de controle 5.1</strong></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">Artefato</td>
+<td align="center">Elaboração Planejada</td>
+<td align="center">Elaboração Realizada</td>
+<td align="center">Revisão Planejada</td>
+<td align="center">Revisão Realizada</td>
+<td align="center">Autor(es) Planejado</td>
+<td align="center">Autor(es) Realizado</td>
+<td align="center">Revisor Planejado</td>
+<td align="center">Revisor Realizado</td>
+</tr>
+<tr>
+<td align="center">Verificação e Validação</td>
+<td align="center"><strong>Início</strong>: 25.05.2023  <strong>Término</strong>: 02.06.2023</td>
+<td align="center"><strong>Início</strong>: 25.05.2023  <strong>Término</strong>: 14.06.2023</td>
+<td align="center"><strong>Início</strong>: 03.06.2023  <strong>Término</strong>: 04.06.2023</td>
+<td align="center"><strong>Início</strong>: 14.06.2023  <strong>Término</strong>: 14.06.2023</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Rafael</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+</tr>
+<tr>
+<td align="center">Gravação e Postagem</td>
+<td align="center"><strong>Início</strong>: 05.06.2023  <strong>Término</strong>: 05.06.2023</td>
+<td align="center">14.06.2023  <strong>Término</strong>: 14.06.2023</td>
+<td align="center"><strong>Início</strong>: 06.06.2023  <strong>Término</strong>: 07.06.2023</td>
+<td align="center"><strong>Início</strong>: 14.06.2023  <strong>Término</strong>: 14.06.2023</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Milena</td>
+<td align="center">Rafael</td>
+</tr>
+<tr>
+<td align="center"><strong>Ponto de controle 5.2</strong></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">Artefato</td>
+<td align="center">Elaboração Planejada</td>
+<td align="center">Elaboração Realizada</td>
+<td align="center">Revisão Planejada</td>
+<td align="center">Revisão Realizada</td>
+<td align="center">Autor(es) Planejado</td>
+<td align="center">Autor(es) Realizado</td>
+<td align="center">Revisor Planejado</td>
+<td align="center">Revisor Realizado</td>
+</tr>
+<tr>
+<td align="center">Verificação e Validação</td>
+<td align="center"><strong>Início</strong>: 08.06.2023 <strong>Término</strong>: 09.06.2023</td>
+<td align="center"><strong>Início</strong>: 15.06.2023  <strong>Término</strong>: 21.06.2023</td>
+<td align="center"><strong>Início</strong>: 10.06.2023  <strong>Término</strong>: 11.06.2023</td>
+<td align="center"><strong>Início</strong>: 21.06.2023 <strong>Término</strong>: 21.06.2023</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Ana Beatriz</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+</tr>
+<tr>
+<td align="center">Gravação e Postagem</td>
+<td align="center"><strong>Início</strong>: 12.06.2023  <strong>Término</strong>: 12.06.2023</td>
+<td align="center"><strong>Início</strong>: 21.06.2023  <strong>Término</strong>: 21.06.2023</td>
+<td align="center"><strong>Início</strong>: 13.06.2023  <strong>Término</strong>: 14.06.2023</td>
+<td align="center"><strong>Início</strong>: 21.06.2023  <strong>Término</strong>: 21.06.2023</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Brunna</td>
+<td align="center">Diógenes</td>
+</tr>
+<tr>
+<td align="center"><strong>Ponto de controle 6</strong></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">Artefato</td>
+<td align="center">Elaboração Planejada</td>
+<td align="center">Elaboração Realizada</td>
+<td align="center">Revisão Planejada</td>
+<td align="center">Revisão Realizada</td>
+<td align="center">Autor(es) Planejado</td>
+<td align="center">Autor(es) Realizado</td>
+<td align="center">Revisor Planejado</td>
+<td align="center">Revisor Realizado</td>
+</tr>
+<tr>
+<td align="center">Backward From</td>
+<td align="center"><strong>Início</strong>: 15.06.2023 <strong>Término</strong>: 18.06.2023</td>
+<td align="center"><strong>Início</strong>: 26.06.2023 <strong>Término</strong>: 27.06.2023</td>
+<td align="center"><strong>Início</strong>: 18.06.2023  <strong>Término</strong>: 18.06.2023</td>
+<td align="center"><strong>Início</strong>: 28.06.2023  <strong>Término</strong>: 28.06.2023</td>
+<td align="center">Diógenes e Milena</td>
+<td align="center">Diógenes e Milena</td>
+<td align="center">Matheus e Brunna</td>
+<td align="center">Diógenes e Milena</td>
+</tr>
+<tr>
+<td align="center">Forward From</td>
+<td align="center"><strong>Início</strong>: 15.06.2023 <strong>Término</strong>: 18.06.2023</td>
+<td align="center"><strong>Início</strong>: 26.06.2023 <strong>Término</strong>: 05.07.2023</td>
+<td align="center"><strong>Início</strong>: 18.06.2023  <strong>Término</strong>: 18.06.2023</td>
+<td align="center"><strong>Início</strong>: 05.07.2023 <strong>Término</strong>: 05.07.2023</td>
+<td align="center">Matheus e Brunna</td>
+<td align="center">Matheus e Brunna</td>
+<td align="center">Diógenes e Matheus</td>
+<td align="center">Matheus e Brunna</td>
+</tr>
+<tr>
+<td align="center">Matriz Geral</td>
+<td align="center"><strong>Início</strong>: 15.06.2023 <strong>Término</strong>: 18.06.2023</td>
+<td align="center"><strong>Início</strong>: 28.06.2023 <strong>Término</strong>: 28.06.2023</td>
+<td align="center"><strong>Início</strong>: 18.06.2023  <strong>Término</strong>: 18.06.2023</td>
+<td align="center"><strong>Início</strong>: 28.06.2023 <strong>Término</strong>: 28.06.2023</td>
+<td align="center">Ana Beatriz e Rafael</td>
+<td align="center">Ana Beatriz e Rafael</td>
+<td align="center">Diógenes e Milena</td>
+<td align="center">Ana Beatriz e Matheus</td>
+</tr>
+<tr>
+<td align="center">Gravação e Postagem</td>
+<td align="center"><strong>Início</strong>: 19.06.2023  <strong>Término</strong>: 19.06.2023</td>
+<td align="center"></td>
+<td align="center"><strong>Início</strong>: 20.06.2023  <strong>Término</strong>: 20.06.2023</td>
+<td align="center"></td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Ana Beatriz</td>
+<td align="center">Diógenes</td>
+</tr>
+<tr>
+<td align="center"><strong>Ponto de controle final</strong></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">Artefato</td>
+<td align="center">Elaboração Planejada</td>
+<td align="center">Elaboração Realizada</td>
+<td align="center">Revisão Planejada</td>
+<td align="center">Revisão Realizada</td>
+<td align="center">Autor(es) Planejado</td>
+<td align="center">Autor(es) Realizado</td>
+<td align="center">Revisor Planejado</td>
+<td align="center">Revisor Realizado</td>
+</tr>
+<tr>
+<td align="center">Verificação, correção e refinamento</td>
+<td align="center"><strong>Início</strong>: 22.06.2023 <strong>Término</strong>: 30.06.2023</td>
+<td align="center"></td>
+<td align="center"><strong>Início</strong>: 01.07.2023  <strong>Término</strong>: 02.07.2023</td>
+<td align="center"></td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Diógenes</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+</tr>
+<tr>
+<td align="center">Gravação e Postagem</td>
+<td align="center"><strong>Início</strong>: 03.07.2023  <strong>Término</strong>: 03.07.2023</td>
+<td align="center"><strong>Início</strong>: 05.07.2023  <strong>Término</strong>: 05.07.2023</td>
+<td align="center"><strong>Início</strong>: 04.07.2023  <strong>Término</strong>: 05.07.2023</td>
+<td align="center"><strong>Início</strong>: 05.07.2023  <strong>Término</strong>: 05.07.2023</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Matheus</td>
+<td align="center">Diógenes</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 1: Cronograma planejado X Executado
+<br> Autor: Ana Beatriz
+<br> Fonte: Autores </h6>
+
+<h2 id="4-execucao-do-projeto">4. Execução do projeto<a class="headerlink" href="#4-execucao-do-projeto" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Fase do Projeto</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Planejamento do Projeto</td>
+<td>Etapa de planejamento em grupo e estabelecimento de ferramentas, boas práticas e pré-rastreabilidade de objetos de pesquisa selecionados para estruturas organizacionais ricas em situações e projetos.</td>
+</tr>
+<tr>
+<td>Elicitação de Requisitos</td>
+<td>As etapas de elicitação de requisitos são divididas em personas, introspecção, observação, brainstorming, entrevistas, storytelling e priorização.</td>
+</tr>
+<tr>
+<td>Modelagem de Requisitos</td>
+<td>A modelagem de requisitos é realizada pela construção de artefatos que rastreiam os requisitos eliciados, além de interpretar e transformar dados em cenários, casos de uso, léxicos e especificação suplementar</td>
+</tr>
+<tr>
+<td>Modelagem de Requisitos: Ágil</td>
+<td>Esta etapa é uma versão ágil da etapa anterior, onde diferentes metodologias são aplicadas, como o uso de user stories, backlog do produto e NFR framework.</td>
+</tr>
+<tr>
+<td>Verificação Grupo 01 (Bilheteria Digital)</td>
+<td>Essa etapa serviu para validar a documentação desenvolvida e realizar a análise dos requisitos através do desenvolvimento de um checklist de artefatos construídos pelo grupo 01 (Bilheteria Digital)</td>
+</tr>
+<tr>
+<td>Verificação e Validação Grupo 08</td>
+<td>Esta etapa envolve a elaboração de checklists focados no próprio trabalho do grupo a partir do conhecimento do último checklist de validação de artefato entregue.</td>
+</tr>
+<tr>
+<td>Pós-Rastreabilidade</td>
+<td>Essa etapa tem como objetivo de demonstrar a rastreabilidade da documentação do projeto, esta entrega compreende a elaboração do plano de rastreamento reverso backward from, plano de forward from e matriz abrangente do projeto</td>
+</tr>
+<tr>
+<td>Entrega Final</td>
+<td>A entrega final do projeto inclui várias tabelas que resumem as técnicas empregadas, os artefatos produzidos, as apresentações realizadas, as verificações efetuadas, as ferramentas utilizadas e os resultados obtidos por meio do desenvolvimento do projeto.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 2: Execução do Projeto
+<br>Autor: Diógenes 
+<br>Fonte: Autores</h6>
+
+<h2 id="5-resultados-alcancados">5. Resultados Alcançados<a class="headerlink" href="#5-resultados-alcancados" title="Permanent link">&para;</a></h2>
+<h3 id="51-visao-geral-do-projeto">5.1. Visão Geral do Projeto<a class="headerlink" href="#51-visao-geral-do-projeto" title="Permanent link">&para;</a></h3>
+<p>O objetivo principal do projeto era a análise de um aplicativo escolhido pela equipe, no caso, a plataforma de streaming Twitch. Essa análise consistiria na simulação de um processo de elicitação de requisitos para aplicar os conhecimentos adquiridos em sala de aula.</p>
+<p>A primeira fase do projeto consistiu no planejamento da execução do projeto, e contou com cronogramas detalhados, descrição e motivações para a escolha do app e ferramentas a serem utilizadas no desenvolvimento do projeto.</p>
+<p>A segunda fase consistiu na elicitação de requisitos, em que a equipe coletou dados a partir de um questionário a fim de determinar o perfil de usuário da plataforma. Isso foi especialmente importante para a criação de personas, que orientaram partes mais adinate no projeto, como na definição de histórias de usuário e épicos com base nas necessidades desses pseudo-usuários. Nessa fase, também foram definidas técnicas para elicitação de requisitos e técnicas para priorizá-los no decorrer do projeto.</p>
+<p>A terceira fase consistiu na modelagem dos requisitos anteriormente elicitados; nessa fase, foram produzidos artefatos de casos de uso, cenários, especificação suplementar e léxicos.</p>
+<p>A quarta fase também consistiu na modelagem de requisitos, só que, dessa vez, com base nos princípios das metodologias ágeis. Foram produzidos artefatos de backlog, histórias de usuário e modelagem de requisitos com base no framework NFR.</p>
+<p>A quinta fase foi uma fase de verificação e validação, em que o grupo pôde realizar a verificação de um outro grupo e, depois, fazer a verificação e a validação do próprio grupo.</p>
+<p>A sexta e última fase caracterizou-se pela realização de artefatos de pós-rastreabilidade. Foram produzidos artefatos de Backward-From e Forward-From, que resultaram em uma Matriz de Rastreabilidade bem completa, além de que nessa etapa foi identificada a implementação de um requisito não implementado do <a href="../pos_rastreabilidade/forward_from#req_implementado">OBS11</a></p>
+<h3 id="52-resultados">5.2. Resultados<a class="headerlink" href="#52-resultados" title="Permanent link">&para;</a></h3>
+<p>Na tabela 3 abaixo, o leitor poderá conferir de forma numérica o que foi produzido no decorrer do projeto:</p>
+<table>
+<thead>
+<tr>
+<th>Artefatos Produzidos</th>
+<th>Técnicas de Elicitação</th>
+<th>Técnicas de Priorização</th>
+<th>Técnicas de Modelagem</th>
+<th>Pontos de Controle</th>
+<th>Atas de Reunião</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>64 artefatos</td>
+<td>3 técnicas de elicitação</td>
+<td>3 técnicas de priorização</td>
+<td>7 técnicas de Modelagem</td>
+<td>7 pontos de controle</td>
+<td>8 atas de reunião</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 3: O que foi produzido e o que foi utilizado, em números.
+<br> Autor: Brunna Louise
+<br>Fonte: Autores</h6>
+
+<h3 id="53-desafios">5.3. Desafios<a class="headerlink" href="#53-desafios" title="Permanent link">&para;</a></h3>
+<p>Dentre os desafios encontrados pela equipe, destacaram-se:</p>
+<ul>
+<li>Cansaço em geral proporcionado, principalmente, pelos semestres atípicos durante e após a pandemia de Covid-19;</li>
+<li>Conciliação de horários para reuniões e desenvolvimento pareado do projeto;</li>
+<li>Prazos de entrega dos artefatos e apresentações gravadas;</li>
+<li>Na quarta entrega e nas seguintes, a equipe não recebeu mais feedbacks a respeito do andamento do projeto. Isso deixou os membros inseguros quanto à qualidade e à conformidade de seus projetos.</li>
+</ul>
+<h3 id="54-comentarios-individuais">5.4. Comentários Individuais<a class="headerlink" href="#54-comentarios-individuais" title="Permanent link">&para;</a></h3>
+<h4 id="541-ana-beatriz">5.4.1. Ana Beatriz<a class="headerlink" href="#541-ana-beatriz" title="Permanent link">&para;</a></h4>
+<p>Durante o semestre, enfrentei alguns desafios na disciplina de Requisitos de Software. Foi um período em que precisei conciliar dois projetos simultaneamente, além de outras matérias com provas e um estágio de seis horas diárias. A falta de tempo tornou difícil comparecer às reuniões que ocorriam após as aulas, pois precisava me apressar para chegar ao estágio a tempo. No entanto, tive a sorte de estar em um grupo composto por pessoas incríveis, que se ajudavam mutuamente e eram extremamente esforçadas e competentes. Apesar das adversidades, conseguimos superar os obstáculos, trabalhando juntos e aproveitando ao máximo os momentos que tínhamos disponíveis para nos encontrarmos e avançarmos no projeto.</p>
+<h4 id="542-brunna">5.4.2. Brunna<a class="headerlink" href="#542-brunna" title="Permanent link">&para;</a></h4>
+<p>Apesar de ser uma matéria que exige muito esforço e constância no trabalho, foi uma disciplina muito proveitosa e que contribuiu muito para minhas habilidades de documentação e de trabalho em equipe. Todos souberam cooperar e se comunicar muito bem, e o resultado foi o desenvolvimento de um ótimo projeto. Os membros se entendiam e ajudavam uns aos outros no que precisavam, respeitando a individualidade de cada um. O único aspecto que deixou a desejar foi a falta de feedback mais específico ao grupo em algumas etapas. Era possível inspirar-se em grupos de semestres anteriores, mas muito se muda de um semestre para o outro, o que acaba trazendo uma certa insegurança no que tange à excelência e à conformidade do projeto. </p>
+<h4 id="543-diogenes">5.4.3. Diógenes<a class="headerlink" href="#543-diogenes" title="Permanent link">&para;</a></h4>
+<p>Na minha opinião, a metodologia utilizada pelo professor foi fácil de entender e bastante intuitiva. O desenvolvimento do projeto foi excelente, pois tínhamos acesso a materiais de apoio completos para a disciplina, e todos no grupo trabalharam bem juntos. Cada um colaborou e ajudou no trabalho, garantindo que as entregas individuais fossem feitas dentro do prazo. Além disso, foi empolgante desenvolver o projeto com o aplicativo da Twitch, pois tenho um interesse especial no aplicativo e o utilizo regularmente. Por isso, foi interessante estudar o aplicativo sob uma perspectiva técnica, relacionada à engenharia de requisitos.</p>
+<h4 id="544-matheus">5.4.4. Matheus<a class="headerlink" href="#544-matheus" title="Permanent link">&para;</a></h4>
+<p>A metodologia aplicada durante a disciplina foca em como desenvolver as atividades de requisitos em grupo perante a um projeto consolidado. Achei bastante proveitosa a matéria por exigir uma atividade de engenharia reversa em um projeto e ter diferentes visões sobre possíveis melhorias, através de diversas técnicas de elicitação de requisitos e priorizá-las. Senti que durante a matéria fomos criando até um senso crítico sobre o uso da plataforma e competências para elicitar requisitos de software, assim como dialogar com outras pessoas para verificar a necessidade de um requisito e quão custoso ou valioso aquilo pode ser. Uma das satisfações foi ter visto que um requisito não implementado identificado no início da matéria, foi implementado pela Twitch.</p>
+<h4 id="545-milena">5.4.5. Milena<a class="headerlink" href="#545-milena" title="Permanent link">&para;</a></h4>
+<p>Não encontrei muitas dificuldades por ter uma experiência com a metodologia do Professor André, fiz a disciplina de IHC no semestre anterior. Uma das dificuldade que o grupo encontrou foi a questão das reuniões, em encontrar um dia em que todos os membros conseguissem estar disponíveis. Com isso, o grupo teve um contato mais informal via Whatsapp mas acabou sendo de certa forma melhor pois o grupo teve um contato mais próximo e obteve ajuda e respostas mais rápidas do grupo.</p>
+<h4 id="546-rafael">5.4.6. Rafael<a class="headerlink" href="#546-rafael" title="Permanent link">&para;</a></h4>
+<p>No geral, achei a disciplina proveitosa. Com o projeto tive a oportunidade de exercitar os conhecimentos de Engenharia de Requisitos, julgo a metodologia aplicada muito boa, de modo que carregamos um projeto durante todo o semestre enquanto estudávamos todas as etapas do conteúdo. O estudo voltado à literatura é algo que gostei bastante também, pois exercita uma atividade que é importante em diversos outros ramos. Nosso grupo enfrentou diversas dificuldades durante todo o semestre, com diversos problemas pessoais e dificuldade para alinhar os nossos horários, porém conseguimos, apesar de todos os desafios, entregar um projeto que julgamos positivo. Cada um deu o máximo de si, e foi uma ótima experiência poder colaborar com o time.</p>
+<h3 id="55-conclusao">5.5. Conclusão<a class="headerlink" href="#55-conclusao" title="Permanent link">&para;</a></h3>
+<p>Os resultados obtidos conferem com o esperado segundo o plano de ensino da disciplina. Todos os membros da equipe participaram ativamente de todas as etapas do projeto, o que garantiu que nenhum membro ficasse sobrecarregado com o desenvolvimento do projeto. É possível dizer que todos os estudantes desse time aproveitaram efetivamente a matéria e foram capazes de aplicar os conhecimentos obtidos ao longo do semestre, tanto no desenvolvimento do projeto, quanto na verificação de grupos.</p>
+<p>Entre os conhecimentos adquiridos que se destacam, está a capacidade de documentação formal na área de software, uma habilidade que será extremamente relevante de agora em diante. Outra habilidade fundamental que foi bastante aprimorada é a colaboração da equipe. Todos foram capazes de trabalhar muito bem em conjunto, e a troca dos pares durante cada fase do projeto também foi importante para melhorar essa habilidade, pois todos tiveram oportunidade de trabalhar pareados uns com os outros.</p>
+<p>Conclui-se que a disciplina foi muito proveitosa para os membros e os artefatos entregues conferem com o que foi proposto.</p>
+<h2 id="6-sintese-das-tecnicas-utilizadas">6. Síntese das técnicas utilizadas<a class="headerlink" href="#6-sintese-das-tecnicas-utilizadas" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th align="center">Etapa</th>
+<th align="center">Artefato</th>
+<th align="center">Técnica</th>
+<th align="center">Autor(es)</th>
+<th align="center">Revisor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Pré-Rastreabilidade</td>
+<td align="center"><a href="../pre_rastreabilidade/rich_picture/">Rich Picture</a></td>
+<td align="center">Rich Picture</td>
+<td align="center">Rafael Nobre</td>
+<td align="center">Milena e Matheus</td>
+</tr>
+<tr>
+<td align="center">Elicitação</td>
+<td align="center"><a href="../elicitacao/perfis_usuario/">Perfis de Usuário</a></td>
+<td align="center">Questionário</td>
+<td align="center">Rafael Nobre e Brunna Louise</td>
+<td align="center">Rafael Nobre e Brunna Louise</td>
+</tr>
+<tr>
+<td align="center">Elicitação</td>
+<td align="center"><a href="../elicitacao/personas/">Personas</a></td>
+<td align="center">Questionário</td>
+<td align="center">Diógenes e Ana Beatriz</td>
+<td align="center">Diógenes e Ana Beatriz</td>
+</tr>
+<tr>
+<td align="center">Elicitação</td>
+<td align="center"><a href="../elicitacao/tecnicas/Brainstorm/">Brainstorm</a></td>
+<td align="center">Brainstorm</td>
+<td align="center">Rafael Nobre e Diógenes</td>
+<td align="center">Brunna Louise e Rafael Nobre</td>
+</tr>
+<tr>
+<td align="center">Elicitação</td>
+<td align="center"><a href="../elicitacao/tecnicas/observacao/">Observação</a></td>
+<td align="center">Observação</td>
+<td align="center">Matheus</td>
+<td align="center">Rafael Nobre</td>
+</tr>
+<tr>
+<td align="center">Elicitação</td>
+<td align="center"><a href="../elicitacao/tecnicas/AnaliseDeDocumento/">Análise Documental</a></td>
+<td align="center">Análise de Documento</td>
+<td align="center">Matheus</td>
+<td align="center">Brunna</td>
+</tr>
+<tr>
+<td align="center">Elicitação</td>
+<td align="center"><a href="../elicitacao/priorizacao">Priorização</a></td>
+<td align="center">MosCow</td>
+<td align="center">Milena</td>
+<td align="center">Diógenes</td>
+</tr>
+<tr>
+<td align="center">Elicitação</td>
+<td align="center"><a href="../elicitacao/priorizacao">Priorização</a></td>
+<td align="center">First Things First</td>
+<td align="center">Diógenes</td>
+<td align="center">Milena</td>
+</tr>
+<tr>
+<td align="center">Elicitação</td>
+<td align="center"><a href="../elicitacao/priorizacao">Priorização</a></td>
+<td align="center">Escala de Três Níveis</td>
+<td align="center">Milena</td>
+<td align="center">Diógenes</td>
+</tr>
+<tr>
+<td align="center">Modelagem</td>
+<td align="center"><a href="../modelagem/cenarios/">Cenários</a></td>
+<td align="center">Cenários</td>
+<td align="center">Milena</td>
+<td align="center">Matheus</td>
+</tr>
+<tr>
+<td align="center">Modelagem</td>
+<td align="center"><a href="../modelagem/lexico">Léxico</a></td>
+<td align="center">Léxico</td>
+<td align="center">Matheus</td>
+<td align="center">Diógenes</td>
+</tr>
+<tr>
+<td align="center">Modelagem</td>
+<td align="center"><a href="../modelagem/usecase/">Casos de Uso</a></td>
+<td align="center">Diagrama UML</td>
+<td align="center">Diógenes e Brunna</td>
+<td align="center">Diógenes e Brunna</td>
+</tr>
+<tr>
+<td align="center">Modelagem</td>
+<td align="center"><a href="../modelagem/esp_suplementar/">Especificação Suplementar</a></td>
+<td align="center">FURPS+</td>
+<td align="center">Ana e Rafael</td>
+<td align="center">Ana e Rafael</td>
+</tr>
+<tr>
+<td align="center">Modelagem</td>
+<td align="center"><a href="../modelagem/user_stories/">Histórias de usuário</a></td>
+<td align="center">Histórias de usuário</td>
+<td align="center">Ana e Brunna</td>
+<td align="center">Ana e Brunna</td>
+</tr>
+<tr>
+<td align="center">Modelagem</td>
+<td align="center"><a href="../modelagem/nfr">NFR Framework</a></td>
+<td align="center">NFR-Framework</td>
+<td align="center">Diógenes e Matheus</td>
+<td align="center">Diógenes e Matheus</td>
+</tr>
+<tr>
+<td align="center">Modelagem</td>
+<td align="center"><a href="../modelagem/backlog/">Backlog do Produto</a></td>
+<td align="center">Backlog do Produto</td>
+<td align="center">Rafael Nobre e Milena</td>
+<td align="center">Matheus e Rafael</td>
+</tr>
+<tr>
+<td align="center">Análise</td>
+<td align="center"><a href="../verifica_valida_grupo08/planejamento/">Verificação</a></td>
+<td align="center">Inspeção</td>
+<td align="center">Todos</td>
+<td align="center">Todos</td>
+</tr>
+<tr>
+<td align="center">Análise</td>
+<td align="center"><a href="../verifica_valida_grupo08/validacao/">Validação</a></td>
+<td align="center">Prototipação</td>
+<td align="center">Matheus</td>
+<td align="center">Rafael Nobre</td>
+</tr>
+<tr>
+<td align="center">Análise</td>
+<td align="center"><a href="../verifica_valida_grupo08/validacao/">Validação</a></td>
+<td align="center">Comprovação Informal</td>
+<td align="center">Rafael Nobre</td>
+<td align="center">Matheus</td>
+</tr>
+<tr>
+<td align="center">Pós Rastreabilidade</td>
+<td align="center"><a href="../pos_rastreabilidade/backward_from/">Pós Rastreabilidade</a></td>
+<td align="center">Meta-Modelo de Toranzo</td>
+<td align="center">Diógenes e Milena</td>
+<td align="center">Milena e Diógenes</td>
+</tr>
+<tr>
+<td align="center">Pós Rastreabilidade</td>
+<td align="center"><a href="../pos_rastreabilidade/forward_from/">Pós Rastreabilidade</a></td>
+<td align="center">Forward From</td>
+<td align="center">Brunna e Matheus</td>
+<td align="center">Matheus e Brunna</td>
+</tr>
+<tr>
+<td align="center">Pós Rastreabilidade</td>
+<td align="center"><a href="../pos_rastreabilidade/matriz_rastreabilidade/">Pós Rastreabilidade</a></td>
+<td align="center">Rafael e Ana</td>
+<td align="center">Matheus</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">Apresentação</td>
+<td align="center"><a href="../apresentacoes/">Apresentações</a></td>
+<td align="center">Gravações</td>
+<td align="center">Todos</td>
+<td align="center">Todos</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 4: Síntese das técnicas utilizadas.
+<br> Autor: Rafael Nobre
+<br>Fonte: Autores</h6>
+
+<h2 id="7-sintese-dos-artefatos">7. Síntese dos artefatos<a class="headerlink" href="#7-sintese-dos-artefatos" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Artefato</th>
+<th>Autor(es)</th>
+<th>Revisor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../">Aplicativo Escolhido</a></td>
+<td>Matheus</td>
+<td>Milena</td>
+</tr>
+<tr>
+<td><strong>Planejamento</strong></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td><a href="../planejamento/cronograma/">Cronograma</a></td>
+<td>Ana Beatriz e Milena</td>
+<td>Ana Beatriz, Brunna e Milena</td>
+</tr>
+<tr>
+<td><a href="../planejamento/cronograma_realizado/">Cronograma Realizado</a></td>
+<td>Milena</td>
+<td>Matheus</td>
+</tr>
+<tr>
+<td><a href="..planejamento/ferramentas/">Ferramentas</a></td>
+<td>Brunna</td>
+<td>Rafael</td>
+</tr>
+<tr>
+<td><a href="../planejamento/scrum_adaptado/">Metodologias</a></td>
+<td>Diógenes</td>
+<td>Rafael</td>
+</tr>
+<tr>
+<td><strong>Pré-Rastreabilidade</strong></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td><a href="../pre_rastreabilidade/rich_picture/">Rich picture</a></td>
+<td>Rafael</td>
+<td>Matheus e Milena</td>
+</tr>
+<tr>
+<td><strong>Elicitação</strong></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td><a href="../elicitacao/perfis_usuario/">Perfis de Usuário</a></td>
+<td>Brunna e Rafael</td>
+<td>Brunna e Rafael</td>
+</tr>
+<tr>
+<td><a href="../elicitacao/personas/">Personas</a></td>
+<td>Ana Beatriz e Diógenes</td>
+<td>Ana Beatriz e Diógenes</td>
+</tr>
+<tr>
+<td><a href="../elicitacao/Brainstorm/">Brainstorm</a></td>
+<td>Diógenes e Rafael</td>
+<td>Diógenes e Rafael</td>
+</tr>
+<tr>
+<td><a href="../elicitacao/observacao/">Observação</a></td>
+<td>Matheus Silva</td>
+<td>Rafael Nobre</td>
+</tr>
+<tr>
+<td><a href="../elicitacao/AnaliseDeDocumento/">Análise Documental</a></td>
+<td>Matheus Silva</td>
+<td>Brunna</td>
+</tr>
+<tr>
+<td><a href="../elicitacao/priorizacao/">Priorização</a></td>
+<td>Diógenes e Milena</td>
+<td>Diógenes e Milena</td>
+</tr>
+<tr>
+<td><strong>Modelagem</strong></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td><a href="../modelagem/cenarios/">Cenários</a></td>
+<td>Milena</td>
+<td>Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../modelagem/lexico/">Léxico</a></td>
+<td>Matheus</td>
+<td>Diógenes</td>
+</tr>
+<tr>
+<td><a href="../modelagem/usecase/">Use Case</a></td>
+<td>Brunna e Diógenes</td>
+<td>Milena e Rafael</td>
+</tr>
+<tr>
+<td><a href="../modelagem/esp_suplementar/">Especificação Suplementar</a></td>
+<td>Ana Beatriz e Rafael</td>
+<td>Ana Beatriz e Rafael</td>
+</tr>
+<tr>
+<td><a href="../modelagem/user_stories/">User Stories</a></td>
+<td>Ana Beatriz e Brunna</td>
+<td>Ana Beatriz e Brunna</td>
+</tr>
+<tr>
+<td><a href="../modelagem/nfr/">NFR Framework</a></td>
+<td>Diógenes e Matheus</td>
+<td>Diógenes e Matheus</td>
+</tr>
+<tr>
+<td><a href="../modelagem/backlog/">Backlog do produto</a></td>
+<td>Milena e Rafael</td>
+<td>Milena e Rafael</td>
+</tr>
+<tr>
+<td><strong>Verificação Grupo 01</strong></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/planejamento/">Planejamento da Verificação</a></td>
+<td>Brunna</td>
+<td>Diógenes</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/verifica01_aplicativo_escolhido/">Aplicativo Escolhido</a></td>
+<td>Rafael</td>
+<td>Diógenes</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/verifica01_cronograma/">Cronograma</a></td>
+<td>Rafael</td>
+<td>Brunna</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/verificacao01_richpicture/">Rich Picture</a></td>
+<td>Milena</td>
+<td>Matheus</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/verifica01_perfilusuariov/">Perfil de Usuário</a></td>
+<td>Diógenes</td>
+<td>Rafael</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/verifica01_personas/">Personas</a></td>
+<td>Brunna</td>
+<td>Diógenes</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/verifica01_introspeccao/">Introspecção</a></td>
+<td>Diógenes</td>
+<td>Rafael e Milena</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/brainstorm_v/">Brainstorming</a></td>
+<td>Ana Beatriz</td>
+<td>Matheus</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/verificacao01_questionario/">Questionário</a></td>
+<td>Milena</td>
+<td>Matheus</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/verifica01_observacao/">Observação</a></td>
+<td>Rafael</td>
+<td>Diógenes</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/verifica01_$100/">Técnica de Priorização $100</a></td>
+<td>Brunna</td>
+<td>Diógenes</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/first_v/">Técnica de Priorização First Thing First</a></td>
+<td>Ana Beatriz</td>
+<td>Matheus</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/verifica01_threelevelscale/">Técnica de Priorização Three Level Scale</a></td>
+<td>Diógenes</td>
+<td>Brunna</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/verifica01_espsuplementar/">Especificação Suplementar</a></td>
+<td>Brunna</td>
+<td>Diógenes</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/verifica01_cenarios/">Cenários</a></td>
+<td>Matheus Silva</td>
+<td>Milena Aires</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/verificacao01_lexicos/">Léxicos</a></td>
+<td>Milena Aires</td>
+<td>Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/verifica01_casos_uso/">Casos de uso</a></td>
+<td>Rafael Nobre</td>
+<td>Brunna Louise</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/verificacao01_nfr/">NFR Framework</a></td>
+<td>Milena Aires</td>
+<td>Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/userstory_v/">Histórias de Usuário</a></td>
+<td>Ana Beatriz</td>
+<td>Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../verificacao_grupo01/verifica01_backlog/">Backlog</a></td>
+<td>Diógenes</td>
+<td>Brunna Louise</td>
+</tr>
+<tr>
+<td><strong>Verificação Grupo 08</strong></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/planejamento/">Planejamento</a></td>
+<td>Brunna Louise</td>
+<td>Diógenes</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verifica_analise_doc/">Verificação Análise Documental</a></td>
+<td>Ana Beatriz</td>
+<td>Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verifica_backlog/">Verificação Backlog</a></td>
+<td>Ana Beatriz</td>
+<td>Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_brainstorm08/">Verificação Brainstorm</a></td>
+<td>Milena Aires</td>
+<td>Ana Beatriz</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_usecase08/">Verificação Casos de Uso</a></td>
+<td>Diógenes</td>
+<td>Rafael Nobre</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_cenarios/">Verificação Cenários</a></td>
+<td>Rafael Nobre</td>
+<td>Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_cronograma08/">Verificação Cronograma</a></td>
+<td>Brunna Louise</td>
+<td>Rafael Nobre</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_esp_sup/">Verificação Especificação Suplementar</a></td>
+<td>Milena Aires</td>
+<td>Ana Beatriz</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_ftf/">Verificação First Things First</a></td>
+<td>Milena Aires</td>
+<td>Ana Beatriz</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_ferramentas08/">Verificação Ferramentas</a></td>
+<td>Brunna Louise</td>
+<td>Rafael Nobre</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verifica_userstory/">Verificação Histórias de Usuário</a></td>
+<td>Ana Beatriz</td>
+<td>Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_lexicos08/">Verificação Léxicos</a></td>
+<td>Brunna Louise</td>
+<td>Rafael Nobre e Diógenes</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_moscow08/">Verificação Moscow</a></td>
+<td>Diógenes</td>
+<td>Milena</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_nfr/">Verificação NFR Framework</a></td>
+<td>Matheus Silva</td>
+<td>Diógenes</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_observacao/">Verificação Observação</a></td>
+<td>Matheus Silva</td>
+<td>Diógenes</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_personas/">Verificação Personas</a></td>
+<td>Rafael Nobre</td>
+<td>Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_perfis_usuario/">Verificação Perfis Usuário</a></td>
+<td>Rafael Nobre</td>
+<td>Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_richpicture08/">Verificação Rich Picture</a></td>
+<td>Diógenes</td>
+<td>Rafael Nobre e Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verifica_threelevelscale/">Verificação Three Level Scale</a></td>
+<td>Matheus Silva</td>
+<td>Diógenes</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/validacao#3-prototipacao/">Prototipação</a></td>
+<td>Matheus Silva</td>
+<td>Rafael Nobre</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/validacao#22-comprovacao-informal/">Validação Informal</a></td>
+<td>Rafael Nobre</td>
+<td>Matheus Silva</td>
+</tr>
+<tr>
+<td><strong>Pós Rastreabilidade</strong></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td><a href="../pos_rastreabilidade/backward_from/">Backward From</a></td>
+<td>Diógenes e Milena</td>
+<td>Milena e Diógenes</td>
+</tr>
+<tr>
+<td><a href="../pos_rastreabilidade/forward_from/">Forward From</a></td>
+<td>Brunna e Matheus</td>
+<td>Matheus e Brunna</td>
+</tr>
+<tr>
+<td><a href="../pos_rastreabilidade/matriz_rastreabilidade/">Matriz de Rastreablidade</a></td>
+<td>Ana Beatriz e Rafael</td>
+<td>Rafael e Ana Beatriz</td>
+</tr>
+<tr>
+<td><strong>Atas de Reunião</strong></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td><a href="../atas/reuniao_1/">Reunião 1</a></td>
+<td>Milena</td>
+<td>Rafael</td>
+</tr>
+<tr>
+<td><a href="../atas/reuniao_2/">Reunião 2</a></td>
+<td>Milena</td>
+<td>Rafael</td>
+</tr>
+<tr>
+<td><a href="../atas/reuniao_3/">Reunião 3</a></td>
+<td>Milena</td>
+<td>Rafael</td>
+</tr>
+<tr>
+<td><a href="../atas/reuniao_4/">Reunião 4</a></td>
+<td>Rafael</td>
+<td>Milena</td>
+</tr>
+<tr>
+<td><a href="../atas/reuniao_5/">Reunião 5</a></td>
+<td>Rafael</td>
+<td>Brunna</td>
+</tr>
+<tr>
+<td><a href="../atas/reuniao_6/">Reunião 6</a></td>
+<td>Matheus</td>
+<td>Diógenes</td>
+</tr>
+<tr>
+<td><a href="../atas/reuniao_7/">Reunião 7</a></td>
+<td>Matheus</td>
+<td>Diógenes</td>
+</tr>
+<tr>
+<td><a href="../atas/reuniao_8/">Reunião 8</a></td>
+<td>Matheus</td>
+<td>Diógenes</td>
+</tr>
+<tr>
+<td><a href="../apresentacoes/"><strong>Apresentações</strong></a></td>
+<td>Diógenes</td>
+<td>Rafael</td>
+</tr>
+<tr>
+<td><a href="../colab/"><strong>Regras de Colaboração</strong></a></td>
+<td>Ana Beatriz</td>
+<td>Matheus</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 5: Síntese dos artefatos produzidos.
+<br> Autor: Milena Aires
+<br>Fonte: Autores</h6>
+
+<h2 id="8-sintese-do-metodo-de-verificacao-e-validacao">8. Síntese do método de verificação e validação<a class="headerlink" href="#8-sintese-do-metodo-de-verificacao-e-validacao" title="Permanent link">&para;</a></h2>
+<h3 id="81-tabela-da-verificacao">8.1. Tabela da Verificação<a class="headerlink" href="#81-tabela-da-verificacao" title="Permanent link">&para;</a></h3>
+<p>Na parte de verificação foi feito um planejamento de um modelo a se seguir para todas as checklists e foi utilizada a técnica de inspeção, que visa em montar um checklist e verificar se o artefato corresponde aos pontos levantados.</p>
+<table>
+<thead>
+<tr>
+<th>Artefatos</th>
+<th>Autor(es)</th>
+<th>Revisor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../verifica_valida_grupo08/planejamento/">Planejamento</a></td>
+<td>Brunna Louise</td>
+<td>Diógenes Dantas</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verifica_analise_doc/">Verificação Análise Documental</a></td>
+<td>Ana Beatriz</td>
+<td>Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verifica_backlog/">Verificação Backlog</a></td>
+<td>Ana Beatriz</td>
+<td>Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_brainstorm08/">Verificação Brainstorm</a></td>
+<td>Milena Aires</td>
+<td>Ana Beatriz</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_usecase08/">Verificação Casos de Uso</a></td>
+<td>Diógenes Dantas</td>
+<td>Rafael Nobre</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_cenarios/">Verificação Cenários</a></td>
+<td>Rafael Nobre</td>
+<td>Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_cronograma08/">Verificação Cronograma</a></td>
+<td>Brunna Louise</td>
+<td>Rafael Nobre</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_esp_sup/">Verificação Especificação Suplementar</a></td>
+<td>Milena Aires</td>
+<td>Ana Beatriz</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_ftf/">Verificação First Things First</a></td>
+<td>Milena Aires</td>
+<td>Ana Beatriz</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_ferramentas08/">Verificação Ferramentas</a></td>
+<td>Brunna Louise</td>
+<td>Rafael Nobre</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verifica_userstory/">Verificação Histórias de Usuário</a></td>
+<td>Ana Beatriz</td>
+<td>Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_lexicos08/">Verificação Léxicos</a></td>
+<td>Brunna Louise</td>
+<td>Rafael Nobre e Diógenes Dantas</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_moscow08/">Verificação Moscow</a></td>
+<td>Diógenes</td>
+<td>Milena</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_nfr/">Verificação NFR Framework</a></td>
+<td>Matheus Silva</td>
+<td>Diógenes Dantas</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_observacao/">Verificação Observação</a></td>
+<td>Matheus Silva</td>
+<td>Diógenes Dantas</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_personas/">Verificação Personas</a></td>
+<td>Rafael Nobre</td>
+<td>Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_perfis_usuario/">Verificação Perfis Usuário</a></td>
+<td>Rafael Nobre</td>
+<td>Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verificacao_richpicture08/">Verificação Rich Picture</a></td>
+<td>Diógenes Dantas</td>
+<td>Rafael Nobre e Matheus Silva</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/verifica_threelevelscale/">Verificação Three Level Scale</a></td>
+<td>Matheus Silva</td>
+<td>Diógenes Dantas</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 6: Verificações de artefatos
+<br>Autor: Matheus Silva
+<br>Fonte: Autor</h6>
+
+<h3 id="82-tabela-da-validacao">8.2 Tabela da Validação<a class="headerlink" href="#82-tabela-da-validacao" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Artefatos</th>
+<th>Autor</th>
+<th>Revisor</th>
+<th>Justificativa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../verifica_valida_grupo08/validacao#3-prototipacao/">Prototipação</a></td>
+<td>Matheus Silva</td>
+<td>Rafael Nobre</td>
+<td>Foi utilizada para que o usuário possa ter um protótipo da proposta dos requisitos elicitados que não foram implementados</td>
+</tr>
+<tr>
+<td><a href="../verifica_valida_grupo08/validacao#22-comprovacao-informal/">Validação Informal</a></td>
+<td>Rafael Nobre</td>
+<td>Matheus Silva</td>
+<td>Foi utilizada para validar nossos artefatos, enviando uma mensagem para a equipe da Twitch, a fim de compreender e receber feedbacks a respeito do nosso projeto.</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 7: Validação de requisitos
+<br>Autor: Matheus Silva
+<br>Fonte: Autor</h6>
+
+<h2 id="9-sintese-das-ferramentas-utilizadas">9. Síntese das ferramentas utilizadas<a class="headerlink" href="#9-sintese-das-ferramentas-utilizadas" title="Permanent link">&para;</a></h2>
+<p>É possível conferir as ferramentas utilizadas durante o desenvolvimento do projeto <a href="./planejamento/ferramentas/">nesse link</a>.</p>
+<table>
+<thead>
+<tr>
+<th align="center">Ferramenta</th>
+<th align="center">Artefatos</th>
+<th align="center">Utilidade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Discord</td>
+<td align="center">Todos</td>
+<td align="center">Plataforma utilizada para comunicação e troca de informações entre a equipe, assim como para rápidas reuniões</td>
+</tr>
+<tr>
+<td align="center">Draw.io</td>
+<td align="center"><a href="../pre_rastreabilidade/rich_picture/">Rich Picture</a>, <a href="../modelagem/usecase/">Casos de Uso</a></td>
+<td align="center">Plataforma para realização de diagramas e fluxogramas</td>
+</tr>
+<tr>
+<td align="center">Git</td>
+<td align="center">Todos</td>
+<td align="center">Sistema para versionamento de arquivos</td>
+</tr>
+<tr>
+<td align="center">Github</td>
+<td align="center">Todos</td>
+<td align="center">Sistema para armazenamento e gestão de arquivos</td>
+</tr>
+<tr>
+<td align="center">Github Desktop</td>
+<td align="center">Todos</td>
+<td align="center">Sistema para gestão do Github via Desktop</td>
+</tr>
+<tr>
+<td align="center">Drive</td>
+<td align="center"><a href="../apresentacoes/">Apresentações</a></td>
+<td align="center">Armazenamento dos vídeos gravados</td>
+</tr>
+<tr>
+<td align="center">Google Meet</td>
+<td align="center"><a href="../apresentacoes/">Apresentações</a></td>
+<td align="center">Plataforma para reuniões de apresentações</td>
+</tr>
+<tr>
+<td align="center">Google Sheets</td>
+<td align="center">Todos</td>
+<td align="center"><a href="../planejamento/cronograma/">Cronograma</a></td>
+</tr>
+<tr>
+<td align="center">Infogram</td>
+<td align="center"><a href="../verificacao_grupo01/planejamento/">Verificações</a></td>
+<td align="center">App para geração de infogramas</td>
+</tr>
+<tr>
+<td align="center">LucidChart</td>
+<td align="center"><a href="../modelagem/usecase/">Casos de Uso</a></td>
+<td align="center">App para diagramação</td>
+</tr>
+<tr>
+<td align="center">Microsoft Forms</td>
+<td align="center"><a href="../elicitacao/perfis_usuario/">Perfil de usuário</a></td>
+<td align="center">App para geração de formulários</td>
+</tr>
+<tr>
+<td align="center">MkDocs</td>
+<td align="center">Todos</td>
+<td align="center">Framework para geração de documentação estruturada</td>
+</tr>
+<tr>
+<td align="center">Stability</td>
+<td align="center"><a href="../elicitacao/personas/">Personas</a></td>
+<td align="center">App para geração de pessoas inexistentes</td>
+</tr>
+<tr>
+<td align="center">VsCode</td>
+<td align="center">Todos</td>
+<td align="center">IDE para edição de código e de arquivos</td>
+</tr>
+<tr>
+<td align="center">Voice Memos</td>
+<td align="center"><a href="../atas/reuniao_1/">Atas</a></td>
+<td align="center">App para gravação das atas</td>
+</tr>
+<tr>
+<td align="center">WhatsApp</td>
+<td align="center">Todos</td>
+<td align="center">App para comunicações entre equipe</td>
+</tr>
+<tr>
+<td align="center">Youtube</td>
+<td align="center"><a href="../apresentacoes/">Apresentações</a></td>
+<td align="center">Site para hospedar as apresentações</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 8: Síntese das Ferramentas utilizadas durante o projeto.
+<br>Autor: Rafael Nobre
+<br>Fonte: Autor</h6>
+
+<h2 id="10-tabela-sintetizando-todos-os-videos-das-apresentacoes-de-cada-etapa">10. Tabela sintetizando todos os vídeos das apresentações de cada etapa<a class="headerlink" href="#10-tabela-sintetizando-todos-os-videos-das-apresentacoes-de-cada-etapa" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Etapa</th>
+<th>Participantes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../apresentacoes/#2-ponto-de-controle-1">Planejamento do Projeto</a></td>
+<td>Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz</td>
+</tr>
+<tr>
+<td><a href="../apresentacoes/#3-ponto-de-controle-2">Elicitação de Requisitos</a></td>
+<td>Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz</td>
+</tr>
+<tr>
+<td><a href="../apresentacoes/#4-ponto-de-controle-3">Modelagem de Requisitos</a></td>
+<td>Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz</td>
+</tr>
+<tr>
+<td><a href="../apresentacoes/#5-ponto-de-controle-4">Modelagem de Requisitos - Ágil</a></td>
+<td>Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz</td>
+</tr>
+<tr>
+<td><a href="../apresentacoes/#6-ponto-de-controle-5">Verificação do Grupo 01 (Bilheteria Digital)</a></td>
+<td>Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz</td>
+</tr>
+<tr>
+<td><a href="../apresentacoes/#7-ponto-de-controle-6">Verificação e Validação Grupo 08 (Twitch)</a></td>
+<td>Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz</td>
+</tr>
+<tr>
+<td><a href="../apresentacoes/#7-ponto-de-controle-7">Pós-Rastreabilidade</a></td>
+<td>Diógenes Dantas, Rafael Nobre, Brunna Louise, Matheus Silva, Milena Beatriz e Ana Beatriz</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 9: Tabela das Apresentações com os Participantes.
+<br> Autor: Diógenes Dantas
+<br>Fonte: Autores</h6>
+
+<h2 id="historico-de-versao">Histórico de versão<a class="headerlink" href="#historico-de-versao" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th align="center">Data</th>
+<th align="center">Versão</th>
+<th align="center">Descrição</th>
+<th align="center">Autor(es)</th>
+<th align="center">Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">04.07.2023</td>
+<td align="center">1.0</td>
+<td align="center">Criação do documento e do template do artefato do Projeto Final</td>
+<td align="center">Brunna</td>
+<td align="center">Diógenes Dantas</td>
+</tr>
+<tr>
+<td align="center">05.07.2023</td>
+<td align="center">1.1</td>
+<td align="center">Confecção das tabelas para entrega final</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Milena</td>
+</tr>
+<tr>
+<td align="center">06.07.2023</td>
+<td align="center">1.2</td>
+<td align="center">Adição de depoimentos individuais, conforme orientado pelo professor.</td>
+<td align="center">Ana Beatriz, Brunna, Diógenes, Matheus, Milena e Rafael</td>
+<td align="center">Milena</td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center"> Tabela 10: Histórico de Versões
+<br>Autor(es): Brunna Louise
+<br>Fonte: Autor(es)</h6>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Rodapé" >
+        
+          
+          <a href="../colab/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Regras de Colaboração" rel="prev">
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              <div class="md-ellipsis">
+                Regras de Colaboração
+              </div>
+            </div>
+          </a>
+        
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.footer", "header.autohide"], "search": "../assets/javascripts/workers/search.74e28a9f.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.220ee61c.min.js"></script>
+      
+    
+  </body>
+</html>
