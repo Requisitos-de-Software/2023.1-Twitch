@@ -136,6 +136,8 @@ Na minha opinião, a metodologia utilizada pelo professor foi fácil de entender
 
 #### 5.4.4. Matheus
 
+A metodologia aplicada durante a disciplina foca em como desenvolver as atividades de requisitos em grupo perante a um projeto consolidado. Achei bastante proveitosa a matéria por exigir uma atividade de engenharia reversa em um projeto e ter diferentes visões sobre possíveis melhorias, através de diversas técnicas de elicitação de requisitos e priorizá-las. Senti que durante a matéria fomos criando até um senso crítico sobre o uso da plataforma e competências para elicitar requisitos de software, assim como dialogar com outras pessoas para verificar a necessidade de um requisito e quão custoso ou valioso aquilo pode ser. Uma das satisfações foi ter visto que um requisito não implementado identificado no início da matéria, foi implementado pela Twitch.
+
 #### 5.4.5. Milena
 Não encontrei muitas dificuldades por ter uma experiência com a metodologia do Professor André, fiz a disciplina de IHC no semestre anterior. Uma das dificuldade que o grupo encontrou foi a questão das reuniões, em encontrar um dia em que todos os membros conseguissem estar disponíveis. Com isso, o grupo teve um contato mais informal via Whatsapp mas acabou sendo de certa forma melhor pois o grupo teve um contato mais próximo e obteve ajuda e respostas mais rápidas do grupo.
 
